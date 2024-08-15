@@ -137,7 +137,7 @@ def main():
         print(f"Extracted and saved {len(all_links)} V2Ray links. Waiting for the next run...")
 
         # Wait for 5 minutes before the next run
-        time.sleep(300)
+        time.sleep(12000)
 
 if __name__ == "__main__":
     main()
