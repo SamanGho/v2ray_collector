@@ -1,35 +1,40 @@
-name: Run V2Ray Scraper
+name: Scrape and Push V2Ray Configs
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 5 minutes
+    - cron: '*/5 * * * *'  # Run every 5 minutes
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  scrape-and-push:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v3
-      with:
-        python-version: '3.x'
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
 
-    - name: Install dependencies
-      run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-    - name: Run the scraper
-      run: python v2ray_scraper.py
+      - name: Run V2Ray Scraper
+        run: |
+          python main.py
+        continue-on-error: true
 
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "sgh.123shlhk@gmail.com"
-        git config --local user.name "Saman"
-        git add v2ray_links.txt
-        git commit -m "Update V2Ray links"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push Changes
+        run: |
+          git config --local user.email "sgh.123shlhk@gmail.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git commit -m "Update V2Ray links $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+        if: success()
+
+     
