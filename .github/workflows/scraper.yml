@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v3
       with:
-        python-version: '3.x'  # Specify the version of Python you want to use
+        python-version: '3.x'  # Specify the version of Python 
 
     - name: Install dependencies
       run: |
