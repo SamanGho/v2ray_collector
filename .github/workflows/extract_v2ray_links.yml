@@ -1,0 +1,36 @@
+name: Extract V2Ray Links
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  
+
+jobs:
+  extract-links:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    - name: Run extraction script
+      run: python v2ray_extractor.py
+
+    - name: Commit changes
+      run: |
+        git config --local user.name "GitHub Actions"
+        git config --local user.email "actions@github.com"
+        git add v2ray_links.txt
+        git commit -m "Updated V2Ray links"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

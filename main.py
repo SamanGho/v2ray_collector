@@ -24,7 +24,7 @@ def extract_v2ray_links(url):
 # Function to save V2Ray links to a file
 def save_v2ray_links(links, filename="v2ray_links.txt"):
     if links:
-        with open(filename, 'a', encoding='utf-8') as file:
+        with open(filename, 'w', encoding='utf-8') as file:
             for link in links:
                 file.write(link + '\n')
 
@@ -137,7 +137,7 @@ def main():
         print(f"Extracted and saved {len(all_links)} V2Ray links. Waiting for the next run...")
 
         # Wait for 5 minutes before the next run
-        time.sleep(12000)
+        time.sleep(300)
 
 if __name__ == "__main__":
     main()
