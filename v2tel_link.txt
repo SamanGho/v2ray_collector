@@ -324,3 +324,5 @@ vmess://eyJhZGQiOiAiMTA0LjI2LjE1LjE0OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vless://TELEGRAM-NUFiLTER@Www.speedtest.net:2052?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=http.bklink.iR.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwb01CY0cyTHZIaW01N1VDVUJ3UFZG@138.68.182.23:2248/?outline=1#🥰@v2ray_configs_pool🥰
 vmess://eyJhZGQiOiAiMTA0LjE5LjUxLjIzMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogImlwMDA1LmR0a3U0Ny54eXoiLCAiaWQiOiAiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInBvcnQiOiAiMjA4NiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2VcdWRkNzBAdjJyYXlfY29uZmlnc19wb29sXHVkODNlXHVkZDcwIn0=
+vless://687d303c-32d5-4ee7-da86-b66528e3894b@www.forcepower.monster:8081?security=none&encryption=none&headerType=http&type=tcp#🥰@v2ray_configs_pool🥰
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODhNQ3ROTEdJbEpOSnFuNXBySmpW@45.33.30.8:18789/?outline=1#🥰@v2ray_configs_pool🥰
