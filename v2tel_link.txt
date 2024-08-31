@@ -772,3 +772,14 @@ vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.21.34.74:443?path=%2Fnimws&secu
 vless://Telegram-ipV2Ray-let@www.speedtest.net:80?security=none&encryption=none&headerType=none&type=tcp#[🇨🇦]t.me/ConfigsHub
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@151.101.2.219:443?security=tls&encryption=none&type=ws&host=telegram--xv2ry2.com&path=/Telegram-XV2ry2?ed%3D1080P&sni=speedtest.net&fp=chrome#[🇺🇸]t.me/ConfigsHub
 vless://825c2a6c-6e6b-486d-812d-d9f8bd386bfc@104.21.19.124:8880?encryption=none&security=none&type=httpupgrade&host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag#➡️@v2ray_configs_pool⬅️
+vless://f0dfca39-f02f-4809-97e8-e0eb6e27007a@104.17.147.22:80?path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@198.41.198.177:80/?type=ws&encryption=none&host=workerr.babray.workers.dev&path=%2F%3Fed%3D2048#➡️@v2ray_configs_pool⬅️
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.67.53:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+vless://280c33b9-1e16-5cba-ac0a-0c7e51228607@www.speedtest.net:2052?path=Tel-%40ELiV2ry-%40ELiV2ry-%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.rs1.vless.Sitespeedtest.net.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://280c33b9-1e16-5cba-ac0a-0c7e51228607@www.speedtest.net:2052?path=Tel-@ELiV2ry-@ELiV2ry-%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.rs1.vless.Sitespeedtest.net.&type=ws#➡️@v2ray_configs_pool⬅️
+vless://280c33b9-1e16-5cba-ac0a-0c7e51228607@www.speedtest.net:2052?path=Tel-%40ELiV2ry-%40ELiV2ry-%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.rs1.vless.Sitespeedtest.net.&type=ws#➡️@v2ray_configs_pool⬅️
+trojan://telegram-id-directvpn@54.229.115.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.39.55.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
+vless://280c33b9-1e16-5cba-ac0a-0c7e51228607@172.67.69.236:2095?path=Tel-@ELiV2ry-@ELiV2ry-%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.rs1.vless.Sitespeedtest.net.&type=ws#➡️@v2ray_configs_pool⬅️
+trojan://telegram-id-directvpn@54.229.115.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@13.39.55.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
