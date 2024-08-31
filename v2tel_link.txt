@@ -845,3 +845,14 @@ vmess://eyJhZGQiOiAiMTU0LjQ3LjIxLjM3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdm1ndVRiNks3SHpFdGVlMjJtbHM2@45.83.21.66:14783#➡️@v2ray_configs_pool⬅️
 vless://4d24ac70-5edb-46f3-9211-1caa3fb875f7@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2056&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#➡️@v2ray_configs_pool⬅️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.182:8080#➡️@v2ray_configs_pool⬅️
+vless://Tel3graaam:V2rayvpn_official@zula.ir:80?type=httpupgrade&path=%2F%3Fed%3D80&host=www.speedtest.net.www.zula.ir.cloudflare.com.perspolice.ir.mozdfree.buzz.bia2bax.ShoP.&security=none#➡️@v2ray_configs_pool⬅️
+trojan://telegram-id-directvpn@15.157.230.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇨🇦]t.me/ConfigsHub
+vless://Telegr4aam:V2rayvpn_official@www.speedtest.net:8080?type=ws&path=%2F%3Fed%3D2560&host=www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.buzz.bia2bax.shop&security=none#➡️@v2ray_configs_pool⬅️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1SEtjVkRzRzlvRmZ3SUlBYlZ1c0Ft@167.99.216.236:50250/?outline=1#➡️@v2ray_configs_pool⬅️
+trojan://telegram-id-privatevpns@16.16.152.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
+vless://Tel3graaam:V2rayvpn_official@104.25.3.148:80?type=httpupgrade&path=%2F%3Fed%3D80&host=www.speedtest.net.www.zula.ir.cloudflare.com.perspolice.ir.mozdfree.buzz.bia2bax.ShoP.&security=none#➡️@v2ray_configs_pool⬅️
+trojan://telegram-id-directvpn@15.157.230.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.33.171.244:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://50d1bcfb-85e7-4e6f-bff9-1cc0d590018c@parsvds.com:8880?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://Tel3graaam:V2rayvpn_official@185.146.173.39:80?type=httpupgrade&path=%2F%3Fed%3D80&host=www.speedtest.net.www.zula.ir.cloudflare.com.perspolice.ir.mozdfree.buzz.bia2bax.ShoP.&security=none#➡️@v2ray_configs_pool⬅️
+trojan://telegram-id-privatevpns@16.16.152.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
