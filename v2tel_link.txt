@@ -783,3 +783,8 @@ trojan://telegram-id-privatevpns@13.39.55.159:22222?security=tls&alpn=http/1.1&h
 vless://280c33b9-1e16-5cba-ac0a-0c7e51228607@172.67.69.236:2095?path=Tel-@ELiV2ry-@ELiV2ry-%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.rs1.vless.Sitespeedtest.net.&type=ws#➡️@v2ray_configs_pool⬅️
 trojan://telegram-id-directvpn@54.229.115.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@13.39.55.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXUmlSZmtIbjNxZ1BGemJGdHdNak0x@138.68.182.23:2248/?outline=1#➡️@v2ray_configs_pool⬅️
+vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?path=%2FmrcU9YCPq4GNDHi4%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=alecruiz.pages.dev&fp=randomized&type=ws&sni=alecruiz.pages.dev#➡️@v2ray_configs_pool⬅️
+vless://280c33b9-1e16-5cba-ac0a-0c7e51228607@172.67.69.236:2095?path=Tel-%40ELiV2ry-%40ELiV2ry-%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.rs1.vless.Sitespeedtest.net.&type=ws#➡️@v2ray_configs_pool⬅️
+vless://b120f372-72a9-4f83-ac24-31af46946849@172.67.173.8:2082?path=%2F&security=none&encryption=none&host=blog-free.rubika.ir.bale.com.igap.net.zcx---cplus.hhtml.nice.hg.newbalace.com.panel.TelActive.Net.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?path=%2FmrcU9YCPq4GNDHi4%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=alecruiz.pages.dev&fp=randomized&type=ws&sni=alecruiz.pages.dev#[🇨🇦]t.me/ConfigsHub
