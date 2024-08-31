@@ -1506,3 +1506,13 @@ vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@104.21.7.27:443/?type=ws&encryption
 vmess://eyJhZGQiOiIxMzQuMTIyLjQxLjE2MCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5YzA1MGE4Ni1kNjEyLTQ4ZjEtZWMzMi1lNTczZGYwOGExYjciLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOiIzMzg5IiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://87571e5d-b38e-4007-cf53-cfe3100912b6@104.21.46.253:8880/?type=ws&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws82.cloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#➡️@v2ray_configs_pool⬅️
 vless://GozargahVPN-3@speedtest.net:443?path=%2Fws%2F%3Fed%3D2048&security=tls&encryption=none&host=GozargahVPN.ir&type=ws&sni=speedtest.net#➡️@v2ray_configs_pool⬅️
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev&type=ws&sni=Pages.dev#➡️@v2ray_configs_pool⬅️
+vless://8b53a7ba-acac-4765-96af-c2b92d141281@web.bbv2ry.pics:443?type=ws&path=%2F&host=Skyy.bbv2ry.pics&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=Skyy.bbv2ry.pics#➡️@v2ray_configs_pool⬅️
+vless://81dabced-dd35-445b-83fa-9ee3d786d97c@zula.ir:2083?mode=multi&security=tls&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&authority=&type=grpc&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=Xs.bo3kot.com#➡️@v2ray_configs_pool⬅️
+vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&path=%2F&host=capitalnet.sameasyou.sbs&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=joinchannel.sameasyou.sbs#➡️@v2ray_configs_pool⬅️
+vless://2c5b5ea7-b114-43c4-8eab-4a7288ebf2c0@www.zula.ir:2052?path=%2F%3Fed%3D1024&security=none&encryption=none&host=a.b.c.d.e.f.g.h.i.www.speedtest.net.soft98.ir.farsroid.ir.hqchannel.pro.vlonetk.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://Parsashonam-50@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#➡️@v2ray_configs_pool⬅️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppVnFyV0xmQWxDaFVHZjhIQzlEd3dR@209.97.142.145:7330#➡️@v2ray_configs_pool⬅️
+vless://ID-Telegram-LOCKEY-VPN@185.146.173.82:8880?type=ws&path=%2F%2FFree#➡️@v2ray_configs_pool⬅️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#➡️@v2ray_configs_pool⬅️
+trojan://telegram-id-directvpn@18.170.134.196:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#➡️@v2ray_configs_pool⬅️
