@@ -2785,3 +2785,5 @@ vless://Tel:V2rayvpn_official@www.speedtest.net:8080?type=ws&path=%2F%3Fed%3D256
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.91:8443?path=%2F1I5kFrJb2nJW3PZH&security=tls&encryption=none&alpn=http/1.1&host=Eb043cc5.mkHALILI.pAgES.dEv&fp=randomized&type=ws&sni=eb043CC5.MkhaliLi.paGeS.DeV#[🇨🇦]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.91:8443?path=%2F1I5kFrJb2nJW3PZH&security=tls&encryption=none&alpn=http/1.1&host=Eb043cc5.mkHALILI.pAgES.dEv&fp=randomized&type=ws&sni=eb043CC5.MkhaliLi.paGeS.DeV#😍@v2ray_configs_pool😍
 vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@104.18.202.232:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed&security=tls&encryption=none&alpn=h3&host=4d3d6f00.garywelch.pages.dev&fp=randomized&type=ws&sni=4d3d6f00.garywelch.pages.dev#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsVFY0ZlEySmtUblhEOEdvWXp3T1Nn@147.45.50.104:22195#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#[🏁]t.me/ConfigsHub
