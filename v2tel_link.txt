@@ -2560,3 +2560,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.197.205:22222?path=/telegram-c
 trojan://telegram-id-privatevpns@13.43.51.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#😍@v2ray_configs_pool😍
 vless://d5e9f164-e824-42ea-900f-5a49388ddba7@188.114.98.0:80?path=%2Fmelo%2Fis%2Fneeded&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#😍@v2ray_configs_pool😍
 trojan://telegram-id-privatevpns@13.43.51.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
+vless://e1913fbb-cc33-4e13-bb2b-db35b60e6a53@162.159.152.2:2053?path=%2F%3Fed&security=tls&encryption=none&alpn=http/1.1&host=cODe911cometOiraNNsOdsnefhhdkALCoshD.PAGes.dEv&type=ws&sni=Code911ComEtoiRAnnSODsnefHHdKAlCoShD.PaGEs.dEv#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#[🇦🇪]t.me/ConfigsHub
