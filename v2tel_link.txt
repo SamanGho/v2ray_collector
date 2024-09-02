@@ -3323,3 +3323,4 @@ vless://83c4cb63-c8af-4234-9e9d-6d9ac7361b17@104.17.147.22:8880/?type=ws&encrypt
 trojan://telegram-id-privatevpns@16.16.235.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@99.79.151.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIUTJQamRacVU5MTd5SWtVZVRFYXd6@64.226.98.217:40678/?outline=1#🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUmRRSFl5YVNoV0N2UDM3M3gxOXpQ@138.68.182.23:2248/?outline=1#🆔@v2ray_configs_pool
