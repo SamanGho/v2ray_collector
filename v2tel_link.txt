@@ -3175,3 +3175,5 @@ vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctel
 trojan://telegram-id-directvpn@54.171.183.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@3.11.171.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 vless://5c7a3db7-17a8-49e7-9608-5563748137fe@194.33.105.116:4711?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRYlFyZWg4OVIxQ0NmOHdJSG43dENn@vienna.telegavpn.com:61992#🆔@v2ray_configs_pool
+vless://TELEGRAM-NUFiLTER@speedtest.net:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Sd.ir&type=ws#🆔@v2ray_configs_pool
