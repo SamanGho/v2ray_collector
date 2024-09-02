@@ -3580,3 +3580,5 @@ vless://c8e780f4-aa79-4ce0-a5ac-cb646f3b94c6@172.67.207.26:80?path=%2FPROXY_MTM-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#🆔@v2ray_configs_pool
 vless://16de31fc-92e8-448a-9ca8-971c7af435fa@89.221.224.166:8443?security=reality&encryption=none&pbk=tEleAAmF2pnduY7IeJUMNdQmqe8ITCQlo15Ar52ZEGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=185.238.228.222&sid=c6824216ae20938d#🆔@v2ray_configs_pool
 vless://9bb7f043-97a1-5c63-8736-941269e1efde@185.146.173.169:80?path=%2Fvless&security=none&encryption=none&host=No2.vless.site.&type=ws#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.50.216.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://a1042a4a-d02f-42f1-bec8-ae6bf6527298@85.224.36.38:443?security=reality&encryption=none&pbk=KLQGU37PU52JQgb0fWgKCPpePrJSjRUcL2JZJjUfyUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.whatismyip.com&sid=49b7ac26#🆔@v2ray_configs_pool
