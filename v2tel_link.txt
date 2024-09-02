@@ -277,3 +277,5 @@ vless://4ee50f98-d646-4491-b5a5-339fd79153a4@172.64.111.69:8080?path=%2Fspeedtes
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.25.164.167:443?path=%2FRaCVjPY5k7jy2rTZ%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=BPB-a-montH-aFTER-July.pAGeS.dEV&fp=randomized&type=ws&sni=BpB-a-monTh-AfTEr-jUly.paGeS.Dev#[🇨🇦]t.me/ConfigsHub
 vless://8d636170-6540-4000-9629-d91f10c01635@209.38.162.15:14596?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=#🆔@v2ray_configs_pool
 vless://8d636170-6540-4000-9629-d91f10c01635@209.38.162.15:14596?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇬🇧]t.me/ConfigsHub
+vless://db92d9ef-8201-4ebe-9e37-497220f64aaf@104.16.11.133:80?path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#🆔@v2ray_configs_pool
+vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@104.18.18.37:2053/?type=ws&encryption=none&host=FrEeDOM2.paGES.dEV&path=%2Ftelegram-proxy_mtm%3Fed%3D2048&security=tls&sni=FrEeDOM2.paGES.dEV&alpn=http%2F1.1#🆔@v2ray_configs_pool
