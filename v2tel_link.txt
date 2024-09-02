@@ -255,3 +255,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.9.21:8443?path=%2FTELEGRAM-M
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@cxrolvpnshop.pages.dev:443?path=%2FRjjSKCoOPMqfACPa%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=CxrOLVpNShOp.PAGEs.DeV&fp=randomized&type=ws&sni=cXRoLVpNsHOp.PAGES.DEV#🆔@v2ray_configs_pool
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.9.21:8443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=713BA709.FoRbLOod.pages.dEV&fp=randomized&type=ws&sni=713Ba709.FoRbLOod.pAGeS.DeV#[🇨🇦]t.me/ConfigsHub
 vless://TELEGRAM-KANAL-XPNTEAM@www.speedtest.net:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.Jaricopen.Shop.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://TELEGRAM-ServerNett@[2a01:4f8:c17:eaf8::1]:16723?security=none&encryption=none&headerType=none&type=tcp#🆔@v2ray_configs_pool
