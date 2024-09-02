@@ -265,3 +265,5 @@ vless://08eca8a9-4135-4d36-848b-10e3e088ac9a@185.155.72.119:17132?security=none&
 vless://TELEGRAM-ServerNett@[2a01:4f8:c012:9907::1]:30004?security=none&encryption=none&headerType=none&type=tcp#🆔@v2ray_configs_pool
 vless://414c7742-62cd-456c-90b8-50d4d9bd6900@78.109.194.92:58840?security=none&encryption=none&headerType=http&type=tcp#🆔@v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#[🇬🇧]t.me/ConfigsHub
+vless://13f842a4-fce1-434e-8f0d-d761ac4678cc@join.kiava.cloud.ohbah.com:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws89.awscloudfront.net.kiava.fun&type=ws#🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVEZxZEdOS3VONjVOWkQ4VGtGc2pz@vienna.telegavpn.com:61992#🆔@v2ray_configs_pool
