@@ -1481,3 +1481,8 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-49u.pages.dev:2087/?ty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZTDZpRGNUTjQ4SUlQSW9HVVJUTTNy@138.68.182.23:2248/?outline=1#🆔@v2ray_configs_pool
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.197.64:2083?encryption=none&security=tls&sni=folani.iiipok.worKERs.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=folani.iiipok.worKERs.dev&path=%2Fvless-ws%2F%3Fed%3D2048#🆔@v2ray_configs_pool
 vless://09fe7dc6-ae95-4500-98b5-52ab1a9fa4ef@www.speedtest.net:443?encryption=none&security=tls&sni=falCUNARGO.674BF9f769.workErs.Dev&type=ws&host=FAlcuNaRGO.674bF9f769.WorKErS.dev&path=%2FTelegram-proxy_mtm-Telegram-proxy_mtm%3Fed%3D2048#🆔@v2ray_configs_pool
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.40.235:443?encryption=none&security=tls&sni=PPAl03.fArREn-RAffi.woRkERs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=PPaL03.faRren-raffi.WoRkers.DeV&path=%2FNABrUxKc15uyYE24%3Fed%3D2560#🆔@v2ray_configs_pool
+vless://1f48f432-fff4-474f-c3a6-08cf1db5b709@104.21.2.232:443/?type=ws&encryption=none&host=pay.technator.net&path=%2Fimage%2F20992&security=tls&sni=pay.technator.net&fp=chrome#🆔@v2ray_configs_pool
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?encryption=none&security=tls&sni=bpb-worker-panel-h5f.pages.dev&fp=firefox&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F@SiNABiGO%3Fed%3D2560#🆔@v2ray_configs_pool
+vless://6d1628cb-2fa9-4f6f-82f8-d0896b27b165@104.18.29.181:8080?encryption=none&security=none&type=ws&host=shuige1.g-y0fale.workers.dev&path=%2F%3Fed%3D2048#🆔@v2ray_configs_pool
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80/?type=ws&encryption=none&host=fraud.chase&path=%2F%3Fed%3D2048#🆔@v2ray_configs_pool
