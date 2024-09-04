@@ -2297,3 +2297,7 @@ trojan://telegram-id-privatevpns@52.19.173.143:22222?security=tls&alpn=http/1.1&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.152.87:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
 vless://8d636170-6540-4000-9629-d91f10c01635@209.38.162.15:14596?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+trojan://telegram-id-directvpn@3.76.159.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@3.76.159.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://spec-x-technology@103.169.142.0:2052?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2Fcdn-specxtech-google.com.specxtech.com%3Fed%3D2560&security=none&encryption=none&host=cdn-specxtech-google.com.specxtech.com&type=httpupgrade#👉🆔 @v2ray_configs_pool🛜🇦🇺Australia
+vless://0a8b006c-ebd1-4b3d-8ddd-00a13926e6ee@193.151.149.161:8443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool🛜🇮🇷Iran
