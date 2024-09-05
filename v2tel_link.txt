@@ -2545,3 +2545,12 @@ vless://234603c7-6e8d-45a5-abce-ac6cf70e6d87@www.speedtest.net:8880?security=&ty
 vless://4ebfc469-670b-4676-b82c-d1a20d573ddf@www.parsvds.ir:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=join-to.vmessorg.Community.&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://bad302b1-09a8-4060-ad72-209c09d75e19@66.235.200.44:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D80&host=join-to.vmessorg.Community.&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3.141.95.66:80?security=&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai_8+/?ed%3D2048&host=a.ssll.gay&encryption=none#[🇺🇸]t.me/ConfigsHub
+vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:2053?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=/?ed%3D2048&host=ios-azadnet.pages.dev&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://Parsashonam-47@185.146.173.39:8880?security=&type=httpupgrade&path=/&host=Search.DigiKala.CYoU.&encryption=none#[🇸🇪]t.me/ConfigsHub
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?security=tls&sni=mmdv2.pages.dev&fp=randomized&type=ws&path=/telegram-proxy_mtm?ed%3D2048&host=mmdv2.pages.dev&encryption=none#[🇺🇸]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?security=tls&sni=iRANSOFTWare85985611.PaGes.dEV&alpn=h2,http/1.1&fp=randomized&type=ws&path=/3ixeZxIuzmrYVV6J?ed%3D2560&host=iRaNSofTwAre85985611.PaGes.Dev&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://iD--V2RAXX@www.parspack.com:8080?security=&type=ws&path=/V2raxx?ed&host=WwW.vaRzesh3.Com.Ftp.debian.Org.www.speedtest.net.tabnak.org.&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.36.183.121:80?security=&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai_8+/?ed%3D2048&host=a.ssll.gay&encryption=none#[🇺🇸]t.me/ConfigsHub
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&sni=avianrecruit.com&type=ws&path=6b777a91&host=avianrecruit.com#[🇨🇦]t.me/ConfigsHub
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?security=tls&sni=Pages.dev&type=ws&path=/Telegram-XV2ry2?ed%3D512&host=telgram-xv2ray--xv2ray--xv2ray--xv2ray--xv2ray--xv2ray.pages.dev&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://Telegram-ipV2Ray-man@www.speedtest.net:80?security=&type=httpupgrade&path=/Telegram-ipV2Ray?ed%3D2048&host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&encryption=none#[🇨🇦]t.me/ConfigsHub
