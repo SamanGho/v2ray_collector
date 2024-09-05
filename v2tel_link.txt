@@ -3413,3 +3413,5 @@ trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&
 vless://%50a%72sa%73%68%6fna%6d-57@151.101.66.219:443?Telegram=@v2maxx#[🇺🇸]t.me/ConfigsHub
 vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:2053/?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&type=ws&encryption=none&host=ios-azadnet.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=ios-azadnet.pages.dev#🆔@v2ray_configs_pool
 trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://8aaedc51-2367-4239-a88b-0756dfc9689e@104.17.37.131:8880?path=%2FLRHasggmz9VmPwkX%3Fed%3D2540&security=none&encryption=none&host=dFB.De.sOccERsTAr.cOM--Mx-1hs-38xk.miTSoniC.CoM&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?encryption=none&security=tls&sni=ppal03.HEZeKYAH-DaNeL.wOrKERS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=PpAL03.HEzekyAh-daneL.WORkErS.DEv&path=%2F9ucSEfjiLI2A21uy%3Fed%3D2560#🆔@v2ray_configs_pool
