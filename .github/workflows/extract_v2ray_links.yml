@@ -3,7 +3,7 @@ name: Scrape V2Ray Links
 on:
   schedule:
     - cron: '*/10 * * * *'  # Runs every 10 minutes
-  workflow_dispatch:  
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -16,16 +16,36 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'  
+        python-version: '3.9'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests beautifulsoup4
 
-    - name: Run scraping script
+    - name: Determine current file
+      id: current_file
       run: |
-        python main.py  
+        # Determine the current file based on the timestamp
+        CURRENT_TIME=$(date +%s)
+        HOURS_PASSED=$((CURRENT_TIME / 3600 % 24))
+        if [ $((HOURS_PASSED / 12 % 2)) -eq 0 ]; then
+          echo "file=v2tel_links1.txt" >> $GITHUB_ENV
+          echo "next_file=v2tel_links2.txt" >> $GITHUB_ENV
+        else
+          echo "file=v2tel_links2.txt" >> $GITHUB_ENV
+          echo "next_file=v2tel_links1.txt" >> $GITHUB_ENV
+        fi
+
+    - name: Run scraping script for the determined file
+      run: |
+        python main.py ${{ env.file }}
+
+    - name: Delete the previous file after 12 hours
+      if: ${{ github.event_name == 'schedule' && github.run_number % 72 == 0 }} # Deletes every 12 hours (72 10-minute intervals)
+      run: |
+        echo "Deleting the previous file: ${{ env.next_file }}"
+        rm -f ${{ env.next_file }}
 
     - name: Commit and push changes
       env:
@@ -33,7 +53,10 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add v2tel_link.txt
+        git add ${{ env.file }}
         git commit -m "Update V2Ray links"
         git push https://x-access-token:${PROV2}@github.com/${{ github.repository }}.git HEAD:main
+
+
+
 
