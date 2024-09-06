@@ -26,23 +26,51 @@ jobs:
     - name: Determine current file
       id: current_file
       run: |
-        # Determine the current file based on the timestamp
-        CURRENT_TIME=$(date +%s)
-        HOURS_PASSED=$((CURRENT_TIME / 3600 % 24))
-        if [ $((HOURS_PASSED / 12 % 2)) -eq 0 ]; then
+        # Check if timestamp file exists
+        if [ ! -f .last_switch ]; then
+          # If it doesn't exist, create it with the current timestamp and start with file 1
+          date +%s > .last_switch
           echo "file=v2tel_links1.txt" >> $GITHUB_ENV
           echo "next_file=v2tel_links2.txt" >> $GITHUB_ENV
         else
-          echo "file=v2tel_links2.txt" >> $GITHUB_ENV
-          echo "next_file=v2tel_links1.txt" >> $GITHUB_ENV
+          # Calculate the difference in seconds between now and the last switch
+          LAST_SWITCH=$(cat .last_switch)
+          CURRENT_TIME=$(date +%s)
+          TIME_DIFF=$((CURRENT_TIME - LAST_SWITCH))
+
+          # 43200 seconds = 12 hours
+          if [ $TIME_DIFF -ge 43200 ]; then
+            # It's been 12 hours, switch files
+            if grep -q "v2tel_links1.txt" .last_file; then
+              echo "file=v2tel_links2.txt" >> $GITHUB_ENV
+              echo "next_file=v2tel_links1.txt" >> $GITHUB_ENV
+            else
+              echo "file=v2tel_links1.txt" >> $GITHUB_ENV
+              echo "next_file=v2tel_links2.txt" >> $GITHUB_ENV
+            fi
+            # Update the last switch time
+            date +%s > .last_switch
+          else
+            # Continue with the current file
+            if grep -q "v2tel_links1.txt" .last_file; then
+              echo "file=v2tel_links1.txt" >> $GITHUB_ENV
+              echo "next_file=v2tel_links2.txt" >> $GITHUB_ENV
+            else
+              echo "file=v2tel_links2.txt" >> $GITHUB_ENV
+              echo "next_file=v2tel_links1.txt" >> $GITHUB_ENV
+            fi
+          fi
         fi
+
+        # Save the current file to the .last_file for the next run
+        echo "${{ env.file }}" > .last_file
 
     - name: Run scraping script for the determined file
       run: |
         python main.py ${{ env.file }}
 
-    - name: Delete the previous file after 12 hours
-      if: ${{ github.event_name == 'schedule' && github.run_number % 72 == 0 }} # Deletes every 12 hours (72 10-minute intervals)
+    - name: Delete the previous file after switching
+      if: ${{ env.file != env.next_file }}
       run: |
         echo "Deleting the previous file: ${{ env.next_file }}"
         rm -f ${{ env.next_file }}
@@ -53,10 +81,6 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add ${{ env.file }}
+        git add ${{ env.file }} .last_switch .last_file
         git commit -m "Update V2Ray links"
         git push https://x-access-token:${PROV2}@github.com/${{ github.repository }}.git HEAD:main
-
-
-
-
