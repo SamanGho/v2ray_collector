@@ -3702,3 +3702,5 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9102#[🇺🇸]t.me/Conf
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9101#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:5500#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxdUgyWTVQQWN0aVZ2NHdSRGJveDdu@167.99.216.236:50250/?outline=1#🆔@v2ray_configs_pool
+vless://TeLeGram-SVNTEAM@speedtest.net:443?path=%2FS%2FV%2FN%2FT%2FE%2FA%2FM%3Fed%3D8880&security=tls&encryption=none&alpn=h2,http/1.1&host=http.www.speedtest.net.fast.com.life.ir.&fp=firefox&type=ws&sni=speedtest.net#🆔@v2ray_configs_pool
+vless://TELEGRAM-NUFiLTER@Speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&host=Anqadsarmas.net&type=ws&sni=speedtest.net#🆔@v2ray_configs_pool
