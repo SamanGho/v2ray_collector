@@ -847,3 +847,4 @@ vless://9a0a7112-14db-48ab-815d-8b90a5ac18ae@104.21.19.124:8880?type=httpupgrade
 vmess://eyJhZGQiOiJpbnRlcm5ldGF6YWR2bWVzcy52aWV3ZG5zLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ODEyM2I2ZC0xODM5LTQ2NDEtOWQ5ZC1mYjNlODU2ZmZhNzIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwNTMiLCJwcyI6Ilvwn4er8J+Hrl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://%54%45%4c%45%47%52%41%4d%2d%53%65%72%76%65%72%4e%65%74%74@[2a01:4f8:c012:9907::1]:44929?Telegram=%40V2RayTz%2C%40V2RayTz&security=none&encryption=none&headerType=none&type=tcp#🆔@v2ray_configs_pool
 vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=www.speedtest.net.whiteber.insistom.d6625996.v26.simansanat.ir.#🆔@v2ray_configs_pool
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPOWtNV2o3dzY0V0hNb29qQzdxcXBs@138.68.182.23:2248/?outline=1#🆔@v2ray_configs_pool
