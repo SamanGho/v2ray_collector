@@ -1234,3 +1234,5 @@ vless://78c5381d-3283-533c-ba54-805a5cc3b4a4@104.17.147.22:80?Telegram=@v2maxx,@
 trojan://telegram-id-directvpn@54.170.8.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 ss://Y2hhY2hhMjAtcG9seTEzMDU6RkRmclhYTDVUWWIzTGZCVUZTQWdEcDQ2L0JDQXpRWkZyb25NV0RWNUo1ND0=@no-vote.realofspeed.com:2048#[🏁]t.me/ConfigsHub
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.229:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#👉🆔 @v2ray_configs_pool🛜🇺🇸United States of America
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5SXBGNXg1MWp2TFNKdTFrUFNTSmJp@138.68.182.23:2248/?outline=1#👉🆔 @v2ray_configs_pool🛜🇬🇧United Kingdom of Great Britain and Northern Ireland
+vless://3d9f8ab1-ff3d-4367-812b-fac0dae99374@www.speedtest.net:80?type=ws&path=%2Fhormoznpv%3Fed%3D2048&host=hormoznpv.tanhaeihayeman.ir&security=none#[🇨🇦]t.me/ConfigsHub
