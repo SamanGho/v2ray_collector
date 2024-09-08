@@ -2168,3 +2168,13 @@ vless://072dd087-054f-498d-90ec-2d91887a28c4@speedtest.net:443?allowInsecure=fal
 trojan://telegram-id-directvpn@18.175.34.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://6adacaf4-9ee4-4c20-b2f8-822a9d55f881@www.speedtest.net:8080?encryption=none&security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.tescoco.cfd.&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.64.254.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko@159.65.149.72:51348#[🇮🇳]t.me/ConfigsHub
+vless://692ce973-f5fc-47e7-ad95-7280c8602b9f@185.146.173.52:8880?type=httpupgrade&security=none&host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag#[🇸🇪]t.me/ConfigsHub
+vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.4.2:2096/?type=ws&encryption=none&host=vFivE-TElEGRAM.Pages.DeV&path=%2F5FZ4M1ggIHZpKyyA%3Fed%3D2560&security=tls&sni=VFIvE-teLeGram.PAGEs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized#[🇨🇦]t.me/ConfigsHub
+vless://Parsashonam-59@151.101.66.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://29080274-c2fe-4b33-af2b-6b4efb1f177c@89.169.32.56:3389/?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&type=tcp&encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=safari&security=reality&pbk=zijpi6FqBD-gtYkclryZeTFfiVCn4_TEoTLGKQLYlXw&sid=#👉🆔 @v2ray_configs_pool🛜🇦🇲Armenia
+vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.4.2:2096/?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&type=ws&encryption=none&host=vFivE-TElEGRAM.Pages.DeV&path=%2F5FZ4M1ggIHZpKyyA%3Fed%3D2560&security=tls&sni=VFIvE-teLeGram.PAGEs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@51.68.206.229:8080#[🇬🇧]t.me/ConfigsHub
+vless://Parsashonam-59@151.101.66.219:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
+vless://29080274-c2fe-4b33-af2b-6b4efb1f177c@89.169.32.56:3389/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=safari&security=reality&pbk=zijpi6FqBD-gtYkclryZeTFfiVCn4_TEoTLGKQLYlXw&sid=#[🏁]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.161:443#[🏁]t.me/ConfigsHub
