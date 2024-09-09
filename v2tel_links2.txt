@@ -3601,3 +3601,9 @@ vless://69d7e5f1-3ef3-4486-a90f-377330cf033f@www.speedtest.net:80?path=%2F%40%53
 trojan://telegram-id-privatevpns@46.137.117.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@151.101.2.219:443?type=grpc&serviceName=Telegram#[🇺🇸]t.me/ConfigsHub
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@151.101.2.219:443?type=grpc&serviceName=Telegram#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@speedtest.net:443?path=%2FTelegram.%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=randomized&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://09bcea47-5726-44c8-95f0-e6e5375b7ad9@151.101.66.219:80?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc2.ir&type=ws#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://09bcea47-5726-44c8-95f0-e6e5375b7ad9@151.101.2.219:80?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc2.ir&type=ws#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+vless://a51404a5-0e89-43d9-8c82-7158db51a494@151.101.130.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc1.ir&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaczhkbWdSZUVWNk1yVTc1SVE2MHRt@45.159.249.42:7843#👉🆔 @v2ray_configs_pool🛜🇫🇮Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaczhkbWdSZUVWNk1yVTc1SVE2MHRt@45.159.249.42:7843#[🇫🇮]t.me/ConfigsHub
