@@ -3549,3 +3549,15 @@ vless://78331287-6609-436e-9902-b77ac42347f0@172.67.213.77:443?type=ws&path=%2F%
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@TIME.is:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=aZADnEt-fReedom-irANIaN1.paGeS.Dev&type=ws&sni=aZADneT-FreEdoM-iRAnIAN1.pAGeS.DEV#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.152.87:2083?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=aZAdnet-FrEeDom-iranIan.pageS.Dev&fp=chrome&type=ws&sni=aZadNet-FrEeDom-IRAniAn.PagES.DEv#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
 vless://78331287-6609-436e-9902-b77ac42347f0@Speedtest.net:443?type=ws&path=%2F%3Fed%3D2048&host=www.speedtest.net.www.zula.ir.cloudflare.com.tescoco.cfd.&security=none#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.79.71.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://aacbbca-abca-abca-abcd-aabcbbcaacbc@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool🛜🤷‍♀️🤷‍♂️
+trojan://cassiusvpn@104.17.147.22:2087?security=tls&type=ws&sni=telegram----cassiusvpn----4447265148777747781232254445611722275.mint14.workers.dev&path=/?ed=2560&host=telegram----cassiusvpn----4447265148777747781232254445611722275.mint14.workers.dev#[🇨🇦]t.me/ConfigsHub
+trojan://cassiusvpn@104.17.147.22:2087?security=tls&type=ws&sni=telegram----cassiusvpn----4447265148777747781232254445611722275.mint14.workers.dev&path=/?ed=2560&host=telegram----cassiusvpn----4447265148777747781232254445611722275.mint14.workers.dev#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5000#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.49.84:8008#[🇺🇸]t.me/ConfigsHub
+vless://TeLeGram-SVNTEAM7@151.101.66.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2FS%2FV%2FN%2FT%2FE%2FA%2FM%3Fed%3D8880&security=tls&encryption=none&alpn=h2,http/1.1&host=http.www.speedtest.net.fast.com.life.ir.&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
+trojan://telegram-id-privatevpns@18.203.97.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
+trojan://telegram-id-directvpn@3.79.71.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@13.36.47.119:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.49.84:8008#👉🆔 @v2ray_configs_pool🛜🇺🇸United States
