@@ -3400,3 +3400,4 @@ vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@172.67.196.100:2083?Telegram=@v2max
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.162.48:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 trojan://telegram-id-directvpn@18.218.146.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@15.188.197.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://39f66164-cc6d-4ee4-a9d9-2d7e7cf2b1d9@104.17.148.22:8080?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F%40NIM_VPN_ir%2C%40NIM_VPN_ir&security=none&encryption=none&host=opa.kolacghi.ir&type=ws#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada
