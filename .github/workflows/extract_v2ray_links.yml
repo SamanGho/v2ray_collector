@@ -39,7 +39,7 @@ jobs:
           TIME_DIFF=$((CURRENT_TIME - LAST_SWITCH))
 
           # 43200 seconds = 12 hours
-          if [ $TIME_DIFF -ge 43200 ]; then
+          if [ $TIME_DIFF -ge 7200 ]; then
             # It's been 12 hours, switch files
             if grep -q "v2tel_links1.txt" .last_file; then
               echo "file=v2tel_links2.txt" >> $GITHUB_ENV
