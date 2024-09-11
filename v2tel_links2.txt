@@ -311,3 +311,12 @@ vless://d5905480-dd42-4aef-b78a-b0a3978062d2@speedtest.net:443?path=%2FTelegram-
 vless://b19dbc7d-3ac4-45aa-8d33-af286660d15c@www.speedtest.net:80?path=/mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray,mainv2-ray%3Fed%3D2048&security=none&encryption=none&host=Chanel.ahang-alpha.IR&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.179.203.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
 vless://978b376e-9f8b-4651-8ad3-4ff4969a91bd@lme86iit.nl1-zg8ookkt36kvkgx4rmk9a.flatocnx.com:882?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@3.74.139.186:8880?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@51.20.49.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://01fa7ee4-ef31-4e5f-9e4c-c998b912e1a1@104.16.232.76:8880?path=%2Fglobalizzer&security=none&encryption=none&host=stockcitywild.northernlight.monster&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.176.151.54:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://telegram-id-directvpn@51.20.49.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.com&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://2bf9e9f4-f8ef-4e46-8bfc-f5ef648817f7@172.67.66.177:443?path=%2F7D8L6oV0pjufcpvH%2FNDMuMTMxLjQ5LjI1MA%3D%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=gOogLe-9HA.pageS.dEV&fp=randomized&type=ws&sni=pAGeS.deV#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.179.65.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.179.65.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
