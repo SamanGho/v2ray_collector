@@ -242,3 +242,5 @@ vless://d2dcb5b6-7c5f-4d4a-87a5-56bf80ef9866@www.speedtest.net:8443?path=/www.sp
 trojan://telegram-id-privatevpns@35.159.187.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@www.speedtest.net:80?path=%2FTelegram-XV2ry2%3Fed%3D512&security=none&encryption=none&host=www.speedtest.net.10.432.10.10.10.10.ir.xn--g28h.dns-dynamic.net.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://667cfebe-6704-4818-b419-cd21d2d9bc53@www.speedtest.net:80?path=%2FTelegram+-+%40XvProxy+-+Telegram+-+%40XvProxy&security=none&encryption=none&host=www.speedtest.net.svgspeedtest.net&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://d19734e3-5669-49e8-9880-9d1fdc5f964c@co.nafti.ggff.net:443?path=%2FmeANGlZMBuiYxIerVdzoPj6&security=tls&encryption=none&alpn=http/1.1&host=co.nafti.ggff.net&fp=chrome&type=httpupgrade&sni=co.nafti.ggff.net#[🇩🇪]t.me/ConfigsHub
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TWxpZTRRUHMzSWZnT0M2c1kycG5Za3lhTkZrKytpZEdqSjlrdlZkRTlFVT06L3NGbXJ0S081ejBQcHNlbmVxbUpBNFJxczNiaFBha2ZIV1cyR1JqVnVrZz0@45.138.25.107:19168?type=tcp#[🇳🇱]t.me/ConfigsHub
