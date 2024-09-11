@@ -368,3 +368,10 @@ vless://6ae791d6-ec2a-42c4-9f38-36aa9de56ce8@core1.jsapp.kiawosch.academy:2095?s
 vless://6ae791d6-ec2a-42c4-9f38-36aa9de56ce8@core2.jsapp.kiawosch.academy:2096?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.252.183.184:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 trojan://telegram-id-directvpn@18.197.13.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://16f6af9d-9bc9-442e-a658-8735a372d2c5@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc45.lebasnoo.ir.&type=ws#[🇸🇪]t.me/ConfigsHub
+vless://07aa30ea-6170-494d-8ae2-80a5e18b37f0@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc44.lebasnoo.ir.&type=ws#[🇸🇪]t.me/ConfigsHub
+vless://de710a78-04ae-4ff8-a893-2223849e75ea@Speedtest.net:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Baazamkebidaram.net&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://GozargahVPN-012@speedtest.net:443?path=%2Fws%2F%3Fed%3D2048&security=tls&encryption=none&host=GozargahVPN.ir&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
+vless://Channel-hopev2ray@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=2.V2.e.www.Speedtest.net.Hopeserver.Xyz.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://978b376e-9f8b-4651-8ad3-4ff4969a91bd@trxijdsio88kmlsajk.jkgfdfyjral.flatocnx.com:886?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER@Speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Marizikharast.net&fp=chrome&type=ws&sni=Speedtest.net#[🇺🇸]t.me/ConfigsHub
