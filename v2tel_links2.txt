@@ -394,3 +394,6 @@ vless://5d306585-adb5-4698-89fa-9648de4f3a55@cdn.speedtest.net:443?path=%2F&secu
 vless://c2f39bad-4213-42bc-bdd4-915739acf015@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=ggghtrubngjbngibvn.com&path=ws%2F%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
 trojan://tg-dns68@162.159.152.150:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.179.203.119:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇬🇧]t.me/ConfigsHub
+vless://45cf6535-aed3-43a4-acb9-833dd0fc0cd7@www.speedtest.net:8443?path=/www.speedtest.net/VPNCSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZEe.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=VPNCUSTOMIZEe.www.speedtest.net.Naziitness.com#[🇨🇦]t.me/ConfigsHub
+vless://6afc84e4-0d3d-4d4f-9c89-5798685f21df@www.speedtest.net:8443?path=/www.speedtest.net/VPNCSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#[🇨🇦]t.me/ConfigsHub
+vless://27f91b7d-f910-4ce8-a213-157dc77df4dd@5.202.75.114:2053?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
