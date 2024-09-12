@@ -840,3 +840,6 @@ vless://c4c74dba-068f-4bfb-f580-93afae85ce73@104.17.148.22:2082?security=none&ty
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbE1qWm1OVEZpTWkxak1tTTNMVFJoWmpBdFlqRmxNeTFqTVRrNE0yVXpZalZoT1RJ@free.2weradf.xyz:36175#[🏁]t.me/ConfigsHub
 vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@3.74.139.186:8880?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvNFpUVTVORE5sWmkwek4yUmlMVFF4TkRjdFlUQmlNUzFqTURsallqTXhaVEpsTVRj@free.2apzhfa.xyz:31115#[🏁]t.me/ConfigsHub
+vless://2bf9e9f4-f8ef-4e46-8bfc-f5ef648817f7@172.67.66.177:443?path=%2F7D8L6oV0pjufcpvH%2FNDMuMTMxLjQ5LjI1MA%3D%3D%3Fed%3D2560%3Fpath%3D-----ELENaTheGreatDictator-----ELiV2RAY----ELiV2RAY---&security=tls&encryption=none&alpn=h2,http/1.1&host=gOogLe-9HA.pageS.dEV&fp=random&type=ws&sni=pAGeS.deV#[🇨🇦]t.me/ConfigsHub
+vless://6ae791d6-ec2a-42c4-9f38-36aa9de56ce8@core1.jsapp.kiawosch.academy:2095?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://6ae791d6-ec2a-42c4-9f38-36aa9de56ce8@core2.jsapp.kiawosch.academy:2096?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
