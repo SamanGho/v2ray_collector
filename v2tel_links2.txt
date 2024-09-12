@@ -432,3 +432,8 @@ vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@104.20.19.168:2083/?type=ws&encrypt
 vless://3f2a8ac5-f359-4333-865a-7064e31c2521@www.speedtest.net:443/?type=ws&encryption=none&host=nufilter2.pages.dev&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=nufilter2.pages.dev&fp=randomized#[🇨🇦]t.me/ConfigsHub
 vless://433b2a7e-2f6c-4b87-98a1-28b4089db678@66.59.210.244:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=anargift.com&fp=chrome&security=reality&pbk=mfIe-d5OBkKP0jo_hDjx9RR5Mly14QF36iRxWn_F0HE&sid=#[🇩🇪]t.me/ConfigsHub
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@pages.teasalo.cloudns.org:443/?type=ws&encryption=none&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&security=tls&sni=pages.teasalo.cloudns.org&fp=randomized#[🇨🇦]t.me/ConfigsHub
+vless://fdb60214-1d03-4b83-c4b7-3d2d33c08073@81.12.27.91:21807?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU=@35.93.25.21:443#[🇺🇸]t.me/ConfigsHub
+vless://d2dcb5b6-7c5f-4d4a-87a5-56bf80ef9866@104.17.147.22:8443?security=tls&sni=VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=%2Fwww.speedtest.net%2FVPNCSTOMIZE%3Fed%3D8443&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/ConfigsHub
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbE1qWm1OVEZpTWkxak1tTTNMVFJoWmpBdFlqRmxNeTFqTVRrNE0yVXpZalZoT1RJ@free.2weradf.xyz:36141#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.103:8119#[🇺🇸]t.me/ConfigsHub
