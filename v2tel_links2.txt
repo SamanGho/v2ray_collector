@@ -536,3 +536,5 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.177:443/?type=ws&encryp
 vless://eb11f083-a3f7-477a-bec4-12b441ceb501@www.speedtest.net:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://8e9d52f8-aebe-4f60-b341-48665cfc5e44@speedtest.net:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=melofin.ir&fp=firefox&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUdXJib29TZXJ2ZXI9@62.60.179.213:443#[🇮🇷]t.me/ConfigsHub
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.149:443?path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.88.102:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
