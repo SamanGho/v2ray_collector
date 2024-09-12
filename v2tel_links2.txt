@@ -841,3 +841,5 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.53.72:80?security=none&type=
 vless://b0d83336-26c0-41a9-abf5-2ac76802fb10@199.247.20.21:29448?mode=gun&security=reality&encryption=none&authority=&pbk=TRQdhmH0Ovp0EDaggeWomnqCv6jr1guO-l0YynjYPBc&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=zula.ir&sid=6e77c94226e9#[🇩🇪]t.me/ConfigsHub
 vless://090f5119-b401-4e0c-b878-2ccef487a787@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=kingstore.ir&path=Join%3A%40oPeTa_v2ray-telegram%3A%40oPeTa_v2ray-join-chanel%3A%40oPeTa_v2ray-join%3A%40opeta_v2ray-telegram%3A%40opeta_v2ray%2F%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1#[🇺🇸]t.me/ConfigsHub
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvellUa3lOVE13WlMxbE1XSmxMVFF5TTJFdE9UVmxaaTFpT0RsaU5XUmxaRFEzTkRj@free.2weradf.xyz:36245#[🏁]t.me/ConfigsHub
+vless://b337cd12-dacd-4b20-9c91-fb4fb28f582e@static.tildacdn.com:80?path=%2FAzV2ry%3Fed%3D2056&security=none&encryption=none&host=www.speedtest.net.AzadMarzabad.IR&type=httpupgrade#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zjp6NVd6clZVQ01aYTI@45.89.53.134:6297#[🇺🇸]t.me/ConfigsHub
