@@ -780,3 +780,4 @@ vless://ac86d487-525f-40d6-95b1-8521df833917@www.speedtest.net:80?path=%2F%40Shh
 trojan://telegram-id-privatevpns@34.247.98.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-directvpn@3.64.161.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.20.120:80?type=ws&host=us3.rtacg.com&path=%2F#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.132.240.207:443#[🇬🇧]t.me/ConfigsHub
