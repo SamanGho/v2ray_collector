@@ -828,3 +828,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.156:803#[🇨�
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.228.54:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#[🇫🇷]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.121.43.204:8009#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.67:7306#[🇺🇸]t.me/ConfigsHub
+vless://4f580584-7d06-4ff5-b55c-a9e4177d66b1@speedtest.net:443?path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=mazmaz.net&fp=chrome&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
+vless://4c805462-4ced-4f29-88f0-029a8071a728@wex.callmecarl.website:35492?security=none&encryption=none&host=ubisoft.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
