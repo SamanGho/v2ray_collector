@@ -1164,3 +1164,12 @@ vless://ee0d9d18-e887-4ac9-9480-8c624645f8f7@www.speedtest.net:8880?path=%2F-LiV
 vless://cb9807e9-c655-4d46-a32e-5249b00df8e7@www.speedtest.net:8443?path=%2Fwww.speedtest.net%2FVPNCSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=randomized&type=ws&sni=VPNCUSTOMIZE.speedtest.net.Naziitness.com#[🇨🇦]t.me/ConfigsHub
 vless://ee0d9d18-e887-4ac9-9480-8c624645f8f7@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://eb3691e4-182c-4aae-9f60-2ff623995433@speedtest.net:443?encryption=none&security=tls&sni=speedtest.net&type=ws&host=safirmobile.ir&path=%2Fde%3Fed%3D1048#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TmhTN25HUXAy@54.164.51.195:6313#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@207.246.101.50:1633#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.202:2376#[🇺🇸]t.me/ConfigsHub
+vless://a5881a0c-7943-4e42-ad35-bcde00ad80d6@speedtest.net:443?path=%2Fv2pedia%3Fed%3D2048&security=tls&encryption=none&host=que4.ir&fp=chrome&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.143.66.244:7307#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.110.1.202:9102#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPUXJJTXRMZDBoaDU5MDg4MV9tbFJB@91.107.146.165:1080#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.202:8090#[🇺🇸]t.me/ConfigsHub
+vless://eb9c11d0-50ce-4b76-8760-74e10f81634b@172.67.204.84:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=specxtech.pages.dev&fp=randomized&type=ws&sni=pages.dev#[🇨🇦]t.me/ConfigsHub
