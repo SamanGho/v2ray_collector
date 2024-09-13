@@ -1277,3 +1277,6 @@ vless://DIGIV2RAY@www.speedtest.net:2095?type=ws&host=www.speedtest.net.ftp.debi
 vless://DIGIV2RAY@www.speedtest.net:2095?type=httpupgrade&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none#[🇨🇦]t.me/ConfigsHub
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@96110.cf.090227.xyz:443?path=%2F%3Fed%3DTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#[🇨🇦]t.me/ConfigsHub
 vless://209790c6-17ce-4854-a0b5-c22a3931b901@speedtest.net:443?security=tls&type=ws&headerType=&path=%2FArV2ry%3Fed%3D2048&host=djeks1.ir&sni=speedtest.net&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
+trojan://ZCESAylB2u5jga736e8CTN3DcFCAOYz0DlDyx9F3ZpXnSp3IYRa4RwOSqe8Kax@spotted.bigkangaroo.net:443?allowInsecure=1&sni=spotted.bigkangaroo.net#[🇺🇸]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER@Speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Ookbashetokkhobi.net&fp=chrome&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.95:5003#[🇺🇸]t.me/ConfigsHub
