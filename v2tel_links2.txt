@@ -1077,3 +1077,11 @@ vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@www.visa.com.tw:443?path=%2FBDwnEtV
 vless://e2e2b2f8-d83a-4918-8a5e-194e4b2aaf15@34.194.177.180:8880?type=tcp&headerType=none&security=none#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.60.117.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.21.68.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
+trojan://8f635e20-71c9-11ef-aaf7-1239d0255272@104.17.147.22:443?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.134.77.237:443#[🇬🇧]t.me/ConfigsHub
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.206:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#[🇨🇦]t.me/ConfigsHub
+vless://591db3f2-f779-43f6-9fe5-084ea24454e4@172.67.204.84:443?security=tls&sni=pages.dev&type=ws&host=difikalavdivardivardigikaladivardivarbazardigikalabazar.pages.dev&path=%2Fdivardigikalabirdxray%3Fed%3D8080&fp=chrome#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.214.162.198:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.134.77.237:443#[🇬🇧]t.me/ConfigsHub
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@104.19.32.28:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io&fp=random&alpn=h3#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVlFVMzR6TUZO@52.79.183.104:6313#[🏁]t.me/ConfigsHub
