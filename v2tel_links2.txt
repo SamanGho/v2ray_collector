@@ -1280,3 +1280,5 @@ vless://209790c6-17ce-4854-a0b5-c22a3931b901@speedtest.net:443?security=tls&type
 trojan://ZCESAylB2u5jga736e8CTN3DcFCAOYz0DlDyx9F3ZpXnSp3IYRa4RwOSqe8Kax@spotted.bigkangaroo.net:443?allowInsecure=1&sni=spotted.bigkangaroo.net#[🇺🇸]t.me/ConfigsHub
 vless://TELEGRAM-NUFiLTER@Speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Ookbashetokkhobi.net&fp=chrome&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.95:5003#[🇺🇸]t.me/ConfigsHub
+vless://48657ced-3386-4f44-96ec-52ea90aaa5ae@speedtest.net:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D80&security=none&encryption=none&host=barkatc6.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://523bf9e5-c852-4762-ae27-0abe02afc024@speedtest.net:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc5.ir&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
