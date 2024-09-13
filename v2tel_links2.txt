@@ -1085,3 +1085,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.214.162.198:22222?security=tls&sn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.134.77.237:443#[🇬🇧]t.me/ConfigsHub
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@104.19.32.28:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io&fp=random&alpn=h3#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVlFVMzR6TUZO@52.79.183.104:6313#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.45.40:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+trojan://telegram-id-privatevpns@35.156.198.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://cb9807e9-c655-4d46-a32e-5249b00df8e7@www.speedtest.net:8443?path=/www.speedtest.net/VPNCSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=randomized&type=ws&sni=VPNCUSTOMIZE.speedtest.net.Naziitness.com#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.156.198.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
+vless://14f180cd-be60-468e-a2d8-ab872ab8ee9e@178.156.133.5:443?type=tcp&security=reality&fp=chrome&sni=cdn2.divar.ir&pbk=0E3C7ELWQRZGg_iKpwE2NnGeQIg3LXzWcHnBWnv-gRA#[🇺🇸]t.me/ConfigsHub
