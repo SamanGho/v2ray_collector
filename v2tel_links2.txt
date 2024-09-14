@@ -1578,3 +1578,7 @@ vless://71d85258-625a-4802-b428-ad30d573ad98@www.speedtest.net:80?path=%2F%40Shh
 vless://6a1600c3-13bb-4170-9447-06b93fbdab21@speedtest.net:443?path=%2FAOagIIfbJJ0hbXIwCE6mq&security=tls&encryption=none&alpn=http/1.1&host=www.visualcapitalist.com&fp=firefox&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
 vless://6a1600c3-13bb-4170-9447-06b93fbdab21@speedtest.net:80?path=%2FAOagIIfbJJ0hbXIwCE6mq&security=none&encryption=none&host=www.visualcapitalist.com&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://8295c669-5ff6-4588-b628-29a37c80c756@151.101.194.219:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D80&security=none&encryption=none&host=barkatc12.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.51.2.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.51.2.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vmess://eyJhZGQiOiI5MS4xMDcuMTUzLjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MWViMmRjNi02MmI5LTRlZTYtYmQwMC1kMjM2NTBjYTc2M2UiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODE4NiIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+trojan://Rase1HGpHI@65.109.218.68:52661?security=none&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
