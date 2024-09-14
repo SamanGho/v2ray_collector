@@ -1357,3 +1357,9 @@ vless://4b162e24-7f55-4d5a-9eaf-13c8b4a1d7ec@TRUCKs.fierLINE.link:443?security=t
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2F3ixeZxIuzmrYVV6J%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=iRaNSofTwAre85985611.PaGes.Dev&fp=randomized&type=ws&sni=iRANSOFTWare85985611.PaGes.dEV#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.21.69.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 vless://e1913fbb-cc33-4e13-bb2b-db35b60e6a53@162.159.152.2:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=cODe911cometOiraNNsOdsnefhhdkALCoshD.PAGes.dEv&fp=360&type=ws&sni=Code911ComEtoiRAnnSODsnefHHdKAlCoShD.PaGEs.dEv#[🇨🇦]t.me/ConfigsHub
+vless://79978027-ef16-4137-b18e-905f8c18f845@172.67.64.152:8080?encryption=none&security=none&type=ws&host=cdnanycasteuorg.fjacz6xe.workers.dev&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://67e631ef-5b10-407f-b064-515240184b95@103.172.110.103:443?encryption=none&security=tls&sni=cmli.ali.f5.si&fp=randomized&type=ws&host=cmli.ali.f5.si&path=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+vless://DIGIV2RAY@www.speedtest.net:2095?encryption=none&security=none&type=tcp&headerType=none#[🇨🇦]t.me/ConfigsHub
+vless://67e631ef-5b10-407f-b064-515240184b95@103.172.110.107:443?encryption=none&security=tls&sni=cmli.ali.f5.si&fp=randomized&type=ws&host=cmli.ali.f5.si&path=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.166:2087?encryption=none&security=tls&sni=JoiNV2ngfaST-aeb.PagEs.DEV&type=ws&host=jOiNv2nGFAst-AeB.pAGes.DEV&path=%2FccXpjwOtX57pqG6C%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://67e631ef-5b10-407f-b064-515240184b95@103.172.110.102:443?encryption=none&security=tls&sni=cmli.ali.f5.si&fp=randomized&type=ws&host=cmli.ali.f5.si&path=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
