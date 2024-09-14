@@ -1536,3 +1536,4 @@ vless://1c6e526f-b9b6-510c-8160-8efbc05fdae3@104.17.147.22:80?path=%2F%40ELiV2ry
 vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@104.16.61.8:2083?path=%2Fws&security=tls&encryption=none&alpn=http/1.1&host=cpanel3.sassanidempire.com&fp=chrome&type=ws&sni=cpanel3.sassanidempire.com#[🇨🇦]t.me/ConfigsHub
 vless://2d84bc65-6ab1-45a7-a01c-e8050d42cbcb@62.60.144.161:2029?security=none&encryption=none&host=vasaham.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://Tel3graam:v2rayvpn_official@bo2bo2.bia2bax.shop:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=bo2bo2.bia2bax.shop#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiIzMS40NC4wLjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZiOTM0ZjJmLTA5NDItNDNhZC05NzFmLWFlNmIyMmMwOGQzYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzMxNDMiLCJwcyI6Ilvwn4ez8J+HsV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
