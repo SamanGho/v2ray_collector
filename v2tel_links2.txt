@@ -1600,3 +1600,10 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.17.128.234:22222?path=/telegram-
 trojan://telegram-id-directvpn@18.159.242.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@52.17.177.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.192:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=a.ssll.gay&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.132:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=a.ssll.gay&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.8:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#[🇨🇦]t.me/ConfigsHub
+vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-____teldIGI__v2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://c5a4cd74-c30f-46eb-963a-40176433bbe9@185.218.3.44:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇬🇧]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.184:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=a.ssll.gay&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://009dca5b-8b8a-4914-b735-8e6f832c2f2d@speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
+vless://596c39e8-e49a-4147-ae60-3b6e6ca03ecb@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=YUMLionE.ir.&fp=chrome&type=grpc&serviceName=.tci&sni=PiLsAn.YUMLiONE.ir.#[🇨🇦]t.me/ConfigsHub
