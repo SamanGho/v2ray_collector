@@ -1621,3 +1621,5 @@ vless://86692ae3-69ee-472d-880e-8a72a60adcd6@www.speedtest.net:80?path=%2Fmainv2
 vmess://eyJhZGQiOiIxMjguMjA0LjIyMy4xMTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWExZDU1MWItZjRiZS00M2U1LWVlZTMtNTljNGRjNjM5OThiIiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMzk0NzgiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@193.33.87.202:2082?path=%2F&security=none&encryption=none&host=finhztco.nipytee.info&type=httpupgrade#[🏁]t.me/ConfigsHub
 vless://TELEGRAM-NUFiLTER@151.101.130.219:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Hashemjon94.net&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://5857d52c-289f-47ba-91ac-ed672074d3b6@79.127.70.73:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://v2rayvpn_official@bo2bo2.bia2bax.shop:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=bo2bo2.bia2bax.shop#[🏁]t.me/ConfigsHub
