@@ -1327,3 +1327,6 @@ vless://2d84bc65-6ab1-45a7-a01c-e8050d42cbcb@62.60.144.161:2029?security=none&en
 vless://f20760e9-daca-4d41-a41e-b3c1f038fa0c@red.archervip.ir:4466/?type=tcp&path=%2Fir&host=soft98.ir&headerType=http&security=none#[🇮🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.159.242.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@52.17.177.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
+vless://009dca5b-8b8a-4914-b735-8e6f832c2f2d@speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER@151.101.130.219:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Hashemjon94.net&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@193.33.87.202:2082?path=%2F&security=none&encryption=none&host=finhztco.nipytee.info&type=httpupgrade#[🏁]t.me/ConfigsHub
