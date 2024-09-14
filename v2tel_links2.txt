@@ -1624,3 +1624,5 @@ vless://TELEGRAM-NUFiLTER@151.101.130.219:80?path=%2Ftelegram-NUFiLTER%2Ctelegra
 vless://5857d52c-289f-47ba-91ac-ed672074d3b6@79.127.70.73:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://v2rayvpn_official@bo2bo2.bia2bax.shop:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=bo2bo2.bia2bax.shop#[🏁]t.me/ConfigsHub
 vless://17582093-de1b-4170-8cd0-73beba3c0640@91.132.50.141:15300?security=none&encryption=none&host=google.com&headerType=http&type=tcp#[🇬🇧]t.me/ConfigsHub
+vless://add0aad0-e3d1-4374-b159-09880c457275@217.18.90.73:54095?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#[🇬🇧]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxMDQuMjEuODIuMTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imd3ZGVmLnNicyIsImlkIjoiYmM4NjQwNzgtZGNmMy00YmY0LThkYmYtY2E5ZjIwMGI1NmJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiZ3dkZWYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
