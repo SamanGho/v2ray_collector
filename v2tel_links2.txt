@@ -1282,3 +1282,5 @@ vless://TELEGRAM-NUFiLTER@Speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.95:5003#[🇺🇸]t.me/ConfigsHub
 vless://48657ced-3386-4f44-96ec-52ea90aaa5ae@speedtest.net:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D80&security=none&encryption=none&host=barkatc6.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://523bf9e5-c852-4762-ae27-0abe02afc024@speedtest.net:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc5.ir&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
+vless://566b7166-6352-4f0c-9aae-803f922ce383@www.speedtest.net:443?path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048&security=tls&encryption=none&host=maal.pages.dev&fp=randomized&type=ws&sni=maal.pages.dev#[🇨🇦]t.me/ConfigsHub
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaU5tRTFPR1JoTXkwMFptRmtMVFJoWXprdFlUSTVPUzFqWXpGa05EaGxZbU5pT1RR@free.2weradf.xyz:36511#[🏁]t.me/ConfigsHub
