@@ -1828,3 +1828,7 @@ vless://telegram-id-ArV2ray@speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegra
 vless://1b74accb-c197-4f71-b460-cae69af56ed1@irangold.nullserver.ir:432?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@23.20.171.40:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 vless://XpnTeam-Telegram-Channels-22@www.speedtest.net:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.Jaricopen.Shop.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://ac51ad36-5052-460a-842a-e13455d30cb8@172.67.1.191:2053?path=%2FTelegram-proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&host=emoemotional.pages.dev&fp=randomized&type=ws&sni=emoemotional.pages.dev#[🇨🇦]t.me/ConfigsHub
+vless://ab954190-4554-4c09-9dfe-dc264069e9ee@5.223.41.114:8081?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
+vless://79fbbf4e-7a35-41f7-9c85-c98fdf4a81a4@www.speedtest.net:80?path=%2FTelegram+-+%40XvProxy+-+Telegram+-+%40XvProxy&security=none&encryption=none&host=www.speedtest.net.svgspeedtest.net&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.31.16.136:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=NGINX-H.pages.DEV&fp=randomized&type=ws&sni=NGINX-H.pages.DEV#[🇨🇦]t.me/ConfigsHub
