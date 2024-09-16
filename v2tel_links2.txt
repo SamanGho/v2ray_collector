@@ -2485,3 +2485,9 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.225:5003#[🇺🇸]t.me/Conf
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.103:8882#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMTcyLjY0LjEwMy4yMTEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJnbHdlaWRmLmNmZCIsICJpZCI6ICIxMDUyZjI0ZS03YjA5LTQ1ZWItYjBjNS1kODU4ZWIxMjQxOTIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiZ2x3ZWlkZi5jZmQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.144:443?path=%2FH%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=en.mfa.gov.ir&fp=randomized&type=ws&sni=en.mfa.gov.ir#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOXdyd3BEVGRkdHRjYVd5cXVkMU5n@81.19.141.45:52873#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.19.62.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
+vless://TELEGRAM-NUFiLTER@www.speedtest.net:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&security=none&encryption=none&host=Fardaseshanbas.2sedkfjeuixijd0ew9dvkcxoisiek31.BLOG&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://dfb97d14-a04f-4a78-8eec-8d64f2e5c281@speedtest.net:80?type=ws&host=mortezatv223.com&path=/vless&security=none#[🇺🇸]t.me/ConfigsHub
+vless://d5116138-b0ab-401a-9be1-114474e0d20b@Speedtest.net:443?path=%2Ftelegram-proxy_mtm-Telegram-proxy_mtm-telegram-proxy_mtm-proxy_mtm-proxy_mtm-proxy_mtm-proxy_mtm%3Fed%3D2048&security=tls&encryption=none&host=barkat1.ir&type=ws&sni=Speedtest.net#[🇺🇸]t.me/ConfigsHub
