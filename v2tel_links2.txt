@@ -1267,3 +1267,10 @@ vless://9a53b798-7c81-43cd-83b8-995ef74dc1ad@188.245.125.54:12345?path=%2F&secur
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2cXRsWFJuSjFXVzBUQkQ5VGhYUE01@13.74.148.168:28917/?outline=1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUkNEWDdWMzV3akgyOWMxbjJlT0gx@64.226.98.217:40678/?outline=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://612f4024-b6e5-49c2-bff1-aad708dcefe9@www.speedtest.net:80?path=%2Fhormozv.hormozv.hormozv.hormozv%3Fed%3D2048&security=none&encryption=none&host=hormoz.Paradisewarfare.ir.losehismind.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.219.36:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+trojan://telegram-id-privatevpns@18.197.40.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.197.40.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
+vless://e5b45f34-c47e-496b-a8e6-bb4c0c74d8b0@195.178.121.238:58218?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
+vless://e5b45f34-c47e-496b-a8e6-bb4c0c74d8b0@195.178.121.238:58218?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
+vless://a81ab372-a696-4841-91a9-9af42516b091@ultrasenalz.duckdns.org:20180?path=%2F&security=tls&encryption=none&type=ws&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a67872dc-6137-436d-b63f-c2edcca6b331@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=xs2ray.com&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
