@@ -1459,3 +1459,12 @@ vless://3b040601-dccc-40c2-bed5-b94d0148d206@sport.k6n.ir:443?path=Join%3A%40oP%
 vless://telegram-id-P%63V2%72ay@speedtest.net:443?path=%2Ft%65l%65g%72am-P%63V2%72ay%2Ct%65l%65g%72am-P%63V2%72ay%2Ct%65l%65g%72am-P%63V2%72ay%2Ct%65l%65g%72am-P%63V2%72ay%2Ct%65l%65g%72am-P%63V2%72ay%2Ct%65l%65g%72am-P%63V2%72ay%2Ct%65l%65g%72am-P%63V2%72ay%2Ct%65l%65g%72am-P%63V2%72ay%3Fed%3D2048&security=tls&encryption=none=/@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO&alpn=h3,h2,http/1.1&host=ie1gbis.ir&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.32.153.160:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNSjRmVGRjYmowaVg5S0VXMlVHNVFi@52.169.109.160:18750/?outline=1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-directvpn@18.156.58.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://86dd9000-d66f-4885-9529-a2c2769f627f@62.60.192.79:10072?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://38c570c8-1b07-40fc-a60c-fdcc4ecc856e@CV.v2shopvip.cfd:443?path=%2F&security=reality&encryption=none&pbk=joe4pmnhdUoeBf582Q8PBOgtht060EQx2pClarVk4yM&fp=chrome&spx=%2F&type=http&sni=mdundo.com&sid=7a1c6099b0a7f14b#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.77.128.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@54.77.128.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSckhDV0hzNm9uRlAwejhGTmFXVkRt@64.226.98.217:40678/?outline=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@18.156.58.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://38c570c8-1b07-40fc-a60c-fdcc4ecc856e@CV.v2shopvip.cfd:443?path=%2F&security=reality&encryption=none&pbk=joe4pmnhdUoeBf582Q8PBOgtht060EQx2pClarVk4yM&fp=chrome&spx=%2F&type=http&sni=mdundo.com&sid=7a1c6099b0a7f14b#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@18.156.58.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
