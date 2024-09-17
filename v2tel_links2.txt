@@ -1263,3 +1263,7 @@ vless://8e407ae5-a164-4d3d-8e1c-bfbde59471f6@speedtest.net:80?path=%2FTelegram-i
 trojan://telegram-id-privatevpns@13.49.188.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://338d4676-95f0-454e-af0a-29fc60356017@speedtest-fr5.gcore.com:443?security=tls&encryption=none&host=alialimola.com&fp=chrome&type=ws&sni=speedtest-fr5.gcore.com#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 trojan://telegram-id-privatevpns@16.16.55.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
+vless://9a53b798-7c81-43cd-83b8-995ef74dc1ad@188.245.125.54:12345?path=%2F&security=reality&encryption=none&pbk=5-ULVwlDqXjkanMXLwofHDXCHusoe4reTbalv8D5eyo&fp=chrome&spx=%2F&type=http&sni=mdundo.com&sid=95a89ac367c7#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2cXRsWFJuSjFXVzBUQkQ5VGhYUE01@13.74.148.168:28917/?outline=1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUkNEWDdWMzV3akgyOWMxbjJlT0gx@64.226.98.217:40678/?outline=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://612f4024-b6e5-49c2-bff1-aad708dcefe9@www.speedtest.net:80?path=%2Fhormozv.hormozv.hormozv.hormozv%3Fed%3D2048&security=none&encryption=none&host=hormoz.Paradisewarfare.ir.losehismind.ir&type=ws#[🇨🇦]t.me/ConfigsHub
