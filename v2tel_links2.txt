@@ -1274,3 +1274,4 @@ vless://e5b45f34-c47e-496b-a8e6-bb4c0c74d8b0@195.178.121.238:58218?type=tcp&secu
 vless://e5b45f34-c47e-496b-a8e6-bb4c0c74d8b0@195.178.121.238:58218?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
 vless://a81ab372-a696-4841-91a9-9af42516b091@ultrasenalz.duckdns.org:20180?path=%2F&security=tls&encryption=none&type=ws&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a67872dc-6137-436d-b63f-c2edcca6b331@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=xs2ray.com&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRZlFVTVduWTJBS211UTJjVzVyZkQ5@138.68.182.23:2248/?outline=1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
