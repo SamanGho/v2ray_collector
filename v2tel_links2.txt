@@ -1824,3 +1824,14 @@ trojan://telegram-id-directvpn@13.36.21.2:22222?security=tls&alpn=http/1.1&heade
 vless://0e2b8c44-da1f-4e99-99ed-d5a151d69506@speedtest.net:443?allowInsecure=false&alpn=h2%2Chttp%2F1.1&fp=firefox&host=melofin.ir&path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&sni=speedtest.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://d381c71f-e8b6-478d-8f85-51f9a9fb623f@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v10.newbackup.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://d381c71f-e8b6-478d-8f85-51f9a9fb623f@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.newbackup.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+trojan://auto@172.66.44.131:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://307fe89a-138b-4ece-84cf-4ea716a45a0e@212.47.231.216:443?security=reality&encryption=none&pbk=x2CoZIWXYgYUPX7GeQgN0OMB0HjslT_o8OWi4FOdfxU&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=42#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://auto@104.18.12.229:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@3.72.154.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.237.17.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://tg-dns68@162.159.153.5:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=vip.putata.eu.org&fp=randomized&type=ws&sni=vip.putata.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://754a7027-4bd3-5177-81a6-728ac05148b8@172.64.155.209:2096?path=trojan-ws%2F%3Fed%3D2048&security=tls&alpn=h3,h2,http/1.1&host=www.uploadbots.WoRkerS.Dev&fp=randomized&type=ws&sni=www.uploadbots.WoRkerS.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://tg-dns68@162.159.152.133:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=vip.putata.eu.org&fp=randomized&type=ws&sni=vip.putata.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@3.72.154.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@15.237.17.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
