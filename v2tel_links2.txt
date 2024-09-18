@@ -1965,3 +1965,8 @@ trojan://telegram-id-privatevpns@35.179.199.27:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@3.9.221.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.9.221.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.252.77:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://d381c71f-e8b6-478d-8f85-51f9a9fb623f@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.newbackup.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://telegram-id-ArV2ray@speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D80&security=none&encryption=none&host=v6ehst.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://111cdb03-9206-4bd0-8598-d0f4abe61201@79.127.70.80:2087?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://d381c71f-e8b6-478d-8f85-51f9a9fb623f@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.newbackup.com#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBTW9IQ1lJZjJFbUJqbXRLNTRMU0Ez@165.22.238.239:44386/?outline=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
