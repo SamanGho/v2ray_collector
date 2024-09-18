@@ -1952,3 +1952,7 @@ trojan://telegram-id-privatevpns@35.179.199.27:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@35.179.199.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 vless://38c570c8-1b07-40fc-a60c-fdcc4ecc856e@188.245.125.1:443?path=%2F&security=reality&encryption=none&pbk=joe4pmnhdUoeBf582Q8PBOgtht060EQx2pClarVk4yM&fp=chrome&type=http&sni=mdundo.com&sid=7a1c6099b0a7f14b#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.126.247:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://telegram-id-privatevpns@3.72.154.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBNVdWdEpMbmlUemtuNFJtSHdMZlhF@167.99.216.236:50250/?outline=1#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?path=6b777a91&security=tls&host=jobscareertoday.com&type=ws&sni=jobscareertoday.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
