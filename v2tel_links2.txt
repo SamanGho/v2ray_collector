@@ -1118,3 +1118,5 @@ vless://05670e2b-7578-4bb8-8775-b79d5331846c@SpeedTest.net:80?security=none&type
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?path=6b777a91&security=tls&host=jobscareertoday.com&type=ws&sni=jobscareertoday.com#[🇨🇦]t.me/ConfigsHub
 vless://05670e2b-7578-4bb8-8775-b79d5331846c@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v16.newbackup.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-directvpn@51.44.64.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRjFnMm1INzNaQjZnb0N5cXFOcVV5@45.33.30.8:18789/?outline=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://38c570c8-1b07-40fc-a60c-fdcc4ecc856e@188.245.125.1:443?path=%2F&security=reality&encryption=none&pbk=joe4pmnhdUoeBf582Q8PBOgtht060EQx2pClarVk4yM&fp=chrome&type=http&sni=mdundo.com&sid=7a1c6099b0a7f14b#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
