@@ -2420,3 +2420,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Q3Z0bThuN2tXa1hpeUJHY01GcFRX@138.68.182.23:
 trojan://tg-dns68@162.159.152.61:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=vip.putata.eu.org&fp=randomized&type=ws&sni=vip.putata.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://tg-dns68@162.159.153.67:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=vip.putata.eu.org&fp=randomized&type=ws&sni=vip.putata.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://tg-dns68@162.159.153.67:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=vip.putata.eu.org&fp=randomized&type=ws&sni=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
+vless://62f04c13-def8-4d5b-be9a-e749cd754887@irancellserver6.gamelip.ir:47839?security=none&encryption=none&host=amirzaplus.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://a04f9404-df20-41fa-9741-9b05659a6e40@92.223.124.32:80?type=httpupgrade&path=%2F%3Fed%3D2048&host=admin.322355.shop&security=none#[🇩🇪]t.me/ConfigsHub
+vless://a04f9404-df20-41fa-9741-9b05659a6e40@92.223.124.27:80?type=httpupgrade&path=%2F%3Fed%3D2048&host=admin.322355.shop&security=none#[🇩🇪]t.me/ConfigsHub
