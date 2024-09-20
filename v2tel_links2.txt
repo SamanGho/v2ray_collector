@@ -1983,3 +1983,4 @@ vless://2bf9e9f4-f8ef-4e46-8bfc-f5ef648817f7@172.67.66.177:443?path=%2FTelegram-
 trojan://auto@104.20.19.168:2083?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.188.126.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v30.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c3399596-adb2-4aab-8dde-62260091406b@speedtest.net:443?path=%2Fde%3Fed%3D1048&security=tls&encryption=none&host=safirmobile.ir&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
