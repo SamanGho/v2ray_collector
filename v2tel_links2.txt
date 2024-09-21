@@ -3246,3 +3246,4 @@ vless://56ca2df7-add1-4e50-979c-296dd9adc583@speedtest.net:80?path=%2FTelegram-i
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@speedtest.org:2096/?type=ws&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2560&security=tls&sni=JoinV2nGFaSt-2MM.pAges.DEV#[🇨🇦]t.me/ConfigsHub
 vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.37:19280/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&fp=qq&security=reality&pbk=F5_aTQFA2QRCig3L-qT0Qth76JdewSHK5MgEt_p8Dlo&sid=a8bd783f#[🏁]t.me/ConfigsHub
 vless://07aa30ea-6170-494d-8ae2-80a5e18b37f0@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&host=lc44.lebasnoo.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bmJ3NG5jbVhQUEwwQlhUUlpENllI@64.226.98.217:40678/?outline=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
