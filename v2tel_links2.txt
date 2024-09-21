@@ -2509,3 +2509,5 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogImphcGFuLmNvbSIsICJwb3J0IjogMjA4NiwgImFpZCI6IDAs
 vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v16.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://acedaff4-c260-4ffc-9417-d4a897c70097@speedtest.net:80?path=%2Firanargo%3Fed%3D1024&security=none&encryption=none&host=iranargo.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://d01a40f5-4e6f-4279-b0a9-0f2a268ab03c@198.41.208.211:8080?encryption=none&security=none&type=ws&host=worker-falling-snow-ffd7.test61.workers.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0486572a-d616-4b8d-b512-d91f4669d5d2@www.speedtest.net:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2560&security=none&encryption=none&host=cdn-specxtech-googLe.com.boRo2sound.IR.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3dFZobzFrT2xreHdRTkJDcXA4cEpG@165.22.238.239:44386/?outline=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
