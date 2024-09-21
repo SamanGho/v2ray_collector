@@ -2578,3 +2578,20 @@ vless://8baccd09-9b09-4fe4-b0e7-c1c4a5688e03@SpeedTest.net:80?security=none&type
 trojan://telegram-id-directvpn@13.48.94.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 vless://d0478338-89ae-43c8-ab64-b1b6f0a23c3b@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#[🇨🇦]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.200.234:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+vless://54b3cbba-e6ac-485a-9481-976a0873eab9@172.67.190.211:2082/?type=ws&encryption=none&host=bLaCk-trutH-63Bc.DoviF72324.WoRKeRs.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@twjpzz2.156786.xyz:37107/?type=tcp&security=tls&sni=2jp04162531be-29a9-2764-8627-51a5f4436fbd.233235.xyz#[🏁]t.me/ConfigsHub
+vless://3f2a8ac5-f359-4333-865a-7064e31c2537@104.26.15.85:443/?type=ws&encryption=none&host=nufilter.pages.dev&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=nufilter.pages.dev&fp=randomized#[🇨🇦]t.me/ConfigsHub
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@4sgmax02.156786.xyz:718/?type=tcp&security=tls&sni=4sgmax02.156786.xyz#[🏁]t.me/ConfigsHub
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@1jpmax05.156786.xyz:825/?type=tcp&security=tls&sni=1jpmax05.156786.xyz#[🏁]t.me/ConfigsHub
+vless://c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9@iranserver.com:80/?type=ws&encryption=none&host=join-to.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880#[🇨🇦]t.me/ConfigsHub
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@tw3.233235.xyz:11125/?type=tcp&security=tls&sni=tw3.233235.xyz#[🏁]t.me/ConfigsHub
+vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.126.175:2083/?type=ws&encryption=none&host=id-falcunargo.sociy12386.workers.dev&path=%2FTelegram%40SinaBigo%40SINABIGO%2F%3Fed%3D2048&security=tls&sni=id-falcunargo.sociy12386.workers.dev&fp=chrome#[🇨🇦]t.me/ConfigsHub
+vless://c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9@speedtest.net:443/?type=ws&encryption=none&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&security=tls&sni=speedtest.net&fp=firefox#[🇺🇸]t.me/ConfigsHub
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@twjpzz2.156786.xyz:35602/?type=tcp&security=tls&sni=2usmax01.170203.xyz#[🏁]t.me/ConfigsHub
+vless://68c31a7c-49df-456f-8df5-ac8d651b60b6@104.21.24.72:443/?type=ws&encryption=none&host=telegram-falcunargo.c54a5410b0.workers.Dev&path=%2F%3Fed%3D2048&security=tls&sni=telegram-falcunargo.c54a5410b0.workers.Dev#[🇨🇦]t.me/ConfigsHub
+vless://DIGIV2RAy@www.speedtest.net:2095/?type=tcp&encryption=none#[🇨🇦]t.me/ConfigsHub
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@2sgmax02.156786.xyz:829/?type=tcp&security=tls&sni=2sgmax02.156786.xyz#[🏁]t.me/ConfigsHub
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@tw60.233235.xyz:703/?type=tcp&security=tls&sni=tw60.233235.xyz#[🏁]t.me/ConfigsHub
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@twjpzz2.156786.xyz:20263/?type=tcp&security=tls&sni=usmax03.170203.xyz#[🏁]t.me/ConfigsHub
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@tw1.170203.xyz:6678/?type=tcp&security=tls&sni=tw1.170203.xyz#[🏁]t.me/ConfigsHub
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@twjpzz2.156786.xyz:55428/?type=tcp&security=tls&sni=hkmax04.170203.xyz#[🏁]t.me/ConfigsHub
