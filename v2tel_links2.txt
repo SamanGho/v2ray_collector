@@ -3260,3 +3260,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmR0NiT29RNlRScTQ3bUFNdmV2T1hj@167.99.216.236
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443/?type=ws&encryption=none&host=v2nGfasT-b95.PAGEs.dEv&path=%2FfbcWzDzJvoTG4l0W%3Fed%3D2560&security=tls&sni=V2NgFAST-b95.Pages.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpobkw0WDlReWRSNnJMWFdpOHhlOFRO@138.68.182.23:2248/?outline=1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMZGdFOGh0ZHR0SDdkSUZtN0JpTUJj@212.113.106.76:29149#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
+vless://f7d49aa1-da25-43be-83cd-2d6115c519a0@hivai.danagamer.ir:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://f7d49aa1-da25-43be-83cd-2d6115c519a0@hivai.danagamer.ir:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
