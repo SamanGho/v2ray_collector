@@ -2461,3 +2461,12 @@ vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@185.16.110.60:2082?path=%2F&securit
 vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@185.16.110.78:2082?path=%2F&security=none&encryption=none&host=finhztco.nipytee.info&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@185.16.110.78:2082?path=%2F&security=none&encryption=none&host=finhztco.nipytee.info&type=httpupgrade#[🇫🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUaG1wc0U1dDVPQ1VScDBCaEZyd2ln@45.33.30.8:18789/?outline=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://08bca69b-7dc9-460d-b149-0f4cb88a3971@104.17.148.22:8080?Telegram=%40v2maxx#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpST1RwV3N4ZzFwZEtjSGtvaXJnTFRZ@64.226.98.217:40678/?outline=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://ff9a1acf-b372-49ca-bbb7-c326f81a2cdd@aPplINUx.dEV.DALIDOM.COM:5030?encryption=none&security=reality&sni=FaAsSeNtuInenDieR.Nl&fp=firefox&pbk=-abCzp9pPLRuRSUFgMAqKGygD8l0fcCQyq7k8wU8LlA&sid=e18af1e481&spx=%2FMod%3D2048&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
+vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiIxMDQuMjEuNC42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLmNmZCIsImlkIjoiMTA1MmYyNGUtN2IwOS00NWViLWIwYzUtZDg1OGViMTI0MTkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2x3ZWlkZi5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://151d73c4-1ea0-4092-a4c7-b02570972691@speedtest.net:80?path=%2Fadmin&security=none&encryption=none&host=Gn85.io&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://dab5aa68-ee2d-4b10-8202-cf6279622183@speedtest.net:80?path=%2Fadmin&security=none&encryption=none&host=privatevipch.com&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?path=%2FTelegram-proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=de1-moryvpnbot.pages.dev&type=ws&sni=de1-moryvpnbot.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://410153ea-aecd-468e-912c-e0145831b2ee@199.232.57.57:80?path=%2Fadmin&security=none&encryption=none&host=Gn86.io&type=ws#[🇬🇧]t.me/ConfigsHub
