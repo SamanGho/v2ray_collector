@@ -3585,3 +3585,7 @@ vless://f07e4e4f-1d03-4b3f-a54c-9c78595b04ab@203.32.121.53:443?path=%2F%3Fed%3D2
 trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://e28e59ce-0deb-4787-bb68-22a0f2e38477@188.114.96.3:8443?path=/Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.208.24.211:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://2a245a20-1f31-4cf6-bc26-8f0929c9a64f@speedtest.net:443?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8880&security=tls&encryption=none&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&fp=firefox&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d6831929-2122-490e-93bb-c6f151166791@93.114.98.253:46131?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=zula.ir#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
+trojan://telegram-id-privatevpns@108.128.25.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs
