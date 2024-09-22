@@ -3580,3 +3580,8 @@ vless://TELEGRAM-NUFiLTER@Www.speedtest.net:8880?path=%2Ftelegram-NUFiLTER%2Ctel
 vless://TELEGRAM-NUFiLTER@Www.speedtest.net:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&security=none&encryption=none&host=Kahoo.2sedkfjeuixijd0ew9dvkcxoisiek31.blog&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://%37%37%61%62%61%35%32%33%2d%37%62%32%35%2d%34%63%32%39%2d%39%61%32%62%2d%30%34%38%61%30%62%64%62%31%35%34%37@151.101.66.219:443?Telegram=@V2RayTz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://e28e59ce-0deb-4787-bb68-22a0f2e38477@104.19.239.120:8443?path=/Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@99.80.87.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
+vless://f07e4e4f-1d03-4b3f-a54c-9c78595b04ab@203.32.121.53:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev#👉🆔 @v2ray_configs_pool📡🇻🇬British Virgin Islands
+trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://e28e59ce-0deb-4787-bb68-22a0f2e38477@188.114.96.3:8443?path=/Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#[🇨🇦]t.me/ConfigsHub
