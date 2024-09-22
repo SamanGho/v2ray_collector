@@ -3291,3 +3291,4 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogIm1hbGF5c2lhLmNvbSIsICJwb3J0IjogMjA4NiwgImFpZCI6
 vless://c717d4ca-7ca1-44d8-a987-b1b430fe3d22@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://c717d4ca-7ca1-44d8-a987-b1b430fe3d22@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.drlimit.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3WE16aFpZRExickE4REVHU3pnd25Z@165.22.238.239:44386/?outline=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://4c74edf8-69ae-40f3-bc13-a22e9b31b751@104.18.218.118:8443?path=/Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
