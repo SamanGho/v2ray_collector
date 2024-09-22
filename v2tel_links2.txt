@@ -3963,3 +3963,8 @@ ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@80.92.204.106:9064#[🇩🇪]t.me/Co
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.157.40.113:8008#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.103:7001#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.112:9090#[🇺🇸]t.me/ConfigsHub
+vless://DIGIV2RAy@www.speedtest.net:2095?type=httpupgrade&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAy@www.speedtest.net:2095?type=ws&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://DIGIV2RAy@www.speedtest.net:2095?type=httpupgrade&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none#[🇨🇦]t.me/ConfigsHub
+vless://DIGIV2RAy@www.speedtest.net:2095?type=ws&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none#[🇨🇦]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&fp=randomized&type=ws&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV#[🇨🇦]t.me/ConfigsHub
