@@ -3956,3 +3956,10 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.157.40.103:9101#👉🆔 @v2ray_conf
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.51:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://71f254f6-88dd-4a89-bcd7-8d4dd5885cd3@speedtest.net:443?security=tls&sni=speedtest.net&type=ws&path=/%54%65%6C%65%67%72%61%6D%3A%40%76%6D%65%73%73%6F%72%67-%54%65%6C%65%67%72%61%6D%3A%40%76%6D%65%73%73%6F%72%67-%54%65%6C%65%67%72%61%6D%3A%40%76%6D%65%73%73%6F%72%67?ed%3D8080&host=http.www.speedtest.net.fast.com.google.com.vmessorg.ir.#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.75.68.210:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@80.92.204.106:9064#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.157.40.113:8008#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.103:7001#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.112:9090#[🇺🇸]t.me/ConfigsHub
