@@ -4069,3 +4069,7 @@ trojan://telegram-id-privatevpns@51.20.231.5:22222?security=tls&alpn=http/1.1&he
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.35.245:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 trojan://telegram-id-privatevpns@51.20.231.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.60.8:2086?path=%2Fahmedquran19.xyz%3A443%2Fcurrent_time&security=none&encryption=none&host=vcp3.cushingreflex5.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?path=%2F%3Fed%3D2048TeleGram#[🇨🇦]t.me/ConfigsHub
+vless://ee940d58-198a-4d81-b67f-bb00ac3b1f79@217.60.193.204:7575?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://746aa4e7-85be-47d4-ac58-2bdfbcc790b5@104.19.239.120:8443?path=/Telegram#[🇨🇦]t.me/ConfigsHub
+vless://ee940d58-198a-4d81-b67f-bb00ac3b1f79@217.60.193.204:7575?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
