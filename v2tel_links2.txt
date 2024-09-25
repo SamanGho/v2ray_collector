@@ -5372,3 +5372,10 @@ vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443/?type=ws&encryptio
 trojan://auto@162.159.136.232:8443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vmess://eyJhZGQiOiI0NS45NC42OC4xOTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzRhOGFjNzctNGYyMC00NjM1LTkzMzQtNTY1ZTQ4MDExY2QxIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDgyNzkiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 trojan://auto@172.66.44.131:443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVUlPanZGaE01bjdnQ0hrWnBQQ2E4@157.245.203.100:80#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVUlPanZGaE01bjdnQ0hrWnBQQ2E4@157.245.203.100:80#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowS0p1MmZvM2IzMlBCWnJLZnVhMUtx@89.185.84.185:12575#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-privatevpns@63.32.244.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@3.9.187.114:443#[🇬🇧]t.me/ConfigsHub
+vmess://eyJhZGQiOiI4NS4xOTQuMjQ2LjExNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MTE4YmIwMC1kM2JmLTQwM2ItOTlkMy1lOTcwYWRjYWQ2ZDQiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI0ODAwNSIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@3.9.187.114:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
