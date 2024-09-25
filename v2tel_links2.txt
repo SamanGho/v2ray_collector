@@ -5489,3 +5489,12 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.69.201:22222?path=/telegram-c
 trojan://telegram-id-directvpn@18.170.164.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 vless://a1585ae4-92c3-49c8-abec-4211710c870a@190.93.247.56:8080?path=%2Fspeedtest%3Fed%3D2560&security=none&encryption=none=/@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO&host=webmail.palmex.iR.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
 vless://T%45L%45GR%41M-N%55F%69LT%45R@bache.2sedkfjeuixijd0ew9dvkcxoisiek31.blog:8880?path=%2Ft%65leg%72am-N%55F%69LT%45R%2Ct%65l%65g%72am-N%55F%69LT%45R%2Ct%65leg%72am-N%55F%69LT%45R%2Ct%65leg%72am-N%55F%69LT%45R%3Fed%3D8880&security=none&encryption=none=/@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO&host=bademjom.2sedkfjeuixijd0ew9dvkcxoisiek31.blog&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.101:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.16:5001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.113:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.222:5499#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMTZtRXpjdGhrZFFBcUxkczlNc3NK@77.83.246.74:33320#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOXdyd3BEVGRkdHRjYVd5cXVkMU5n@81.19.141.45:52873#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.113:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89e582a7-212e-47f6-8605-056ef2f867b7@193.107.48.173:443?security=none&encryption=none&host=zula.ir%2Cspeedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://fcbb4c7c-0174-41c5-bb3d-55eeaf4a93c7@speedtest-fr5.gcore.com:80?path=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&security=none&encryption=none&host=kio.ir&type=httpupgrade#[🇩🇪]t.me/ConfigsHub
