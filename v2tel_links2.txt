@@ -5696,3 +5696,4 @@ vless://476c9705-0ab2-4729-904b-3774179fad8b@185.146.173.58:8080?type=ws&host=lc
 vless://476c9705-0ab2-4729-904b-3774179fad8b@185.146.173.58:8080?type=ws&host=lc58.lebasnoo.ir.&path=/servernett&security=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://e8f27947-b951-47ea-9132-3edae1fdab86@185.146.173.58:8080?type=ws&host=lc57.lebasnoo.ir.&path=/servernett&security=none#[🇸🇪]t.me/ConfigsHub
 vless://e8f27947-b951-47ea-9132-3edae1fdab86@185.146.173.58:8080?type=ws&host=lc57.lebasnoo.ir.&path=/servernett&security=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://c9e5cba7-938f-4f1f-8d56-ac9aa21d46c9@Zula.ir:2096?type=grpc&serviceName=%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel&authority=&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=Abc.unique69.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
