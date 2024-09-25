@@ -5498,3 +5498,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOXdyd3BEVGRkdHRjYVd5cXVkMU5n@81.19.141.45:5
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.113:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://89e582a7-212e-47f6-8605-056ef2f867b7@193.107.48.173:443?security=none&encryption=none&host=zula.ir%2Cspeedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://fcbb4c7c-0174-41c5-bb3d-55eeaf4a93c7@speedtest-fr5.gcore.com:80?path=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&security=none&encryption=none&host=kio.ir&type=httpupgrade#[🇩🇪]t.me/ConfigsHub
+trojan://f653ef08c54e21b3@13.114.31.41:3306?path=%2Fgateway%2Fconnect&security=tls&host=TG.WangCai_1&type=ws&sni=TG.WangCai2#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
