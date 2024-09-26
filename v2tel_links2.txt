@@ -6104,3 +6104,4 @@ vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@151.101.66.219
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.199.138:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
 trojan://telegram-id-directvpn@18.217.23.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@15.236.5.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://1906ae05-f1f9-437e-8f22-af42b8ff3912@evs.v2shopvip.cfd:443?security=reality&encryption=none&pbk=fNNO0bcD4C5iRWViADA-X14dUEHOv9yxgof0V07vlzo&headerType=none&fp=chrome&type=tcp&sni=mdundo.com&sid=70f11823290b68ff#[🇩🇪]t.me/ConfigsHub
