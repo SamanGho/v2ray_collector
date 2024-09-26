@@ -5782,3 +5782,14 @@ vless://cb8f38d1-9681-4f32-88fc-8a30c0275182@speedtest.net:443?allowInsecure=fal
 vless://132b634a-d687-49ef-dea7-e034e77418b6@www.speedtest.net:8880?host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F&security=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://afe819aa-6f55-4dee-d2ae-1bc4a635b017@185.146.173.52:8880?type=httpupgrade&security=none&host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://0451f9d0-897a-4598-954c-72bb5e5adf7b@190.93.247.56:2082?path=%2Fspeedtest%3Fed%3D2560&security=none&encryption=none&host=webmail.hpcdn.info.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+trojan://telegram-id-privatevpns@51.20.57.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.20.57.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://d4839c6a-4a44-4f6f-a2c1-5344c43b408d@85.133.200.28:45627?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://afe819aa-6f55-4dee-d2ae-1bc4a635b017@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@51.20.57.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-directvpn@13.50.162.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@104.21.80.70:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=private-codmhttp.teqqlzdw.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.229.225:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.170.213:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=king1980.b91sptsl.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://3e2be9f4-363f-419d-a23a-28e171c6bc54@172.67.140.149:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=telegram-falcunargo.31186fb105.workers.Dev&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.50.162.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
