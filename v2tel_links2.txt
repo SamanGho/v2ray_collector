@@ -5773,3 +5773,7 @@ trojan://telegram-id-directvpn@51.21.86.17:22222?security=tls&alpn=http/1.1&head
 vmess://eyJhZGQiOiI4NS4xOTQuMjQ2LjExNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MTE4YmIwMC1kM2JmLTQwM2ItOTlkMy1lOTcwYWRjYWQ2ZDQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI2MjY4MCIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 trojan://telegram-id-privatevpns@13.51.211.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@51.21.86.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.170.213:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=king1980.b91sptsl.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://32bd6e4b-e58c-4e49-8ccb-3fa645e90344@join.kiava.cloud.ohbah.com:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ht96.awscloudfront.net.kiava.fun&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@104.21.80.70:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=private-codmhttp.teqqlzdw.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3e2be9f4-363f-419d-a23a-28e171c6bc54@172.67.140.149:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=telegram-falcunargo.31186fb105.workers.Dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
