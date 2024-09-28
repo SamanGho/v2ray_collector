@@ -7336,3 +7336,12 @@ vless://ac79daa4-f5af-44e1-be79-efc6f95459d9@speedtest.net:443?path=%2Ftelegram-
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=iSAA1.paGEs.DEV&fp=randomized&type=ws&sni=iSaa1.PAGeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@speedtest.org:8443?path=%2FTelegram-proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoInmaHDiseRveR-Az7.paGES.dEv&fp=chrome&type=ws&sni=JOInMahdIServER-Az7.PaGeS.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.150.152.16:5500#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@18.224.12.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://YWVzLTI1Ni1nY206N2dhVFRsVzczRw==@51.222.157.179:49602#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.183.252.175:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+trojan://telegram-id-privatevpns@3.74.197.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.103:8008#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.101:8008#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1U0ZpTnRqd3pDMXkyUU1QTmhyWEFUNWdrbkUxbWdIZ2dzcUw2Z1BrVUZQdldxckhDNjNVNXA1VkNOWkJrdFQ3Qk5veWtHZDFneFBaeTl6b1NzajZIcnc1WVYzWHZvUGg=@194.87.179.169:40928#[🏁]t.me/ConfigsHub
