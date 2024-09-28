@@ -7461,3 +7461,8 @@ trojan://telegram-id-privatevpns@13.42.117.7:22222?security=tls&alpn=http/1.1&he
 trojan://wkmY1R4EcP@45.32.148.182:443?security=tls&headerType=none&type=tcp&sni=z-v2-002805.kailib.com#[🇫🇷]t.me/ConfigsHub
 trojan://wkmY1R4EcP@45.32.148.182:443?security=tls&headerType=none&type=tcp&sni=z-v2-002805.kailib.com#👉🆔 @v2ray_configs_pool📡🇫🇷France
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@139.64.165.153:2375#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuQU9zV1RYd3dsQkZkMkV6MmRHSzJz@13.79.174.197:63314#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://195339de-72a9-44b2-899f-e68cf63e6cf0@zxcfsdfbcv.irancell_mci.panel-juyom.ir:443?security=none&encryption=none&seed=VNrAUieq4F&headerType=wireguard&type=kcp#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
+vless://ac83bfed-7288-49d1-8c1c-2079f86aa76a@194.5.178.153:443?type=tcp&security=none#[🇮🇷]t.me/ConfigsHub
+vless://195339de-72a9-44b2-899f-e68cf63e6cf0@zxcfsdfbcv.irancell_mci.panel-juyom.ir:443?security=none&encryption=none&seed=VNrAUieq4F&headerType=wireguard&type=kcp#[🇺🇸]t.me/ConfigsHub
+vless://ac83bfed-7288-49d1-8c1c-2079f86aa76a@194.5.178.153:443?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
