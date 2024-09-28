@@ -7025,3 +7025,5 @@ vless://52fe910a-2ef3-4755-93ad-82dfe61ccb4d@45.88.200.179:443/?type=tcp&encrypt
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@45.132.107.196:12345/?type=http&encryption=none&path=%2F&sni=telewebion.com&fp=chrome&security=reality&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 vless://2ff61922-c798-410b-9417-6cb688355e3e@45.140.167.94:8443/?type=grpc&encryption=none&serviceName=grpc&sni=185.162.228.98&fp=chrome&security=reality&pbk=IqnFESYrPnkV7KUaekX8cL8TSRwDZHuUIKmD0N99Fxc&sid=2880ee24bb417d46#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://177dfbdf-8337-40ea-8791-906924b9fb2f@185.203.241.117:12345/?type=http&encryption=none&path=%2F&sni=telewebion.com&fp=chrome&security=reality&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://ed8c856b-ced2-443e-bf7a-6216162cac8f@18.199.98.251:20660?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://ed8c856b-ced2-443e-bf7a-6216162cac8f@18.199.98.251:20660?type=tcp&security=none#[🇩🇪]t.me/ConfigsHub
