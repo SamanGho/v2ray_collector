@@ -7686,3 +7686,6 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogIjIxMy4xODkuNTMuOTEiLCAicG9ydCI6ICI1MTQwIiwgImlk
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@std1.loadingip.com:443?allowInsecure=1#[🏁]t.me/ConfigsHub
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@std1.loadingip.com:443?allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇻🇳Vietnam
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.2:443?path=/TEL-@TEHRANARGO---TEL-@TEHRANARGO---TEL-@TEHRANARGO---TEL-@TEHRANARGO%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@13.49.17.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.19.245:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+trojan://telegram-id-directvpn@13.60.131.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
