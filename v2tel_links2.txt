@@ -871,3 +871,17 @@ vless://ae492a51-b6a7-4f1b-a2a1-e82cfa96e3f7@193.107.48.5:8080?security=none&typ
 trojan://telegram-id-privatevpns@52.50.58.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.232:443?security=tls&sni=hz.ylks.xyz&type=ws&path=%2F%3Fproxyip#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+trojan://telegram-id-directvpn@3.99.1.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://trojan@speedtest.org:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=test-a23.pages.dev&fp=chrome&type=ws&sni=test-a23.pages.dev#[🇨🇦]t.me/ConfigsHub
+trojan://bpb-trojan@104.19.35.14:443?path=%2Ftrbo9SGocZQNTqq3Cd%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ%3D%3D&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=BPB-wOrkeR-pANel1-E4P.pageS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://I_Love_🇵🇸_SSHMax_8dae2a1@199.232.32.213:443?path=%2Fvless&security=tls&encryption=none&alpn=h2,http/1.1&host=baryeiraniazad.ir&fp=randomized&type=ws&sni=baryeiraniazad.ir#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.31.13.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.250.85.217:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.208.114.129:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@104.16.134.27:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.sub.amclubs.us.kg&fp=random&type=ws&sni=vless.sub.amclubs.us.kg#[🇨🇦]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?security=tls&sni=ClOuDflaReiRaN1.pAgeS.dev&type=ws&host=cloudflareiran1.pages.dev&path=%2F1jk0RN6A5M3aEMof&fp=randomized&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.146:443?security=tls&sni=hz.ylks.xyz&type=ws&path=%2F%3Fproxyip#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.49.131.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
+vless://28af2f18-ecd1-4db0-bf4b-92bf032f8fca@104.19.239.120:8443?path=/%54%65%6C%65%67%72%61%6D%2C%56%50%4E%43%55%53%54%4F%4D%49%5A%45%3Fed%3D8080&serviceName=-TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://I_Love_🇵🇸_SSHMax_8dae2a1@199.232.32.213:443?path=%2Fvless&security=tls&encryption=none&alpn=h2,http/1.1&host=baryeiraniazad.ir&fp=randomized&type=ws&sni=baryeiraniazad.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ab6ac91e-2e86-4f6b-99ac-dd1124a023c4@uigukjlgbkljguyfkjbk.pages.dev:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=uigukjlgbkljguyfkjbk.pages.dev&fp=randomized&sni=uigukjlgbkljguyfkjbk.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
