@@ -1069,3 +1069,5 @@ trojan://auto@162.159.135.232:8443?path=%2F&security=tls&host=e9464f45.trauma-2r
 vless://0d15f609-0bc5-47ee-9c64-0ff896cc8ae6@188.114.96.3:80?path=TelegramChanel%3At.me%2FHTTP_injector99&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.chanel97.online.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@speedtest.org:2096?path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://0d15f609-0bc5-47ee-9c64-0ff896cc8ae6@188.114.96.3:80?path=TelegramChanel%3At.me%2FHTTP_injector99&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.chanel97.online.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2601b9cc-8853-42a9-9bcb-fbdb2ceda399@79.127.70.81:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
