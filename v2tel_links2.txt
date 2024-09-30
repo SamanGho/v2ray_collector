@@ -523,3 +523,9 @@ vless://9ba3ab5d-745f-4e44-96df-a7f8e4de3e16@104.17.234.114:8443?security=tls&sn
 vless://cfe807a1-479e-4c59-b64e-ddbd50716a06@speedtest-fr5.gcore.com:80?type=httpupgrade&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=kio.ir&security=none#[🇩🇪]t.me/ConfigsHub
 vless://086be274-591b-4bd8-8817-2952b8ffab6c@speedtest.net:443?security=tls&sni=speedtest.net&type=ws&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&host=joinshhproxybede.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:2053?security=tls&sni=www.speedtest.net&path=%2FWl8PsB136Gnr8bwV%3Fed%3D2560&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@38.147.190.25:8388#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@38.147.190.25:8388#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkppTTJGaw@95.164.35.90:8388#[🏁]t.me/ConfigsHub
+vless://850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkppTTJGaw@95.164.35.90:8388#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
