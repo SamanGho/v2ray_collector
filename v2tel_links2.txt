@@ -1894,3 +1894,4 @@ vless://b0341ae8-665b-437a-983f-cf7245a51799@151.101.206.174:443?security=tls&sn
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.12:6379#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.97:5001#[🇺🇸]t.me/ConfigsHub
 vless://24151688-263d-4fae-864f-1f095e6d1560@104.21.20.148:80?security=none&sni=join-to.unlimiteddev.community&type=ws&host=join-to.unlimiteddev.Community.&fp=chrome#[🇺🇸]t.me/ConfigsHub
+vless://92dfb99b-1051-4bbb-ae7d-16cb63495e52@104.18.111.164:443?encryption=none&security=tls&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=50355903046384688792200288344243.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS#[🇺🇸]t.me/ConfigsHub
