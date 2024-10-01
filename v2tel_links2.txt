@@ -1873,3 +1873,6 @@ vless://e9f82f9c-74e9-4b31-fbe9-c1e7c71ec6a3@2bb.m8tokhsali.xyz:2053?security=no
 vless://e9f82f9c-74e9-4b31-fbe9-c1e7c71ec6a3@2bb.m8tokhsali.xyz:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZDI5ZDdhZC01ZmRhLTRmNjQtYTU3ZS03MTZjYTYwMTBlNjU@122.195.189.15:10726#👉🆔 @v2ray_configs_pool📡🇨🇳China
 vless://a4682305-d2dc-4d1b-b753-30565a511ded@www.speedtest.net:8443?path=/Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://7e38ce31-f444-42d8-903d-d4d5d8e7ae2c@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#[🇺🇸]t.me/ConfigsHub
+vless://d715c48f-8120-4af8-a3b9-6c8677879640@37.152.182.55:8080?encryption=none&security=none&type=ws&path=%2F#[🇮🇷]t.me/ConfigsHub
+vless://d715c48f-8120-4af8-a3b9-6c8677879640@37.152.182.55:8080?encryption=none&security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
