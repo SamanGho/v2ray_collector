@@ -1433,3 +1433,9 @@ vless://Telegram-mainv2ray-mainv2ray@www.speedtest.net:8080?path=/TELEGRAM-@Main
 vless://Telegram-mainv2ray-mainv2ray@www.speedtest.net:80?path=/TELEGRAM-@MainV2-ray#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://Telegram-mainv2ray-mainv2ray@www.speedtest.net:8080?path=/TELEGRAM-@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray%3Fed%3D8880&security=none&encryption=none&host=JOiNMAiN.MRaLPHa-Vpn.CoM.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://a4682305-d2dc-4d1b-b753-30565a511ded@104.18.218.118:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@18.133.24.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.185.110:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+trojan://telegram-id-privatevpns@15.236.175.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
+vless://6a218616-fff0-4d22-b7a0-b3bc6ce70dc4@91.107.191.75:669?security=none&encryption=none&host=upload.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://a4682305-d2dc-4d1b-b753-30565a511ded@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6a218616-fff0-4d22-b7a0-b3bc6ce70dc4@91.107.191.75:669?security=none&encryption=none&host=upload.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
