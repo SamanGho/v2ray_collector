@@ -2359,3 +2359,7 @@ vless://01e269df-2260-4e6d-8e30-f97c22df6167@www.speedtest.net:80?path=%2FAOagII
 vless://4cceb477-bbdd-4f4a-9816-68de181425a1@speedtest.net:443?path=%2Fvless%3Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn&security=tls&encryption=none&alpn=h2,http/1.1&host=54371.ir&fp=firefox&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
 trojan://Watashi_VPN@104.18.26.94:8443?path=%2F&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.50.60.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.5:7002#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNjM5MTIxMS1jZTY1LTQ3NTItOGJiYi00MTE1ODFjMDQzNGY@113.31.144.105:30001#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.68:8091#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.135.90.246:443#[🇬🇧]t.me/ConfigsHub
