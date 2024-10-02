@@ -1895,3 +1895,10 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.12:6379#[🇺🇸]t.me/Config
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.97:5001#[🇺🇸]t.me/ConfigsHub
 vless://24151688-263d-4fae-864f-1f095e6d1560@104.21.20.148:80?security=none&sni=join-to.unlimiteddev.community&type=ws&host=join-to.unlimiteddev.Community.&fp=chrome#[🇺🇸]t.me/ConfigsHub
 vless://92dfb99b-1051-4bbb-ae7d-16cb63495e52@104.18.111.164:443?encryption=none&security=tls&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=50355903046384688792200288344243.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS#[🇺🇸]t.me/ConfigsHub
+vless://DIGIV2RAY@www.speedtest.net:2095?type=httpupgrade&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&path=/tm-Digiv2-__teldIGIv2__-DIGIV&security=none#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwQkYwSjBicDd6Nkh3b0Njc2pOWHow@77.83.246.74:33320#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://6511e6ad-0383-48cd-a5b8-00e4a4c82655@carmelo.ns.cloudflare.com:443?encryption=none&security=tls&sni=xm.ailicf.us.kg&allowInsecure=1&type=ws&host=xm.ailicf.us.kg&path=%2F6511e#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://62ae1cc9-5940-4f21-a0ed-1c13b32b5908@de.ailicf.us.kg:80?encryption=none&security=none&sni=de.ailicf.us.kg&allowInsecure=1&type=ws&host=de.ailicf.us.kg&path=%2Fsafaf#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6511e6ad-0383-48cd-a5b8-00e4a4c82655@xm.ailicf.us.kg:80?encryption=none&security=none&type=ws&host=xm.ailicf.us.kg&path=%2F6511e#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6511e6ad-0383-48cd-a5b8-00e4a4c82655@carmelo.ns.cloudflare.com:443?encryption=none&security=tls&sni=xm.ailicf.us.kg&allowInsecure=1&type=ws&host=xm.ailicf.us.kg&path=%2F6511e#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@carmelo.ns.cloudflare.com:443?encryption=none&security=tls&sni=cc.ailicf.us.kg&allowInsecure=1&type=ws&host=cc.ailicf.us.kg&path=%2Fb5cdabf0-e04#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
