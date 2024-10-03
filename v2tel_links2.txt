@@ -3406,3 +3406,4 @@ vless://ffecc0b6-ccee-49a9-ac0d-ef752d9e1803@46.8.225.200:15866?security=none&en
 vless://302cd584-c7ba-4be6-ab34-a22a6a858a38@46.8.225.200:46451?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
 vless://2babfb47-b35d-4b1f-bead-f83f8fdad3a6@46.8.225.200:20288?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
 vless://32822a49-eb6c-4806-a93f-b1cb2446a405@46.8.225.200:13587?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@speedtest.org:2096?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
