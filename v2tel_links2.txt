@@ -2820,3 +2820,12 @@ vless://b4f8c44c-87f7-49b8-d49f-272a69c52d86@www.speedtest.net:80?path=/TELEGRAM
 trojan://telegram-id-directvpn@13.60.120.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 vless://TELEGRAM-NUFiLTER@Us2.2sedkfjeuixijd0ew9dvkcxoisiek31.blog:443?mode=gun&security=reality&encryption=none&pbk=Q4nyM7s_Z8YQd_nwO8GkcwhxtvgYuk10YBKXakgHSXI&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&sni=Us.2sedkfjeuixijd0ew9dvkcxoisiek31.blog&sid=fdec2d62639c#[🇺🇸]t.me/ConfigsHub
 vless://bb1d9ae0-f275-4400-a8c1-b68466cdba20@speedtest.net:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6c40b7d3-e062-4b7f-b0e4-7bb2803f0cda@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow11.cooltechdev.ir&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6c40b7d3-e062-4b7f-b0e4-7bb2803f0cda@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow11.cooltechdev.ir&security=none#[🇺🇸]t.me/ConfigsHub
+vless://acc0c70c-2895-4f8f-903a-a86c85baee45@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow19.cooltechdev.ir&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f73575ca-c004-4213-9d22-37aa3ed05d8a@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow18.cooltechdev.ir&security=none#[🇺🇸]t.me/ConfigsHub
+vless://f73575ca-c004-4213-9d22-37aa3ed05d8a@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow18.cooltechdev.ir&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://acc0c70c-2895-4f8f-903a-a86c85baee45@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow19.cooltechdev.ir&security=none#[🇺🇸]t.me/ConfigsHub
+vless://25d7f991-42ea-46b1-b6c1-d5289c61cbcd@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow20.cooltechdev.ir&security=none#[🇺🇸]t.me/ConfigsHub
+vless://25d7f991-42ea-46b1-b6c1-d5289c61cbcd@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow20.cooltechdev.ir&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://0b8b3fdb-659b-430a-82c0-5b5cb72ba667@speedtest.net:443?encryption=none&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=swuhq9.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
