@@ -4053,3 +4053,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@mahdiserver-afq.pages.dev:443?path=
 trojan://bpb-trojan@45.142.120.4:2096?path=%2FtroUbg9Q3QgD0TJRfy%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&type=ws&sni=403B3611-99bC-43b7-88D7-26ed5d0825A9-3.PageS.DEV#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@mahdiserver-afq.pages.dev:443?path=%2Fa9MrNdatPWr8MjuD%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FTelegram%40%2F%3Fed%3D2560&security=tls&encryption=none&host=argodev11222.pages.dev&type=ws&sni=ArGodev11222.PaGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1f52a18e-586e-4c1b-a08d-56afb65b1278@37.152.176.24:80?encryption=none&security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
