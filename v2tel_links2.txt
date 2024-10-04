@@ -3983,3 +3983,10 @@ vless://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FxnoRAKl0PKXxvd
 trojan://telegram-id-directvpn@3.71.162.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://7f834050-cc7a-465d-a4a7-4405082231f9@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&fp=firefox&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8880&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://b715727e-0bbc-46cd-a7f0-6638eacb1a5f@Telegram-id-TehranArgo.pages.dev:2053?path=/Join,%40TEHRANARGO#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.255.9.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
+trojan://telegram-id-directvpn@18.192.73.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://a4682305-d2dc-4d1b-b753-30565a511ded@speedtest.net:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@79.125.7.7:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://a4682305-d2dc-4d1b-b753-30565a511ded@speedtest.net:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.192.73.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://1f52a18e-586e-4c1b-a08d-56afb65b1278@37.152.176.24:80?encryption=none&security=none&type=ws&path=%2F#[🇮🇷]t.me/ConfigsHub
