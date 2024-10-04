@@ -4060,3 +4060,6 @@ vless://ac5e0d8a-355e-421f-8bf5-921e01f0f861@172.66.46.49:443?encryption=none&se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvalYyazJsUnd1Tm01dGhsc3ZkMHdW@81.19.141.45:52873#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#[🏁]t.me/ConfigsHub
+vless://a4682305-d2dc-4d1b-b753-30565a511ded@speedtest.net:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a4682305-d2dc-4d1b-b753-30565a511ded@speedtest.net:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a4682305-d2dc-4d1b-b753-30565a511ded@speedtest.net:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
