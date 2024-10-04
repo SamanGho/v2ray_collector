@@ -4054,3 +4054,9 @@ trojan://bpb-trojan@45.142.120.4:2096?path=%2FtroUbg9Q3QgD0TJRfy%3Fed%3D2560&sec
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@mahdiserver-afq.pages.dev:443?path=%2Fa9MrNdatPWr8MjuD%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FTelegram%40%2F%3Fed%3D2560&security=tls&encryption=none&host=argodev11222.pages.dev&type=ws&sni=ArGodev11222.PaGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://1f52a18e-586e-4c1b-a08d-56afb65b1278@37.152.176.24:80?encryption=none&security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://ac5e0d8a-355e-421f-8bf5-921e01f0f861@172.66.46.49:443?encryption=none&security=tls&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=46934504869685551434715544632417.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvalYyazJsUnd1Tm01dGhsc3ZkMHdW@81.19.141.45:52873#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://ac5e0d8a-355e-421f-8bf5-921e01f0f861@172.66.46.49:443?encryption=none&security=tls&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=46934504869685551434715544632417.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvalYyazJsUnd1Tm01dGhsc3ZkMHdW@81.19.141.45:52873#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#[🏁]t.me/ConfigsHub
