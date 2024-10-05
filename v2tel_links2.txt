@@ -4063,3 +4063,4 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#[🏁]t.me/ConfigsHub
 vless://a4682305-d2dc-4d1b-b753-30565a511ded@speedtest.net:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a4682305-d2dc-4d1b-b753-30565a511ded@speedtest.net:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a4682305-d2dc-4d1b-b753-30565a511ded@speedtest.net:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEa2FkaXhBaVVrVjM3Z1l3MkJhZEY1@194.87.45.189:40076#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
