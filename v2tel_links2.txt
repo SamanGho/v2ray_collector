@@ -2521,3 +2521,6 @@ vless://e9263fc5-2c17-4355-9805-bd9eab23d9a2@Zula.ir:443?type=ws&path=%2FTelegra
 vless://9c12fdb2-1b2f-471b-81af-9e5ed9409fce@116.203.10.68:3020?security=reality&encryption=none&pbk=oPZngZB1ChiM3IHdp8fX3Y3E1WAgtvSoOXeG-cOjkwg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ce24e753.CoM&sid=ce24e753#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.103:8119#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.113:7001#[🇺🇸]t.me/ConfigsHub
+vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTelegram-%40Azarakhsh_Proxy%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://Channel-Archive_Android⚡@Upload.ir:8880?path=%2F%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android&security=none&encryption=none&host=www.speedtest.net.Cafinet-lighter.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7001#[🇺🇸]t.me/ConfigsHub
