@@ -4631,3 +4631,8 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.91.136.173:443?path=%2Fblue&secu
 vless://b715727e-0bbc-46cd-a7f0-6638eacb1a5f@103.35.189.81:2053?path=%2FTEL%2C%40TEHRANARGO+TEL%2C+%40TEHRANARGO+TEL%2C%40TEHRANARGO+TEL%2C+%40TEHRANARGO+TEL%2C%40TEHRANARGO+TEL%2C+%40TEHRANARGO+TEL%2C%40TEHRANARGO%3Fed&security=tls&encryption=none&type=ws&sni=Telegram-iD-TehranARGo.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.217.220:443?path=%2F&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.177:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=ld.ylka.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.142.19:443#[🇧🇭]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.81.164:443#[🇦🇪]t.me/ConfigsHub
+vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.130.190:443#[🇦🇪]t.me/ConfigsHub
+vmess://eyJhZGQiOiAiMTA0LjIxLjU1LjIzNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnd2RlZi5zYnMiLCAiaWQiOiAiYmM4NjQwNzgtZGNmMy00YmY0LThkYmYtY2E5ZjIwMGI1NmJlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImd3ZGVmLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
