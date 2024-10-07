@@ -3094,3 +3094,5 @@ trojan://telegram-id-directvpn@13.51.37.127:22222?security=tls&alpn=http/1.1&hea
 vless://33993726-0b3c-42e8-b048-caf12bee7a95@zula.ir:443?path=%2Fvless&security=tls&encryption=none&host=fi1.v2vless.site&type=ws&sni=fi1.v2vless.site#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@www.speedtest.net:80?path=%2FTelegram-Xv2ry2%3Fed%3D512&security=none&encryption=none&host=www.speedtest.net.nl1.45.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://33993726-0b3c-42e8-b048-caf12bee7a95@zula.ir:443?path=%2Fvless&security=tls&encryption=none&host=fi1.v2vless.site&type=ws&sni=fi1.v2vless.site#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://096a888e-c3ba-467c-b9c6-bf6b1bd1e56c@ip-a.AbrArvan.io:2052?path=%2FG%2Fb4t6hy5n%2F%3Fed%3D2052&security=none&encryption=none&host=dash.cloudflare.com.www.speedtest.net.dama.ir.pada.ir.iran.ir.cdn.ir.Elmahstyle.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
