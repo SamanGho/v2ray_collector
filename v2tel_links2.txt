@@ -3096,3 +3096,9 @@ vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@www.speedtest.net:80?path=%2FTelegr
 vless://33993726-0b3c-42e8-b048-caf12bee7a95@zula.ir:443?path=%2Fvless&security=tls&encryption=none&host=fi1.v2vless.site&type=ws&sni=fi1.v2vless.site#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://096a888e-c3ba-467c-b9c6-bf6b1bd1e56c@ip-a.AbrArvan.io:2052?path=%2FG%2Fb4t6hy5n%2F%3Fed%3D2052&security=none&encryption=none&host=dash.cloudflare.com.www.speedtest.net.dama.ir.pada.ir.iran.ir.cdn.ir.Elmahstyle.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTEyOC1nY206ZnRVblZoY3VCN0s3c2phcWo0Z2NUK1RuRUUyTUpOM2lXbEZLMHdXUWxCQT0=@178.211.130.142:32638#👉🆔 @v2ray_configs_pool📡🇹🇷Türkiye
+ss://YWVzLTEyOC1nY206ZnRVblZoY3VCN0s3c2phcWo0Z2NUK1RuRUUyTUpOM2lXbEZLMHdXUWxCQT0=@178.211.130.142:32638#[🇹🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@51.20.153.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://12ae5390-5b6d-4190-b879-eb0bbec15343@www.speedtest.net:8080?path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&encryption=none&security=none&type=ws&host=maznet---_-_---maznet2.iMamhussaIn.sbs.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://99af0867-e566-49e8-95c2-1697bb6951be@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&security=none&encryption=none&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@51.20.153.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
