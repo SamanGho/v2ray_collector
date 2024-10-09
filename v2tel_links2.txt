@@ -1897,3 +1897,7 @@ vmess://eyJhZGQiOiIyMy4xNTQuMTM2LjQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://9675c5ea-fea4-443a-b0f2-04252919eaad@193.233.84.26:50049?security=none&encryption=none&headerType=http&type=tcp#[🇷🇺]t.me/ConfigsHub
 vless://0eb87ca7-7aa4-4559-b0b1-a1dfe78808c4@194.87.31.4:1795?security=reality&encryption=none&pbk=cvJ63dGtEW23nRXt6QjP9fuQzoB9697VNEsxRyA-wQY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bonfire.dev.stackoverflow.com&sid=4374d295a4f9dd83#[🇳🇱]t.me/ConfigsHub
 vless://b9306704-1199-4b20-bdb8-a443482f4edd@194.5.178.153:443?type=tcp&security=none#[🇮🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.188.167.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.8.20:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@15.188.167.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.8.20:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
