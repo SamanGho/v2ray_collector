@@ -2999,3 +2999,16 @@ vless://cc35f6ba-be03-4d1e-b229-db443b5a7ce7@www.speedtest.net:443?path=%2F#[�
 vless://c1beaf03-ea91-552e-a914-694d35060b3d@185.146.173.42:80?security=&type=ws&path=/vless&host=Nl2.vless.site.&encryption=none#[🇸🇪]t.me/ConfigsHub
 vless://Parsashonam-71@185.146.173.39:8880?security=&type=tcp&encryption=none#[🇸🇪]t.me/ConfigsHub
 vless://183c4cc0-c3bf-46c1-bae7-c25115ce07de@104.17.234.114:8443?path=/%54%65%6C%65%67%72%61%6D%2C%56%50%4E%43%55%53%54%4F%4D%49%5A%45%3Fed%3D8080&serviceName=-TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.92.72:8090#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ@154.3.8.151:30067#[🇺🇸]t.me/ConfigsHub
+vless://tel--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=okala.com&type=ws&sni=live.skornorth.com#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#[🇳🇱]t.me/ConfigsHub
+vless://19a9aab0-b6f8-4f33-bdb1-f9fde1580bc4@zmaoz.faculty.ucdavis.edu:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=v2rayfast7.net&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.113:3306#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg@80.92.204.106:9080#[🇩🇪]t.me/ConfigsHub
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snappshop.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@69.50.92.55:9102#[🇺🇸]t.me/ConfigsHub
+vless://Joinin--ZEDMODEON@connectcarolina.sites.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snapptrip.com&type=ws&sni=connectcarolina.sites.unc.edu#[🇨🇦]t.me/ConfigsHub
+vless://Join--ZEDMODEON@ergwork.web.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snapp.taxi&type=ws&sni=ergwork.web.unc.edu#[🇨🇦]t.me/ConfigsHub
+vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2052&security=tls&encryption=none&host=snapp.express&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.203:8882#[🇺🇸]t.me/ConfigsHub
