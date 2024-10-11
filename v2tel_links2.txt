@@ -3065,3 +3065,8 @@ trojan://bpb-trojan@188.114.97.159:2053?path=%2Ftr9pU4LSFNK5k8URSo%2FZGUucmFkaWN
 trojan://telegram-id-directvpn@13.39.231.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.27.191:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 trojan://telegram-id-directvpn@13.39.231.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://2d722623-3740-4f73-9357-01ad1a25ce27@185.156.108.40:13784?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://caa95b35-f001-47b0-aca9-838a74d32f3d@tgju.org:2082?path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082&security=none&encryption=none&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&type=httpupgrade#[🇺🇸]t.me/ConfigsHub
+vless://99678074-122c-46db-97fc-80b604c20158@104.18.8.215:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=shuige2.ywfmu-qx.workers.dev&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://6e41c15a-65ce-4a25-b112-9e60abe5676b@193.24.103.101:51566?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://6c86b258-6c0f-473f-9d8f-3e3b41492124@95.164.36.59:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#[🏁]t.me/ConfigsHub
