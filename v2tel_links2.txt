@@ -3041,3 +3041,10 @@ vless://468ef1ea-18c1-4daa-90c4-2a2b41a321a4@speedtest-fr5.gcore.com:80?type=htt
 vless://Telegram-XV2ray-XV2ray-XV2ray@151.101.64.223:443?path=%2FUS-3%3Fed%3D512&security=tls&encryption=none&host=telegram-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray.xv2ray.ru&type=ws&sni=python.org#[🇨🇦]t.me/ConfigsHub
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.64.223:443?path=%2FTelegram-Xv2ry2-3%3Fed%3D1080&security=tls&encryption=none&host=telegram-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray.xv2ray.ru&type=ws&sni=python.org#[🇨🇦]t.me/ConfigsHub
 vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.4.K.bahrane.iR.&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.53.144.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@13.48.92.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
+vless://ca6dd846-3795-463d-be57-fea85e17009d@srv1.gamekade.tech:443?type=tcp&path=/&security=none&sni=neshan.org&host=neshan.org&headerType=http#[🇮🇷]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.197.40:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+vless://ca6dd846-3795-463d-be57-fea85e17009d@srv1-d.gamekade.tech:443?type=tcp&path=/&security=none&sni=neshan.org&host=neshan.org&headerType=http#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.53.144.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.48.92.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
