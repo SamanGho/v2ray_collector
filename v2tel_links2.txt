@@ -3290,3 +3290,6 @@ vmess://eyJhZGQiOiJ3d3cuS2F5YWsuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIs
 trojan://telegram-id-directvpn@13.51.239.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.51.239.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://df3a954f-cbaa-426c-be76-a61be559939a@188.114.97.3:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=MishkAmOs.o3cO.ir.&fp=chrome&type=ws&sni=MishkAmOs.o3cO.ir#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@99.80.148.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@99.80.148.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.72.98.198:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
