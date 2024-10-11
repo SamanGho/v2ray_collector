@@ -3042,3 +3042,5 @@ vless://e4ebd5b7-b6db-4aee-80de-aa383819215c@www.speedtest.net:2086?path=%2FApaR
 trojan://telegram-id-privatevpns@54.217.250.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
 vless://e4ebd5b7-b6db-4aee-80de-aa383819215c@www.speedtest.net:2086?path=%2FApaRat.com%3Fed%3D2048&security=none&encryption=none&host=germaAN1.httpupgrademowji.bloG.&type=httpupgrade#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.159.28.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://4d45c4e9-886f-467a-b283-f48df6fbfba8@217.18.90.133:2329?security=reality&encryption=none&pbk=QZcLd35OEQqk9IP-lu1FimJc8Pr2szQv_wyVotR0gFY&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#[🇬🇧]t.me/ConfigsHub
+vless://0e64731f-9985-43a1-8074-05fae7762c4b@zmaoz.faculty.ucdavis.edu:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&fp=firefox&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8880&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&encryption=none#[🇫🇷]t.me/ConfigsHub
