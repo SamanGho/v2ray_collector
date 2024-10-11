@@ -3070,3 +3070,14 @@ vless://caa95b35-f001-47b0-aca9-838a74d32f3d@tgju.org:2082?path=%2F%3Fed%3D2082%
 vless://99678074-122c-46db-97fc-80b604c20158@104.18.8.215:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=shuige2.ywfmu-qx.workers.dev&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://6e41c15a-65ce-4a25-b112-9e60abe5676b@193.24.103.101:51566?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://6c86b258-6c0f-473f-9d8f-3e3b41492124@95.164.36.59:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#[🇳🇱]t.me/ConfigsHub
+vless://df8e9266-dbb4-4776-eeca-a5a2e53c5e4c@www.speedtest.net:80?type=ws&path=%2F%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol-%40VmessProtocol&host=www.speedtest.net-metreeff-ary-kur-d-newff.vmessprotocol.ggff.net&security=none#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@63.176.34.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.109.129:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#[🇷🇺]t.me/ConfigsHub
+vless://c54860d9-4ff8-4dba-8f47-7d12e809ebc6@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed%3D8880&host=MdVpnSecJoin.ir&encryption=none#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.47.63.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
