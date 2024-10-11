@@ -3081,3 +3081,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:2
 vless://c54860d9-4ff8-4dba-8f47-7d12e809ebc6@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed%3D8880&host=MdVpnSecJoin.ir&encryption=none#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.47.63.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://auto@104.20.6.134:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#[🇺🇸]t.me/ConfigsHub
+vless://Channel-Archive_Android🍼@hajlab.ucdavis.edu:443?path=/Telegram:@Archive_Android------@Archive_Android------@Archive_Androi------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=ArchiveAndroid.Org&fp=edge&type=ws&sni=hajlab.ucdavis.edu#[🇨🇦]t.me/ConfigsHub
+vless://ca6dd846-3795-463d-be57-fea85e17009d@srv1.gamekade.tech:443?security=none&encryption=none&host=neshan.org&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://Channel-Archive_Android🍼@Upload.ir:8880?type=ws&path=/Telegram#[🇨🇦]t.me/ConfigsHub
+trojan://bpb-trojan@188.114.99.208:2053?path=%2Ftr9pU4LSFNK5k8URSo%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&type=ws&sni=BPB-worKEr-pANel1-E4p.PAgES.Dev#[🇺🇸]t.me/ConfigsHub
