@@ -3032,3 +3032,4 @@ vless://80a04d11-d008-4c43-a94d-db0436b708e2@ergwork.web.unc.edu:443?path=%2FJoi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#[🇬🇧]t.me/ConfigsHub
 vless://19452ca4-37f3-5a24-ac25-54db963b97b9@www.speedtest.net:2095?path=%2FVLESS%3FM0stafa--%40mosiv2--%40TGmosi--%40mosiv2%3Fed%3D2048&security=none&encryption=none&host=pl2.vless.Sitespeedtest.net.&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://183c4cc0-c3bf-46c1-bae7-c25115ce07de@speedtest.net:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#[🇨🇦]t.me/ConfigsHub
+vless://df3a954f-cbaa-426c-be76-a61be559939a@188.114.97.3:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=MishkAmOs.o3cO.ir.&fp=chrome&type=ws&sni=MishkAmOs.o3cO.ir.#[🇨🇦]t.me/ConfigsHub
