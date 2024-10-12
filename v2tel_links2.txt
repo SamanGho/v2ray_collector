@@ -3431,3 +3431,8 @@ vless://f09bf8a9-b88d-4b19-af86-5dcbe77c0d51@www.speedtest.net:80?security=&type
 trojan://telegram-id-directvpn@13.39.207.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@zula.ir:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.67.68.101:443?path=%2Fvlees_v2rayng%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ISAa1.PAGeS.deV&fp=randomized&type=ws&sni=IsaA1.pAgEs.DEV#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@69.50.92.110:8009#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmeHhuNWNKSWU0Mml2VXZuU3REbmFF@46.29.238.186:17708#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.157.40.89:9102#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#[🇺🇸]t.me/ConfigsHub
+trojan://8d4a8689-e8fd-4405-9834-3f812c528db0@naiu-other.05vr9nyqg5.download:13035?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#[🏁]t.me/ConfigsHub
