@@ -3956,3 +3956,12 @@ vless://4a9e4e0d-461d-42b0-8105-623220ab7582@hajlab.ucdavis.edu:80?security=none
 vless://4a9e4e0d-461d-42b0-8105-623220ab7582@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitT.CoM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://4a9e4e0d-461d-42b0-8105-623220ab7582@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitT.CoM&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://4a9e4e0d-461d-42b0-8105-623220ab7582@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v27.TzZLiMitT.CoM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=add your host#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=m.viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=www.callofduty.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=add#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=play.google.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=WhatsApp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKY0Nzblg1ZktBcm9OZ3htV1ZkOVRO@162.221.207.62:443#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
