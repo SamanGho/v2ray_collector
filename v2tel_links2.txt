@@ -3965,3 +3965,4 @@ trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=
 trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=WhatsApp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKY0Nzblg1ZktBcm9OZ3htV1ZkOVRO@162.221.207.62:443#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=t.me/entryNET&sni=adsl.felafel.org#[🇺🇸]t.me/ConfigsHub
