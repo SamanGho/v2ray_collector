@@ -1031,3 +1031,16 @@ vless://57426e0f-3f4e-4460-844d-e9c9893f2046@104.17.234.128:443?type=ws&host=joi
 vless://f0bda007-3d74-4396-8e4c-4fa642e49a23@79.127.70.117:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://834f701d-303f-4b5a-8306-a2eb3a3594dc@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&fp=randomized&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://57426e0f-3f4e-4460-844d-e9c9893f2046@104.17.234.128:443?type=ws&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&path=/Telegram,VPNCUSTOMIZE?ed%3D8080&security=tls&fp=randomized&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za&alpn=h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5951f0b3-ee56-4776-a2ab-27edaf865183@151.101.130.228:80?path=%2F&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitT.CoM&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5951f0b3-ee56-4776-a2ab-27edaf865183@151.101.2.228:80?path=%2F&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitT.CoM&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://c7800920-c45b-4160-a2fc-afed532b54d5@192.0.63.42:8080?path=%2Fspeedtest.net%3Fed%3D512&security=none&encryption=none&host=h17.Xn--gmq282ekfhyys3gs.Com.&type=httpupgrade#[🇺🇸]t.me/ConfigsHub
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://57426e0f-3f4e-4460-844d-e9c9893f2046@104.17.234.114:8443?type=ws&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&path=/Telegram,VPNCUSTOMIZE?ed%3D8080&security=tls&fp=chrome&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&alpn=h3,h2,http/1.1#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#[🇺🇸]t.me/ConfigsHub
+vless://0945a020-3d8f-4611-98d1-a206f44b5c50@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Awawaw.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.10:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=uni.fi&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZGtpNUdhUGV3aTVBT3hRSHRUYmhS@92.118.112.101:9483#[🇺🇸]t.me/ConfigsHub
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.10:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=uni.fi&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://57426e0f-3f4e-4460-844d-e9c9893f2046@104.17.234.114:8443?type=ws&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&path=/Telegram,VPNCUSTOMIZE?ed%3D8080&security=tls&fp=chrome&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
