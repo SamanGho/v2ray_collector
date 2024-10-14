@@ -4568,3 +4568,6 @@ vless://5951f0b3-ee56-4776-a2ab-27edaf865183@hajlab.ucdavis.edu:80?security=none
 vless://5951f0b3-ee56-4776-a2ab-27edaf865183@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitT.CoM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://5951f0b3-ee56-4776-a2ab-27edaf865183@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitT.CoM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://5951f0b3-ee56-4776-a2ab-27edaf865183@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.TzZLiMitT.CoM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://34122889-900a-42dc-a5c0-a570556e6a1a@151.101.3.8:80?path=%2FAOagIIfbJJ0hbXIwCE6mq&security=none&encryption=none&host=www.visualcapitalist.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://57426e0f-3f4e-4460-844d-e9c9893f2046@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
