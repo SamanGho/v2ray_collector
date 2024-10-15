@@ -31,6 +31,27 @@ def extract_v2ray_links(url, timeout=15, retries=5, retry_delay=8):
     print(f"All {retries} attempts to collect failed for {url}")
     return []
 
+# Function to replace specific text in links
+def replace_links(links):
+    replacements = {
+        "t.me/ConfigsHub": "t.me/V2razy",
+        "@v2ray_configs_pool": "@V2razy",
+        "t.me/PrivateVPNs":"t.me/V2razy",
+        "@VlessConfig":"@V2razy",
+        "@DirectVPN":"@V2razy",
+        "DailyV2ry" :"@v2razy"
+
+    }
+
+    # Replacing all occurrences based on the dictionary
+    updated_links = []
+    for link in links:
+        for old, new in replacements.items():
+            link = link.replace(old, new)
+        updated_links.append(link)
+
+    return updated_links
+
 # Function to save V2Ray links to a file, avoiding duplicates
 def save_v2ray_links(links, filename):
     if links:
@@ -61,10 +82,9 @@ def main():
         "https://t.me/s/DirectVPN",
         "https://t.me/s/FreeV2rays",
         "https://t.me/s/freev2rayssr",
-        "https://t.me/s/DailyV2RY",
-        "https://t.me/s/v2ray_outlineir",
-        "https://t.me/s/PrivateVPNs",
-        "https://t.me/s/vmessq"
+       # "https://t.me/s/DailyV2RY",  fix for it later
+        "https://t.me/s/v2ray_outlineir"
+
     ]
 
     all_links = []
@@ -72,7 +92,10 @@ def main():
         links = extract_v2ray_links(url)
         all_links.extend(links)
 
-    save_v2ray_links(all_links, filename)
+    # Replace links before saving
+    updated_links = replace_links(all_links)
+
+    save_v2ray_links(updated_links, filename)
 
 if __name__ == "__main__":
     main()
