@@ -38,9 +38,9 @@ jobs:
           CURRENT_TIME=$(date +%s)
           TIME_DIFF=$((CURRENT_TIME - LAST_SWITCH))
 
-          # 43200 seconds = 12 hours
+          # 7200 seconds = 2 hours
           if [ $TIME_DIFF -ge 7200 ]; then
-            # It's been 12 hours, switch files
+            # It's been 2 hours, switch files
             if grep -q "v2tel_links1.txt" .last_file; then
               echo "file=v2tel_links2.txt" >> $GITHUB_ENV
               echo "next_file=v2tel_links1.txt" >> $GITHUB_ENV
@@ -69,11 +69,11 @@ jobs:
       run: |
         python main.py ${{ env.file }}
 
-    - name: Delete the previous file after switching
+    - name: Clear the previous file after switching
       if: ${{ env.file != env.next_file }}
       run: |
-        echo "Deleting the previous file: ${{ env.next_file }}"
-        rm -f ${{ env.next_file }}
+        echo "Clearing the previous file: ${{ env.next_file }}"
+        echo "" > ${{ env.next_file }}
 
     - name: Commit and push changes
       env:
@@ -84,7 +84,3 @@ jobs:
         git add ${{ env.file }} .last_switch .last_file
         git commit -m "Update V2Ray links"
         git push https://x-access-token:${PROV2}@github.com/${{ github.repository }}.git HEAD:main
-
-
-
-        
