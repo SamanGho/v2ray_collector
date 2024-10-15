@@ -1557,3 +1557,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.40.217:22222?path=/telegram-ch
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.171:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
 trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.124.66.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://8b23251f-ac71-42d9-b277-7c7f6991a163@3.72.88.153:4269?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.40.217:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇨🇦]t.me/ConfigsHub
+vless://8b23251f-ac71-42d9-b277-7c7f6991a163@3.72.88.153:4269?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#[🇩🇪]t.me/ConfigsHub
