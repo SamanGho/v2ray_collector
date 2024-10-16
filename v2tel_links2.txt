@@ -2107,3 +2107,9 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.197:443?path=%2Fblue&secu
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@219.76.13.183:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=lo.ylks.us.kg#👉🆔 @V2razy📡🇭🇰Hong Kong
 vless://ec202d7a-b87e-4076-a8f9-bcbad9437ef4@89.47.202.167:8443?path=%2Findex.php%2Flogin%3Fed&security=tls&encryption=none&fp=edge&type=ws&sni=en-tun.netmxspeedtest.net#👉🆔 @V2razy📡🇮🇷Iran
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.19:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=an.ylks.xyz#👉🆔 @V2razy📡🇷🇺Russia
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@iranserver.com:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#[🇨🇦]t.me/V2razy
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@iranserver.com:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#👉🆔 @V2razy📡🇨🇦Canada
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.66.44.56:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#👉🆔 @V2razy📡🇨🇦Canada
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.66.44.56:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#[🇨🇦]t.me/V2razy
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@zula.ir:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#[🇨🇦]t.me/V2razy
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@zula.ir:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#👉🆔 @V2razy📡🇺🇸United States
