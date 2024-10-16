@@ -2436,3 +2436,11 @@ trojan://YRA8xacOj3zNCTB7npA83EgDD2Su9eIlXe0CY4q56RFxZawCaKOyDZly33SFpS@livers.f
 trojan://TD7FKA3CZSyRgCeXp60xjaEa3uSzFaS5BOpC2lY3y9cYRA884qZOI3wxlNDneD@enfuego.missionsec.io:443/?type=tcp&security=tls&sni=enfuego.missionsec.io#[🇺🇸]t.me/V2razy
 trojan://SF8D9jAzN0ScwCB5llEAFIpxxneaOZyCTa3qa23D8ypKSgORRXu76Y3YeDZ4C3@okelvv.superpokemon.com:28346/?type=tcp&security=tls&sni=okelvv.superpokemon.com#👉🆔 @V2razy📡🇯🇵Japan
 trojan://laNA8DwSX3CuqSaOy6ReFl4SCZ8FyKcx79TYApR5neDBZ2jxOaIg03zYCD3E3p@thick.superpokemon.com:28332/?type=tcp&security=tls&sni=thick.superpokemon.com#[🏁]t.me/V2razy
+trojan://telegram-id-privatevpns@54.217.137.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/V2razy
+vless://9a4bc15d-a7d4-4181-9485-405629c36894@185.146.173.115:443?security=tls&sni=king-ae1.pages.dev&type=ws&host=king-ae1.pages.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#[🇸🇪]t.me/V2razy
+vless://7a780571-eba3-4d42-837b-448f46127d28@adg.news:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Anqadsarmas.net&fp=chrome&type=ws&sni=adg.news#[🇨🇦]t.me/V2razy
+vless://Joinin--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?security=tls&encryption=none&type=ws&host=snapp.express&path=/@ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2052&sni=zmaoz.faculty.ucdavis.edu&fp=chrome#👉🆔 @V2razy📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#👉🆔 @V2razy📡🇺🇸United States
+vless://28eec655-aa74-454d-859f-8321110c7cd5@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell&sni=ConfigTell.felafel.org#[🇺🇸]t.me/V2razy
+vless://b87b61c2-bf96-4dc5-b42c-5fa7b4ccdd12@adg.news:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&alpn=h2#👉🆔 @V2razy📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.171:8080#👉🆔 @V2razy📡🇱🇹Lithuania
