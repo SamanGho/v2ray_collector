@@ -2148,3 +2148,21 @@ vless://2df56fd0-d1b7-4793-b877-acd356d960f7@iranserver.com:443?security=tls&sni
 vless://e8c9d5dd-cadc-497a-be66-1c201d04d38f@162.159.62.69:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev#👉🆔 @V2razy📡🇨🇦Canada
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.197:443?security=tls&sni=co.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @V2razy📡🇰🇿Kazakhstan
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.74:443?security=tls&sni=ln.ylks.us.kg&type=ws&path=%2F%3Fed#[🏁]t.me/V2razy
+trojan://telegram-id-privatevpns@13.48.5.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#[🇸🇪]t.me/V2razy
+vless://c0259a71-9059-4ba3-9004-17e0b831f023@hajlab.ucdavis.edu:443?security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitT.CoM&fp=chrome&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @V2razy📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.181:989#[🏁]t.me/V2razy
+trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#[🇩🇪]t.me/V2razy
+vless://77a55f57-b0bb-403f-a3f3-e233b9ea0a5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.TzZLiMitT.CoM#👉🆔 @V2razy📡🇺🇸United States
+vless://5d07c2ae-85e6-4ad4-af17-c57ea3438727@104.18.124.193:443?encryption=none&security=tls&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=50355903046384688792200288344243.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS#[🇺🇸]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#[🇸🇪]t.me/V2razy
+vless://77a55f57-b0bb-403f-a3f3-e233b9ea0a5f@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitT.CoM#👉🆔 @V2razy📡🇺🇸United States
+vless://77a55f57-b0bb-403f-a3f3-e233b9ea0a5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.TzZLiMitT.CoM#👉🆔 @V2razy📡🇺🇸United States
+trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#[🇩🇪]t.me/V2razy
+vless://9737f072-5852-4d31-9a73-dca1e7adb6aa@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&security=none&encryption=none&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&type=ws#[🇺🇸]t.me/V2razy
+vless://77a55f57-b0bb-403f-a3f3-e233b9ea0a5f@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitT.CoM#👉🆔 @V2razy📡🇺🇸United States
+trojan://telegram-id-privatevpns@3.68.167.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#[🇩🇪]t.me/V2razy
+vless://18ffd351-a160-4a9a-999f-ff3fb7779787@www.speedtest.net:8080?path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&encryption=none&security=none&type=ws&host=maznet---_-_---maznet2.iMamhussaIn.sbs.#[🇺🇸]t.me/V2razy
+trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/V2razy
+trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#[🇷🇺]t.me/V2razy
+vless://9737f072-5852-4d31-9a73-dca1e7adb6aa@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&security=none&encryption=none&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&type=ws#👉🆔 @V2razy📡🇺🇸United States
