@@ -1322,3 +1322,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ@95.164.35.90:8388#[🏁]t.me/V2r
 vless://cfbf289d-2e04-4639-a428-cec6e044b490@35.215.134.135:48968?encryption=none&security=none&type=tcp&headerType=none#👉🆔 @V2razy📡🇭🇰Hong Kong
 vless://72d37e1d-d577-4db3-dc92-3ec65b6d172b@156.254.115.158:33032?encryption=none&security=none&type=tcp&headerType=none#👉🆔 @V2razy📡🇭🇰Hong Kong
 vless://79f2561f-85c4-4667-e2d6-28cb52907681@43.216.3.121:24788?encryption=none&security=none&type=tcp&headerType=none#👉🆔 @V2razy📡🇲🇾Malaysia
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@zula.ir:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#👉🆔 @V2razy📡🇺🇸United States
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@205.233.181.199:443?security=tls&sni=sb-1u6.pageS.Dev&type=ws&path=%2FO56edk55JTH9ANDd%2FMTU4LjEwMS4yMDMuMTI3%3Fed%3D2560#[🇺🇸]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.44:8080#[🇳🇱]t.me/V2razy
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@zula.ir:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#[🇺🇸]t.me/V2razy
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.66.44.56:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#[🇨🇦]t.me/V2razy
+vless://6a42486d-6f56-4cea-ab7a-19156b11de85@35.236.172.130:2333?security=none&type=tcp#[🏁]t.me/V2razy
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@iranserver.com:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#[🇺🇸]t.me/V2razy
+trojan://NISHIKUITAN222@141.147.190.128:443?allowInsecure=1&ws=1&wspath=%2F#[🏁]t.me/V2razy
