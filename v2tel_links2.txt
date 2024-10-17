@@ -3060,3 +3060,15 @@ vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?path=%2FYE8wFQQnz
 vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@151.101.194.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitT.CoM#👉🆔 @V2razy📡🇺🇸United States
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@zula.ir:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#👉🆔 @V2razy📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.154.136.176:9102#👉🆔 @V2razy📡🇺🇸United States
+trojan://telegram-id-directvpn@13.36.82.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWDFtcFBYNmNLcnhjRlhBM0JCS2VX@194.87.45.189:40076#👉🆔 @V2razy📡🇪🇸Spain
+vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.TzZLiMitT.CoM#👉🆔 @V2razy📡🇺🇸United States
+vless://80921fc9-ff0b-4f30-bc89-c99b23231118@185.58.240.75:443?type=tcp&path=%2F&headerType=http&security=none#👉🆔 @V2razy📡🇮🇷Iran
+vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v20.TzZLiMitT.CoM#👉🆔 @V2razy📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.41.204:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/V2razy
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Dadachibodoberim.net&type=ws#[🇺🇸]t.me/V2razy
+trojan://telegram-id-directvpn@13.36.82.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+vless://bbbdc3b1-2a8a-4989-9ccd-6a73b77c4af3@162.159.192.188:443?path=%2FMahxray%3Fed%3D2095&security=tls&encryption=none&alpn=http/1.1&host=mahcjf.mahxraytm.com&fp=chrome&type=ws&sni=mahcjf.mahxraytm.com#[🇨🇦]t.me/V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.41.204:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇩🇪
+vless://d09ad8ed-cfe4-4a44-ba5b-860210a67460@167.82.38.228:443?path=%2Fde%3Fed%3D1048&security=tls&encryption=none&host=Parsnaz.com&fp=chrome&type=ws&sni=bwdraper.faculty.ucdavis.edu#[🇺🇸]t.me/V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.41.204:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @V2razy📡🇩🇪Germany
