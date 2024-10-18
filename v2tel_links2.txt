@@ -3940,3 +3940,6 @@ vless://38720105-063f-40f51-a5eb-f3198b9b617d@172.66.44.233:443?path=%2FTELEGRAM
 trojan://telegram-id-privatevpns@3.78.97.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/V2razy
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=tnetplus-1wc.pages.dev&fp=randomized&type=ws&sni=tnetplus-1wc.pages.dev#[🇺🇸]t.me/V2razy
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.79.125.51:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇨🇦]t.me/V2razy
+vless://c2ebb5b5-8903-4f14-8e6d-3384e4142dc9@winston.ariankaku.top:443?type=tcp&path=%2F&host=alibaba.ir&headerType=http&security=none#👉🆔 @V2razy📡🇮🇷Iran
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @V2razy📡🇺🇸United States
+vless://c2ebb5b5-8903-4f14-8e6d-3384e4142dc9@winston.ariankaku.top:443?type=tcp&path=%2F&host=alibaba.ir&headerType=http&security=none#[🇮🇷]t.me/V2razy
