@@ -3839,3 +3839,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FTelegram
 vless://3c156138-7061-408c-b4dd-fc2ea499c43d@172.232.44.219:56312?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇫🇷]t.me/V2razy
 trojan://telegram-id-privatevpns@18.170.240.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/V2razy
 trojan://telegram-id-privatevpns@18.170.240.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/V2razy
+vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?encryption=none&security=tls&sni=POOrIaREd--persEPolIS.pAGEs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=poORiaReD--PErsePOlIs.PagES.DEv&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#[🇺🇸]t.me/V2razy
+vless://0ce43cab-efab-4a80-a84c-e8aaf5a9cfa8@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#[🇺🇸]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@151.236.29.225:990#[🏁]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@77.247.108.24:990#[🇷🇺]t.me/V2razy
