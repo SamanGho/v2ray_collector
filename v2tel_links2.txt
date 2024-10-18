@@ -3666,3 +3666,4 @@ trojan://auto@104.20.19.168:2083?path=%2F&security=tls&host=e9464f45.trauma-2r4.
 vless://062656d4-94b9-4097-a430-90818a6de1b5@194.5.178.153:443?type=tcp&security=none#[🇮🇷]t.me/V2razy
 vless://d3a34744-ca57-40f2-858c-7052419fcf70@104.26.14.148:443?encryption=none&security=tls&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=53331168005383295401796650654415.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS#[🇺🇸]t.me/V2razy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#[🏁]t.me/V2razy
+vless://0d1aba60-3b6b-422a-fd9c-69f0a7a5c897@join.kiava.cloud.ohbah.com:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws102.awscloudfront.net.kiava.fun&type=ws#[🇺🇸]t.me/V2razy
