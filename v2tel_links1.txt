@@ -1538,3 +1538,7 @@ vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@151.101.2.228:80?security=none&type
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE@soonfr.soon.guru:40034#[🇫🇷]t.me/V2razy
 trojan://bpb-trojan@172.66.44.139:8443?allowInsecure=0&sni=AZaDneT-Hwt.pAGES.dev&ws=1&wspath=%2FtrJVqjkRZ0POGhfThT%2FMTUyLjcwLjkwLjE2OA%3D%3D%3Fed%3D2560#[🇨🇦]t.me/V2razy
 trojan://telegram-id-privatevpns@51.20.235.127:22222?sni=trojan.burgerip.co.uk&allowInsecure=0#[🇸🇪]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.255.123.146:990#[🏁]t.me/V2razy
+vless://49fc7352-7794-40d9-8c54-586ebf4b37d5@speedtest-fr5.gcore.com:80?type=httpupgrade&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=bng.org&security=none#[🇩🇪]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#[🇺🇸]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.154:8080#[🇺🇸]t.me/V2razy
