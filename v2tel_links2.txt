@@ -3712,3 +3712,10 @@ trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=
 trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=WhatsApp.net#👉🆔 @V2razy📡🇸🇬Singapore
 trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&headerType=none&type=tcp&sni=aka.ms#👉🆔 @V2razy📡🇸🇬Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1UThkUzF1cnY2TW9UdnVKZ3RuUnRi@5.180.45.142:18429#👉🆔 @V2razy📡🇨🇾Cyprus
+vless://Parsashonam-78@185.146.173.39:8880/?type=httpupgrade&encryption=none&host=Search.DigiKala.CYoU.&path=%2F#👉🆔 @V2razy📡🇸🇪Sweden
+vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@hajlab.ucdavis.edu:80/?type=ws&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitT.CoM#👉🆔 @V2razy📡🇺🇸United States
+vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.44.156:443/?type=ws&encryption=none&host=bpb-worker-panel1-e4p.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=bpb-wOrkeR-PANEl1-E4P.PaGeS.Dev&alpn=http%2F1.1&fp=randomized#👉🆔 @V2razy📡🇨🇦Canada
+vless://93d2ef40-6d50-4844-87d1-15e3c8257dba@www.speedtest.net:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.de3.v2vless.sitespeedtest.net&type=ws#👉🆔 @V2razy📡🇺🇸United States
+vless://058f5b19-0b47-482e-8024-445f93876e13@apple-carry-relay.cloudflare.com:2095?path=%2Fwww.cloudflare.com-www.cloudflare.com%3Fed%3D26378&security=none&encryption=none&host=hhgggdug63746-jfjfchg74764.lavazemkhoshina.ir.&type=httpupgrade#[🇨🇦]t.me/V2razy
+vless://bc953cb6-7112-4d3c-bbf4-eaf8a0d004cb@sflslf0flk0sfk0sf.pages.dev:443/?type=ws&encryption=none&host=sflslf0flk0sfk0sf.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=sflslf0flk0sfk0sf.pages.dev&fp=randomized#👉🆔 @V2razy📡🇨🇦Canada
+vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@bpb-worker-panel1-e4p.pages.dev:443/?type=ws&encryption=none&host=bpb-worker-panel1-e4p.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=bpb-wOrkeR-PANEl1-E4P.PaGeS.Dev&alpn=http%2F1.1&fp=randomized#👉🆔 @V2razy📡🇨🇦Canada
