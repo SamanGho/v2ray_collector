@@ -3659,3 +3659,10 @@ vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@hajlab.ucdavis.edu:443?security=tls
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.179:443?security=tls&sni=lp.ylks01.eu.org&type=ws&path=%2Ffreecodes#[🇺🇸]t.me/V2razy
 vless://3eef6f0a-d63e-4a29-af16-494154a2a4ae@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v14.TzZLiMitT.CoM#[🇨🇦]t.me/V2razy
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.233:443?security=tls&sni=dp.ylks.xyz&type=ws&path=%2Ffreecodes#[🇺🇸]t.me/V2razy
+vless://a1ec0a1d-b2b2-4d94-bc84-a3f91109bdbd@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&security=none&encryption=none&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&type=ws#[🇺🇸]t.me/V2razy
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.218:8090#[🇺🇸]t.me/V2razy
+vless://e19ff138-962a-40ce-a90c-0fa6e86acf8c@www.speedtest.net:8080?path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&encryption=none&security=none&type=ws&host=maznet---_-_---maznet2.iMamhussaIn.sbs.#[🇺🇸]t.me/V2razy
+trojan://auto@104.20.19.168:2083?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#[🇺🇸]t.me/V2razy
+vless://062656d4-94b9-4097-a430-90818a6de1b5@194.5.178.153:443?type=tcp&security=none#[🇮🇷]t.me/V2razy
+vless://d3a34744-ca57-40f2-858c-7052419fcf70@104.26.14.148:443?encryption=none&security=tls&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=53331168005383295401796650654415.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS#[🇺🇸]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#[🏁]t.me/V2razy
