@@ -4093,3 +4093,10 @@ vless://27f3b25e-f880-444e-9528-adcea342451e@funnelytics.io:8443?path=%2FTelegra
 vless://a6452721-2380-49c2-bf9c-8a331a3c621a@www.speedtest.net:80?type=ws&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net&security=none#[🇺🇸]t.me/V2razy
 vless://27f3b25e-f880-444e-9528-adcea342451e@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#[🇨🇦]t.me/V2razy
 vless://27f3b25e-f880-444e-9528-adcea342451e@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#👉🆔 @V2razy📡🇨🇦Canada
+trojan://telegram-id-directvpn@51.21.103.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+ss://bm9uZTpjYmNiYWFhLWJhY2EtY2FhYi1kY2JhLWJhYmJjY2NjYWJhYQ==@127.0.0.1:1080#👉🆔 @V2razy📡🤷‍♀️🤷‍♂️
+vless://aacbcba-aacb-caab-acbd-cabaccbbabac@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @V2razy📡🤷‍♀️🤷‍♂️
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.178:443?security=tls&sni=v2nGFast-924.pAges.dev&type=ws&host=v2ngFasT-924.PagES.dev&path=%2FRfigJlQ1hvdLGAyi%3Fed%3D2560#👉🆔 @V2razy📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE=@45.158.77.153:40034#👉🆔 @V2razy📡🇬🇧United Kingdom
+trojan://telegram-id-directvpn@51.21.103.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/V2razy
+vless://c2ebb5b5-8903-4f14-8e6d-3384e4142dc9@92.114.50.76:443?security=none&type=tcp&host=alibaba.ir&path=%2F&headerType=http#👉🆔 @V2razy📡🇮🇷Iran
