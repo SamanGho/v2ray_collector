@@ -3835,3 +3835,7 @@ vless://telegram.v2rayvpn_official@Zula.ir:80?path=%2F%3Fed%3D2053&security=none
 vless://telegram.v2rayvpn_official@www.speedtest.net:2052?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shop&type=httpupgrade#[🇺🇸]t.me/V2razy
 vless://telegram.v2rayvpn_official@bo3.bia2bax.shop:2096?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/V2razy
 vless://telegram.v2rayvpn_official@bo2bo2.bia2bax.shop:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=bo2bo2.bia2bax.shop#[🏁]t.me/V2razy
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=argodev11222.pages.dev&fp=randomized&type=ws&sni=ArGodev11222.PaGes.Dev#[🇺🇸]t.me/V2razy
+vless://3c156138-7061-408c-b4dd-fc2ea499c43d@172.232.44.219:56312?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇫🇷]t.me/V2razy
+trojan://telegram-id-privatevpns@18.170.240.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/V2razy
+trojan://telegram-id-privatevpns@18.170.240.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/V2razy
