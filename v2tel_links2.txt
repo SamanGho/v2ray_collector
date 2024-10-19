@@ -4462,3 +4462,8 @@ vless://33801386-eca4-4b0a-b053-6efa460bcd8e@NUFiLTER.fastly80.hosting-ip.com:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.2:443?path=%2FH%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @V2razy📡🇸🇬Singapore
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.251:443?path=%2FH%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Sanjeshp.Ir&fp=randomized&type=ws&sni=Sanjeshp.Ir#[🇺🇸]t.me/V2razy
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.11.250:443?path=%2FH%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Sanjeshp.Ir&fp=randomized&type=ws&sni=Sanjeshp.Ir#[🇺🇸]t.me/V2razy
+trojan://telegram-id-directvpn@3.8.74.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+trojan://telegram-id-directvpn@3.8.74.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/V2razy
+trojan://telegram-id-privatevpns@3.76.25.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/V2razy
+trojan://telegram-id-privatevpns@3.76.25.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.96.122:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇫🇷
