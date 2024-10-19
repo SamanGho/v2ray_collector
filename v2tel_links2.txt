@@ -4266,3 +4266,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.179.237.4:443#[🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.72.145:443#[🇦🇪]t.me/V2razy
 vless://79f2561f-85c4-4667-e2d6-28cb52907681@43.216.3.121:24788?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/V2razy
 vless://79f2561f-85c4-4667-e2d6-28cb52907681@43.216.3.121:24788?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @V2razy📡🇲🇾Malaysia
+vless://5178c283-6911-45af-b27e-99b021d460ad@151.101.3.8:80?security=none&type=ws&host=Aqakheylynamardin.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#👉🆔 @V2razy📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.113:5000#[🇺🇸]t.me/V2razy
+vless://ec3caa8b-df48-497a-889e-d5958e9d3f39@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Okhala.com&type=ws#[🇨🇦]t.me/V2razy
+vless://a032c96f-1d63-415a-8120-1229b713d248@speedtest-fr5.gcore.com:80?type=httpupgrade&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=bng.org&security=none#[🇩🇪]t.me/V2razy
+trojan://telegram-id-privatevpns@52.17.48.122:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @V2razy📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@52.17.48.122:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/V2razy
+vless://5178c283-6911-45af-b27e-99b021d460ad@151.101.3.8:80?security=none&type=ws&host=Aqakheylynamardin.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#[🇺🇸]t.me/V2razy
+trojan://3648425794742788096@195.133.93.114:443?allowInsecure=0#👉🆔 @V2razy📡🇨🇿Czechia
