@@ -4522,3 +4522,8 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.19:443?security=tls&sni=a
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.126.205:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇫🇷]t.me/V2razy
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.239:443?security=tls&sni=lr.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#👉🆔 @V2razy📡🇺🇸United States
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.251:443?security=tls&sni=lr.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#👉🆔 @V2razy📡🇺🇸United States
+vless://DIGIV2RAy@www.speedtest.net:2052?type=ws&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none#[🇺🇸]t.me/V2razy
+trojan://telegram-id-privatevpns@15.237.20.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/V2razy
+vless://70c68b11-831f-4793-9478-b3c93bcc2b92@turkye-tunnel.scriptboy.ir:5050?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @V2razy📡🇮🇷Iran
+vless://00d0d313-aeb5-465a-a89c-12038fd1b53b@172.67.73.238:443?path=%2FVLESS%2Fus-full.privateip.net&security=tls&encryption=none&alpn=http/1.1&host=yelan.thelastronin.cloudns.org&fp=random&type=ws&sni=yelojdojdan.thelastronin.cloudns.org#[🇨🇦]t.me/V2razy
+vless://DIGIV2RAy@www.speedtest.net:2052?type=ws&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none#👉🆔 @V2razy📡🇺🇸United States
