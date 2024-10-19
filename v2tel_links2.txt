@@ -4602,3 +4602,9 @@ vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.182:8443?security=tls&sn
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.92.111:5499#👉🆔 @V2razy📡🇺🇸United States
 vless://ad2cba08-4547-48f8-a71f-11f57b42d974@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#[🇺🇸]t.me/V2razy
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.92.71:443#👉🆔 @V2razy📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@50.19.33.126:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇺🇸]t.me/V2razy
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.101:5601#👉🆔 @V2razy📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@50.19.33.126:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @V2razy📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#👉🆔 @V2razy📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@50.19.33.126:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇺🇸
+vless://0d1aba60-3b6b-422a-fd9c-69f0a7a5c897@104.21.28.188:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws102.awscloudfront.net.kiava.fun&type=ws#[🇺🇸]t.me/V2razy
