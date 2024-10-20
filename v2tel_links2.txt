@@ -1781,3 +1781,13 @@ vmess://eyJhZGQiOiIxMjguMjA0LjIyMy40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiAibWFtZS16ZXl0b25pLWhhbGV0LWNoZXRvcmUuaGFqYWxpaS5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibWFtZS16ZXl0b25pLWhhbGV0LWNoZXRvcmUuaGFqYWxpaS5jb20iLCAiaWQiOiAiOWNjZDc4ZTUtZjhkOS00YTViLTk5ZmYtMDYzMDkyODk4ZjNjIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJwYXRoIjogIi92SDJvcHM5N2s0MkZhOVFXakRIR05BZG1WIiwgInBvcnQiOiAiODAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlN1VuaXRlZCBLaW5nZG9tIn0=
 vless://528a49bd-d67c-4c69-8c18-ae05907e4209@79.127.70.123:2087?security=none&encryption=none&host=www.%40FergalVpnMod.net&headerType=http&type=tcp#[🇮🇷]t.me/V2razy
 trojan://tg-dns68@162.159.153.183:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#👉🆔 @V2razy📡🇨🇦Canada
+vless://Parsashonam-81@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @V2razy📡🇺🇸United States
+vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?path=%2F&security=none&encryption=none&type=ws#👉🆔 @V2razy📡🇮🇷Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @V2razy📡🇬🇧United Kingdom
+trojan://telegram-id-directvpn@51.20.176.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVHY0OVVURjQwRlVyNktqbjBZZXll@5.180.45.142:18429#👉🆔 @V2razy📡🇨🇾Cyprus
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.222.216:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.222.216:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇸🇪
+vless://68acb23b-7883-423d-bf35-9aa14d7a0ef7@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3#👉🆔 @V2razy📡🇺🇸United States
+vless://528a49bd-d67c-4c69-8c18-ae05907e4209@79.127.70.123:2087?security=none&encryption=none&host=www.%40FergalVpnMod.net&headerType=http&type=tcp#👉🆔 @V2razy📡🇮🇷Iran
+trojan://telegram-id-privatevpns@51.21.57.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/V2razy
