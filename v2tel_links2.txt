@@ -1653,3 +1653,11 @@ vless://4be3cc7b-2d3d-46c4-b0c5-7a30a80ae7c1@151.101.2.216:80?security=none&type
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&type=ws&sni=ls.ylks.us.kg#👉🆔 @V2razy📡🇬🇧United Kingdom
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.97:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=dr.ylks.xyz#👉🆔 @V2razy📡🇺🇸United States
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.106:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lr.kpcloud.eu.org#👉🆔 @V2razy📡🇺🇸United States
+vless://77818477-055b-4379-959f-326d15aeec25@speedtest-fr5.gcore.com:80?type=httpupgrade&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=bng.org&security=none#👉🆔 @V2razy📡🇩🇪Germany
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4yMS40Ni4xMjEiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJpdmlkZW9zLnNicyIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiaXZpZGVvcy5zYnMiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
+vless://3fedbd26-b4da-440e-9f7c-004d2463caec@zula.ir:443?path=%2F---------DisVpn---------DisVpn---------DisVpn&security=tls&encryption=none&alpn=h2#👉🆔 @V2razy📡🇺🇸United States
+vless://3fedbd26-b4da-440e-9f7c-004d2463caec@medium.com:443?path=%2F---------DisVpn---------DisVpn---------DisVpn&security=tls&encryption=none&alpn=h2#👉🆔 @V2razy📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ@95.164.35.90:8388#👉🆔 @V2razy📡🇵🇱Poland
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.236.95.86:443#👉🆔 @V2razy📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ@95.164.35.90:8388#[🏁]t.me/V2razy
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.87.156.159:443#👉🆔 @V2razy📡🇺🇸United States
