@@ -1844,3 +1844,23 @@ vmess://eyJhZGQiOiAiMTA0LjE2LjYxLjgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAi
 vless://5086b8dd-626c-463e-c5a7-f146815205e5@azadi.m8tokhsali.xyz:2096?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @V2razy📡🇮🇷Iran
 vmess://eyJhZGQiOiIxMDQuMTYuNjEuOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiNmM0Ny1idXR0ZXJmbHktNmM0Ny55ZXhvamkzNzQ5LndvcmtlcnMuZGV2IiwiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enovbGlua3dzIiwicG9ydCI6IjgwODAiLCJwcyI6Ilvwn4e68J+HuF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://5086b8dd-626c-463e-c5a7-f146815205e5@azadi.m8tokhsali.xyz:2096?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/V2razy
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?encryption=none&security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @V2razy📡🇨🇦Canada
+vmess://eyJhZGQiOiAiZHMubnVydWwuaG9tZXMiLCAidiI6ICIyIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZHMubnVydWwuaG9tZXMiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==
+vless://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#[🇬🇧]t.me/V2razy
+vless://47f5f95b-0f8e-46e1-8098-1a486f717434@143.198.197.198:40655?security=none&type=ws&host=zoom.us&path=%2FFREE+By+Tharuwa+%280767597317%29#[🏁]t.me/V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.10.206:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇩🇪]t.me/V2razy
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?encryption=none&security=tls&sni=ArGodev11222.PaGes.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=argodev11222.pages.dev&path=%2FiEKjUnufUjeTiIrt%3Fed%3D2560#👉🆔 @V2razy📡🇺🇸United States
+trojan://telegram-id-directvpn@16.171.108.163:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/V2razy
+vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?encryption=none&security=tls&sni=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&host=119f3a0b.chikiy123w.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @V2razy📡🇺🇸United States
+vless://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#[🇧🇭]t.me/V2razy
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.155:443?security=tls&sni=ls.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#[🇺🇸]t.me/V2razy
+vless://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#[🇦🇪]t.me/V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.10.206:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @V2razy📡🇩🇪Germany
+trojan://telegram-id-directvpn@3.139.248.239:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇺🇸]t.me/V2razy
+vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?encryption=none&security=tls&sni=midsUMmER-Bpb.pAgES.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=mIDsuMMer-bpb.PAgEs.DeV&path=%2FStDNeNqkbQxrj6Xy%3Fed%3D2560#👉🆔 @V2razy📡🇨🇦Canada
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.0.54.28:443?security=tls&sni=ls.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#[🇺🇸]t.me/V2razy
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.182:8443?security=tls&sni=bPb005.paGes.DEV&type=ws&path=%2Ffxhhv799mihz1xxp%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#[🇺🇸]t.me/V2razy
+vless://b1038bb9-a5de-4d17-b302-05eb3e1e8e43@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed%3D8880&host=MdVpnSecJoin.ir&encryption=none#[🇨🇦]t.me/V2razy
+vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?encryption=none&security=tls&sni=dc1bf227.vf-8co.pages.dev&type=ws&host=dc1bf227.vf-8co.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @V2razy📡🇨🇦Canada
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.128:443?security=tls&sni=lr.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#[🇺🇸]t.me/V2razy
+vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?encryption=none&security=tls&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV&alpn=http%2F1.1&fp=randomized&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2FYE8wFQQnzARDsNUP%2FZGUucmFkaWNhbGx5LnBybw%3D%3D#👉🆔 @V2razy📡🇨🇦Canada
