@@ -3103,3 +3103,5 @@ vless://26ce9fe1-24a0-4ef1-92f8-637792122a12@www.speedtest.net:80?path=%2F%40Shh
 trojan://telegram-id-privatevpns@54.195.225.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/V2razy
 trojan://telegram-id-directvpn@18.198.91.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 vless://8cccccc9-6eee-4fff-abbb-5c079999a733@188.245.193.38:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=firefox&type=grpc&serviceName=grpc&allowInsecure=1&sni=book.alive.ac.eu.wk#[🇩🇪]t.me/V2razy
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Abdarchiejahanam2.net.&type=ws#[🇨🇦]t.me/V2razy
+vless://94aa7030-2292-453d-b6ff-7f26ca3e7b56@104.18.165.38:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#[🇺🇸]t.me/V2razy
