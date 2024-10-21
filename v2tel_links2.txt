@@ -3116,3 +3116,9 @@ trojan://telegram-id-privatevpns@54.171.148.96:22222?security=tls&alpn=http/1.1&
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@iranserver.com:443?security=tls&sni=pages.dev&fp=chrome&type=ws&path=/?ed%3D8080&host=download-93w.pages.dev&encryption=none#[🇺🇸]t.me/V2razy
 trojan://telegram-id-directvpn@3.67.153.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/V2razy
 trojan://telegram-id-privatevpns@54.171.148.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/V2razy
+vless://ef9237fa-eead-42a0-8b12-59babf3fd7a7@185.146.173.58:8080?security=none&type=ws&host=lc67.lebasnoo.ir.&path=%2Fservernett#[🇸🇪]t.me/V2razy
+vless://9a4bc15d-a7d4-4181-9485-405629c36894@185.146.173.115:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=king-ae1.pages.dev&type=ws&sni=king-ae1.pages.dev#[🇸🇪]t.me/V2razy
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.241:443?security=tls&sni=ppaL03.ELiaM-CamrEN.WOrKeRS.DeV&type=ws&host=PPAl03.ElIAM-camrEn.WorKeRS.DEv&path=%2Fisss4ZQQOBtIYgFo%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#[🇺🇸]t.me/V2razy
+vless://bc953cb6-7112-4d3c-bbf4-eaf8a0d004cb@172.66.44.58:443?path=%2FTelegram%40Linkvws%3Fed%3D2048&security=tls&encryption=none&host=sflslf0flk0sfk0sf.pages.dev&fp=randomized&type=ws&sni=sflslf0flk0sfk0sf.pages.dev#[🇨🇦]t.me/V2razy
+vless://f1bc9b71-511d-484a-9ede-5b409663d978@panelg.fastvideo.free.hr:41862?type=tcp&path=%2F&host=divar.ir&headerType=http&security=reality&pbk=fUtXtkGj5jRV3Ut3tK1mCa32EN9vuR8nj74KMQi84Ww&fp=random&sni=yahoo.com&sid=df93289441dfba01&spx=%2F#[🇩🇪]t.me/V2razy
+vless://2d722623-3740-4f73-9357-01ad1a25ce27@185.156.108.40:13784?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/V2razy
