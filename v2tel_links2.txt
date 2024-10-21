@@ -3139,3 +3139,4 @@ vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2F%3F
 vless://513db028-d7d1-487d-db5c-6d93bdb744d0@Zmaoz.Faculty.UcdavIS.Edu:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=chde.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.UcdavIS.Edu.#[🇳🇱]t.me/V2razy
 vless://Parsashonam-83@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/V2razy
 vless://28b35b1d-1c88-4511-aa2f-7fd406a73f73@www.speedtest.net:8080?path=%2FG%2Fb4t6hy5n%2F%3Fed%3D80120&security=none&encryption=none&host=test.flnsho.store.&type=ws#[🇺🇸]t.me/V2razy
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2F9U5M5dY6sepIb4Up%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=20fb0424.bpb-worker-panel-1xd.pages.dev&fp=randomized&type=ws&sni=20Fb0424.bpb-WoRker-PaNeL-1xD.pAges.DEv#[🇺🇸]t.me/V2razy
