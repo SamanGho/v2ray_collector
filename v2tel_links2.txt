@@ -2613,3 +2613,4 @@ vless://82fcaf8e-9881-4ab7-8d78-3a290261056d@speedtest-fr5.gcore.com:80?type=htt
 trojan://telegram-id-directvpn@3.248.93.142:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇮🇪]t.me/V2razy
 trojan://8DAzZXOSwYcDlgOej2lC3AYypa30F4pxnqCSEZKR7yD3Sx89RuNa6aCBeFT35I@154.17.17.123:28332/?type=tcp&security=tls&sni=penguin.missionsec.io&allowInsecure=1#[🇺🇸]t.me/V2razy
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE4MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.88:2087/?type=grpc&encryption=none&flow=&sni=dash.cloudflare.com&fp=firefox&security=reality&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835#👉🆔 @V2razy📡🇮🇪Ireland
