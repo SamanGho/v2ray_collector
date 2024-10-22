@@ -70,7 +70,7 @@ jobs:
         python main.py ${{ env.file }}
 
     - name: Clear the previous file after switching
-      if: ${{ env.file != env.next_file }}
+      if: ${{ env.file }} != ${{ env.next_file }}
       run: |
         echo "Clearing the previous file: ${{ env.next_file }}"
         echo "" > ${{ env.next_file }}
