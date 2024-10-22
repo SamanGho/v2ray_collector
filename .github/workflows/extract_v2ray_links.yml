@@ -31,7 +31,7 @@ jobs:
           # If it doesn't exist, create it with the current timestamp and start with file 1
           date +%s > .last_switch
           echo "file=v2tel_links1.txt" >> $GITHUB_ENV
-          echo "next_file=v2tel_links2.txt" >> $GITHUB_ENV
+          echo "next_file=base64" >> $GITHUB_ENV
         else
           # Calculate the difference in seconds between now and the last switch
           LAST_SWITCH=$(cat .last_switch)
@@ -42,11 +42,11 @@ jobs:
           if [ $TIME_DIFF -ge 7200 ]; then
             # It's been 2 hours, switch files
             if grep -q "v2tel_links1.txt" .last_file; then
-              echo "file=v2tel_links2.txt" >> $GITHUB_ENV
+              echo "file=base64" >> $GITHUB_ENV
               echo "next_file=v2tel_links1.txt" >> $GITHUB_ENV
             else
               echo "file=v2tel_links1.txt" >> $GITHUB_ENV
-              echo "next_file=v2tel_links2.txt" >> $GITHUB_ENV
+              echo "next_file=base64" >> $GITHUB_ENV
             fi
             # Update the last switch time
             date +%s > .last_switch
@@ -54,9 +54,9 @@ jobs:
             # Continue with the current file
             if grep -q "v2tel_links1.txt" .last_file; then
               echo "file=v2tel_links1.txt" >> $GITHUB_ENV
-              echo "next_file=v2tel_links2.txt" >> $GITHUB_ENV
+              echo "next_file=base64" >> $GITHUB_ENV
             else
-              echo "file=v2tel_links2.txt" >> $GITHUB_ENV
+              echo "file=base64" >> $GITHUB_ENV
               echo "next_file=v2tel_links1.txt" >> $GITHUB_ENV
             fi
           fi
