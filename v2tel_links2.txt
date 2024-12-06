@@ -4123,3 +4123,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.96.69.247:22222?path=/telegram-ch
 trojan://telegram-id-privatevpns@52.29.101.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@3.132.185.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://d568fb13-e269-490f-b476-5a0c05770b79@hajlab.ucdavis.edu:443?path=%2F&security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitTNeWz.NeT&fp=chrome&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@99.79.155.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
