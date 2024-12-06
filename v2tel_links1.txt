@@ -1472,3 +1472,16 @@ trojan://user@s25.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s25.
 trojan://user@s20.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s20.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 trojan://user@s5.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s5.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 trojan://telegram-id-directvpn@13.53.84.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@35.178.254.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://user@s14.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s14.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.72.8:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@35.180.150.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://user@s15.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s15.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.141.175:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@63.176.4.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.71.206.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@3.79.212.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
