@@ -1571,3 +1571,9 @@ trojan://telegram-id-directvpn@18.157.227.122:22222?security=tls&alpn=http/1.1&h
 vmess://eyJhZGQiOiAiMTg4LjIxMy4xOTYuMTg4IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjk3OTVlMDc1LWFjODItNDI0NS05YWY0LTgyZTE1NzJmNzk3OCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDk3NDQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjdJcmFuIn0=
 trojan://telegram-id-privatevpns@35.177.252.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.19.251.144:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+trojan://user@s4.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s4.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s13.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s13.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s3.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s3.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s11.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s11.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s2.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s2.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://user@s12.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s12.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
