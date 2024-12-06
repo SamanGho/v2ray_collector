@@ -4087,3 +4087,7 @@ trojan://user@s2.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s2.my
 trojan://user@s18.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s18.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 trojan://user@s17.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s17.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 trojan://user@s16.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s16.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://telegram-id-directvpn@99.79.155.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@16.16.125.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@34.250.138.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@46.137.58.196:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
