@@ -4534,3 +4534,11 @@ vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security
 vless://ff8cd74e-21ec-4a25-9a73-cdf3ee9305fc@188.245.167.119:11163?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=f830f6#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://aad997b4-1c95-47a2-a813-0d27722200d4@173.245.59.86:80?path=%2Fwww.speedtest.net.Xiaomi%3Fed%3D80&security=none&encryption=none&host=de6t.mimarketshop.INFO.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://108825ef-c84e-4350-abda-ce3872c754e1@87.107.10.37:2062?security=none&encryption=none&host=bwm.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+trojan://telegram-id-directvpn@3.128.185.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://blue2024@104.18.69.126:443?security=tls&sni=ha.lii2010.us.kg&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.79.108.237:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@63.176.232.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.79.108.237:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+vless://2e89e747b0c9bb37ad2ba5d8abb966c7@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Moji2khatar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://ff8cd74e-21ec-4a25-9a73-cdf3ee9305fc@de-re.afteam.ir:11163?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=f830f6#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://NISHIKUITAN111@104.26.2.143:443?security=tls&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
