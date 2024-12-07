@@ -4630,3 +4630,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.252.86.117:22222?path=/telegram-
 trojan://telegram-id-privatevpns@52.50.45.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
 vless://7bcf2287-2787-4bd6-b445-028643268169@151.101.128.155:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=Tehranc3.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://d568fb13-e269-490f-b476-5a0c05770b79@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.TzZLiMitTNeWz.NeT&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@108.162.195.159:443?security=tls&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@195.85.59.95:443?security=tls&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
+trojan://telegram-id-directvpn@18.134.107.8:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-directvpn@3.120.86.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
