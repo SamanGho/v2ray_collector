@@ -4310,3 +4310,9 @@ vless://d568fb13-e269-490f-b476-5a0c05770b79@hajlab.ucdavis.edu:80?security=none
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.23.145:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 vless://V2RAAX@visa.com:80?path=%2FTelegram%2CV2RAXX%3Fed%3D2560&security=none&encryption=none&host=tls.kookipaz.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-directvpn@13.51.66.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://AB_841@ab841.bugfreenet.ip-ddns.com:53583?mode=gun&security=none&encryption=none&type=grpc&serviceName=Join-%40BugFreeNet-AB841#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://12c8140b-7482-4c43-9fa0-e95e42bb87fd@212.98.224.22:52277?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+vless://ddcdd97d-7854-498d-8a37-f8bc03e7b72c@212.98.224.229:8443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+vless://f684b3ec-afcc-4bad-96f6-fefa05a9017f@212.98.224.245:13943?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.144.197.111:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=%3Fed%3D2744&security=tls&sni=pvg.aghabeiki.homes#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://faa93cf0-0021-4d4a-81ce-d340603365f9@78.135.66.131:37279?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
