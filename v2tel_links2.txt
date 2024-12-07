@@ -4304,3 +4304,9 @@ vless://824918b6-6909-44a1-bfab-1943a132e390@t-fr-dynamic.zoverv.com:443?securit
 vless://b7b5990f-cd48-45ad-b1d9-ce88b5010961@speedtest.net:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=Tehranc1.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://824918b6-6909-44a1-bfab-1943a132e390@t-uk-dynamic.zoverv.com:443?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig14.usecharge.ir:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-directvpn@3.147.97.43:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@16.16.224.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
+vless://d568fb13-e269-490f-b476-5a0c05770b79@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitTNeWz.NeT&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.23.145:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+vless://V2RAAX@visa.com:80?path=%2FTelegram%2CV2RAXX%3Fed%3D2560&security=none&encryption=none&host=tls.kookipaz.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@13.51.66.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
