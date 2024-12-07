@@ -4634,3 +4634,4 @@ trojan://blue2024@108.162.195.159:443?security=tls&sni=hb.lii2010.us.kg&type=ws&
 trojan://blue2024@195.85.59.95:443?security=tls&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
 trojan://telegram-id-directvpn@18.134.107.8:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://telegram-id-directvpn@3.120.86.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://12c8140b-7482-4c43-9fa0-e95e42bb87fd@212.98.224.22:52277?security=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
