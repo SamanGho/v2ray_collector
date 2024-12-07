@@ -4341,3 +4341,9 @@ vless://c9eb0fe9-09dd-495c-a11a-0f2e580c9c94@172.67.132.56:2096?path=%2Fvless-ws
 vless://62f0db3b-b43d-4936-f5cc-d59aab745f18@104.22.71.106:2053?path=%2F&security=tls&encryption=none&host=nKaMhsNG1.ZaNddynASTYOfPersia.ORG&type=ws&sni=nKaMhsNG1.ZaNddynASTYOfPersia.ORG#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://bpb-trojan@172.66.44.53:2053?security=tls&sni=gozaRGAh-eIM.PaGES.dEV&type=ws&host=gozargah-eim.pages.dev&path=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://108825ef-c84e-4350-abda-ce3872c754e1@So.mispd.ir:2062?encryption=none&security=none&type=tcp&headerType=http&host=bwm.com#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+trojan://telegram-id-directvpn@35.181.158.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://268a2dc6-39b4-42bc-a716-ae3df9bc0e75@109.207.172.155:8443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=1EuABdxlg_dNWrXZTVupoHxnljGmGfomaYkB7EUUETY&sid=06&spx=/&type=grpc&serviceName=JoinBadeChannel@antimeli&encryption=none#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+trojan://telegram-id-privatevpns@3.66.249.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
+vless://e6464498-c5a6-4216-a61a-0a4ac3c77e25@spd.fastly80-3.hosting-ip.com:80?encryption=none&security=none&type=ws&host=servicefree.vip.no.tlswehoock.ir.&path=%2FSPdnet%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://telegram-id-ArV2ray@ArV2ry.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D80&security=none&encryption=none&host=api.nhl33.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
