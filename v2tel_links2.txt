@@ -4530,3 +4530,7 @@ vless://03d6f0a4-f95c-4371-ba4d-798de3351517@api.dashkio.com:443?security=realit
 vless://8dfc8efb-d126-442c-9339-a4a6b0c0493c@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Login.CafeBazaar.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.16:5001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://AB_841-2@germany.ab841vpn.ip-ddns.com:53583?mode=gun&security=none&encryption=none&type=grpc&serviceName=Join-%40BugFreeNet-AB841#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://ff8cd74e-21ec-4a25-9a73-cdf3ee9305fc@188.245.167.119:11163?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=f830f6#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://aad997b4-1c95-47a2-a813-0d27722200d4@173.245.59.86:80?path=%2Fwww.speedtest.net.Xiaomi%3Fed%3D80&security=none&encryption=none&host=de6t.mimarketshop.INFO.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://108825ef-c84e-4350-abda-ce3872c754e1@87.107.10.37:2062?security=none&encryption=none&host=bwm.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
