@@ -4316,3 +4316,6 @@ vless://ddcdd97d-7854-498d-8a37-f8bc03e7b72c@212.98.224.229:8443?security=none&e
 vless://f684b3ec-afcc-4bad-96f6-fefa05a9017f@212.98.224.245:13943?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.144.197.111:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=%3Fed%3D2744&security=tls&sni=pvg.aghabeiki.homes#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 vless://faa93cf0-0021-4d4a-81ce-d340603365f9@78.135.66.131:37279?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇹🇷Turkey
+trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@vn.mjt000.com:443?allowInsecure=1&sni=vn.mjt000.com#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.156.117:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3cef867e-ae04-4d4f-a3c0-96a28e581077@clientproo.xyz:8080?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
