@@ -4459,3 +4459,7 @@ trojan://blue2024@104.16.238.107:443?path=%2F%3Fed%3D2560&security=tls&host=td.p
 trojan://blue2024@104.19.251.206:443?path=%2F%3Fed%3D2560&security=tls&host=td.promote.icu&type=ws&sni=td.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-privatevpns@51.44.130.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TjJ2bzJ1cUE0V3BaRXhRYTczUFhi@194.87.45.189:40076#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
+trojan://telegram-id-privatevpns@18.135.122.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM2EzU0JpUXUzMDJ4NkxaaDVJeWh6@ams.telegavpn.org:19057#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+trojan://telegram-id-privatevpns@18.135.122.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
+vmess://eyJhZGQiOiAiZnJhbmtmdXJ0MDMuemdqb2suY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImZyYW5rZnVydDAzLnpnam9rLmNvbSIsICJpZCI6ICI0ZjdjMjI0My1hMzhhLTQ2NzItOTgzYi1mMTM3OGFlZTBhN2YiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhR2VybWFueSJ9
