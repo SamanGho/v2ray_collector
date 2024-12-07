@@ -4580,3 +4580,7 @@ vless://65364f16-a80d-4879-a22a-fdb81340d0c2@www.speedtest.net:443?path=%2Fv2lin
 vless://2fb4ff3e-664c-48d1-81c5-e64b1b5905f6@clientproo.xyz:8080?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.91.100.211:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a54fcf91-c5a8-4c8e-a80f-050816f5ad3a@116.203.201.23:9595?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.183.176:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+trojan://telegram-id-directvpn@54.163.78.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@52.47.199.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs
+vless://109db3bd-4977-4a4b-bad3-1d96f37918dd@www.SPEEDTEST.net:8080?path=%2F%3Fed%3D1048Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
