@@ -4907,3 +4907,4 @@ vmess://eyJhZGQiOiAiMzguMTEuNDkuNTMiLCAiYWlkIjogIjY0IiwgImFscG4iOiAiIiwgImZwIjog
 trojan://telegram-id-privatevpns@35.177.35.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 vless://9cf16370-7cb1-4d3c-aa56-7f45747939db@speedtest.net:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=Tehranc3.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://e8cfc69c-f9a4-40ed-b48d-d5da257f5c7c@107.172.57.21:443?security=reality&encryption=none&pbk=f12r3TyZUUckM-XWQ7w63kcF19eZVvWdgZqqk4ry3Ss&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=osxapps.itunes.apple.com&sid=5b6fd34e#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@34.255.169.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
