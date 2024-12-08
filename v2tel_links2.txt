@@ -4852,3 +4852,6 @@ trojan://telegram-id-privatevpns@15.237.230.200:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-directvpn@51.44.3.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.178.127:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 trojan://telegram-id-privatevpns@63.177.17.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
+vless://7cc65aae-cf21-407d-a9e3-7ce955359d42@www.speedtest.net:2086?path=%2FVVVVVV&security=none&encryption=none&host=website.dnss-mobile.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@108.129.38.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://0cda2421-8ea5-46e6-98ce-f2bdc057f532@ISVvpn.fastly80-2.hosting-ip.com:80?path=%2FVLESS%3Fed%3D80&security=none=telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn-telegram@ISVvpn&encryption=none&host=5776.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
