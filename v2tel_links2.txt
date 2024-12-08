@@ -4777,3 +4777,9 @@ vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@151.101.194.13
 trojan://blue2024@104.16.20.118:443?sni=tb.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://blue2024@104.16.36.151:443?sni=ha.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://8ee538e1-66c8-4eb1-8705-407b19afad84@46.36.97.25:8080?security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@47.128.215.67:443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://1005238f-c35f-49dc-b49f-b15be1da413e@199.232.255.25:443?path=/Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY%3Fed%3D2560&allowInsecure=1&security=tls&host=JOiN--E-L-i-V-2-R-A-Y.io&fp=chrome&type=ws&sni=JOiN--E-L-i-V-2-R-A-Y.io#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@185.170.166.39:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://1005238f-c35f-49dc-b49f-b15be1da413e@199.232.125.59:443?path=/Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY%3Fed%3D2560&allowInsecure=1&security=tls&host=JOiN--E-L-i-V-2-R-A-Y.io&fp=qq&type=ws&sni=JOiN--E-L-i-V-2-R-A-Y.io#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.79.108.237:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.183.176:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
