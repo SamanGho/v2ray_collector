@@ -4940,3 +4940,8 @@ vmess://eyJhZGQiOiAiMTk4LjIuMTk1LjEiLCAiYWlkIjogIjY0IiwgImFscG4iOiAiIiwgImZwIjog
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.226.194.21:46002?#👉🆔 @v2ray_configs_pool📡🇨🇳China
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#👉🆔 @v2ray_configs_pool📡🇫🇷France
 trojan://dns68@104.21.92.73:443?sni=trojan.putata.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://telegram-id-ArV2ray@live.skornorth.com:443?encryption=none&security=tls&sni=live.skornorth.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=mtn26kws.net&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@15.157.206.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@13.50.211.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
+vless://telegram-id-ArV2ray@live.skornorth.com:443?encryption=none&security=tls&sni=live.skornorth.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=mtn26kws.net&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.207.191.203:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
