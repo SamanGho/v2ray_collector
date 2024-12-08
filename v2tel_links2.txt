@@ -4802,3 +4802,8 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.151.148.35:443?path=%2F%3Fed%3D
 vless://6c5d0e44-3199-4243-8194-08956e9ce656@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v09.TzZLiMitTNeWz.NeT#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.114:443?encryption=none&security=tls&sni=dy.ylks.xyz&type=ws&host=dy.ylks.xyz&path=%2Ffreecodes#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU%3D@47.128.215.67:443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://telegram-id-ArV2ray@ArV2ry.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D80&security=none&encryption=none&host=deinssw25.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://eebcdbce-4a2a-437e-9b30-f9d24793ebb1@190.93.246.160:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vbbb.lii2010.us.kg&type=ws&sni=vbbb.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+vless://e44d1746-370c-4b3d-a955-3020d2a4bf6c@bestco.bestshop10.ir:40240?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+trojan://telegram-id-privatevpns@63.176.232.107:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://d1d8392c-b463-4b06-a6b1-fd922d6ce9f4@germany.acangame.site:4444?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
