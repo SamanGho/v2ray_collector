@@ -5313,3 +5313,4 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE2NS4yMjcuNjUuNDAiLCAicG9ydCI6ICI4ODgxIiwgImlk
 trojan://telegram-id-directvpn@13.39.213.178:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.173.77:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://b9509f1d-fed1-49bd-acd4-038ad13c81e7@104.17.148.22:443?path=%2Fv2line-chicago-unitedstates-vl-ws-tls-advanced&security=tls&encryption=none&host=86278058785885367257976103254902.v2line.net&type=ws&sni=86278058785885367257976103254902.v2line.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
