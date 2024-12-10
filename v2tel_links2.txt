@@ -5341,3 +5341,6 @@ vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.163.63:80?security=reality&
 ss://bm9uZTphY2NiYmFhLWJhY2EtYWFjYi1iYWNkLWJjY2JiY2FjYmFhYQ==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 vless://49a2c7ca-002e-484c-fe76-bed8122007b1@152.42.163.217:443?security=tls&sni=m.viber.com&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 trojan://blue2024@172.67.207.26:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c95e277a-8883-430f-914c-8c968ff95691@clud.aftabe12.ir:8443?type=ws&host=mn.aftabe12.ir&path=/&security=tls&fp=chrome&sni=mn.aftabe12.ir&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiMTQ3Ljc4LjE0MC4zMCIsICJhaWQiOiAwLCAiaG9zdCI6ICI0ODY4LXBvZXRyeS00ODY4Lm5hcG9yYTcwMDMud29ya2Vycy5kZXYiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9vYmRpaS5jZmQvbGlua3dzIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICI0ODY4LXBvZXRyeS00ODY4Lm5hcG9yYTcwMDMud29ya2Vycy5kZXYiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZWNCdWxnYXJpYSJ9
+trojan://telegram-id-directvpn@15.157.83.65:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
