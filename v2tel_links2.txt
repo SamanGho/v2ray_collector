@@ -5349,3 +5349,9 @@ vless://a409464b-a13a-4070-96fa-07d916d6bb2e@vmessorg.fastly80-3.hosting-ip.com:
 trojan://telegram-id-directvpn@3.141.130.46:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://775213ac-3976-439a-8977-3277c0e4735d@94.247.142.241:443?encryption=none&security=tls&sni=fq521.6789.cloudns.be&type=ws&host=fq521.6789.cloudns.be&path=twitterfreecodessecurity%3Dtls#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://telegram-id-privatevpns@13.43.220.26:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.216.74.178:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d66bb0ee-5f9e-5269-adb8-492d19241ed6@199.232.196.204:80?security=none&type=ws&sni=JOiN--E-L-i-V-2-R-A-Y.net&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://429b2da1-0510-4683-8962-3b719b8464bf@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitTNeWz.NeT#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://460cbc68-b655-4fb3-df58-9e64a82e325f@104.17.148.22:8880?security=none&type=ws&sni=ch.我的名字伊斯梅洛.site.&path=/melo/&encryption=none&headerType=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.202.63.77:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.185.28.215:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
