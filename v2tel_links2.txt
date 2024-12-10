@@ -5333,3 +5333,11 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOC4xMTQuMjM0IiwgInBvcnQiOiAiMjA5NSIsICJ0
 trojan://telegram-id-privatevpns@63.176.1.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.66.228:80?path=%2F&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitTNeWz.NeT&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@100.29.80.125:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://46b06e2c-e5e0-4ad2-ad3e-9f316d7d3065@151.101.3.8:80?type=ws&host=Mahxraytdep.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f050cff5-f3a5-4d88-b653-e70fac34dd24@104.17.14.75:2095?security=none&type=httpupgrade&host=bAbAeE.tO.bAzIgOoShI.dIrIdIrIn.kHoNe.mA.dOoReH.dOrEeH.oWj.mIgErAfMaN.cLoUdMaRkEt.sHoP.tEhRaN2.aDs.bLuWaVe.iR&path=%2F%3Fed%3D8080#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://ouo@210.61.97.241:81?sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE5MC45My4yNDYuMjI2IiwgInBvcnQiOiAiMjA4MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImlwMTguNjkyOTE5OC54eXoiLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmN0Nvc3RhIFJpY2EifQ==
+vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.163.63:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://bm9uZTphY2NiYmFhLWJhY2EtYWFjYi1iYWNkLWJjY2JiY2FjYmFhYQ==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://49a2c7ca-002e-484c-fe76-bed8122007b1@152.42.163.217:443?security=tls&sni=m.viber.com&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://blue2024@172.67.207.26:443?sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
