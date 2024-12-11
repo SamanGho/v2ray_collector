@@ -6011,3 +6011,9 @@ vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMOD
 vless://tel--ZEDMODEON@connectcarolina.sites.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=ghatreh.com&type=ws&sni=connectcarolina.sites.unc.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@31.43.179.46:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&path=/?ed%3D2560&host=vbbc.ylks01.eu.org&encryption=none#👉🆔 @v2ray_configs_pool📡🇰🇿Kazakhstan
 vless://Joining--ZEDMODEON@connectcarolina.sites.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=ino.school&type=ws&sni=connectcarolina.sites.unc.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppejZxU0l6bDNqTFRJaWlzUnhXcmRj@81.19.141.45:52873#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZZjdqYTg3emlEQU92QVhnZmsyeUlR@195.15.215.198:5555#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdTd2T3JyYzJ1THRzMFJXZFNRdDBy@194.87.45.189:40076#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
+trojan://telegram-id-privatevpns@34.251.7.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
+vless://92e0164a-0942-4abb-abb8-7c6499ce4d87@195.15.215.198:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=microsoft.com&fp=chrome&pbk=bz_CfzxBvjSpYzMQIMKb7C2ttpovR4-4gyABZhjw0QM&sid=#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptdG5jNU93UUhISENKNDJDTVR2dnN6@51.158.252.130:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
