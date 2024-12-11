@@ -5929,3 +5929,14 @@ vless://2d5d4230-10e2-4ee9-afe5-a55c20d2cb3b@san.dornagamesco.ir:1616?encryption
 vless://47e9b63c-6a86-4ae6-acd0-4361f475f53a@65.109.176.108:2053?security=none&type=xhttp&path=%2Ftest%3Fed%3D2560&ps=Telegram%3A%40config_proxy#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
 vless://9b5c9ff6-9a5e-4ed5-bcda-5fea571d9253@new5.vpntype.dev:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&ps=Telegram%3A%40config_proxy#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://b7051f8b-2c6a-41b7-ab7d-36f59f4a190a@syd5.vpntype.dev:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&ps=Telegram%3A%40config_proxy#👉🆔 @v2ray_configs_pool📡🇦🇺Australia
+trojan://telegram-id-directvpn@3.224.217.142:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@3.75.10.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
+trojan://blue2024@104.17.27.142:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@188.244.122.205:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.151.224:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+vless://3bf32eab-0fc4-49df-ab8c-7eff456d1b19@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://blue2024@104.16.104.65:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@104.18.35.253:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://blue2024@104.16.107.194:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@13.42.225.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://blue2024@104.18.119.211:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
