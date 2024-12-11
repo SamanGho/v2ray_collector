@@ -5976,3 +5976,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.130.20:22222?security=tls&sn
 vless://02b9663f-6de1-461d-a26f-be7abe3d9311@151.101.0.155:80?security=none&type=ws&host=Person.service.spdteam.ir.&path=%2FSPdnet%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://cdfee595-ccd0-4921-87b4-3683d9f2353d@pourya.tunnel.gpair7electronics.com:2008?security=none&encryption=none&host=www.speedtest.netTelegram#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 trojan://telegram-id-directvpn@13.48.35.95:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-privatevpns@13.43.210.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.224.146:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.3.188:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://7c063b98-215f-42f4-a98d-bfc769ce44de@151.101.2.165:80?path=%2FTelegram%2CProxy_MTM%2CProxy_MTM%3Fed%3D2560&security=none&encryption=none&host=Tehran1.Ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@54.155.98.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
