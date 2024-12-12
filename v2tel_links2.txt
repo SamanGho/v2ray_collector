@@ -6557,3 +6557,5 @@ trojan://telegram-id-directvpn@16.16.35.19:22222?security=tls&alpn=http/1.1&head
 vless://3c5e9486-df15-4544-98ff-edb57a2453d0@104.16.128.22:8880?path=%2F&security=none&encryption=none&host=cdcvdsf412s5f.jtip1.sbs.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-privatevpns@35.177.207.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.175.95.23:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+vless://ef4def1d-a5e3-4f4a-86fc-6de8505514e4@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=weed.servernet.fun.&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-directvpn@13.61.130.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
