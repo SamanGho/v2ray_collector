@@ -6612,3 +6612,6 @@ vless://9f6728a4-000e-429c-948a-0f8bad5f2334@146.190.176.58:443?encryption=none&
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.95.115:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://d6252cc5-2f53-4966-ad3b-99285b891879@live.skornorth.com:443?path=%2F%40custom_config%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=soft-sun.com&fp=chrome&type=ws&sni=live.skornorth.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://d6252cc5-2f53-4966-ad3b-99285b891879@live.skornorth.com:443?path=%2F%40custom_config%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=soft-sun.com&fp=chrome&type=ws&sni=live.skornorth.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://f0eb8c92ce8946aaba856569cff1a16b@134.195.196.138:443?security=tls&headerType=none&type=tcp&sni=avianrecruit.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@185.24.151.214:52952#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://b4a2ccd4-727a-40ca-8455-fa6e62df2218@retete.cactusbic.ir:23671?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
