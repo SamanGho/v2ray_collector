@@ -6983,3 +6983,9 @@ vless://f988794c-cdb2-4842-b604-06e65cf6d040@45.149.12.39:8443?mode=gun&security
 trojan://telegram-id-directvpn@13.53.100.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://0d48322f-3570-4b9a-a2ea-4a98bd96488b@65.21.253.157:43678?security=none&encryption=none&headerType=&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
 vless://61d4ed6c-eb27-461d-af2f-462b5393acfd@65.21.253.157:443?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+trojan://telegram-id-privatevpns@54.73.109.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@54.73.109.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.200.48.190:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.200.48.190:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://c2a2beb3-403a-4bc0-8bf5-7f6788a7b281@irsupgn1.gamewealth.ir:8443?security=none&encryption=none&host=rubika.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://TELEGRAM-NUFiLTER@mio.splashthat.com:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=kazemi211zerofun.com&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
