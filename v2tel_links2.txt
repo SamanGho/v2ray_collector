@@ -6695,3 +6695,5 @@ trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.163.113.200:45476?sni=hk12.bili
 vless://0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=whatsapp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.147:989#👉🆔 @v2ray_configs_pool📡🇲🇩Moldova
 vless://ab99638d-1d04-451c-92a4-89364d0570f4@151.101.130.133:443?security=tls&sni=live.wkrq.com&type=ws&host=join-bede-CONFIGT.OrG&path=%2FlW0tvTq4oSbHyKeRM%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@108.128.174.238:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.136.76:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
