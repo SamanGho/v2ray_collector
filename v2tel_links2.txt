@@ -7051,3 +7051,7 @@ vless://telegram-id-ArV2ray@live.skornorth.com:443?encryption=none&security=tls&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMUhwWW84OHBWWVBiUzRPZlJQRDlR@91.216.171.58:7877#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMUhwWW84OHBWWVBiUzRPZlJQRDlR@91.216.171.94:7879#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://TELEGRAM-NUFiLTER@SR.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed&security=none&encryption=none&host=1-Boomba2boomba.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://4285f327-20c6-483c-ab28-5ed6d28837bc@xe50-de40cdn3.unlimiteddev.co:443?path=%2F&security=tls&encryption=none&host=xe50-de40cdn1.unlimiteddev.co&fp=chrome&type=ws&sni=xe50-de40cdn1.unlimiteddev.co#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://4285f327-20c6-483c-ab28-5ed6d28837bc@xe50-de40cdn2.unlimiteddev.co:443?path=%2F&security=tls&encryption=none&host=xe50-de40cdn1.unlimiteddev.co&fp=chrome&type=ws&sni=xe50-de40cdn1.unlimiteddev.co#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://4285f327-20c6-483c-ab28-5ed6d28837bc@104.19.84.30:443?path=%2F&security=tls&encryption=none&host=xe50-de40cdn1.unlimiteddev.co&fp=chrome&type=ws&sni=xe50-de40cdn1.unlimiteddev.co#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@35.79.114.141:443?sni=usla.mjt000.com#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
