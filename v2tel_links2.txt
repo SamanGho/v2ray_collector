@@ -6962,3 +6962,8 @@ vless://ecd4ed1a-ca54-4d84-800c-3d01d80e1625@SR.fastly80-3.hosting-ip.com:80?pat
 vless://d415afb8-40f7-455b-8d05-7ae8187d7498@151.101.3.8:80?path=%2FTELEGRAM-PROXY_MTM-TELEGRAM_PROXY_MTM-TELEGRAM_PROXY_MTM-TELEGRAM_PROXY_MTM%3Fed%3D443&security=none&encryption=none&host=Tehran1.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://ecd4ed1a-ca54-4d84-800c-3d01d80e1625@151.101.2.165:80?path=%2FTELEGRAM-PROXY_MTM-TELEGRAM_PROXY_MTM-TELEGRAM_PROXY_MTM-TELEGRAM_PROXY_MTM%3Fed%3D443&security=none&encryption=none&host=Tehran1.Org&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://a7fea432-1100-46da-893d-a1f3207c5f32@162.159.22.139:8443?mode=auto&path=%2Fwe.dc.2096&security=tls&alpn=h2&encryption=none&host=mehrab76.varzesh3.ru&fp=ios&type=xhttp&sni=mehrab76.varzesh3.ru#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@3.10.193.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.10.125.59:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://telegram-id-privatevpns@3.10.243.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
+trojan://telegram-id-directvpn@13.51.128.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.190.142:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
