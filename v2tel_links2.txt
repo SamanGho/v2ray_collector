@@ -7277,3 +7277,9 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.91.100.199:7001#👉🆔 @v2ray_con
 vless://a6183261-ff8c-4342-b0f6-2f7011e2a663@188.245.90.214:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9bc0a55a5379c0ed#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMUhwWW84OHBWWVBiUzRPZlJQRDlR@91.216.171.91:7878#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://de6d62c4-bf2c-4e1a-ba1d-5ff3c19d54a7@188.34.201.88:39366?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjc5LjEyNy4yMjkuNTQiLCAicG9ydCI6IDE4MDAwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkTWV4aWNvIn0=
+trojan://telegram-id-directvpn@34.248.140.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://08e9220b-a099-4628-a0ff-26885421642f@23.187.72.90:49510?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.40.245.146:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjhiNjI1Yy1lZmI4LTQ1Y2QtYjUwOS1jN2NjZWFiZTBjYzY%3D@soonjp.soon.guru:40003#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://telegram-id-privatevpns@13.42.222.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
