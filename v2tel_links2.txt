@@ -7129,3 +7129,4 @@ vless://24bf4865-dd95-472e-9d2a-0cda571935be@EXPRESSVPN_420.fast.hosting-ip.com:
 vless://398da7d5-aecd-4dd7-a754-df63c4a52d37@217.69.5.175:2096?mode=gun&security=reality&encryption=none&pbk=OUS-F8whgCGs88wPa0OCXmtG5CLvjlQqIaUlxlfORSU&fp=chrome&type=grpc&serviceName=xyz&sni=ammarp2.spsvps.xyz&sid=912b3651ba437e7c#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://5c149ce3-c075-49a6-e850-cb46313a59a1@germany.acangame.site:4444?mode=gun&security=none&encryption=none&type=grpc&serviceName#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://a743296b-39b6-47a2-f735-dcf7a67b0bb1@germany.acangame.site:4444?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.64.86:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
