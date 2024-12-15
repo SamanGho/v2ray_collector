@@ -671,3 +671,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@13.42.204.56:443#👉�
 vless://813e1424-c68d-4e96-ac5f-e7b6dfe79605@151.101.194.133:443?security=tls&sni=www.nio.com&type=ws&host=vpngaming.ir&path=%2F%3Fed%3D8192&fp=chrome&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@15.185.105.87:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 trojan://telegram-id-directvpn@13.50.80.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://caa5b2fd-38df-4ab8-8a4b-744cb854d161@199.232.5.150:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=div.delbar.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.19.224.11:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+trojan://telegram-id-privatevpns@54.72.67.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@54.72.67.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
