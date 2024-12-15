@@ -265,3 +265,6 @@ trojan://telegram-id-privatevpns@51.44.103.69:22222?security=tls&alpn=http/1.1&h
 vless://1800a235-cfc9-4e33-9574-109acf57ccd2@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://9874e2c7-910c-42d0-9068-819c3aaa9cc3@fasty.gambronservice.site:443?path=%2F%3Fed%3D80&security=tls&encryption=none&host=div.delbar.dev&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://df22ef35-5f7d-4384-8ea3-25ef6d3a2a2b@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&security=tls&encryption=none&host=joinbedemaznettel.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
