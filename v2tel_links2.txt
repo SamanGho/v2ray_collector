@@ -971,3 +971,4 @@ vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMO
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8119#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://dd507f97-caa1-4cf1-b8c5-54058037f38f@1dbf5d83.bpb-worker-panel-2gf.pages.dev:8443?path=%2FCGjnJzLcqgmo8gr8%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=1dbf5d83.bpb-worker-panel-2gf.pages.dev&fp=randomized&type=ws&sni=1dbf5d83.Bpb-worKER-panEL-2Gf.PaGEs.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
