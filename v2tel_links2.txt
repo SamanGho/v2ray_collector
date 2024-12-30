@@ -1443,3 +1443,11 @@ vless://df77b09e-a079-4a2d-a382-c1e0dae18107@132.226.225.37:443?security=tls&enc
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?security=none&encryption=none&headerType=none&type=tcp#[🇨🇦]t.me/ConfigsHub
 vless://626e5631-2928-4725-8d74-8eef698aabb1@188.245.81.145:30339?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.246.89:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+vless://bce5fc83-41df-4e98-9e55-c7f49d841d35@188.245.208.177:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+trojan://blue2024@172.67.218.47:443?sni=ta.promote.icu#⚜️Telegram:@IP_CF
+vless://bce5fc83-41df-4e98-9e55-c7f49d841d35@outshop.bestshop10.ir:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:443?security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.drlimit.net&fp=chrome&type=ws&sni=hajlab.ucdavis.edu#[🇨🇦]t.me/ConfigsHub
+trojan://527c25e5-6b7c-464f-8930-230b5955d582@85.9.120.200:8888?security=none&type=tcp#⚜️Telegram:@IP_CF
+vless://6da76ed2-0352-4483-9b48-1b149324b75e@bestco.bestshop10.ir:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5600#⚜️Telegram:@IP_CF
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&sni=147135010103.sec19org.com#[🇺🇸]t.me/ConfigsHub
