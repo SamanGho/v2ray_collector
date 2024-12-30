@@ -1467,3 +1467,8 @@ vless://telegram-ArV2ray@151.101.2.216:80/?type=ws&encryption=none&host=v2.fxpw9
 vless://f89486ad-c02a-4e80-a5d1-1f526cf93dfd@213.176.66.228:37021/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=Gk3eR3mV55k5P3tg-MzqMpNolmML8q9zBOf6A102e1Y&sid=bc721eb6#[🇫🇷]t.me/ConfigsHub
 trojan://blue2024@172.67.77.244:443?sni=td.promote.icu#⚜️Telegram:@IP_CF
 vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?mode=gun&security=reality&encryption=none&authority=&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&fp=firefox&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=83cdb009#[🏁]t.me/ConfigsHub
+trojan://blue2024@104.26.11.222:443?sni=tc.promote.icu&allowInsecure=1#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.100:8090#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@69.50.95.218:8008#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@217.182.198.219:6697#⚜️Telegram:@IP_CF
