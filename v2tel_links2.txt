@@ -1643,3 +1643,9 @@ trojan://blue2024@204.93.210.207:443?security=tls&sni=ta.promote.icu&type=ws&hos
 trojan://auto@104.20.20.150:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#⚜️Telegram:@IP_CF
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198/?serviceName=%2F%40telegram_v2rayCrow_#[🇳🇱]t.me/ConfigsHub
 vless://51d4f93b-e314-40d6-a49b-50d560981a2a@88888.need9ping.ir:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=8880vless#[🇧🇭]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.179:5600#⚜️Telegram:@IP_CF
+vless://22027895-7cc2-4785-bcf4-d15eccd7e30b@188.245.228.234:2000?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray#[🇩🇪]t.me/ConfigsHub
+vmess://eyJhZGQiOiJzaS4xODA4LnNpdGUiLCJhaWQiOiIwIiwiaG9zdCI6ImNjMi4xODA4LnNpdGUiLCJpZCI6ImQzZDhiNzgxLWYzMGQtNDkwMi04ZWIwLTU4YjFjYTkzNmJlYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9oZ3FxdndzIiwicG9ydCI6IjMwMDAyIiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiY2MyLjE4MDguc2l0ZSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+trojan://auto@162.159.44.148:443?security=tls&sni=trojanfree-76s.pages.dev&type=tcp#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiJzaS4xODA4LnNpdGUiLCJhaWQiOiIwIiwiaG9zdCI6Im9iZGlpLmNmZCIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiIzMDAwMiIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6Im9iZGlpLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYN2VvRUJyQVJXc0JVaVZmY2hWRWRI@185.77.217.121:443#⚜️Telegram:@IP_CF
