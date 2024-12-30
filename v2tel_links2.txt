@@ -1636,3 +1636,7 @@ trojan://6518a1cf-a234-462d-9551-e02f95cc13eb@tr1-thcvpn.servehalflife.com:443/?
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.189:2198/?type=tcp&encryption=none#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.198.190.11:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#⚜️Telegram:@IP_CF
 trojan://blue2024@172.67.21.93:443?sni=hb.lii2010.us.kg&allowInsecure=1#⚜️Telegram:@IP_CF
+vless://f97c0600-b5c9-465d-9c14-34cfb8a6e9dc@srv1-d.gamekade.tech:443?type=tcp&path=/&security=none&sni=neshan.org&host=neshan.org&headerType=http#[🇬🇧]t.me/ConfigsHub
+vless://f97c0600-b5c9-465d-9c14-34cfb8a6e9dc@srv1.gamekade.tech:443?type=tcp&path=/&security=none&sni=neshan.org&host=neshan.org&headerType=http#[🇮🇷]t.me/ConfigsHub
+ss://bm9uZTpjY2JhYmFhLWNiYWEtYmFhYy1iYWNkLWFhYmNhYmNjYmJjYQ==@127.0.0.1:1080#⚜️Telegram:@IP_CF
+trojan://blue2024@204.93.210.207:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
