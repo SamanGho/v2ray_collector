@@ -1161,3 +1161,5 @@ vless://fea486ab-8849-49ff-9dec-a70e222d6f63@hajlab.ucdavis.edu:443?security=tls
 vless://114898e4-e2a4-4f2c-be40-77f5d8ee037b@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://b2468339-7d26-4141-b804-140dbcd97aa3@my.parshost.news:2097?type=tcp&path=%2F&headerType=http&security=none#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4azVjNk9ndnRTdTlkMm1VVFlaUGlJ@213.176.66.228:24495#⚜️Telegram:@IP_CF
+vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mtn.anahid.beauty:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8090#⚜️Telegram:@IP_CF
