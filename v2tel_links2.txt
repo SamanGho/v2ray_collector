@@ -1640,3 +1640,6 @@ vless://f97c0600-b5c9-465d-9c14-34cfb8a6e9dc@srv1-d.gamekade.tech:443?type=tcp&p
 vless://f97c0600-b5c9-465d-9c14-34cfb8a6e9dc@srv1.gamekade.tech:443?type=tcp&path=/&security=none&sni=neshan.org&host=neshan.org&headerType=http#[🇮🇷]t.me/ConfigsHub
 ss://bm9uZTpjY2JhYmFhLWNiYWEtYmFhYy1iYWNkLWFhYmNhYmNjYmJjYQ==@127.0.0.1:1080#⚜️Telegram:@IP_CF
 trojan://blue2024@204.93.210.207:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
+trojan://auto@104.20.20.150:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#⚜️Telegram:@IP_CF
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198/?serviceName=%2F%40telegram_v2rayCrow_#[🇳🇱]t.me/ConfigsHub
+vless://51d4f93b-e314-40d6-a49b-50d560981a2a@88888.need9ping.ir:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=8880vless#[🇧🇭]t.me/ConfigsHub
