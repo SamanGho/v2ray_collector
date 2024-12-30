@@ -1411,3 +1411,10 @@ vless://734ae593-2b89-4461-8336-7551552ff926@s14.fastly80-2.hosting-ip.com:80?pa
 vless://734ae593-2b89-4461-8336-7551552ff926@mmd.fast.hosting-ip.com:80?path=%2FTELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM---PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://MdVpnSec@104.21.94.168:80#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@13.58.24.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
+vless://46b7dfdb-fc88-4dbc-819e-db3ab8093c90@104.18.14.19:2052?type=ws&host=1230.6xopb2a7.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://bea3e2e7-5433-43b3-db13-6b481e8dab5a@speedtest.net:80?type=ws&host=foffmelo.com&path=/olem/ws?ed%3D1024@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#[🇺🇸]t.me/ConfigsHub
+trojan://3bfa9b24-6e07-4587-a1cd-5a228acbf124@45.142.44.47:8443?security=reality&flow=xtls-rprx-vision&sni=blog.cloudflare.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#⚜️Telegram:@IP_CF
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇳🇱]t.me/ConfigsHub
+vless://a71d6694-a48e-4f91-beab-55a9ba323a06@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4a2NZbUt6bFI4RWJ4aU4zcHNIMTVp@2.56.122.207:28711#[🇩🇪]t.me/ConfigsHub
