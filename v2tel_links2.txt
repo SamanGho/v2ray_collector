@@ -1590,3 +1590,8 @@ vless://301b1fec-b829-4cb6-9e3f-55222f06a99f@151.101.2.216:80?path=%2F%40custom_
 vless://c02b8c5e-30a9-5755-bbfd-f43308839edd@151.101.130.133:443?security=tls&sni=live.skornorth.com&type=ws&host=0-MO-SI-V2.COM&fp=qq&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#⚜️Telegram:@IP_CF
 vless://20c60350-172c-40c3-b1e0-ae495c43a424@91.134.38.117:58060?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇫🇷]t.me/ConfigsHub
+vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdiuw101.net&fp=chrome&type=ws&sni=mio.splashthat.com#[🇺🇸]t.me/ConfigsHub
+trojan://blue2024@104.19.214.179:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560&fp=randomized#⚜️Telegram:@IP_CF
+vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@germany-vless-tel-id-ab_841.ab-841.ip-ddns.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&sni=vkvd127.mycdn.me#[🇩🇪]t.me/ConfigsHub
+vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@turkey-vless-tel-id-ab_841.ab-841.ip-ddns.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&sni=vkvd127.mycdn.me#[🇹🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#[🇺🇸]t.me/ConfigsHub
