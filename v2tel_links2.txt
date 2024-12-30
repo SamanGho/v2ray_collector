@@ -1634,3 +1634,5 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.180:2198/?type=tcp&encry
 vless://b5162299-f153-4594-8367-15a108e2bb68@151.101.120.121:80/?type=ws&encryption=none&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&path=%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480#[🇫🇷]t.me/ConfigsHub
 trojan://6518a1cf-a234-462d-9551-e02f95cc13eb@tr1-thcvpn.servehalflife.com:443/?type=tcp&security=tls&sni=tr1.thcvpn.ip-ddns.com&allowInsecure=1#[🇹🇷]t.me/ConfigsHub
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.189:2198/?type=tcp&encryption=none#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.198.190.11:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#⚜️Telegram:@IP_CF
+trojan://blue2024@172.67.21.93:443?sni=hb.lii2010.us.kg&allowInsecure=1#⚜️Telegram:@IP_CF
