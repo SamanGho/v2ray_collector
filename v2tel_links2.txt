@@ -1211,3 +1211,5 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.108:2198?security=&encryp
 vless://06cd4260-bd81-4bdd-900d-37fb0af80d01@64.176.71.35:45203?security=&encryption=none&headerType=&type=tcp#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.249.146:990#[🇧🇪]t.me/ConfigsHub
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@91.225.219.71:2198?security=&encryption=none&headerType=&type=tcp#[🇳🇱]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.197:5003#⚜️Telegram:@IP_CF
+vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=cdiuw101.net&fp=chrome&type=ws&sni=mio.splashthat.com#[🇺🇸]t.me/ConfigsHub
