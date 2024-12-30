@@ -1064,3 +1064,6 @@ vless://b1f58d90-e65f-4566-91f3-1b96e9a68612@Speedtest.net:80?path=%2F%40Digiv2r
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#[🇺🇸]t.me/ConfigsHub
 vless://telegram-ArV2ray@151.101.2.216:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&security=none&encryption=none&host=4.fer60osowk.net&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.160:443#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.37.18.75:443#⚜️Telegram:@IP_CF
+vless://V2RAX@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://Joinin--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=tourdanesh.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇬🇧]t.me/ConfigsHub
