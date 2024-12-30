@@ -1030,3 +1030,7 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.236.233.136:2198?type=tcp#[🇳
 trojan://yaml777@104.21.61.73:443?security=tls&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=%2F&fp=chrome#⚜️Telegram:@IP_CF
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@45.89.52.66:9031#⚜️Telegram:@IP_CF
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@usamd.ptuu.gq:443?sni=qi79crholtc6qgd6y9n6.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#⚜️Telegram:@IP_CF
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
+vless://1fb465ac-60fb-4b77-b4a6-cc590ee6124e@104.21.24.57:443?path=%2F&security=tls&encryption=none&host=freedom3.pacica4041.workers.dev&type=ws&sni=freedom3.pacica4041.workers.dev#[🇨🇦]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTU5LjIwMy4xMTQuMjIyIiwicG9ydCI6Ijg4ODEiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoibWloYW53ZWJob3N0LmNvbSIsInBhdGgiOiJcLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
+vless://d51963a2-cd73-4564-894c-bdbb91775900@104.18.15.19:2086?path=%2F%3Fed%3D2560&security=none&encryption=none&host=wz1226.9si685h0.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
