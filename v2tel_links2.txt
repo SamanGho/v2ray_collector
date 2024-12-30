@@ -1340,3 +1340,13 @@ trojan://telegram-id-directvpn@35.182.180.124:22222?security=tls&alpn=http/1.1&h
 vless://39f57930-9789-4a00-922e-7343a2e32929@Zmaoz.Faculty.Ucdavis.Edu:80/?type=ws&path=%2Ftelegram-configMs%2Ctelegram-configMs%2Ctelegram-configMs%2Ctelegram-configMs%2Ctelegram-configMs%2Ctelegram-configMs%2Ctelegram-configMs%2Ctelegram-configMs%3Fed%3D80&host=6.fidsxss1x.ir&security=none#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@16.16.231.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 vless://46b7dfdb-fc88-4dbc-819e-db3ab8093c90@104.18.14.19:2086?type=ws&host=1230.6xopb2a7.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://1608d674-2c72-4fba-a395-b953cc8b2cd4@138.199.146.107:777?security=none&encryption=none&host=Telegram#[🇩🇪]t.me/ConfigsHub
+vless://fa590a45-02ee-4ebc-af6d-de5c5db93619@138.199.146.7:666?security=none&encryption=none&host=Telegram#[🇩🇪]t.me/ConfigsHub
+ss://bm9uZTphY2JjYWJhLWJhY2EtYmFjYS1jYWRiLWNiYmFjY2FhYWNiYg==@127.0.0.1:1080#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@98.85.32.75:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZlVRM2pxWlVUeHpMVWNP@admin.c4.havij.co:443?outline=1&prefix=POST%20i2ada21R#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#[🇬🇧]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@98.85.32.75:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇺🇸]t.me/ConfigsHub
+vless://V2RAX@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaSjVVUGMzdUhOems5d3Nj@admin.c4.havij.co:443?outline=1&prefix=POST%20k2ad9feU#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SnhzN2FQVURqeWtjNWxPMklJTGow@195.69.143.214:443#[🏁]t.me/ConfigsHub
