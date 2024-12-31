@@ -1118,3 +1118,30 @@ vless://983f7c17-31d0-4ce8-d3a8-b983f821cd25@speedtest.net:80?type=ws&path=/@Arc
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.203:5498#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#⚜️Telegram:@IP_CF
 vless://42900b02-8348-50a5-9ace-be0899b0e541@speedtest.net:80?encryption=none&security=none&type=ws&host=0-MO-SI-V2.COM&path=%2F#[🇺🇸]t.me/ConfigsHub
+vless://Joinin--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=tourdanesh.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇳🇱]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.48.214.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://d2e8f692-c67b-4cce-ea46-bcefbb725fdc@151.101.2.219:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#⚜️Telegram:@IP_CF
+vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇳🇱]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.60.136.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@15.237.18.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.156:2198?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
+vmess://eyJhZGQiOiI1MS43OS4yNy4yMDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTVkMWJkYjMtMTcwYi00MjBlLWEwN2QtYjA4YmFjMGM2Y2ZmIiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUTHpUYlJVMnh1U0RNT1U5bzhlMFFR@77.73.70.200:3832#[🇷🇺]t.me/ConfigsHub
+trojan://blue2024@104.19.143.99:443?sni=ta.promote.icu#⚜️Telegram:@IP_CF
+trojan://auto@172.67.174.252:443?path=%2F&security=tls&host=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&sni=esetsecuritylicense1.vowexa5791.workers.dev#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN111@104.17.226.121:443?#⚜️Telegram:@IP_CF
+vless://f6c960f3-dc81-45ca-9891-4138f78d9125@172.67.190.173:443?path=%2Fvn1-fm3_Ez8K-mTw%3Fed%3D2048&security=tls&encryption=none&host=FalCUnaRGO.E9744be7D6.woRKERs.Dev&type=ws&sni=FalcuNaRgO.e9744be7d6.woRKeRs.DEv#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.237.18.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8009#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.81.127:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@13.53.196.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@13.60.113.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
+vless://9248ebd8-c793-4e24-9ce6-f2848166dba4@151.101.64.155:80?security=none&type=ws&host=Sarbaz-Watan.Hastam.net&path=%2Ftelegram-%40%41%43%41DEMI_VPN%2Ctelegram-%40%41%43%41DEMI_VPN%2Ctelegram-%40%41%43%41DEMI_VPN%2Ctelegram-%40%41%43%41DEMI_VPN%2Ctelegram-%40%41%43%41DEMI_VPN%2Ctelegram-%40%41%43%41DEMI_VPN%2Ctelegram-%40%41%43%41DEMI_VPN%2Ctelegram-%40%41%43%41DEMI_VPN%2Ctelegram-%40%41%43%41DEMI_VPN%2Ctelegram-%40%41%43%41DEMI_VPN%2Ctelegram-%40%41%43%41DEMI_VPN%2Ctelegram-%40%41%43%41DEMI_VPN%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.81.127:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/ConfigsHub
+trojan://ababacc-aacb-abca-bcad-bccccabaaabb@127.0.0.1:1080?security=tls&type=tcp#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.235.55:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.84.35:443?path=%2F0TkRO7B5OMyy4gZu%3Fed%3D2560&security=tls&encryption=none&host=pPaL03.nAvIYI2139.wOrkERS.dev&type=ws&sni=PPAL03.NaVIYi2139.WOrKErs.dEV#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#[🇺🇸]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.70.212:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.216:6697#⚜️Telegram:@IP_CF
