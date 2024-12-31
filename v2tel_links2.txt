@@ -1664,3 +1664,12 @@ vmess://eyJhZGQiOiIyMy4xNjYuODguMTgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@80.92.204.106:9097#⚜️Telegram:@IP_CF
 trojan://blue2024@104.19.238.216:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
 trojan://NISHIKUITAN111@104.24.180.165:443?#⚜️Telegram:@IP_CF
+trojan://blue2024@162.159.138.112:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&allowInsecure=1#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.255.161:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇫🇷]t.me/ConfigsHub
+vless://a8ec0c05-e040-4b7c-b04d-39bd63db4661@93.126.50.231:51234?security=none&type=tcp&host=telewebion.com&headerType=http#[🇮🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.89:9101#⚜️Telegram:@IP_CF
+trojan://blue2024@205.233.181.227:443?sni=ta.promote.icu&allowInsecure=0#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.87:2375#⚜️Telegram:@IP_CF
+trojan://NISHIKUITAN111@5.10.246.119:443?#⚜️Telegram:@IP_CF
+trojan://babcaca-acba-aabc-dabc-aacccaabcbbb@127.0.0.1:1080?security=tls&type=tcp#⚜️Telegram:@IP_CF
