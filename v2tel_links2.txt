@@ -1917,3 +1917,19 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.17.105:2198?security=none&en
 trojan://blue2024@173.245.59.6:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
 vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.1.A.speedtest-3.shop&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.135.126.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:8888#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.203.240.97:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+trojan://telegram-id-privatevpns@54.220.157.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.50.197.251:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://6e5d886f-ae5e-47ec-938b-8644ff825a42@live.theworldwidewolf.com:443?security=tls&type=ws&headerType=&path=%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%3Fed%3D2048&host=vmesskhodam.com&sni=live.theworldwidewolf.com&fp=#[🇳🇱]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@34.240.167.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.103:8881#⚜️Telegram:@IP_CF
+trojan://f2b470d0-c76d-11ef-be06-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#[🇬🇧]t.me/ConfigsHub
+vless://V2RAXX-@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://dca4ead0-c76d-11ef-b9f5-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#[🇫🇷]t.me/ConfigsHub
+trojan://34c981c0-c76e-11ef-9dd2-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#[🇬🇧]t.me/ConfigsHub
+trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev#⚜️Telegram:@IP_CF
+trojan://0977b740-c76e-11ef-9ad2-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#[🇫🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@67.220.95.102:5499#⚜️Telegram:@IP_CF
+vless://217cc111-06e1-4f09-9b86-3789e17bcd96@hajlab.ucdavis.edu:80?path=%2F&security=none&encryption=none&host=fdsfr4ewrfcvdsafa.com&type=ws#[🇺🇸]t.me/ConfigsHub
