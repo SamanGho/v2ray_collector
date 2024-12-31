@@ -2018,3 +2018,8 @@ trojan://NISHIKUITAN111@104.25.80.35:443?#⚜️Telegram:@IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.116.201:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 trojan://telegram-id-directvpn@18.118.81.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://blue2024@104.17.150.255:443?security=tls&sni=td.promote.icu&type=tcp#⚜️Telegram:@IP_CF
+trojan://f2004126-5865-4980-b6dd-2211dbaadf10@172.67.68.240:443?security=tls&sni=rayan.sahel.us.kg&type=ws&host=rayan.sahel.us.kg&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#⚜️Telegram:@IP_CF
+vless://379b4641-ef60-4f79-8e40-3d68c9b8208c@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://1efdef9d-31e6-4273-b64e-de6451a85b62@nanishopact.ramvadminshop.com:32578?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub
+vless://379b4641-ef60-4f79-8e40-3d68c9b8208c@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#[🇺🇸]t.me/ConfigsHub
