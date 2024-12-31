@@ -1746,3 +1746,4 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.144.29.246:2198?security=none&en
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.189:2198?security=none&encryption=none&headerType=none&type=tcp#[🇨🇦]t.me/ConfigsHub
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.180:2198?security=none&encryption=none&headerType=none&type=tcp#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.53.196.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.108:2198?security=&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
