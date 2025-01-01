@@ -2573,3 +2573,11 @@ vless://%74%65%6c%65%67%72%61%6d%2d%41%72%56%32%72%61%79@151.101.2.216:80?path=%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.115.81:443#[🇦🇪]t.me/ConfigsHub
 trojan://dns68@135.84.79.80:443?security=tls&sni=trojan.putata.us.kg&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#⚜️Telegram:@IP_CF
 trojan://NISHIKUITAN111@88.216.67.148:443?#⚜️Telegram:@IP_CF
+vless://40618d0e-d4ee-4dab-8ef9-61f1737435ea@fishlab.ucdavis.edu:443?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=tls&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws&sni=fishlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
+vless://5e55f1c4-cd7d-49c8-aa6f-221e0bc9ffb5@ip.sb:443?path=/9QGAIMJM51l6JToD/dHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&eh=Sec-WebSocket-Protocol&ed=2560&encryption=none&host=hamedp71-tt.pages.dev&type=ws&security=tls&sni=hameDP71-tT.PAgeS.deV&fp=randomized&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=6.fidsxss10x.iR&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN111@162.159.21.24:443?#⚜️Telegram:@IP_CF
+trojan://abaccab-aabc-baca-acdb-acacbbcababc@127.0.0.1:1080?security=tls&type=tcp#⚜️Telegram:@IP_CF
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=Dorzadim.filtero.net&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://GROZA_27727989@185.21.12.6:443?security=reality&encryption=none&pbk=O2uxabwUj_wloCBiM48o2obU6bNPSB3uxAuc3lra_jc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.eu&sid=ffffffffff#[🇳🇱]t.me/ConfigsHub
+vless://GROZA_75727866@185.21.12.6:443?security=reality&encryption=none&pbk=O2uxabwUj_wloCBiM48o2obU6bNPSB3uxAuc3lra_jc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.eu&sid=ffffffffff#[🇳🇱]t.me/ConfigsHub
