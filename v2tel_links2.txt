@@ -2426,3 +2426,12 @@ trojan://NISHIKUITAN222@104.17.58.219:443?#⚜️Telegram:@IP_CF
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.134.94.168:3389#⚜️Telegram:@IP_CF
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#[🇫🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiIyMy4xNjYuODguMTgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+trojan://telegram-id-directvpn@52.14.47.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://d9491ad9-4113-4757-9163-f93748952130@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#[🇺🇸]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNDIuMC4xMzQuMjQ0IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1MDE3IiwicHMiOiJb8J+HuvCfh7hddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://telegram-id-privatevpns@3.124.72.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+vless://GROZA_27728012@89.110.121.252:443?security=reality&encryption=none&pbk=0vZRLEfvyJs66hHH8xashGigAKqIpSLA4BJj9dL-iTU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#[🇳🇱]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8009#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.196.255:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+trojan://telegram-id-directvpn@16.170.116.229:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@142.202.48.105:3306#[🇺🇸]t.me/ConfigsHub
