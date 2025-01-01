@@ -2221,3 +2221,6 @@ trojan://telegram-id-directvpn@13.61.73.97:22222?security=tls&alpn=http/1.1&head
 trojan://baaccba-baca-bcaa-bcda-bbaccabcabca@127.0.0.1:1080?security=tls&type=tcp#⚜️Telegram:@IP_CF
 vless://42900b02-8348-50a5-9ace-be0899b0e541@speedtest.net:80?security=none&encryption=none&host=0-MO-SI-V2.COM&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://e6e16fde-e151-42d2-de74-94578a2f8e7b@tuae.amin8263.ir:2053?path=%2F@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android%3Fed%3D2048&security=&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&sni=ArGodev11222.PaGes.Dev&type=ws&host=argodev11222.pages.dev#⚜️Telegram:@IP_CF
+trojan://04c924c7-551e-4c67-b3fa-9cca9e8cdc78@151.101.2.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=ihrcxextyuj.com&path=ws%2F%3Fed%3D2048#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@80.92.204.106:9027#⚜️Telegram:@IP_CF
