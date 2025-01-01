@@ -2224,3 +2224,5 @@ vless://e6e16fde-e151-42d2-de74-94578a2f8e7b@tuae.amin8263.ir:2053?path=%2F@Arch
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&sni=ArGodev11222.PaGes.Dev&type=ws&host=argodev11222.pages.dev#⚜️Telegram:@IP_CF
 trojan://04c924c7-551e-4c67-b3fa-9cca9e8cdc78@151.101.2.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=ihrcxextyuj.com&path=ws%2F%3Fed%3D2048#⚜️Telegram:@IP_CF
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@80.92.204.106:9027#⚜️Telegram:@IP_CF
+trojan://auto@104.17.147.22:2087?security=tls&sni=abbas.ab841vpn.workers.dev&type=ws&host=abbas.ab841vpn.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.61.235:9102#⚜️Telegram:@IP_CF
