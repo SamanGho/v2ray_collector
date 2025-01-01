@@ -1561,3 +1561,15 @@ trojan://blue2024@172.67.142.60:443?security=tls&sni=td.promote.icu&type=tcp#⚜
 trojan://NISHIKUITAN111@14.102.228.61:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#⚜️Telegram:@IP_CF
 trojan://telegram-id-privatevpns@3.11.24.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 trojan://dns68@135.84.79.80:443?security=tls&sni=trojan.putata.us.kg&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#⚜️Telegram:@IP_CF
+trojan://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.7:443?security=tls&sni=vbbb.ylks2024.us.kg&type=ws&host=vbbb.ylks2024.us.kg&path=%2Fyoulingkaishi#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.175.93.155:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.177.206.36:443#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.136:2377#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.35.206.24:443#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.46:5000#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3VkpRN0VvZnZFM3haMGxwaWVtekh3@213.176.66.228:24495#⚜️Telegram:@IP_CF
+trojan://blue2024@172.64.235.138:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
+vless://bb9e2178-5638-4a39-ae2d-a81b7139bb2d@185.219.114.114:12560?security=tls&sni=rzm3.feeliran.org&type=tcp#[🇮🇷]t.me/ConfigsHub
+trojan://dns68@66.179.48.88:443?security=tls&sni=trojan.putata.us.kg&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#⚜️Telegram:@IP_CF
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WTJVNU1XWTBOMkl3TURBeFkyRXdNbVF6Tnpka00yUmhORFl5TmpGaU9HWT06TkRkaFpqVmtNR1l0TVRJMlpDMDBaVFEwTFdFek9Ua3RaVFF3WlRVd05ETT0=@112.120.54.47:61947#⚜️Telegram:@IP_CF
+vless://80fd800a-f398-436f-d6d5-e32a4f484768@62.60.178.101:2053?security=none&type=tcp&host=speedtest.net&headerType=http#[🇮🇷]t.me/ConfigsHub
