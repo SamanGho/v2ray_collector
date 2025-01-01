@@ -2446,3 +2446,7 @@ vless://a8af9c7e-3e05-4c2f-a5f3-2f2faa0f819a@www.speedtest.net:443?path=%2Fa8af9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTU4NmFhYi0zYTM3LTRmNTUtYjhiNy01YWU2OTU3MmQ0MDM%3D@85.133.241.75:1935#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.42.112.122:443#[🇬🇧]t.me/ConfigsHub
 vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@151.101.2.228:443/?type=ws&encryption=none&flow=&host=PABLOO-MOSTAFA.COM&path=%2F&security=tls&sni=faculty.ucdavis.edu&fp=qq#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#[🇸🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@38.86.135.211:8080#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#[🇺🇸]t.me/ConfigsHub
