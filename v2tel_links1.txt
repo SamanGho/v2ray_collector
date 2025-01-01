@@ -1359,3 +1359,12 @@ trojan://blue2024@104.16.221.250:443?security=tls&sni=ta.promote.icu&type=tcp#�
 trojan://5e454ad1-f158-4608-a51f-5f8700964e2e@62.60.155.47:39357?security=none&type=tcp&host=speedtest.net&headerType=http#⚜️Telegram:@IP_CF
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@167.234.218.40:443?security=tls&sni=us01.ssr.ee&type=tcp&host=speedtest.net&fp=randomized&alpn=h2%2Chttp%2F1.1#⚜️Telegram:@IP_CF
 trojan://cabacba-baac-acab-cbad-ccbcabaacabb@127.0.0.1:1080?security=tls&type=tcp#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.176:8118#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.61.235:9102#⚜️Telegram:@IP_CF
+trojan://04c924c7-551e-4c67-b3fa-9cca9e8cdc78@151.101.2.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=ihrcxextyuj.com&path=ws%2F%3Fed%3D2048#⚜️Telegram:@IP_CF
+trojan://auto@104.17.147.22:2087?security=tls&sni=abbas.ab841vpn.workers.dev&type=ws&host=abbas.ab841vpn.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#⚜️Telegram:@IP_CF
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&sni=ArGodev11222.PaGes.Dev&type=ws&host=argodev11222.pages.dev#⚜️Telegram:@IP_CF
+vless://8dba9100-3aaa-4e50-a74b-bdea69059569@151.101.1.6:80?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=none&encryption=none&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://011d10db-1401-4573-b7b0-ba45ad4da4d4@104.17.148.22:2083?security=tls&sni=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&type=tcp&fp=chrome&alpn=h2#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@80.92.204.106:9027#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#⚜️Telegram:@IP_CF
