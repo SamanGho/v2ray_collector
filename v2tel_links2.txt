@@ -2643,3 +2643,5 @@ trojan://telegram-id-privatevpns@16.170.127.250:22222?allowInsecure=0&sni=trojan
 vless://eacea922-a9e9-433e-abbe-4965f71e3eaf@151.101.192.223:443?security=tls&sni=python.org&type=xhttp&host=safar724.com&path=https%3A%2F%2Fsafar724.com%2Fcontact&fp=chrome&alpn=h3#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpacGVHYTQ=@38.150.12.188:56018#⚜️Telegram:@IP_CF
 vless://66142b57-b158-4086-9d9f-a1a1745785f6@151.101.194.228:80?security=none&type=ws&host=Pizza-vpnx1x.com&path=%2Ftelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%3Fed%3D80#[🇺🇸]t.me/ConfigsHub
+trojan://ccbbaaa-caab-aabc-cdab-abaabbbcccca@127.0.0.1:1080?security=tls&type=tcp#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUalR4Z0JGVEdIckhTNngyUlZKbVZOM3dQY28xZ2NKYVI0aG5vZkxCdDlnR0E5a0c3MjRUQ0FBUmZWeEJLQTFmRXE1bUt0cWk2OHVnTUw4WFZmUDE2RVU0RXRjdGZBNUU=@107.181.155.244:55330#⚜️Telegram:@IP_CF
