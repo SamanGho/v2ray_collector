@@ -2435,3 +2435,14 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8009#⚜️Telegram:@I
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.196.255:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 trojan://telegram-id-directvpn@16.170.116.229:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#⚜️Telegram:@IP_CF
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@142.202.48.105:3306#[🇺🇸]t.me/ConfigsHub
+vless://f97c0600-b5c9-465d-9c14-34cfb8a6e9dc@185.113.10.129:443/?encryption=none&flow=&host=neshan.org&type=tcp&headerType=http#[🇮🇷]t.me/ConfigsHub
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443/?type=ws&encryption=none&flow=&host=irantvto.ir&path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&sni=zmaoz.faculty.ucdavis.edu#[🇳🇱]t.me/ConfigsHub
+vless://Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443/?type=ws&encryption=none&flow=&host=ndmo.ir&path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&sni=zmaoz.faculty.ucdavis.edu#[🇳🇱]t.me/ConfigsHub
+vless://528b1201-8b21-5bc2-bbce-5863731a4ac9@151.101.2.219:80/?type=ws&encryption=none&flow=&host=MO-SI-V2.COM&path=%2F#[🇺🇸]t.me/ConfigsHub
+vless://06cd4260-bd81-4bdd-900d-37fb0af80d01@64.176.71.35:45203/?type=tcp&encryption=none&flow=#[🏁]t.me/ConfigsHub
+vless://Join--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443/?type=ws&encryption=none&flow=&host=www.nezamsakhteman.ir&path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&sni=zmaoz.faculty.ucdavis.edu#[🇳🇱]t.me/ConfigsHub
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443/?type=ws&encryption=none&flow=&host=sabteahval.ir&path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&sni=zmaoz.faculty.ucdavis.edu#[🇳🇱]t.me/ConfigsHub
+vless://a8af9c7e-3e05-4c2f-a5f3-2f2faa0f819a@www.speedtest.net:443?path=%2Fa8af9c7e-3e05-4c2f-a5f3-2f2faa0f819a&security=tls&alpn=h2&encryption=none&host=iran.hosting-ip.com&fp=firefox&type=ws&sni=iran.hosting-ip.com#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTU4NmFhYi0zYTM3LTRmNTUtYjhiNy01YWU2OTU3MmQ0MDM%3D@85.133.241.75:1935#[🇮🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.42.112.122:443#[🇬🇧]t.me/ConfigsHub
+vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@151.101.2.228:443/?type=ws&encryption=none&flow=&host=PABLOO-MOSTAFA.COM&path=%2F&security=tls&sni=faculty.ucdavis.edu&fp=qq#[🇺🇸]t.me/ConfigsHub
