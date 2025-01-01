@@ -2290,3 +2290,11 @@ vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=/telegram-N
 trojan://telegram-id-directvpn@52.47.81.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.236.233.136:2198?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.157.156.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
+trojan://aa322190-c818-11ef-afbc-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#[🇬🇧]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.122:8090#⚜️Telegram:@IP_CF
+vless://aaf5e9e9-1e64-4171-90bc-f4a1e9292a75@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
+trojan://7f9c33c0-c77b-11ef-8b5c-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#[🇫🇷]t.me/ConfigsHub
+trojan://ee872a10-c818-11ef-bdaf-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#[🇬🇧]t.me/ConfigsHub
+vless://79b75e94-86ef-47fa-afce-e5b194190b19@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
+trojan://ca5bb590-c818-11ef-a424-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#[🇫🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#⚜️Telegram:@IP_CF
