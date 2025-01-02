@@ -2843,3 +2843,11 @@ vless://42a19d06-e21d-4f90-8f62-2679b7edfb13@hajlab.ucdavis.edu:443?path=%2F%40S
 vless://22027895-7cc2-4785-bcf4-d15eccd7e30b@188.245.228.234:2000?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray-------%40TLS_v2ray#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@52.56.167.243:443#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.215.144.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.166.88.198:3306#⚜️Telegram:@IP_CF
+vless://4ae8804f-2329-4f42-b5bd-fec4992afe39@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#[🇩🇪]t.me/ConfigsHub
+vless://b1f58d90-e65f-4566-91f3-1b96e9a68615@151.101.2.219:80?security=none&type=ws&host=JoiIInNn--DIgiv2Ray.Ir.&path=%2F%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%40Digiv2ray--%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.85:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+trojan://NISHIKUITAN111@104.17.80.82:443?#⚜️Telegram:@IP_CF
+trojan://cabbaca-abca-caba-dcab-acbabcccbbaa@127.0.0.1:1080?security=tls&type=tcp#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.222.171.25:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇨🇦]t.me/ConfigsHub
