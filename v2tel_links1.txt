@@ -1573,3 +1573,14 @@ vless://bb9e2178-5638-4a39-ae2d-a81b7139bb2d@185.219.114.114:12560?security=tls&
 trojan://dns68@66.179.48.88:443?security=tls&sni=trojan.putata.us.kg&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#⚜️Telegram:@IP_CF
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WTJVNU1XWTBOMkl3TURBeFkyRXdNbVF6Tnpka00yUmhORFl5TmpGaU9HWT06TkRkaFpqVmtNR1l0TVRJMlpDMDBaVFEwTFdFek9Ua3RaVFF3WlRVd05ETT0=@112.120.54.47:61947#⚜️Telegram:@IP_CF
 vless://80fd800a-f398-436f-d6d5-e32a4f484768@62.60.178.101:2053?security=none&type=tcp&host=speedtest.net&headerType=http#[🇮🇷]t.me/ConfigsHub
+trojan://ccbbaaa-caab-aabc-cdab-abaabbbcccca@127.0.0.1:1080?security=tls&type=tcp#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.212.48:443#⚜️Telegram:@IP_CF
+vless://6376e674-ceba-4ae7-91a1-42a9fb87cb43@94.131.123.241:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#[🇹🇷]t.me/ConfigsHub
+vless://ee01027e-e413-575a-8a5f-ba8ba569eb8b@151.101.128.223:80?security=none&sni=faculty.ucdavis.edu&type=ws&host=tg.ELiV2RaY.ir&path=%2F--%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY%3Fed%3D2560&fp=qq#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.44:8080#⚜️Telegram:@IP_CF
+trojan://blue2024@104.25.226.234:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&allowInsecure=1#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.46:443#[🇺🇸]t.me/ConfigsHub
+trojan://2add6241-8fe8-3922-8347-da25e8ced601@125.88.149.205:50013?sni=v2iijjp1.doubledou.icu#⚜️Telegram:@IP_CF
+trojan://blue2024@104.18.180.201:443?security=tls&sni=ta.promote.icu&type=tcp#⚜️Telegram:@IP_CF
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@138.2.227.52:443?security=tls&sni=us08.ssr.ee&type=tcp#⚜️Telegram:@IP_CF
