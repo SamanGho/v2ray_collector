@@ -2736,3 +2736,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdXh5TmV0Qm90@apple.slumbo.com:443?type=tcp#
 vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇬🇧]t.me/ConfigsHub
 vless://ee01027e-e413-575a-8a5f-ba8ba569eb8b@151.101.0.223:80?path=%2F--%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=tg.ELiV2RaY.ir&fp=qq&type=ws&sni=faculty.ucdavis.edu#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@16.170.86.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@51.21.118.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@51.20.241.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://NISHIKUITAN111@193.227.99.226:443?#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.60.111.116:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+trojan://aabccba-caab-cbaa-dacb-abbcabcbacac@127.0.0.1:1080?security=tls&type=tcp#⚜️Telegram:@IP_CF
+trojan://NISHIKUITAN111@172.67.201.232:443?#⚜️Telegram:@IP_CF
