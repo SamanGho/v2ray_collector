@@ -2726,3 +2726,13 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.218:8882#⚜️Telegram:@IP_C
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@67.220.95.102:8009#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8882#[🇺🇸]t.me/ConfigsHub
 trojan://45d5c2fa-58f7-4f2a-811b-c44cc51e8668@190.93.247.155:443?security=tls&sni=is2.trojanvpn.xyz&type=ws&host=is2.trojanvpn.xyz&path=%2F#⚜️Telegram:@IP_CF
+trojan://telegram-id-privatevpns@51.20.215.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.102.213:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+trojan://telegram-id-privatevpns@51.20.215.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@16.170.86.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://243d41a2-b23e-4242-a70f-101ea5398ef0@h2e.seyhello.news:2059?security=none&type=ws&headerType=&path=%2F%40amiir_FBI----%40amiir_FBI----%40amiir_FBI----%40amiir_FBI----%40amiir_FBI----%40amiir_FBI----%40amiir_FBI----%40amiir_FBI----%40amiir_FBI----%40amiir_FBI----%40persian_vpn69----%40persian_vpn69%3Fed%3D2048&host=speedtest.net#[🇬🇧]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.102.213:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdXh5TmV0Qm90@apple.slumbo.com:443?type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇬🇧]t.me/ConfigsHub
+vless://ee01027e-e413-575a-8a5f-ba8ba569eb8b@151.101.0.223:80?path=%2F--%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=tg.ELiV2RaY.ir&fp=qq&type=ws&sni=faculty.ucdavis.edu#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@16.170.86.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
