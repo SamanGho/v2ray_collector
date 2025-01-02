@@ -3038,3 +3038,10 @@ vless://9b203f2e-306d-47df-a9b6-8b0e34a3b1be@ir4.gambronservice.site:8001?securi
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9101#⚜️Telegram:@IP_CF
 vless://e7290f20-f774-46a3-9312-5232a2296bd6@95.181.162.108:8880?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
 vless://3aef1001-72a9-4aa8-8e5a-cc9a73d8cfad@outshop.bestshop10.ir:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+trojan://blue2024@104.19.143.99:443?security=tls&sni=ta.promote.icu&type=tcp#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1YnREZGQ0dEhzU0RnOE0zSlh2clhx@178.208.91.118:19805#[🇳🇱]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@176.34.119.88:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://a87e1042-5c49-4923-b83f-4856968214ea@c2.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=11a4b6bca8#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@34.243.79.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
+vless://a87e1042-5c49-4923-b83f-4856968214ea@c2.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=%40V2rayNGcloud-Telegram-v2rayNGcloud-%40V2rayNGcloud-Telegram-%40V2rayNGcloud-Telegram-%40V2rayNGcloud&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=11a4b6bca8#[🇩🇪]t.me/ConfigsHub
+vless://3d469d13-db99-4240-9c12-d7e2a6618962@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=90278dfc#[🇩🇪]t.me/ConfigsHub
