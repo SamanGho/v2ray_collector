@@ -2949,3 +2949,16 @@ trojan://blue2024@104.18.216.135:443?sni=ha.lii2010.us.kg&type=ws&host=ha.lii201
 vless://a2a8b449-c84e-4347-981e-41d249fdec80@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=tls&encryption=none&host=joinxvproxybedee.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
 vless://telegram-ArV2ray@151.101.2.216:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&security=none&encryption=none&host=v2.fxpw12ls.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.180.56.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
+trojan://3723507166611775488@wise-cowbird.boa152.lol:443/?type=tcp&security=tls&sni=wise-cowbird.boa152.lol&allowInsecure=1#[🏁]t.me/ConfigsHub
+vless://Telegram-channel-proxy_mtm@mmd.1.dragonspeed.ir:2087/?type=grpc&encryption=none&security=tls&sni=mmd.1.dragonspeed.ir.&alpn=h2%2Chttp%2F1.1&fp=chrome&packetEncoding=xudp#[🇩🇪]t.me/ConfigsHub
+trojan://3723507166611775488@allowed-primate.boa152.lol:443/?type=tcp&security=tls&sni=allowed-primate.boa152.lol&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
+trojan://3723507166611775488@tight-clam.boa152.lol:443/?type=tcp&security=tls&sni=tight-clam.boa152.lol&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
+trojan://3723507166611775488@profound-anemone.boa152.lol:443/?type=tcp&security=tls&sni=profound-anemone.boa152.lol&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
+trojan://3723507166611775488@relative-monkey.boa152.lol:443/?type=tcp&security=tls&sni=relative-monkey.boa152.lol&allowInsecure=1#[🏁]t.me/ConfigsHub
+trojan://3723507166611775488@correct-redbird.boa152.lol:443/?type=tcp&security=tls&sni=correct-redbird.boa152.lol&allowInsecure=1#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5601#⚜️Telegram:@IP_CF
+trojan://3723507166611775488@usable-toad.treefrog761.one:443/?type=tcp&security=tls&sni=usable-toad.treefrog761.one&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
+trojan://3723507166611775488@nearby-hedgehog.boa152.lol:443/?type=tcp&security=tls&sni=nearby-hedgehog.boa152.lol&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
+trojan://3723507166611775488@relative-rhino.boa152.lol:443/?type=tcp&security=tls&sni=relative-rhino.boa152.lol&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
+trojan://3723507166611775488@boss-marten.boa152.lol:443/?type=tcp&security=tls&sni=boss-marten.boa152.lol&allowInsecure=1#[🇮🇪]t.me/ConfigsHub
+trojan://3723507166611775488@real-cowbird.boa152.lol:443/?type=tcp&security=tls&sni=real-cowbird.boa152.lol&allowInsecure=1#[🇸🇪]t.me/ConfigsHub
