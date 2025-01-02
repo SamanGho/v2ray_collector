@@ -3032,3 +3032,9 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.118.4:22222?security=tls&sni=
 vless://4c2f954e-665d-4c36-b7ef-dc3053b7b8d2@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.78.255.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 trojan://3723507166611775488@fitting-ox.boa152.lol:443?allowInsecure=1&sni=fitting-ox.boa152.lol#[🏁]t.me/ConfigsHub
+vless://ae02f97b-d920-4386-b58e-0a78b60e828b@bestco.bestshop10.ir:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://b1f58d90-e65f-4566-91f3-1b96e9a68616@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://9b203f2e-306d-47df-a9b6-8b0e34a3b1be@ir4.gambronservice.site:8001?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9101#⚜️Telegram:@IP_CF
+vless://e7290f20-f774-46a3-9312-5232a2296bd6@95.181.162.108:8880?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
+vless://3aef1001-72a9-4aa8-8e5a-cc9a73d8cfad@outshop.bestshop10.ir:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
