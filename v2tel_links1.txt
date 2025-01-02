@@ -1584,3 +1584,10 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.46:443#[🇺🇸]t.me/Configs
 trojan://2add6241-8fe8-3922-8347-da25e8ced601@125.88.149.205:50013?sni=v2iijjp1.doubledou.icu#⚜️Telegram:@IP_CF
 trojan://blue2024@104.18.180.201:443?security=tls&sni=ta.promote.icu&type=tcp#⚜️Telegram:@IP_CF
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@138.2.227.52:443?security=tls&sni=us08.ssr.ee&type=tcp#⚜️Telegram:@IP_CF
+trojan://telegram-id-privatevpns@52.56.171.102:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://blue2024@5.182.84.179:443?security=tls&sni=ta.promote.icu&type=tcp#⚜️Telegram:@IP_CF
+trojan://NISHIKUITAN111@185.176.24.104:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#⚜️Telegram:@IP_CF
+trojan://abccbaa-baca-abca-acdb-cccabacbabab@127.0.0.1:1080?security=tls&type=tcp#⚜️Telegram:@IP_CF
+trojan://vzhXXZVw@36.150.215.196:18681?allowInsecure=1#[🏁]t.me/ConfigsHub
+vless://dc580147-c87c-4527-bf90-192eb1cf62d1@104.17.148.22:8080?security=none&type=ws&host=sTarT.sITEg52770.wORkERs.dEV&path=%2FfvMIBp4Wa6zFAkDU%2FMC4wLjAuMA%3D%3D%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.84:5003#⚜️Telegram:@IP_CF
