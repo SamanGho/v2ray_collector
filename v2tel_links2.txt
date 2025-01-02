@@ -3074,3 +3074,8 @@ trojan://3723507166611775488@166.1.227.35:443?sni=allowed-primate.boa152.lol&all
 ss://bm9uZTpjYWNhYmJhLWFhY2ItY2FiYS1iZGFjLWNiY2JhYWFjYmJjYQ==@127.0.0.1:1080#⚜️Telegram:@IP_CF
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@172.67.178.144:8880?security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir&path=/#[🇨🇦]t.me/ConfigsHub
 vless://b480bea0-ea8b-433f-9e65-d109da2bc403@173.245.58.100:2052?security=none&type=httpupgrade&host=dash.cloudflare.com.www.speedtest.net.cdn.ir.Elmahstyle.ir.#[🇨🇦]t.me/ConfigsHub
+vless://ac256547-39c1-42d9-85c5-58d582d4cb01@b1.mahour-music.ir:2053?path=%2FG211zX5z3%3Fed%3D2053&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=c.mahour-music.ir&fp=random&type=ws&sni=c.mahour-music.ir#[🏁]t.me/ConfigsHub
+vless://f97c0600-b5c9-465d-9c14-34cfb8a6e9dc@srv1-d.gamekade.tech:443?security=none&encryption=none&host=neshan.org&headerType=http&type=tcp#[🇬🇧]t.me/ConfigsHub
+vless://705eb0f0-31b1-4bb8-becc-2d4fd39a8831@fishlab.ucdavis.edu:80?path=%2Ftelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%2Ctelegram-vpnx1x%3Fed%3D80&security=none&encryption=none&host=Pizza-vpnx1x.com&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://08e887ac-be53-4499-9728-c393ce935593@49.12.106.37:56745?security=reality&encryption=none&pbk=reeGxEx25Fzh3KrT4p-YYOw84ugb5LUG_h8atOpPUQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.10.isovpn.shop#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@69.50.95.203:5499#[🇺🇸]t.me/ConfigsHub
