@@ -3139,3 +3139,4 @@ vless://4c2f954e-665d-4c36-b7ef-dc3053b7b8d2@151.101.130.228:443?security=tls&sn
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.110.1.17:8009#⚜️Telegram:@IP_CF
 vless://c9757870-462f-4010-829f-2766522f7d46@104.21.69.44:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.自己不看啥事基本事事.mogrenspore.nl#[🇨🇦]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.218:8881#⚜️Telegram:@IP_CF
