@@ -3356,3 +3356,4 @@ trojan://telegram-id-directvpn@18.116.191.84:22222?security=tls&alpn=http/1.1&he
 vless://d44053e7-adce-4c86-a67e-264db5662e01@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fonmelo.com&fp=edge&type=ws&sni=zmaoz.faculty.ucdavis.edu.#[🇳🇱]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.143.245:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://2bbaf73f-434a-414f-b4f0-2520a2c5155e@185.255.112.175:5600?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#[🇫🇷]t.me/ConfigsHub
+vless://1f849132-172a-46e7-e7d5-a645c4aef7fa@hajlab.ucdavis.edu:80?path=%2F&security=&encryption=none&host=fdsfr4ewrfcvdsafa.com&type=ws#[🇺🇸]t.me/ConfigsHub
