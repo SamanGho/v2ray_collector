@@ -3337,3 +3337,4 @@ trojan://3723507166611775488@5.189.203.38:443?sni=sacred-guppy.boa152.lol&allowI
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.174.20:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 trojan://blue2024@104.129.167.128:443?sni=ta.promote.icu#⚜️Telegram:@IP_CF
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.47:8882#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3cnlhbTZDd0pHY3NQdFV1Sk9Ibkw2@195.200.26.173:35333#⚜️Telegram:@IP_CF
