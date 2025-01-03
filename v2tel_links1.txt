@@ -1805,3 +1805,13 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.49:8882#⚜️Telegram:@IP_C
 trojan://blue2024@190.93.246.151:443?sni=hb.lii2010.us.kg#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFUnFndG13Z0VvdUlseHZNSHN4Wml4@192.121.46.180:443#⚜️Telegram:@IP_CF
 trojan://NISHIKUITAN111@141.101.122.171:443?#⚜️Telegram:@IP_CF
+vless://0d9c223d-5dca-49cc-94c5-850ef59a3c8a@172.66.44.83:443?security=tls&sni=dfgdfgdzfgdfzgdrgdgertd.pages.dev&type=ws&host=dfgdfgdzfgdfzgdrgdgertd.pages.dev&fp=chrome#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#⚜️Telegram:@IP_CF
+trojan://bpb-trojan@104.18.37.111:443?security=tls&sni=mindrOOm-5cz.pAgEs.dEV&type=ws&host=mindroom-5cz.pages.dev&path=%2FtrC8BM8bTsAF0AnLYL%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@194.116.173.21:9038#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.20:8881#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.150.152.16:6379#⚜️Telegram:@IP_CF
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.52.115:443?security=tls&sni=ppaL03.IGNACiO-KeVIOn.WorKerS.dEV&type=ws&host=Ppal03.ignacIo-KeVioN.workERs.deV&fp=chrome&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
+vless://0792bb58-36ac-451e-a629-e363e53da93b@104.21.18.38:443?security=tls&sni=kafka.eula.cloudns.org&type=ws&host=kafka.eula.cloudns.org&fp=chrome&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.121.43.27:6379#⚜️Telegram:@IP_CF
+vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.94:443?security=tls&sni=uxb.vs2024.us.kg&type=ws&host=uxb.vs2024.us.kg&path=/uxb.vs2024.us.kg#[🏁]t.me/ConfigsHub
