@@ -3396,3 +3396,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:807#⚜️Tel
 vless://a04f2568-6fe6-4067-82aa-a6ce13b5ef2f@srv09.pcbot.online:1414?type=tcp&path=/&security=none&host=rubika.ir,igap.net,splus.ir&headerType=http#[🇮🇷]t.me/ConfigsHub
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=mast-nufilter2.coM&type=ws#[🇺🇸]t.me/ConfigsHub
 trojan://NISHIKUITAN111@104.25.147.10:443?#⚜️Telegram:@IP_CF
+vless://995f0fa6-586a-42e6-b2ff-42a2f2ca84a2@c2.vact.ir:2083?type=grpc&mode=gun&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&security=reality&fp=randomized&sni=refersion.com&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&sid=11a4b6bca8&spx=/#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#⚜️Telegram:@IP_CF
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=sabteahval.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇳🇱]t.me/ConfigsHub
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇬🇧]t.me/ConfigsHub
+ss://bm9uZTphY2JiYWNhLWFiYWMtYWFjYi1iZGNhLWJjYWJjYmFhYWNjYg==@127.0.0.1:1080#⚜️Telegram:@IP_CF
+vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=random&type=grpc&serviceName=grpc&sni=hvxoo.metahkh.com#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.48.52.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://Joinin--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=niopdc.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇳🇱]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#[🇺🇸]t.me/ConfigsHub
+vless://fe43d215-c05f-4de1-8ee7-2620b20cb248@c1.vact.ir:2083?type=grpc&mode=gun&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&security=reality&fp=randomized&sni=refersion.com&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&sid=90278dfc&spx=/#[🇩🇪]t.me/ConfigsHub
+vless://18722220-9249-0051-5849-e8a8f1f76424@158.178.212.171:25247?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=random&type=grpc&serviceName=grpc&sni=mjloc.rdqstulf.com#[🇫🇷]t.me/ConfigsHub
