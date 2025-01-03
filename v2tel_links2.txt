@@ -3468,3 +3468,7 @@ vless://a04f2568-6fe6-4067-82aa-a6ce13b5ef2f@srv05.pcbot.online:1410/?encryption
 vmess://eyJhZGQiOiIxNDYuMTkuMTY4LjE2MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYXowNS5iZXlvbmR5LmNmZCIsImlkIjoiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+Hq/Cfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImF6MDUuYmV5b25keS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443/?type=grpc&encryption=none&serviceName=grpc&security=tls&sni=hvxoo.metahkh.com&alpn=h2&fp=random#[🇨🇦]t.me/ConfigsHub
 trojan://auto@104.27.206.92:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
+vless://1185a1af-2ad7-5abe-90fb-ca183a3abd96@151.101.66.219:80?security=none&type=ws&host=ELiV2RAY-0.iR.&path=%2Fl%3Fed%3D443ed%3D2560#[🇨🇦]t.me/ConfigsHub
+trojan://dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.194.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeWz.NeT#⚜️Telegram:@IP_CF
+vless://c187f0c1-9eb8-4a64-c24d-f89e43fe7371@104.17.148.22:2082?type=httpupgrade&host=yakuasubcha.poqpoq.shop.&path=yakuzaytarmin%3Fed%3D2082#[🇨🇦]t.me/ConfigsHub
+vless://9d20c262-b8a6-48d4-8851-e3cc7511a596@5.202.6.12:2086?type=ws#[🇮🇷]t.me/ConfigsHub
