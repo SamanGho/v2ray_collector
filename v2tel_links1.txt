@@ -1981,3 +1981,16 @@ trojan://telegram-id-directvpn@13.48.52.105:22222?security=tls&alpn=http/1.1&hea
 vless://4ebb5e40-adc7-49d0-970c-e304e3bf6c3a@konkurifree.sanjesh.online:7642?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.51.25.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://9d20c262-b8a6-48d4-8851-e3cc7511a596@5.202.6.12:2086?type=ws#[🇮🇷]t.me/ConfigsHub
+vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443/?type=grpc&encryption=none&serviceName=grpc&security=tls&sni=hvxoo.metahkh.com&alpn=h2&fp=random#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNDYuMTkuMTY4LjE2MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYXowNS5iZXlvbmR5LmNmZCIsImlkIjoiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+Hq/Cfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImF6MDUuYmV5b25keS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJiaWEtdnBuLXdoYWwuZmFzdC5ob3N0aW5nLWlwLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2hhbWVuZWktMzEzLklSLiIsImlkIjoiZjA3MWY2MzAtYmY3ZC00NzQxLTgwMzItNjUzYjYxM2RmZjA0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDgwLyNpZC10ZWxlZ3JhbTotLS1cdTAwM2VAdnBuX3doYWxcdTAwM2MtLS0iLCJwb3J0IjoiODAiLCJwcyI6Ilvwn4e68J+HuF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://auto@104.27.206.92:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
+trojan://dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.194.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeWz.NeT#⚜️Telegram:@IP_CF
+vless://c187f0c1-9eb8-4a64-c24d-f89e43fe7371@104.17.148.22:2082?type=httpupgrade&host=yakuasubcha.poqpoq.shop.&path=yakuzaytarmin%3Fed%3D2082#[🇨🇦]t.me/ConfigsHub
+vless://1185a1af-2ad7-5abe-90fb-ca183a3abd96@151.101.66.219:80?security=none&type=ws&host=ELiV2RAY-0.iR.&path=%2Fl%3Fed%3D443ed%3D2560#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjhiNjI1Yy1lZmI4LTQ1Y2QtYjUwOS1jN2NjZWFiZTBjYzY=@194.105.83.3:40003#⚜️Telegram:@IP_CF
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.11:8080#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiJkbDYubm92ZW5pcHY2LnNicyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkZTY0ZTllMS0xNmYxLTQzZTMtYWJmYi1kM2U0ODBlMDAxNjkiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIxMDQiLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇳🇱]t.me/ConfigsHub
+trojan://blue2024@104.16.36.151:443?security=tls&sni=ha.lii2010.us.kg&type=tcp#⚜️Telegram:@IP_CF
