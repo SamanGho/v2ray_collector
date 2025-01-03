@@ -3357,3 +3357,4 @@ vless://d44053e7-adce-4c86-a67e-264db5662e01@zmaoz.faculty.ucdavis.edu:443?path=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.143.245:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 vless://2bbaf73f-434a-414f-b4f0-2520a2c5155e@185.255.112.175:5600?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#[🇫🇷]t.me/ConfigsHub
 vless://1f849132-172a-46e7-e7d5-a645c4aef7fa@hajlab.ucdavis.edu:80?path=%2F&security=&encryption=none&host=fdsfr4ewrfcvdsafa.com&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://26721978-890e-4946-bafa-cb03c9ff7f4a@212.237.218.123:38142?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
