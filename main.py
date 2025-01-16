@@ -6,7 +6,55 @@ import os
 import time
 import sys
 import base64
+def read_counter():
+    '''Read the counter val from a file'''
+    try:
+        with open('run_counter.txt','r') as f:
+            return int(f.read().strip())
+    except (FileExistsError , ValueError):
+        return 1 
+def increment_counter(current_count):
+    '''Increment the counter & handle trunc'''
+    current_count+=1
+    with open('run_counter.txt','r') as f:
+        f.write(str(current_count))
+    if current_count>30:
+        truncate_files()
 
+        current_count=1
+        with open('run_counter.txt','w') as f:
+            f.write('1')
+    return current_count
+
+def truncate_files():
+    '''Truncate files starting from first  meaningful link'''
+    files_to_truncate=['v2tel_links1.txt','v2tel_links2.txt']
+
+    link_pattern=re.compile(r'(vless://|vmess://|trojan://|ss://)')
+
+    for filename in files_to_truncate:
+        try:
+            with open(filename , 'r', encoding='utf-8') as f:
+                content=f.read()
+
+            matcham= link_pattern.search(content)
+            if matcham:
+                truncated_content=content[matcham.start():]
+            else:
+                midpoint = len(content) //2
+                truncated_content=content[midpoint:]
+            
+
+            with open(filename , 'w' , encoding='utf-8') as f:
+                f.write(truncated_content)
+
+        except FileNotFoundError:
+            print(f"File {filename} not found skipping ")
+        except Exception as e:
+            print(f'Erorr truncating {filename} : {e})')
+        
+                  
+            
 # Function to extract V2Ray links
 def extract_v2ray_links(url, timeout=15, retries=5, retry_delay=8):
     attempt = 0
