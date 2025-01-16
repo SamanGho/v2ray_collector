@@ -1,21 +1,3 @@
-vless://70186b61-319d-42f2-9807-7df9594aa385@103.116.7.230:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=amedo.esslh.filegear-sg.me&type=ws&sni=amedo.esslh.filegear-sg.me#👉🆔@v2razy
-trojan://Aimer@108.165.152.104:2053?path=%2F%3Fed&security=tls&host=ameqo.esslh.filegear-sg.mehttp%2F1.1&type=ws&sni=ameqo.esslh.filegear-sg.me#👉🆔@v2razy
-trojan://Aimer@47.238.136.235:443?path=%2F%3Fed&security=tls&host=ameqo.esslh.filegear-sg.mehttp%2F1.1&type=ws&sni=ameqo.esslh.filegear-sg.me#👉🆔@v2razy
-trojan://Aimer@188.164.159.241:2096?path=%2F%3Fed&security=tls&host=ameqo.esslh.filegear-sg.mehttp%2F1.1&type=ws&sni=ameqo.esslh.filegear-sg.me#👉🆔@v2razy
-trojan://Aimer@154.197.64.166:2053?path=%2F%3Fed&security=tls&host=ameqo.esslh.filegear-sg.mehttp%2F1.1&type=ws&sni=ameqo.esslh.filegear-sg.me#👉🆔@v2razy
-vless://70186b61-319d-42f2-9807-7df9594aa385@108.162.193.162:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=amedo.esslh.filegear-sg.me&type=ws&sni=amedo.esslh.filegear-sg.me#👉🆔@v2razy
-trojan://Aimer@104.19.103.190:2096?path=%2F%3Fed&security=tls&host=ameqo.esslh.filegear-sg.mehttp%2F1.1&type=ws&sni=ameqo.esslh.filegear-sg.me#👉🆔@v2razy
-vless://70186b61-319d-42f2-9807-7df9594aa385@27.50.48.189:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=amedo.esslh.filegear-sg.me&type=ws&sni=amedo.esslh.filegear-sg.me#👉🆔@v2razy
-vless://70186b61-319d-42f2-9807-7df9594aa385@154.211.8.227:2087?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=amedo.esslh.filegear-sg.me&type=ws&sni=amedo.esslh.filegear-sg.me#👉🆔@v2razy
-trojan://Aimer@154.197.64.67:443?path=%2F%3Fed&security=tls&host=ameqo.esslh.filegear-sg.mehttp%2F1.1&type=ws&sni=ameqo.esslh.filegear-sg.me#👉🆔@v2razy
-vless://70186b61-319d-42f2-9807-7df9594aa385@27.50.49.154:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=amedo.esslh.filegear-sg.me&type=ws&sni=amedo.esslh.filegear-sg.me#👉🆔@v2razy
-vless://70186b61-319d-42f2-9807-7df9594aa385@103.116.7.103:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=amedo.esslh.filegear-sg.me&type=ws&sni=amedo.esslh.filegear-sg.me#👉🆔@v2razy
-vless://70186b61-319d-42f2-9807-7df9594aa385@92.243.74.2:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=amedo.esslh.filegear-sg.me&type=ws&sni=amedo.esslh.filegear-sg.me#👉🆔@v2razy
-trojan://Aimer@212.41.15.119:443?path=%2F%3Fed&security=tls&host=ameqo.esslh.filegear-sg.mehttp%2F1.1&type=ws&sni=ameqo.esslh.filegear-sg.me#👉🆔@v2razy
-trojan://SSorg@213.109.205.55:2096?security=tls&headerType=&type=tcp&sni=ssjj.esslh.filegear-sg.me#👉🆔@v2razy
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA%3D%3D@p228.panda004.net:47913#👉🆔@v2razy
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU%3D@18.181.199.99:443#👉🆔@v2razy
-trojan://blue2024@172.67.142.60:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔@v2razy
 vmess://eyJhZGQiOiAiMTEyLjEzMi4yMTUuMTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTAwMDIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAbTNoZGlvMSJ9
 vless://70186b61-319d-42f2-9807-7df9594aa385@45.85.210.210:13019?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=amedo.esslh.filegear-sg.me&type=ws&sni=amedo.esslh.filegear-sg.me#👉🆔@v2razy
 vless://c09d51b8-25c5-4eaf-98bc-ef40c807de84@104.16.65.193:80?security=&encryption=none&type=ws#👉🆔@v2razy
@@ -148,3 +130,21 @@ trojan://SSorg@38.180.20.59:2053?security=tls&headerType=&type=tcp&sni=ssjj.essl
 vless://c121c9ce-f0a2-403c-9b30-11b6fe2b73a6@185.255.112.175:5600?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#👉🆔@v2razy
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE5OC4yLjE5Mi4yNDkiLCAicG9ydCI6ICIzNjAwOSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8xNzM2Njc1MTg0ODA1IiwgImhvc3QiOiAid3d3Ljg0MTYzMDA3Lnh5eiIsICJ0bHMiOiAidGxzIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEBtM2hkaW8xIn0=
 vless://0b0c7802-123a-465e-aa30-78e5063dea89@liferobot.darkping.net:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&headerType=none&fp=chrome&spx=%2F4374d295a4f9dd83&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9bc0a55a5379c0ed#👉🆔@v2razy
+vless://%74%65l%65g%72a%6d-%69d-%41r%562r%61y@151.101.3.8:80?type=grpc&serviceName= @vpnwedbaz - Telegram : @vpnwedbaz&mode=multi&security=tls&encryption=none&path=%2F%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y%3Fed%3D2048&security=none&encryption=none&host=cdiuw117.net&type=ws#👉🆔@v2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#👉🆔@v2razy
+vless://152e5a3e-8e9e-4e37-f2e9-beac9e372796@45.76.146.111:8080?security=none&type=ws&path=%2F#👉🆔@v2razy
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.88:59686#👉🆔@v2razy
+vless://13ed4a8b-6049-4f26-8cb3-9870df4fda4c@104.18.14.19:2052?security=none&type=ws&host=0107.cxypogon.workers.dev&path=%2F%3Fed%3D2560#👉🆔@v2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#👉🆔@v2razy
+vless://8f13868d-9036-45c1-a72f-897f836bfd50@151.101.128.155:80?path=%2FTelegram-Channel%3A%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47%3Fed%3D2560&security=&encryption=none&host=J.Dev&type=ws#👉🆔@v2razy
+ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg%3D%3D@146.19.170.82:47777#👉🆔@v2razy
+vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2razy
+vless://2ee6113e-99d7-45e6-a3b8-349b925da58c@151.101.3.8:80?type=grpc&serviceName=Telegram : @vpnwedbaz - Telegram :  @vpnwedbaz&mode=multi&security=tls&encryption=none&path=%2F%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeee.ir&type=ws#👉🆔@v2razy
+vless://%5aED%4d%4fDE%4f%4e--%5aED%4d%4fDE%4f%4e@zmaoz.faculty.ucdavis.edu:443?path=%2F%40%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e%40%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-TEL-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%40%5aED%4d%4fDE%4f%4e%3Fed%3D2048&security=tls&encryption=none&host=cinematicket.org&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔@v2razy
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#👉🆔@v2razy
+vless://SVNTEAM@151.101.194.133:80?path=%2FSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%3Fed%3D8880&security=none&encryption=none&host=SvnTeam.ir&type=ws#👉🆔@v2razy
+trojan://0bc68743-cff8-4730-9818-9d8192ee335c@120.232.217.96:21015?allowInsecure=1#👉🆔@v2razy
+trojan://3648425794742788096@5.8.35.208:443?allowInsecure=0&sni=loving-boa.treefrog761.one#👉🆔@v2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVXJTZmZlTkFCWEdYWGZOaG9MNnhCVW5oMVJ6cU1penJRMnM5UWZDMzhQMllQdVlQUlRxVzV6Wmc2akdpc2lOaGt6TTRTUmpGNm56dkZiMThHUHRFU1dvWFdqaHF5Qzg%3D@198.105.123.190:46902#👉🆔@v2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#👉🆔@v2razy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344751666.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2razy
