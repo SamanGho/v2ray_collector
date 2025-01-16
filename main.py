@@ -1,5 +1,5 @@
 
-
+import re
 import requests
 from bs4 import BeautifulSoup
 import os
@@ -11,12 +11,12 @@ def read_counter():
     try:
         with open('run_counter.txt','r') as f:
             return int(f.read().strip())
-    except (FileExistsError , ValueError):
+    except (FileNotFoundError , ValueError):
         return 1 
 def increment_counter(current_count):
     '''Increment the counter & handle trunc'''
     current_count+=1
-    with open('run_counter.txt','r') as f:
+    with open('run_counter.txt','w') as f:
         f.write(str(current_count))
     if current_count>30:
         truncate_files()
@@ -54,7 +54,44 @@ def truncate_files():
             print(f'Erorr truncating {filename} : {e})')
         
                   
+def gather_last_150_links():
+    '''
+    Gather the last 150 links from v2tel_links1 & 2.txt  save them 
+    '''           
+    input_files=['v2tel_links1.txt','v2tel_links2.txt']
+    output_file='last_150.txt'
+    all_links=[]
+
+    for filename in input_files:
+        try:
+            with open(filename,'r',encoding='utf-8') as f:
+                file_links=[link.strip() for link in f.readlines() if link.strip() ]
             
+                all_links.extend(file_links)
+        except FileNotFoundError:
+            print(f"File {filename} not found skipping")
+        except Exception as e :
+            print(f" Error reading {filename} {e}")
+            continue
+    unique_links=[]
+    seen=set()
+    for link in all_links:
+        if link not in seen:
+            unique_links.append(link)
+            seen.add(link)
+    
+    last_links = unique_links[-150:]
+
+    try:
+
+        with open(output_file,'w',encoding='utf-8') as f:
+            for link in last_links:
+                f.write(link+'\n')
+        print(f'Saved {len(last_links)} unique links to {output_file}')
+    except Exception as e:
+        print(f" Error writing to {output_file}:{e}")
+
+
 # Function to extract V2Ray links
 def extract_v2ray_links(url, timeout=15, retries=5, retry_delay=8):
     attempt = 0
@@ -124,6 +161,13 @@ def encode_file_to_base64(input_filename, output_filename):
         file.write(encoded_content)
 
 def main():
+    if not os.path.exists('run_counter.txt'):
+        with open('run_counter.txt', 'w') as f:
+            f.write('1')
+    
+    current_count=read_counter()
+    current_count=increment_counter(current_count)
+
     if len(sys.argv) < 2:
         print("Error: Filename argument is missing.")
         sys.exit(1)
@@ -155,9 +199,10 @@ def main():
 
     # Save links to the determined file
     save_v2ray_links(updated_links, filename)
-
-    base64_filename = 'base64' if 'v2tel_links1.txt' in filename else 'base64_1'
+    gather_last_150_links()
     
+    base64_filename = 'base64' if 'v2tel_links1.txt' in filename else 'base64_1'
+
     encode_file_to_base64(filename, base64_filename)
 
 if __name__ == "__main__":
