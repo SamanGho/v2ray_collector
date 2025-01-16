@@ -1,0 +1,86 @@
+name: Scrape V2Ray Links
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'  # Runs every 10 minutes
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    - name: Determine current file
+      id: current_file
+      run: |
+        # Check if timestamp file exists
+        if [ ! -f .last_switch ]; then
+          # If it doesn't exist, create it with the current timestamp and start with file 1
+          date +%s > .last_switch
+          echo "file=v2tel_links1.txt" >> $GITHUB_ENV
+          echo "next_file=v2tel_links2.txt" >> $GITHUB_ENV
+        else
+          # Calculate the difference in seconds between now and the last switch
+          LAST_SWITCH=$(cat .last_switch)
+          CURRENT_TIME=$(date +%s)
+          TIME_DIFF=$((CURRENT_TIME - LAST_SWITCH))
+
+          # 7200 seconds = 2 hours
+          if [ $TIME_DIFF -ge 7200 ]; then
+            # It's been 2 hours, switch files
+            if grep -q "v2tel_links1.txt" .last_file; then
+              echo "file=v2tel_links2.txt" >> $GITHUB_ENV
+              echo "next_file=v2tel_links1.txt" >> $GITHUB_ENV
+            else
+              echo "file=v2tel_links1.txt" >> $GITHUB_ENV
+              echo "next_file=v2tel_links2.txt" >> $GITHUB_ENV
+            fi
+            # Update the last switch time
+            date +%s > .last_switch
+          else
+            # Continue with the current file
+            if grep -q "v2tel_links1.txt" .last_file; then
+              echo "file=v2tel_links1.txt" >> $GITHUB_ENV
+              echo "next_file=v2tel_links2.txt" >> $GITHUB_ENV
+            else
+              echo "file=v2tel_links2.txt" >> $GITHUB_ENV
+              echo "next_file=v2tel_links1.txt" >> $GITHUB_ENV
+            fi
+          fi
+        fi
+
+        # Save the current file to the .last_file for the next run
+        echo "${{ env.file }}" > .last_file
+
+    - name: Run scraping script for the determined file
+      run: |
+        python main.py ${{ env.file }}
+
+    - name: Clear the previous file after switching
+      if: ${{ env.file }} != ${{ env.next_file }}
+      run: |
+        echo "Clearing the previous file: ${{ env.next_file }}"
+        echo "" > ${{ env.next_file }}
+
+    - name: Commit and push changes
+      env:
+        PROV2: ${{ secrets.PROV2 }}
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add base64 base64_1 ${{ env.file }} .last_switch .last_file
+        git commit -m "Update V2Ray links"
+        git push https://x-access-token:${PROV2}@github.com/${{ github.repository }}.git HEAD:main
