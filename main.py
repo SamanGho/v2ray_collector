@@ -92,23 +92,26 @@ def gather_last_150_links():
         print(f" Error writing to {output_file}:{e}")
 
 
-# Function to extract V2Ray links
 def extract_v2ray_links(url, timeout=15, retries=5, retry_delay=8):
     attempt = 0
     while attempt < retries:
         try:
-            response = requests.get(url)
+            response = requests.get(url, timeout=timeout)
             if response.status_code == 200:
                 soup = BeautifulSoup(response.content, 'html.parser')
                 v2ray_links = []
 
                 # Find all divs with the specific class and extract the links
                 for div in soup.find_all('div', class_=lambda x: x and 'tgme_widget_message_text' in x):
-                    pre_tag=div.find('pre')
-                    if pre_tag and pre_tag.text.strip().startswith(('vless://','vmess://','trojan://','ss://')):
-                        v2ray_links.append(code_tag.text.strip())
+                    pre_tag = div.find('pre')
                     code_tag = div.find('code')
-                    if code_tag and code_tag.text.startswith(('vless://', 'vmess://', 'trojan://', 'ss://')):
+                    
+                    # Check pre tag
+                    if pre_tag and pre_tag.text.strip().startswith(('vless://','vmess://','trojan://','ss://')):
+                        v2ray_links.append(pre_tag.text.strip())
+                    
+                    # Check code tag
+                    if code_tag and code_tag.text.strip().startswith(('vless://', 'vmess://', 'trojan://', 'ss://')):
                         v2ray_links.append(code_tag.text.strip())
 
                 return v2ray_links
@@ -199,7 +202,10 @@ def main():
 
     # Save links to the determined file
     save_v2ray_links(updated_links, filename)
-    gather_last_150_links()
+    try:
+        gather_last_150_links()
+    except Exception as e:
+        print(f"Error in gather_last_150_links: {e}")
     
     base64_filename = 'base64' if 'v2tel_links1.txt' in filename else 'base64_1'
 
