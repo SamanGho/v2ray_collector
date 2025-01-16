@@ -767,3 +767,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.95.61:22222?path=/telegram-c
 trojan://telegram-id-directvpn@13.49.8.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://3723507166611775488@195.133.93.10:443?security=tls&headerType=none&type=tcp&sni=social-bream.boa152.lol#⚜️Telegram:@IP_CF
 trojan://telegram-id-privatevpns@35.179.250.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
+trojan://telegram-id-directvpn@13.53.64.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
