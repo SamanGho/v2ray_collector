@@ -1,9 +1,3 @@
-trojan://telegram-id-privatevpns@13.39.100.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2razy
-trojan://telegram-id-directvpn@13.48.180.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2razy
-trojan://telegram-id-directvpn@13.37.92.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2razy
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.57.142:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@v2razy
-trojan://telegram-id-privatevpns@3.66.68.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2razy
-trojan://telegram-id-privatevpns@51.44.34.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2razy
 trojan://telegram-id-privatevpns@16.16.147.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2razy
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.138.58:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@v2razy
 trojan://telegram-id-privatevpns@16.170.36.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2razy
@@ -148,3 +142,9 @@ vless://253a8667-4496-446e-ae46-ec9c5c30d710@hajlab.ucdavis.edu:443?security=tls
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SjQ0RHA1TnV4TDJzUEpuN25pZkJW@51.158.252.130:443#👉🆔@v2razy
 vless://6ff4726f-3650-4803-95eb-50b240f6ac75@104.24.186.156:80?encryption=none&security=none&type=ws&host=red-math-7092-ppal03.mewoco2522.workers.dev&path=%2F%3Fed%3D2560#👉🆔@v2razy
 vless://17d6aabb-4d9b-43d0-815d-70b13781a59b@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#👉🆔@v2razy
+vless://d8eeb9a4-84b9-40eb-8de8-2d0fd558e106@fishlab.ucdavis.edu:443?path=%2F%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY%3Fed%3D2560&security=tls&encryption=none&host=Bia2.Channel-ELiV2RaY.ir&type=ws&sni=fishlab.ucdavis.edu#👉🆔@v2razy
+vless://253a8667-4496-446e-ae46-ec9c5c30d710@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/--------------------------------------------?ed%3D2048&host=joinshhproxybedeeeee.ir&encryption=none#👉🆔@v2razy
+vmess://eyJhZGQiOiIyMy4xNTguNTYuMjI3IiwiYWlkIjowLCJob3N0IjoiMjMuMTU4LjU2LjIyNyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://telegram-id-privatevpns@13.42.169.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2razy
+vless://6ff4726f-3650-4803-95eb-50b240f6ac75@104.16.194.204:80?encryption=none&security=none&type=ws&host=red-math-7092-ppal03.mewoco2522.workers.dev&path=%2F%3Fed%3D2560#👉🆔@v2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprRVFRUldpeUl4UjRlZEdBTVNndGhs@51.158.252.130:443#👉🆔@v2razy
