@@ -81,6 +81,7 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add base64 base64_1 ${{ env.file }} .last_switch .last_file
-        git commit -m "Update V2Ray links"
+        git add base64 base64_1 ${{ env.file }} last_150.txt .last_switch .last_file
+        
+        git commit -m "Update V2Ray links "
         git push https://x-access-token:${PROV2}@github.com/${{ github.repository }}.git HEAD:main
