@@ -1,5 +1,3 @@
-vless://%40v2boxvpnn@mmd.fast.hosting-ip.com:80/?type=ws&encryption=none&host=mmd.ir&path=%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UDE5aTBCb0pBUDNRMGk5RnFMWjJS@213.108.23.243:15584#👉🆔@v2ray_configs_pool
 vless://TELEGRAM-NUFiLTER-66b20a80790d@nufilter.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=kazemi21zerofun.com&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080#👉🆔@v2ray_configs_pool
 trojan://3723507166611775488@5.189.203.38:443/?type=tcp&security=tls&sni=sacred-guppy.boa152.lol&allowInsecure=1#👉🆔@v2ray_configs_pool
 vless://5d101b3e-bcdd-487f-9f70-6de4cc21ef06@193.124.203.178:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=germany1.rsvpn.ru&alpn=h3%2Ch2%2Chttp%2F1.1#👉🆔@v2ray_configs_pool
@@ -148,3 +146,5 @@ vless://af19d60b-1ef2-5da6-8fe3-b4710944b045@45.133.216.209:2052?path=%2Fvless%2
 vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔@v2ray_configs_pool
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeGozMExpYkYzTW41Rk92UUJ1SkZW@94.20.141.173:443#👉🆔@v2ray_configs_pool
 vmess://eyJhZGQiOiAic2kuMTgwOC5zaXRlIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiY2MyLjE4MDguc2l0ZSIsICJpZCI6ICJkM2Q4Yjc4MS1mMzBkLTQ5MDItOGViMC01OGIxY2E5MzZiZWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hncXF2d3MiLCAicG9ydCI6ICIzMDAwMiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiY2MyLjE4MDguc2l0ZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+trojan://telegram-id-privatevpns@13.50.123.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
+vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.A.111.speedtest2.livE.&type=ws#👉🆔@v2ray_configs_pool
