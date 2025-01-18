@@ -1606,3 +1606,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.167.201:22222?path=/telegram
 trojan://Aimer@106.240.1.52:20443?security=tls&sni=ameqo.esslh.filegear-sg.me&type=tcp#⚜️Telegram:@IP_CF
 vless://04306514-713c-4357-9094-2cfcfbf8fc3e@ns4.esfahansiman.com:443/?type=ws&encryption=none&host=WWW.EsfahAnsimaN.infO.&security=tls&sni=WWW.EsfahAnsimaN.infO.&alpn=h2%2Chttp%2F1.1&fp=chrome#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.116.195:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+trojan://telegram-id-directvpn@18.170.21.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@18.159.72.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
