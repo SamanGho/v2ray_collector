@@ -1,4 +1,3 @@
-trojan://telegram-id-privatevpns@18.175.98.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
 vless://eda20998-ed70-490e-8631-4002c8891ae5@138.201.185.70:51795?type=tcp&path=%2F&host=nobitex.ir&headerType=http&security=none#👉🆔@v2ray_configs_pool
 vless://3d9e845a-b2e4-487c-a75e-ba9229966dbf@151.101.120.121:80?path=%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=none&encryption=none&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws#👉🆔@v2ray_configs_pool
 trojan://telegram-id-privatevpns@35.181.75.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool
@@ -148,3 +147,4 @@ vless://41abecd9-8096-4142-a75c-4e1d36d990bd@64.110.83.252:443?path=%2F%3Fed%3D2
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@144.21.40.70:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://SSorg@192.0.54.221:2083?security=tls&headerType=&type=tcp&sni=ssjj.esslh.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸United States
 vmess://eyJhZGQiOiI0NS4xNDQuNDguMTI4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJhNDg1MDQ4MS05Yjk1LTQzMGYtOWIyZC0xOTJkMjQxMGI0ZjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzXC8iLCJwb3J0Ijo4NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vmess://eyJ2IjoiMiIsImFkZCI6IjUuNzUuMTM1LjEyMyIsInBvcnQiOjEwNjU4LCJpZCI6IjAxMGVhNmI3LTI0NGItNGRhYy05NDg4LTQ2ZjZmOWUyOWE4YyIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiJ9
