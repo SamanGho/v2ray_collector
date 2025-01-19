@@ -180,6 +180,8 @@ def main():
 
     telegram_urls = [
         "https://t.me/s/V2razy",
+        'https://t.me/s/v2ray_configs_pool',
+        'https://t.me/s/ConfigsHUB2',
         "https://t.me/s/ConfigsHUB",
         "https://t.me/s/PrivateVPNs",
         "https://t.me/s/VlessConfig", 
