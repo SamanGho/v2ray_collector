@@ -1,4 +1,3 @@
-trojan://bpb-trojan@185.238.228.6:443?security=tls&headerType=&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@193.123.181.121:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://SSorg@216.24.57.186:443?security=tls&headerType=&type=tcp&sni=ssjj.esslh.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸United States
 trojan://Aimer@154.197.64.67:443?path=%2F%3Fed&security=tls&host=ameqo.esslh.filegear-sg.mehttp%2F1.1&type=ws&sni=ameqo.esslh.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇺🇸United States
@@ -148,3 +147,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.24.68:22222?security=tls&sni=
 vmess://eyJhZGQiOiAiNjUuMTA4LjI0Ni4xOTEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjdlMzBlYzAzLWQxMDUtNGFkMy05NmMyLTM0OTAwMWU4NjgwYyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjkzMDEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZUZpbmxhbmQifQ==
 trojan://3723507166611775488@devoted-starfish.boa152.lol:443?security=tls&sni=devoted-starfish.boa152.lol&type=tcp#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@13.61.107.74:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVXJTZmZlTkFCWEdYWGZOaG9MNnhCVW5oMVJ6cU1penJRMnM5UWZDMzhQMllQdVlQUlRxVzV6Wmc2akdpc2lOaGt6TTRTUmpGNm56dkZiMThHUHRFU1dvWFdqaHF5Qzg=@198.105.123.190:46902#⚜️Telegram:@IP_CF
