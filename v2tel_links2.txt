@@ -2405,3 +2405,6 @@ vless://dd79b9aa-0981-4acd-86e3-d0e38285097a@151.101.192.155:80?security=none&ty
 trojan://3723507166611775488@eternal-tadpole.boa152.lol:443?security=tls&sni=eternal-tadpole.boa152.lol&type=tcp#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://0497bdee-91e1-4cf3-845a-7ae584da04fd@217.69.8.35:8080?type=ws&security=none&path=%2F#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://1ec653e0-d295-11ef-8eee-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.55:8880?type=grpc#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.213.23.226:989#👉🆔 @v2ray_configs_pool📡🇳🇴Norway

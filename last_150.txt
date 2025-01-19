@@ -1,6 +1,3 @@
-vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=12.irfrn23sn.net&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://755fafcf-10dc-57e6-933d-604b13ac541f@103.113.68.233:2086?security=none&sni=ru1.vless.site&type=grpc&serviceName=vless-grpc#[🇷🇺]t.me/ConfigsHub
-vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://4f339598-2123-4778-98b3-562ba13a24bc@151.101.128.155:80?security=none&type=ws&host=spdnet.spdnet.spdnet.tm.spdnet.spdnetvipv.com&path=%2Fspdnet%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
 vless://59513a87-4c96-541b-ad87-b0786801592e@faculty.ucdavis.edu:443?path=%2Fvless-ws%2F%40MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=speedtest.net.ftp.debian.org.1.2.3.a.b.c.netspeedtest.net.pln.asnki.ir&fp=randomized&type=ws&sni=faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://646070ca-d193-41ed-a3c9-224b451fcf8f@5.75.128.216:2083?mode=gun&security=reality&encryption=none&authority=telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=90278dfc#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
@@ -148,3 +145,6 @@ vless://dd79b9aa-0981-4acd-86e3-d0e38285097a@151.101.192.155:80?security=none&ty
 trojan://3723507166611775488@eternal-tadpole.boa152.lol:443?security=tls&sni=eternal-tadpole.boa152.lol&type=tcp#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://0497bdee-91e1-4cf3-845a-7ae584da04fd@217.69.8.35:8080?type=ws&security=none&path=%2F#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://1ec653e0-d295-11ef-8eee-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.55:8880?type=grpc#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.213.23.226:989#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
