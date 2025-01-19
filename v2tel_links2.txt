@@ -1841,3 +1841,15 @@ vmess://eyJhZGQiOiAiNjUuMTA4LjI0Ni4xOTEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAi
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?security=&type=ws&path=/?ed%3D2048&host=arvancloud.com&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
 trojan://3723507166611775488@devoted-starfish.boa152.lol:443?security=tls&sni=devoted-starfish.boa152.lol&type=tcp#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@13.61.107.74:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#👉🆔@v2ray_configs_pool📡🇸🇪Sweden
+trojan://fuck@42.236.73.72:443?security=tls&sni=www.zitian.cn&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇳China
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.10.67.132:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://Aimer@18.182.63.216:443?security=tls&sni=ameqo.esslh.filegear-sg.me&type=tcp#👉🆔@v2ray_configs_pool📡🇯🇵Japan
+vless://f2fa2843-5614-4fa7-99fe-da22f7307ad8@137.175.84.77:32066?security=reality&sni=apple.com&fp=chrome&pbk=-LeP2n_qttyDuBpYQA8a7q4AOYeQGOkkaxnyLlb8vgo&sid=4f27&type=tcp&flow=xtls-rprx-vision&encryption=none#👉🆔@v2ray_configs_pool📡🇺🇸United States
+trojan://3723507166611775488@devoted-starfish.boa152.lol:443?security=tls&sni=devoted-starfish.boa152.lol&type=tcp#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+vless://b93d7dac-1430-4eef-ad55-967592b68e02@4529edc5205042d2ab2e.synom-beyron.info:8880?security=&type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇪🇸Spain
+vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?security=&type=tcp&headerType=http&host=telewebion.com&encryption=none#👉🆔@v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-privatevpns@52.56.145.241:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#👉🆔@v2ray_configs_pool📡🇬🇧United Kingdom
+vmess://eyJhZGQiOiAic2VvdWwtMWRkbnMuYWJvdXRhbmltZS5ldS5vcmciLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJzZW91bC0xZGRucy5hYm91dGFuaW1lLmV1Lm9yZyIsICJpZCI6ICIwZWJkNTRjNi0xNTkxLTQ0Y2UtYjM3OC0zZTVjNThkMDBkMWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIzNDUxIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjdTb3V0aCBLb3JlYSJ9
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@8.222.76.79:443?security=tls&sni=mmdserver.us.kg&type=ws&path=/?ed%3D2048&host=mmdserver.us.kg&encryption=none#👉🆔@v2ray_configs_pool📡🇯🇵Japan
+vless://6ea5f5b1-3d50-4c8c-b2a0-9db51f4c6c7f@193.227.99.28:443?security=tls&sni=fawpvpcyp.wwtraveler.com&type=grpc&serviceName=michi&encryption=none#👉🆔@v2ray_configs_pool📡🇳🇱The Netherlands
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@178.209.50.206:989#👉🆔@v2ray_configs_pool📡🇨🇭Switzerland
