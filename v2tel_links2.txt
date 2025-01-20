@@ -2514,3 +2514,6 @@ vless://975d286f-c8b7-5d46-9f9d-8899a3c29a04@95.164.84.131:2052?path=%2Fvless%23
 vless://37b3a358-4648-4a16-97f8-d55c12aeae93@137.175.84.99:38448?security=reality&encryption=none&pbk=cY8GEjT96B3DoMSmcuTZbmIG3t94ra_5oUyOZaOTHn8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=01b8#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://4598c05a-9d23-47b1-a971-35fcc6af523b@pq.hkt1.yydjc.top:443?security=tls&encryption=none&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=download.globals-download.com#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdDMxS1lZQ0NBVUJ3dTA5UXdHOWZsUEJJdVA5akE2Vlhuak44U3RLVGtnYzQ1bnk%3D@203.23.128.79:51348#[🏁]t.me/ConfigsHub
+vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=hormozvpn.com&fp=chrome&type=ws&sni=10cricindia.com#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.24.200.164:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/#👉🆔 @v2ray_configs_pool📡🇫🇷France
