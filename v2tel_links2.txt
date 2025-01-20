@@ -2717,3 +2717,19 @@ trojan://telegram-id-directvpn@18.134.92.148:22222?security=tls&alpn=http/1.1&he
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.64.81.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://54029e43-0588-418d-b102-dbf30f091788@www.visa.com:2082/?type=ws&encryption=none&host=0120.enmvvniv.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://Channel-VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.13:8880/?type=grpc&encryption=none#[🇺🇸]t.me/ConfigsHub
+vless://ee8626d3-0295-4753-9c37-4cbe1c5eac0e@www.speedtest.net:443?path=%2F5W0YgMbMiBRQ4MAJ%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=venomservers.niakani-arman.workers.dev&fp=randomized&type=ws&sni=VENomsERvers.niakaNi-ArmAn.worKerS.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://54029e43-0588-418d-b102-dbf30f091788@www.visa.com:80/?type=ws&encryption=none&host=0120.enmvvniv.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://54029e43-0588-418d-b102-dbf30f091788@www.visa.com:8080/?type=ws&encryption=none&host=0120.enmvvniv.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://c2d0a8c0-20fb-44c6-8111-1c50019b5c6d@a11.kiodent.ir:2053?security=none&type=tcp&headerType=http&path=%2F&host=fast.com#[🇺🇸]t.me/ConfigsHub
+vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.C.117.speedtest2.livE.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://3c040157-b103-423e-89ac-23c768dea8a7@34.212.55.47:443?type=tcp&security=reality&pbk=HG9t2HhmBcU3u63xzmV227fg0O2ka5BLcKeYA74Lah4&fp=chrome&sni=www.openstreetmap.org&sid=a45eed54009e54de&spx=%2F#[🇺🇸]t.me/ConfigsHub
+vless://2bb5fcb6-b129-4931-99e7-34da57f11496@faculty.ucdavis.edu:443/?type=ws&encryption=none&host=Join-Bede---MOSiv2.IR&path=%2F%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2%3Fed%3D2560&security=tls&sni=faculty.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=randomized#[🇺🇸]t.me/ConfigsHub
+vless://3c040157-b103-423e-89ac-23c768dea8a7@54.69.72.7:443?type=tcp&security=reality&pbk=HG9t2HhmBcU3u63xzmV227fg0O2ka5BLcKeYA74Lah4&fp=chrome&sni=www.openstreetmap.org&sid=a45eed54009e54de&spx=%2F#[🇺🇸]t.me/ConfigsHub
+vless://54029e43-0588-418d-b102-dbf30f091788@www.visa.com:2052/?type=ws&encryption=none&host=0120.enmvvniv.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://6f279940-a81a-45f3-835f-04a265ae8c44@jermaine.ns.cloudflare.com:443?encryption=none&security=tls&sni=02bwgs.shieldify.site&type=ws&alpn=http/1.1&host=02bwgs.shieldify.site&path=/wss#[🇨🇦]t.me/ConfigsHub
+vless://8da3432a-d4da-4f43-801f-342cda5eae9f@95.164.8.185:8080/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg&sid=7554c6ea#[🏁]t.me/ConfigsHub
+vless://54029e43-0588-418d-b102-dbf30f091788@www.visa.com:2095/?type=ws&encryption=none&host=0120.enmvvniv.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://54029e43-0588-418d-b102-dbf30f091788@www.visa.com:8880/?type=ws&encryption=none&host=0120.enmvvniv.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
