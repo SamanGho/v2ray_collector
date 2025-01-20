@@ -1,21 +1,3 @@
-vless://1727bcd2-7d52-4cca-847e-53e8fe166511@64.176.167.35:8080?security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇱Israel
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.236.81:80?security=none&type=ws&host=us1.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.155.150:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vmess://eyJhZGQiOiAiMTk0LjkuMTcyLjY1IiwgImFpZCI6IDAsICJob3N0IjogImJleW9uZGRiYy5zYnMiLCAiaWQiOiAiOGQ5MGMxMjktNDE1Ni00ZDZjLTkxMTUtMjRkZjI1ZjI2YTAyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGViXHVkODNjXHVkZGY3RnJhbmNlIn0=
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@27.255.82.23:5412#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJhZGQiOiIyMC4yMTMuMjAuMTg1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMyMDZlMDIyLTM0YzYtNGZlMy1hMjMyLWI5YzA3YmEzMTY1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTc3MTgiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://dba910a2-845a-4e63-8a88-098d6fd79a30@v6.vixsm.ir:8822?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://1727bcd2-7d52-4cca-847e-53e8fe166511@64.176.167.35:8080?security=none&type=ws&path=%2F#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.38.103.150:28902#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@217.30.10.18:9038#[🏁]t.me/ConfigsHub
-vmess://eyJhZGQiOiAiMTgzLjE3OS4yMTAuODQiLCAiYWlkIjogIjEiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImM0ZDY1MzU0LTUzMjEtMzAzNi1hNjExLTZjNDJlODhiNzI1MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNjAyMzQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMEhvbmcgS29uZyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#👉🆔 @v2ray_configs_pool📡🇫🇷France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://SVNTEAM@151.101.194.133:80?path=%2FSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%2CSVNTEAM%3Fed%3D8880&security=none&encryption=none&host=SVNTEAM.IR&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vless://SAVTEAM1@www.speedtest.net:80?path=%2F%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam%3Fed%3D80&security=none&alpn=http%2F1.1&encryption=none&host=savteam.ariosav.ir&fp=chrome&type=httpupgrade&sni=live.989bull.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
-vless://34dac174-e3f4-5d6e-987f-0942559c3404@94.131.98.90:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://TELEGRAM--V2RAXX@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@15.204.87.217:8000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjU3LjEyOS4yNC4xMjQiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgInNuaSI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgImhvc3QiOiAiYXZlaXJvci5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYUdlcm1hbnkifQ==
@@ -148,3 +130,21 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80?type=tcp#[🇺🇸]t.
 vless://baadeea6-3395-40dd-96eb-0380bb333c9e@91.134.72.97:2053?security=none&type=tcp&host=fast.com&headerType=http#[🇫🇷]t.me/ConfigsHub
 vless://8e3cc3fc-7d9c-44d3-85fe-09bda9f02ac6@151.101.128.155:80?type=ws&host=jetservices55.ir&path=CANALTELEGRAM--%40jet\_config--CANALTELEGRAM--%40jet\_config#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://68bf637d-f323-4d9e-b8dc-80cd799a250d@5.180.30.31:8880?mode=gun&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://affc1eee-107f-4212-9d37-2d2632f80712@fsociety.seyhellofc.com:27241?type=grpc&serviceName=&authority=&security=reality&pbk=VCW4l_1fi6IdVkhycYzenSJ-YHLpjD0rnwUZvxiLYwE&fp=firefox&sni=refersion.com&sid=e6ed2dc0&spx=%2FTelgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telegram-Amiir_FBIger-twix%3Fed%3D2560Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telgram-Amiir_FBI-Telegram-Amiir_FBIger-twix%3Fed%3D2560#[🇩🇪]t.me/ConfigsHub
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.9.63:80?security=none&type=ws&host=us1.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.231.51:80?security=none&type=ws&host=us1.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvelJrSXlNMEV4T1MwNU5ESTBMVFF3UXpjdE9URXpPUzB6TlRRd01qSTRNamd6UmtF@sgp.fastsoonlink.com:40005#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE1Ni4yMjkuMTY0LjE4NSIsICJwb3J0IjogIjYwODQiLCAiaWQiOiAiODI2Njc2NjgtNGJmZC00OTA2LWFiMzEtYzI3NDVkMGRlNzhlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJwdWxsLmZyZWUudmlkZW8uMTAwMTAuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.224.80:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Pizza-nufilter.com&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443/?type=tcp&security=tls&sni=series-v1.samanehha.co&allowInsecure=1#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206MVhRREhHN01VNjFOS0RYMg@w72tapyb.slashdevslashnetslashtun.net:17008#[🏁]t.me/ConfigsHub
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.231.51:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.9.63:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTY0ODEyYS1jYWVhLTRjZDctYWNhZC05Y2YwNjI3YWFjMDg@gdgs.tarioblink.me:30001#👉🆔 @v2ray_configs_pool📡🇨🇳China
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvelJrSXlNMEV4T1MwNU5ESTBMVFF3UXpjdE9URXpPUzB6TlRRd01qSTRNamd6UmtF@sgp.fastsoonlink.com:40005#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206MVhRREhHN01VNjFOS0RYMg@w72tapyb.slashdevslashnetslashtun.net:17008#👉🆔 @v2ray_configs_pool📡🇨🇳China
+vless://TELEGRAM-NUFiLTER-ef1e1e2e4023@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss10x.ir&type=ws#%40NUFiLTER+%F0%9F%87%A8%F0%9F%87%AD+ws
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTY0ODEyYS1jYWVhLTRjZDctYWNhZC05Y2YwNjI3YWFjMDg@gdgs.tarioblink.me:30001#[🏁]t.me/ConfigsHub
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.224.80:80?security=none&type=ws&host=us1.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@34.241.33.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
