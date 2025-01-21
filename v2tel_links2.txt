@@ -3370,3 +3370,4 @@ trojan://telegram-id-privatevpns@13.50.93.138:22222?security=tls&alpn=http/1.1&h
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFTmVDNlBIRkZzRnR3SkcwZ0ZyeTFt@dyn.usa.outlinekeys.net:17889#[🇺🇸]t.me/ConfigsHub
 vless://51b83496-83a6-5ece-b66d-46aff4bf1d7e@94.131.14.177:2086?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🏁]t.me/ConfigsHub
 vless://7f8766f1-3ec3-44a0-aa0e-2508fb82a6fe@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.C.118.speedtest2.livE.&type=ws#WS2-Irancell+%7C+%40ArV2ray
