@@ -3793,3 +3793,13 @@ vless://4e80fbc4-88ee-4fe4-80e3-e27ba005a475@hajlab.ucdavis.edu:443?security=tls
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaREF4WkRFMg%3D%3D@95.164.44.221:8388#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y2MxNDEyNy1jZjRlLTRlNmItYTIyMi1iZWVkZGIwMmZmNjY%3D@68.183.225.139:30443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaREF4WkRFMg%3D%3D@95.164.44.221:8388#[🇮🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.111.114.114:8118#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.131.208:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://telegram-id-privatevpns@3.9.60.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
+vless://d02dace2-915e-48cc-d2d3-70af51e050ea@45.85.93.207:2052?type=xhttp&security=reality&path=%2F&host=&mode=auto&sni=sourceforge.net&pbk=XzaThALXQcR7GTw6ODP0zIk5zeBosJ6HbTExmrUSq24&sid=4ddd944e&fp=chrome#[🏁]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER-a8@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Pizza-nufilter.com&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws4
+vless://d02dace2-915e-48cc-d2d3-70af51e050ea@45.85.93.207:2052?type=xhttp&security=reality&path=%2F&host=&mode=auto&sni=sourceforge.net&pbk=XzaThALXQcR7GTw6ODP0zIk5zeBosJ6HbTExmrUSq24&sid=4ddd944e&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8882#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.92.72:6679#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@67.220.95.102:5499#[🇺🇸]t.me/ConfigsHub
