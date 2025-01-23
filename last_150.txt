@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.98:64759#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.170.237.188:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇬🇧]t.me/ConfigsHub
 trojan://Aimer@66.81.247.88:2083?sni=ameqo.esslh.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
@@ -148,3 +147,4 @@ vless://8757a6ab-1ada-5c14-be33-d7e9cfe5ea41@94.131.98.104:8880?mode=gun&securit
 trojan://Aimer@5.182.85.255:2096?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
 vless://a9684c2d-501b-4f23-8989-52b1e18ed269@amozesh25.mysaviour.site:38185?security=tls&encryption=none&alpn=h2,http/1.1,h3&headerType=none&fp=chrome&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://39b4cd88-9faf-45c4-880f-db8b923d270d@live.989bull.com:443?path=%2FCHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=Golestan_VPN.com&fp=firefox&type=ws&sni=live.989bull.com#[🇳🇱]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.16.202:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
