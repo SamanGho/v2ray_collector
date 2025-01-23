@@ -1,5 +1,3 @@
-trojan://telegram-id-privatevpns@51.21.87.21:22222?security=tls&sni=trojan.burgerip.co.ukhttp%2F1.1&type=tcp#[🇸🇪]t.me/ConfigsHub
-vless://b0294962-c140-4f06-8b5c-7aad24534f8a@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.16.202:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇸🇪]t.me/ConfigsHub
 trojan://0000000@18.238.109.41:443?security=tls&sni=www.lovelive-anime.jp&type=tcp&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://176fa86c-89e2-40c5-9a77-7d5087055c17@151.101.3.8:80?security=none&type=ws&serviceName=Telegram:@vpnwedbaz-Telegram:@vpnwedbaz&host=joinshhproxybedeeeee.ir&path=%2F%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
@@ -148,3 +146,5 @@ vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-A
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.37.12.70:8881#[🇫🇷]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.100:8090#[🇺🇸]t.me/ConfigsHub
 vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=cdiuw120.net&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://3302c92f-f1b6-41cf-a0d4-384867e5541f@77.90.11.193:443?security=reality&sni=refersion.com&type=tcp&fp=firefox&pbk=Gk6rNjpZlOLoi9t1dNroi_0ZW29odBJ21QhWQd0uqhE&sid=4d32acc962b47968#⚜️Telegram:@IP_CF
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=teleirani.ir&type=ws#[🇺🇸]t.me/ConfigsHub
