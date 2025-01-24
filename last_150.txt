@@ -1,12 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.22:8880/?type=tcp&encryption=none#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@18.134.148.254:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇬🇧]t.me/ConfigsHub
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443/?type=tcp&encryption=none#[🇺🇸]t.me/ConfigsHub
-vmess://eyJhZGQiOiIxMTIuMTMyLjIxMi4xOSIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDAwNCIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://2805e3e5-25bc-4fea-9a5c-51eb800fe379@172.64.35.157:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=y64n10.soroush-app.com&type=ws&sni=y64n10.soroush-app.com#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@16.16.35.246:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@99.81.215.35:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.217:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
-vmess://eyJhZGQiOiI1LjM5LjI1NC4xOTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzk4Y2U4NGUtNDg0OS00ZTVmLTliMWEtYTU2ZmJlMjMzYjgxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMzk4NSIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.211.86:443/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://84583e1e-a992-5344-a7f9-7645515c378b@185.250.150.220:8880/?type=tcp&encryption=none#[🏁]t.me/ConfigsHub
 trojan://bpb-trojan@104.18.182.198:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
@@ -148,3 +139,12 @@ vless://422dbda9-00dc-4f48-8764-48ccd79a021f@141.11.21.117:4003?security=none&en
 trojan://telegram-id-privatevpns@18.135.227.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@51.178.220.168:1616?mode=gun&security=reality&encryption=none&authority=&pbk=-q5HgIlOVwUckbwgRp0xOH4DleF5d3AcIudGK72CpC8&fp=chrome&type=grpc&serviceName=1616vless&sni=www.stackoverflow.com&sid=c167cb0b4aae5ae8#👉🆔 @v2ray_configs_pool📡🇫🇷France
 trojan://telegram-id-privatevpns@3.125.245.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
+vless://b0294962-c140-4f06-8b5c-7aad24534f8a@151.101.3.8:80?security=none&type=ws&serviceName=Telegram:@vpnwedbaz-Telegram:@vpnwedbaz&host=joinshhproxybedeeeee.ir&path=%2F%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@54.37.18.75:5500#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://22b4ddce-d793-4d11-bf21-c25f92af543f@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://Aimer@35.155.38.149:443?security=tls&sni=ngep.ambercc.filegear-sg.me&type=ws&host=ngep.ambercc.filegear-sg.mehttp%2F1.1&path=%2F%3Fed#[🇺🇸]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER-b603fb78a953@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss10x.ir&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws
+vless://e11cb7f1-f899-4ac0-bdce-51ec0ee9f31d@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.135.23.196:443#[🇬🇧]t.me/ConfigsHub
+vless://f7e9c8dc-16d6-4e38-8192-65bfbac79202@151.101.130.228:443?security=tls&sni=FISHLAB.UCDAVIS.EDU&type=ws&host=J.DEV&path=%2FTelegram-Channel%3A%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47%3Fed%3D8080&fp=firefox&alpn=h2%2Chttp%2F1.1#[🇺🇸]t.me/ConfigsHub
