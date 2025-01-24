@@ -5963,3 +5963,11 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDku
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.249.104:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#[🇸🇪]t.me/ConfigsHub
 vless://06aa1d12-d67d-4579-b623-ae6c671c7796@wedbaz-sweden.zpowerio.ir:443?security=reality&encryption=none&pbk=fYduc27KzmdrSI1S_LCBUxk3zDSe69dA5uKieS2oUEE&headerType=none&fp=chrome&type=tcp&sni=refersion.com#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.16.61.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#[🇦🇪]t.me/ConfigsHub
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.73:3237?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#[🇬🇧]t.me/ConfigsHub
+vless://028e3bfe-bec5-44aa-ad20-0c37e4935f02@89.47.197.231:2020?security=none&encryption=none&type=tcp&host=uptv.ir&path=/&headerType=http#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiYWlkIjowLCJob3N0IjoiaG1zMTkuYmVzdC10aXppLnRvcCIsImlkIjoiNjJhYTVmODAtMDMyOC00MDA0LWEzNzUtN2Y1YTU5ZGY0MDIyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0Ijo0NDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiaG1zMTkuYmVzdC10aXppLnRvcCJ9
+vless://b7fc8d58-ed4c-415b-be2b-c0ccd8373ee5@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none=Telegram#[🇩🇪]t.me/ConfigsHub
