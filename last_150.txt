@@ -1,9 +1,3 @@
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@zrh-1.fromblancwithlove.com:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@ua1.fromblancwithlove.com:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@ath-gr-01.fromblancwithlove.com:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇬🇷Greece
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@hkg1.fromblancwithlove.com:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.76.79.250:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
-trojan://sNBGK2ZtJr@18.134.212.141:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=x2uk-amazon.devefun.net#[🇬🇧]t.me/ConfigsHub
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@sin-sg-01.fromblancwithlove.com:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 trojan://telegram-id-privatevpns@18.192.140.54:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 trojan://telegram-id-privatevpns@63.177.187.33:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
@@ -148,3 +142,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.10:8880?mode=gun&securit
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.166.87:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#[🇸🇪]t.me/ConfigsHub
 vless://7dc61cd6-320e-5d71-8bd3-9720e0b03c4b@faculty.ucdavis.edu:443?allowInsecure=1&security=tls&host=PABLOO-MOSTAFA.COM&fp=qq&type=ws&sni=faculty.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
 vless://7dc61cd6-320e-5d71-8bd3-9720e0b03c4b@fastly.nEt:80?security=none&encryption=none&host=PABLOO-MOSTAFA.COM&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://51f8672f-1dbe-5007-b77f-c7b6734b3af4@5.181.23.38:2082?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless-grpc#[🏁]t.me/ConfigsHub
+vless://2d0f95cf-b45f-57c6-96cb-67e1740f8235@176.120.64.86:2082?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless-grpc#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.193.27:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://22dbf6b9-58e2-5f4c-9a3c-2c92d7b47126@95.164.46.39:2052?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless-grpc#[🏁]t.me/ConfigsHub
+vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@51.178.220.168:1616?mode=gun&security=reality&encryption=none&authority=&pbk=-q5HgIlOVwUckbwgRp0xOH4DleF5d3AcIudGK72CpC8&fp=chrome&type=grpc&serviceName=1616vless&sni=www.stackoverflow.com&sid=c167cb0b4aae5ae8#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@51.44.136.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
