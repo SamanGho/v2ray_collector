@@ -5886,3 +5886,11 @@ vmess://eyJhZGQiOiI1Ljc1LjIwMS4zOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0
 vless://c9021bde-097e-4893-a6ac-d8dd2ed0174c@213.176.66.175:443?type=xhttp&path=%2F&host=&mode=auto&security=reality&pbk=wu8MTIxwDXQ0FMIGgS6_hb1Bmwnc8Un-Bf5zAjF9ZV8&fp=firefox&sni=yahoo.com&sid=d9&spx=%2F#[🇫🇷]t.me/ConfigsHub
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.229.206.131:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.21:8880?mode=gun&security=none&encryption=none&type=grpc#[🇸🇪]t.me/ConfigsHub
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.131:8443?security=tls&sni=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&type=ws&host=HdWyNdJd78.kHoSgElBaLaToChIpAs-nAdIdAmEt.cOm&path=/#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.147.46:443#[🇧🇭]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.73.212.66:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#[🇳🇱]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.120:8119#[🇺🇸]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMzcuMjcuMjE0LjMiLCJwb3J0Ijo0NzcxOCwiaWQiOiI0YzZmZmM3NS05MWE0LTQ2MjgtYWEzNy01Y2FhMjg4NTg0NDMiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.120:4444#[🇺🇸]t.me/ConfigsHub
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmV3ZG93bmxvYWQuYmV0YS1uaW16cmF5ZW4uaXIiLCJpZCI6IjgzNjFlZDdhLWMwMTEtNDE4ZC1iMzBmLTUzNjBlNTMxYTg0ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uaW16LzMwNTQ0IiwicG9ydCI6Ijg0NDMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoibmV3ZG93bmxvYWQuYmV0YS1uaW16cmF5ZW4uaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
