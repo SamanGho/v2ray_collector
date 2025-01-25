@@ -1,6 +1,3 @@
-trojan://b342f420-da24-11ef-b80a-1239d0255272@uk1.test3.net:443/www.telewebion.com?sni=www.telewebion.com#[🇬🇧]t.me/ConfigsHub
-trojan://1ce17e90-da25-11ef-9fd0-1239d0255272@usa.test3.net:443/www.namava.ir?sni=www.namava.ir#[🇺🇸]t.me/ConfigsHub
-trojan://1052e8e0-da25-11ef-917f-1239d0255272@fr1.test3.net:443/www.speedtest.net?sni=www.speedtest.net#[🇫🇷]t.me/ConfigsHub
 vless://874f0d1e-02d4-40bc-950d-6623b78aca4a@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE%3Fed%3D2048&security=&encryption=none&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://d6143486-36c8-445b-b2b5-f3d389298f72@44.222.237.59:8080?mode=auto&path=%2F&security=reality&encryption=none&pbk=yXtksaZJPAeCdqGkd9OzsufzBj9uGEOTOP4Dm9003GU&host=api.openai.com&fp=chrome&spx=%2F&type=xhttp&sni=api.openai.com&sid=721e34c7#[🇺🇸]t.me/ConfigsHub
 vless://91989253-37d6-4d28-83fe-8ffd0c3de0f7@91.134.102.128:22671?security=none&type=tcp&host=telewebion.com&headerType=http#[🇫🇷]t.me/ConfigsHub
@@ -148,3 +145,6 @@ vless://d6933ab1-90e4-431d-8534-b486383e4efe@104.248.140.210:8080?path=%2F&secur
 vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipfiltero.com&fp=chrome&type=ws&sni=mio.splashthat.com#[🇺🇸]t.me/ConfigsHub
 vless://27f58a77-fdc3-4b9e-b123-cf7686033832@195.85.23.66:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev#[🏁]t.me/ConfigsHub
 vless://27f58a77-fdc3-4b9e-b123-cf7686033832@188.114.97.9:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.42.221.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.42.221.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.166.90:443#[🇧🇭]t.me/ConfigsHub
