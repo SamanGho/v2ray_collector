@@ -1,4 +1,3 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.0.15.98:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇺🇸]t.me/ConfigsHub
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@ath-gr-01.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#[🏁]t.me/ConfigsHub
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.165.134:8443/?type=tcp&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2#[🇬🇧]t.me/ConfigsHub
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@81.94.150.122:8443/?type=tcp&encryption=none&security=tls&sni=spb1.fromblancwithlove.com&alpn=h2#[🇷🇺]t.me/ConfigsHub
@@ -148,3 +147,4 @@ vless://ab9f58a9-b9e1-47b4-8423-fc842714b497@c1.vact.ir:2083?mode=gun&security=r
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@137.175.113.193:8388#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkkwTXpNMg==@95.164.68.37:8388#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.18.38:443#[🇦🇪]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMzcuMjcuMjE0LjMiLCJwb3J0Ijo1NjMxNCwiaWQiOiJlMjMyNzAzZi1lMjkxLTQ1ZDUtYTNmMC1jNzcxNzcxZDg5NDQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
