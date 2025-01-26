@@ -1,8 +1,3 @@
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.185.70:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-vless://27247e63-cb20-4447-b2eb-b8ac3fece98a@172.64.34.232:443?security=tls&sni=aegg0h.testsnew.com&type=ws&host=aegg0h.testsnew.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.227.49.220:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-vless://eaaf53cc-1401-4c90-95f8-508240908a25@a6.iranzaminmob.com:19535?type=tcp&headerType=http&security=reality&fp=chrome&sni=digikala.com&pbk=W_rHQYdUa-SGyhdDGQeZI1yOc_XmdPBmEdRCMxyg51E&spx=/#[🇧🇭]t.me/ConfigsHub
-vless://7846343e-c5de-4377-a63b-e8050477e595@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=&encryption=none&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#[🇩🇪]t.me/ConfigsHub
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@spb1.fromblancwithlove.com:8443?type=tcp&headerType=none&security=tls&alpn=h2#[🇷🇺]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080?type=tcp#[🇳🇱]t.me/ConfigsHub
@@ -148,3 +143,8 @@ ss://3f5a7d15-82ad-4bac-b63a-fcc4280e9a4f@python.org:80/?security=&type=ws&path=
 vless://8f29455c-8644-4d8d-9ae6-606b94b58ea7@151.101.194.133:443/?type=ws&encryption=none&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome#[🇺🇸]t.me/ConfigsHub
 vless://8f29455c-8644-4d8d-9ae6-606b94b58ea7@cloud2.xmsvx.com:80/?type=ws&encryption=none&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@16.170.83.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://fd54b753-87ce-4a6f-8d33-dde553816681@zmaoz.faculty.ucdavis.edu:443?type=ws&host=fonmelo.com&path=/olem/ws?ed%3D4096@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2,http/1.1#[🇳🇱]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.249.60.40:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.249.60.40:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+trojan://telegram-id-privatevpns@54.72.254.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.72.254.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
