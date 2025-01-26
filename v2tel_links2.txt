@@ -6600,3 +6600,10 @@ trojan://telegram-id-privatevpns@16.16.85.133:22222?security=tls&alpn=http/1.1&h
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.155.24.129:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://e4dfcb98-31ed-4e41-f8d2-2cca13617bfb@www.speedtest.net:2082?type=httpupgrade&path=yakuzaytarmin%3Fed%3D2082&host=yakuasubcha.poqpoq.shop.&security=none#[🇨🇦]t.me/ConfigsHub
 vless://1ef0ea65-e0f2-4a63-adbc-6ac45b31e2af@147.182.183.207:443?mode=auto&path=%2F%40Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4c#[🇺🇸]t.me/ConfigsHub
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#⚜️Telegram:@IP_CF
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.181:3237?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
+vless://75ecef77-2050-4250-99f7-936d0188edf2@151.101.130.133:80?path=%2Fws%2F%3Fed%3D2048&security=none&encryption=none&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws#[🇺🇸]t.me/ConfigsHub
+ss://68c60a7c-0c31-4b91-82f4-1e4f17198630@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&security=tls&encryption=none&host=joinbedemaznettel.ir&type=ws&sni=hajlab.ucdavis.edu#⚜️Telegram:@IP_CF
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.193:3237?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.82.131.20:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.103:3237?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
