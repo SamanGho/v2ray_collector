@@ -6598,3 +6598,5 @@ trojan://telegram-id-directvpn@52.60.77.139:22222?security=tls&alpn=http/1.1&hea
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=osl-no-01.fromblancwithlove.com#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@16.16.85.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.155.24.129:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://e4dfcb98-31ed-4e41-f8d2-2cca13617bfb@www.speedtest.net:2082?type=httpupgrade&path=yakuzaytarmin%3Fed%3D2082&host=yakuasubcha.poqpoq.shop.&security=none#[🇨🇦]t.me/ConfigsHub
+vless://1ef0ea65-e0f2-4a63-adbc-6ac45b31e2af@147.182.183.207:443?mode=auto&path=%2F%40Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4c#[🇺🇸]t.me/ConfigsHub
