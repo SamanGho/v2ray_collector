@@ -6622,3 +6622,9 @@ vless://TELEGRAM-NUFiLTER-cb482018cf09@NUFiLTER.fastly80-3.hosting-ip.com:80?pat
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.17.74:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
 vless://f6dd98b7-ee43-477a-ec11-f1d115bbd3ad@161.35.73.6:8080/?type=ws&encryption=none&path=%2F#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.76.26.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@3.138.75.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#⚜️Telegram:@IP_CF
+ss://54029e43-0588-418d-b102-dbf30f091788@www.visa.com:80/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=0120.enmvvniv.workers.dev&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=iefiltero.com&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS2-ALL|@ArV2ray
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.225.157:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+trojan://telegram-id-privatevpns@18.199.215.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
