@@ -1,7 +1,3 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.212.230:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.181.53:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#[🇫🇷]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.171.91:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.108.0:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.61.231.65:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.99.104.18:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇨🇦]t.me/ConfigsHub
 vless://c425f909-8e3e-470b-afb3-dda09ef4ae5d@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&security=tls&encryption=none&host=joinbedemaznettel.ir&type=ws&sni=hajlab.ucdavis.edu#[🇨🇦]t.me/ConfigsHub
@@ -148,3 +144,7 @@ vless://63a22b64-0671-41fe-bf28-7d3ca43dac9d@104.17.148.22:443?path=%2Ftelegram%
 vless://c8aa52f3-dea3-4a84-b8d8-87938c1dd177@91.107.176.100:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=ad4.transitkala.com&fp=chrome&type=ws&sni=ad4.transitkala.com#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBRFZ0U1M1NzJ6bjRRdmswQTRFSDBj@13.79.170.255:14851#[🇮🇪]t.me/ConfigsHub
 trojan://3763495894587285504@pet-bulldog.goat627.mom:443?security=tls&headerType=none&type=tcp&sni=pet-bulldog.goat627.mom#[🏁]t.me/ConfigsHub
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@143.244.58.107:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=cz1.fromblancwithlove.com#[🏁]t.me/ConfigsHub
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.165.134:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#[🇬🇧]t.me/ConfigsHub
+vless://7e6fd3d5-f977-4314-acf5-61594479f8cf@151.101.120.121:80?path=%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=none&encryption=none&host=Join.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&type=ws#[🇫🇷]t.me/ConfigsHub
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.108:3237?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
