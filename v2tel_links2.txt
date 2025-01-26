@@ -6440,3 +6440,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.171.91:22222?security=tls&sn
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.108.0:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.61.231.65:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.99.104.18:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇨🇦]t.me/ConfigsHub
+vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=mmd.ir&type=ws#⚜️Telegram:@IP_CF
+vless://8cd1ce5a-a8e4-5bb6-97e9-8d4e6223b619@5.252.23.133:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🏁]t.me/ConfigsHub
+vless://01709e7a-15a2-4f50-a89c-91fd6e7172ce@138.124.58.242:443?security=reality&encryption=none&pbk=SYfCswvoEHiO1dMZmmLwFTlkb1zdH1qIgXAPDjGQRDc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=e6e6a1d472be1a#[🇫🇷]t.me/ConfigsHub
+vless://819e9374-8e2e-5d5d-91bd-1afd4fe2c78c@91.207.183.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇷🇺]t.me/ConfigsHub
+vless://3f0fe596-2a98-4724-bee1-72ba87403cd0@2.56.126.163:8880?mode=gun&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc#[🇫🇷]t.me/ConfigsHub
