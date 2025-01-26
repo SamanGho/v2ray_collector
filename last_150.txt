@@ -1,6 +1,3 @@
-vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0LmJ1eWtpdC5pci4iLCJpZCI6Ijk0ZjMzMmIwLWM1ZDMtNDUzMS1hMWQ2LTZlNjM1OGNjNmM3MiIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6IlwvZDNkM0xtbHlZVzVvYjNOMExtTnZiUT09P2VkPTI1NjAiLCJwb3J0IjoiMjA5NSIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://d1115968-5ce8-4f18-f0ce-e2405f8fc19c@37.156.46.230:8880?path=%2F&security=none&encryption=none&type=ws#[🇺🇸]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MmM0QWdQM2pvNE9GUVRG@admin.c3.havij.co:443?outline=1&prefix=POST%20p2b56b5o#[🇧🇭]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQ0U4akhEWXdDMGx5WnU5@admin.c4.havij.co:443?outline=1&prefix=POST%20V2b56b3I#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTS3JLVmNVQ2JXbVNYWEV6@admin.c4.havij.co:443?outline=1&prefix=POST%20w2b56b0Z#[🇺🇸]t.me/ConfigsHub
 vless://f0cf401c-91d4-5097-a6dc-f52a3bd79d63@live.skornorth.com:443?allowInsecure=1&security=tls&host=MOSIV2.CC&fp=qq&type=ws&sni=live.skornorth.com#[🇬🇧]t.me/ConfigsHub
@@ -148,3 +145,6 @@ trojan://telegram-id-directvpn@16.171.213.119:22222?security=tls&alpn=http/1.1&h
 trojan://Aimer@108.165.152.55:2096?allowInsecure=1&sni=ngepx.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
 trojan://Aimer@damien.ns.cloudflare.com:443?allowInsecure=1&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@188.164.159.174:2053?allowInsecure=1&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+vless://ab3bee31-6d56-4a50-8a84-70e114352783@knowledgemap.ubntddns.com:443?path=%2Fgetupdates&security=tls&encryption=none&host=knowledgemap.ubntddns.com&type=ws&sni=knowledgemap.ubntddns.com#[🇷🇺]t.me/ConfigsHub
+vless://70baeba0-f40b-4cc2-8f18-d3aae916d83b@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://2f6a2a02-df12-47e3-8c69-15356f90d44e@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=90278dfc#[🇩🇪]t.me/ConfigsHub
