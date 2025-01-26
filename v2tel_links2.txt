@@ -6613,3 +6613,12 @@ vless://d7b2a378-ca77-4274-a313-62bb27d66494@jermaine.ns.cloudflare.com:443?encr
 trojan://telegram-id-directvpn@15.156.99.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.20.28.39:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 trojan://telegram-id-privatevpns@13.50.229.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#⚜️Telegram:@IP_CF
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@138.199.27.206:8443/?type=tcp&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2#[🇫🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.87:9101#[🇺🇸]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.223.108.164:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+vless://8a3a43b9-27d4-4711-9239-ef8b0ac4831a@safe.sanjesh.fun:7642?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER-cb482018cf09@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=kazemi11zerofun.com&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws3
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.17.74:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+vless://f6dd98b7-ee43-477a-ec11-f1d115bbd3ad@161.35.73.6:8080/?type=ws&encryption=none&path=%2F#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.76.26.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
