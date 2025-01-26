@@ -6757,3 +6757,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTY1
 vless://596870f7-1374-49d9-bac7-6ff1cd6d2b7b@bia-to2.unlimiteddev.site:8880?type=ws&security=none&host=UnlimitedDev.xn--oor01rm8hfr4c.site&path=/Telegram:@UnlimitedDev#[🇺🇸]t.me/ConfigsHub
 ss://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.33.212:443/?type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&security=tls&fp=firefox&sni=map.google.com&allowInsecure=true#⚜️Telegram:@IP_CF
 vless://596870f7-1374-49d9-bac7-6ff1cd6d2b7b@bia-to5.unlimiteddev.site:8880?type=ws&security=none&host=UnlimitedDev.xn--oor01rm8hfr4c.site&path=/Telegram:@UnlimitedDev#[🇺🇸]t.me/ConfigsHub
+vless://97364abe-a27e-4be3-b0d7-0c3c1d64bc07@89.163.221.198:8443?security=reality&flow=xtls-rprx-vision&sni=dropbox.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#[🇩🇪]t.me/ConfigsHub
+ss://59513a87-4c96-541b-ad87-b0786801592e@faculty.ucdavis.edu:443?path=%2Fvless-ws%2F%40MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&enc#⚜️Telegram:@IP_CF
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.88.40.64:443?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
+vless://bb04da46-54ef-401a-920f-6738f0b64a76@51.68.88.74:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#[🇫🇷]t.me/ConfigsHub
+vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.24.219.162:80?security=none&type=ws&host=jolly-fog-9e08-ppal03.revog68198.workers.dev#[🇨🇦]t.me/ConfigsHub
