@@ -1,6 +1,3 @@
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@spb1.fromblancwithlove.com:8443?type=tcp&headerType=none&security=tls&alpn=h2#[🇷🇺]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#[🇬🇧]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080?type=tcp#[🇳🇱]t.me/ConfigsHub
 trojan://Aimer@154.197.64.233:443?allowInsecure=1&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.171.24:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
 trojan://Aimer@43.134.34.18:443?allowInsecure=1&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
@@ -148,3 +145,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.249.60.40:22222?path=/telegram-c
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.249.60.40:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 trojan://telegram-id-privatevpns@54.72.254.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.72.254.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
+trojan://telegram-id-directvpn@63.177.164.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://100a18b8-bab3-4c42-96ec-6b96691d6a0f@98.81.31.133:443?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=CgiGam2CJMM33Tb7ZEBHt52pztMD7SQ9sqdfDZro-0Y#[🇺🇸]t.me/ConfigsHub
+vless://bfd118ee-ca17-4fb0-e640-b5be6ba5795a@speedtest.net:80?type=ws&host=foffmelo.com&path=/olem/ws?ed%3D1024@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#[🇨🇦]t.me/ConfigsHub
