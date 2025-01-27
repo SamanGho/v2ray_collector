@@ -6897,3 +6897,10 @@ vless://TELEGRAM-ServerNett@91.107.183.33:13776?security=none&encryption=none&he
 vless://27055935-7817-4a86-92c1-89cbca3e9986@zed.chatoochak.com:2096?security=&encryption=none&headerType=none&type=tcp#[🇬🇧]t.me/ConfigsHub
 vmess://eyJhZGQiOiJwcm9tLmxlYXJuLW5ldy5pciIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJhYmIwOGJiYy0yYmYxLTQ5NTQtODk5MC0yNWUxNTBiNmY1YTQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL1FVZU1FV3V0WlBZWVZubktqIiwicG9ydCI6IjgwIiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6InNwZWVkdGVzdC5uZXQiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://bfd118ee-ca17-4fb0-e640-b5be6ba5795a@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#[🇳🇱]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.135.113.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.86.87:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEuMTA3LjE0OS4xMjkiLCJwb3J0IjoyOTg4LCJpZCI6ImI1N2JjNGQwLWM2OTEtNDVlNy1lZGQyLWVkYzI3OGViODg2MCIsImFpZCI6MCwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiIiwicGF0aCI6IlwvIiwidGxzIjoibm9uZSJ9
+trojan://telegram-id-directvpn@52.31.23.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#[🇬🇧]t.me/ConfigsHub
