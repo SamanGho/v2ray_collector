@@ -6798,3 +6798,20 @@ trojan://3763495894587285504@18.199.17.210:443?security=tls&sni=in-bengal.treefr
 trojan://3763495894587285504@80.240.112.32:443?security=tls&sni=electric-sunbird.goat627.mom&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://dd1c717c-bea2-4a6b-ba06-750bf3ce29a4@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&security=tls&encryption=none&host=joinbedemaznettel.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMDguMTg2LjI2LjE3NCIsImFpZCI6NjQsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6IlwvcGF0aFwvMTczNzYyNjE4OTUxMCIsInBvcnQiOjM3MDA0LCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig90.usecharge.ir:443#[🇬🇧]t.me/ConfigsHub
+vless://c5d5c7ae-a8b4-4ebe-855a-f6dd06f5d0f2@151.101.0.155:80?path=%2FTelegram-Channel%3A%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG-----%40Hqv2RayNG%3Fed%3D8080&security=none&encryption=none&host=MADGALFERESHTAST.COM.&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://d5012012-a850-49fc-bb81-17a4bf6876b5@www.speedtest.net:443?security=tls&encryption=none&alpn=h3&headerType=none&fp=chrome&type=tcp&sni=Kasler.lol#[🇨🇦]t.me/ConfigsHub
+trojan://Aimer@45.67.215.250:2096?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@51.20.21.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig91.usecharge.ir:443#[🇦🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.43.251:443#[🇦🇪]t.me/ConfigsHub
+trojan://Aimer@206.238.236.221:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+trojan://Aimer@44.224.24.91:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+trojan://Aimer@154.219.5.249:8443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+trojan://Aimer@103.116.7.100:2087?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.60.113.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.221.137:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+trojan://Aimer@63.141.128.66:2087?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER-aafd3ff5f553@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Dorzadim.filtero.net&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws
+trojan://Aimer@5.182.84.22:2096?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
+trojan://Aimer@27.50.48.186:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
