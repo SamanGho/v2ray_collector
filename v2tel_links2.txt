@@ -6855,3 +6855,4 @@ vless://2c5653ff-725b-484e-b9c8-1c60d095be4c@hajlab.ucdavis.edu:443?security=tls
 trojan://Aimer@63.141.128.66:2087?sni=ngepx.ambercc.filegear-sg.me&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.214.224.131:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiI1MS4xOTUuMTUyLjIxMCIsImFpZCI6IjAiLCJob3N0Ijoic25hcHAuaXIiLCJpZCI6ImQ3MzNmMDJhLWMxMzEtNDE3Zi1jODE1LTExM2NkNjRiODUyMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjI4NTc4IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTM1LjE4MS4xNzQuNSIsInBvcnQiOjE4MTE1LCJpZCI6IjNkZGQzMjlmLTEyYmMtNGFhMS1lMTA5LTZjYTZhNTk4ZTdlZCIsImFpZCI6MCwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoic29mdDk4LmlyIiwicGF0aCI6IlwvIiwidGxzIjoibm9uZSJ9
