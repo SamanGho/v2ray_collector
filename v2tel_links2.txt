@@ -6783,3 +6783,10 @@ trojan://3763495894587285504@185.67.125.147:443?security=tls&headerType=&type=tc
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.210.160.163:1001?security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#[🇳🇱]t.me/ConfigsHub
 vless://7dc61cd6-320e-5d71-8bd3-9720e0b03c4b@faculty.ucdavis.edu:443?security=tls&encryption=none&host=PABLOO-MOSTAFA.COM&fp=qq&type=ws&sni=faculty.ucdavis.edu#[🇨🇦]t.me/ConfigsHub
 vless://Parsashonam-155@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.217.12.142:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.236.134.16:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.184.127.163:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@80.92.204.106:9005#[🇩🇪]t.me/ConfigsHub
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@shadowsocks.ctsubvpn.ggff.net:2927#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@108.129.20.225:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#⚜️Telegram:@IP_CF
