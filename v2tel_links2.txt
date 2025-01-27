@@ -6990,3 +6990,8 @@ vless://abe50f90-3647-4c0d-d5f6-f563b892fdf4@tify-binex-join.espikernajafi.ir:66
 trojan://telegram-id-directvpn@13.53.104.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.183.251:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.72.150:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@13.61.219.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://TELEGRAM-NUFiLTER-bffb620a7101@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss6x.ir&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmUjA5dUkzWUZPbXRxSnp3dTJFb3Fn@2828.need9ping.ir:4018#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmUjA5dUkzWUZPbXRxSnp3dTJFb3Fn@2323.need9ping.ir:4018#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmUjA5dUkzWUZPbXRxSnp3dTJFb3Fn@9595.need9ping.ir:4018#[🇹🇷]t.me/ConfigsHub
