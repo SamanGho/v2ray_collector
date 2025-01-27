@@ -6892,3 +6892,8 @@ vless://6debeb43-4d4b-4b87-86ee-736853e90bda@151.101.2.133:443?path=%2FFreedom-A
 trojan://telegram-id-directvpn@52.16.25.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.9.225.132:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://cc6b985d-0362-4129-8763-38564174fb3e@92.60.74.174:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#[🏁]t.me/ConfigsHub
+vless://cc6b985d-0362-4129-8763-38564174fb3e@92.60.74.174:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&alpn=http/1.1,h2#[🏁]t.me/ConfigsHub
+vless://TELEGRAM-ServerNett@91.107.183.33:13776?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://27055935-7817-4a86-92c1-89cbca3e9986@zed.chatoochak.com:2096?security=&encryption=none&headerType=none&type=tcp#[🇬🇧]t.me/ConfigsHub
+vmess://eyJhZGQiOiJwcm9tLmxlYXJuLW5ldy5pciIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJzcGVlZHRlc3QubmV0IiwiaWQiOiJhYmIwOGJiYy0yYmYxLTQ5NTQtODk5MC0yNWUxNTBiNmY1YTQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL1FVZU1FV3V0WlBZWVZubktqIiwicG9ydCI6IjgwIiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6InNwZWVkdGVzdC5uZXQiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://bfd118ee-ca17-4fb0-e640-b5be6ba5795a@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#[🇨🇦]t.me/ConfigsHub
