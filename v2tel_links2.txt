@@ -6995,3 +6995,6 @@ vless://TELEGRAM-NUFiLTER-bffb620a7101@NUFiLTER.fastly80-3.hosting-ip.com:80?pat
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmUjA5dUkzWUZPbXRxSnp3dTJFb3Fn@2828.need9ping.ir:4018#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmUjA5dUkzWUZPbXRxSnp3dTJFb3Fn@2323.need9ping.ir:4018#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmUjA5dUkzWUZPbXRxSnp3dTJFb3Fn@9595.need9ping.ir:4018#[🇹🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@63.32.164.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.255.35.109:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?security=tls&type=tcp#⚜️Telegram:@IP_CF
