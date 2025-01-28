@@ -7163,3 +7163,8 @@ vless://635a888c-e47b-4514-ac6f-397e5c153a8e@hajlab.ucdavis.edu:443?security=tls
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@www.zula.ir:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Tp771RuMn5.AlTaBaNiC.iR&fp=chrome&type=ws&sni=Tp771RuMn5.AlTaBaNiC.iR#[🇨🇦]t.me/ConfigsHub
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.zula.ir:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=Tp773WeWsV.aLtAbAnIc.Ir#[🇨🇦]t.me/ConfigsHub
 vless://c5ef1e11-689c-406f-abe7-47e315ea2c70@d7.vixsm.ir:4811?security=none&encryption=none&headerType=none&type=tcp#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.61.76.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.67.204.84:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=Tp768KbOzD.aLtAbAnIc.Ir#[🇨🇦]t.me/ConfigsHub
+vless://9f5e0d67-41f6-4f28-8a2a-1de9bc604975@ww.speedmeter.life:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.97.239.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.237.135.31:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
