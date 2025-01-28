@@ -7064,3 +7064,12 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.99.200:22222?path=/telegram-c
 trojan://telegram-id-directvpn@13.50.123.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@13.50.47.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=coiupu.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=google.com&type=ws#[🇩🇪]t.me/ConfigsHub
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.zula.ir:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=Tp770FvUlD.aLtAbAnIc.Ir#[🇨🇦]t.me/ConfigsHub
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.zula.ir:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=Tp773Os476.AlTaBaNiC.iR#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.188.249.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.zula.ir:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=Tp768KbOzD.aLtAbAnIc.Ir#[🇨🇦]t.me/ConfigsHub
+vless://8da3432a-d4da-4f43-801f-342cda5eae9f@95.164.8.185:8080?security=reality&encryption=none&pbk=MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=7554c6ea#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.253.237:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://70baeba0-f40b-4cc2-8f18-d3aae916d83b@ZuLa.ir:8080?path=%2Ftelegram-%40v2ray_alpha%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://7dc61cd6-320e-5d71-8bd3-9720e0b03c4b@faculty.ucdavis.edu:443?security=tls&encryption=none&host=PABLOO-MOSTAFA.COM&fp=qq&type=ws&sni=faculty.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
