@@ -1,6 +1,3 @@
-trojan://Aimer@44.224.24.91:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
-trojan://Aimer@154.219.5.249:8443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
-trojan://Aimer@103.116.7.100:2087?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@63.141.128.66:2087?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@5.182.84.22:2096?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
 trojan://Aimer@27.50.48.186:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
@@ -148,3 +145,6 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.252.231:22222?security=tls&sni=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.219.21:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#⚜️Telegram:@IP_CF
 ss://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?path=%2Fvless-ws%2F%40proxy_mtm%2F%3Fed%3D2560&security=none&encryption=none&host=teleirani.ir&type=ws#⚜️Telegram:@IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.198.99:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+vless://25111ad4-bf2f-4749-a580-a98b717cf0c1@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.175.98.30:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
+vless://76adfe39-c566-4083-99f3-916a4ae58b52@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
