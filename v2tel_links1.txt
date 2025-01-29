@@ -4457,3 +4457,19 @@ vless://bde0cf51-5bce-473a-8c7d-68949e7e5cfd@tw3.youxuan.wiki:49868/?type=tcp&en
 vless://a8894cc8-e65d-5f06-95f1-5bf031e2236d@95.164.1.13:2052?path=%2Fvless%23%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG&security=none&encryption=none&type=ws#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiJwb3J0bGFuZC44OTk5OTQueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImEwNjA1NTI3LTI4ZTQtNDQ5Yy04MGVlLTU2NDJjYzE2YThhZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbmRleCIsInBvcnQiOiI4NDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6InBvcnRsYW5kLjg5OTk5NC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 trojan://telegram-id-directvpn@51.21.20.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ogfiltero.com&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS2-ALL|@ArV2ray
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.37.18.75:6697#[🇬🇧]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.250.51.74:443#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#[🇦🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.37.18.75:5004#[🇬🇧]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.169.74.60:443#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.229.117.61:443#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@54.37.18.75:8888#[🇬🇧]t.me/ConfigsHub
+vless://0060fb3a-06d1-5962-85cb-5f22ac528d68@faculty.ucdavis.edu:443?allowInsecure=1&security=tls&host=0-MOSIV2-0.COM&fp=qq&type=ws&sni=faculty.ucdavis.edu#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZHFKeDJSUWZ5VHJ2czRQVnJHUjdo@68.183.190.16:26925#[🏁]t.me/ConfigsHub
+vless://01569302-ddab-4d89-8804-a16c3a9001b0@de-re.afteam.ir:11163?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=f830f6#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaV1JpTTJJeA%3D%3D@185.234.64.35:8388#[🇫🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.37.18.75:5003#[🇬🇧]t.me/ConfigsHub
