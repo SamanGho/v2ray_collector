@@ -1,8 +1,3 @@
-trojan://Aimer@45.67.215.250:2096?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig91.usecharge.ir:443#[🇦🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.43.251:443#[🇦🇪]t.me/ConfigsHub
-trojan://Aimer@206.238.236.221:2083?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-trojan://Aimer@44.224.24.91:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@154.219.5.249:8443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@103.116.7.100:2087?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@63.141.128.66:2087?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
@@ -148,3 +143,8 @@ ss://41abecd9-8096-4142-a75c-4e1d36d990bd@8.222.77.212:443?encryption=none&secur
 vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.A.126.speedtest2.livE.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.126.176.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.237.50:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+ss://%40v2boxvpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNzkuMTI3LjIyOS41NCIsInBvcnQiOjE4MDAwLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIn0=
+vless://03c9f240-0bad-4f71-93f2-f5d272dada97@104.24.184.113:80?encryption=none&security=none&type=ws&host=sparkling-limit-ppal03.yibijow194.workers.dev&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
+vless://aa4f4956-5111-48be-9040-96fdbf2ec7d5@WwW.SpEeDTeSt.NeT:2096?type=httpupgrade&path=%2F%40godserver%3Fed%3D2048&host=primeiosweb.purevps.ir&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=primeiosweb.purevps.ir#[🇨🇦]t.me/ConfigsHub
+ss://22c7cdd0-5205-4f91-a98e-5fcf6cb0e9ed@108.162.195.157:443?path=%2Fwss&security=tls&encryption=none&alpn=http/1.1&host=kjq0yl.p1vpn.com&type=ws&sni=kjq0yl.p1vpn.com#⚜️Telegram:@IP_CF
