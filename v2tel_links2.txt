@@ -7417,3 +7417,21 @@ vless://547b7af6-3624-438d-af6d-a29036e8e2de@hajlab.ucdavis.edu:443?security=tls
 vless://15716328-f639-426d-b392-7f16622689a1@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.39.131.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-directvpn@3.232.248.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.171.99:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.33.45:443/?type=ws&encryption=none&host=fatwith.us.kg&path=%3Fed%3D2560&security=tls&sni=fatwith.us.kg#[🇨🇦]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@kinsta.com:443/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=a.xn--i-sx6a60i.us.kg#[🇨🇦]t.me/ConfigsHub
+vless://49f8c515-b5c5-4501-98c3-ca310e159ebf@213.176.66.228:37021/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=Gk3eR3mV55k5P3tg-MzqMpNolmML8q9zBOf6A102e1Y&sid=bc721eb6#[🇫🇷]t.me/ConfigsHub
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.131:2087/?type=grpc&encryption=none&security=tls&sni=CdCyRiRd72.gOzAlBaLaBiYa-bEbInAm.cOm&alpn=h2&fp=chrome#[🇺🇸]t.me/ConfigsHub
+vless://9add2632-d2fb-4c43-888f-1bbefc402d3d@150.241.102.95:10799/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=yw374OPQfpF0KpnFYX2zYnO8-NC7RkgGbbiMzmZYvDU&sid=330602658f0ade#[🇳🇱]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638732516883233130.rome-mpl-dr.info:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHub
+vless://4c9617f4-6137-4255-9d25-0eeb0fa819e6@cloud2.xmsvx.com:80/?type=ws&encryption=none&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#[🇺🇸]t.me/ConfigsHub
+vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@www.speedtest.net:2052/?type=httpupgrade&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&path=%2F#[🇨🇦]t.me/ConfigsHub
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.181:3237/?type=tcp&encryption=none#[🇫🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaV1JpTTJJeA@185.234.64.35:8388#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.43.79.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZVpGNjFSd2VxVDFpM0ljUjV0R1Jo@213.176.66.228:24495#[🇫🇷]t.me/ConfigsHub
+ss://354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@fieldersdominator.com.au:80/?path=%2F%3Fed%3D1024&security=none&encryption=none&host=marzneshinestonia.car&type=ws#⚜️Telegram:@IP_CF
+vless://0060fb3a-06d1-5962-85cb-5f22ac528d68@fastly.net:80/?type=ws&encryption=none&host=0-MOSIV2-0.COM#[🇺🇸]t.me/ConfigsHub
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.74:3237/?type=tcp&encryption=none#[🇫🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppTmZtNmkzQ0xTOEpyOGVKaWlSMm1h@150.241.102.95:21771#[🇳🇱]t.me/ConfigsHub
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ip.payexaye.my:2053/?type=grpc&encryption=none&security=tls&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm&alpn=h2&fp=chrome#[🇺🇸]t.me/ConfigsHub
