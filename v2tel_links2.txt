@@ -7705,3 +7705,10 @@ trojan://telegram-id-privatevpns@3.73.239.49:22222?security=tls&alpn=http/1.1&he
 vless://5150600b-d270-4be8-8d78-c5784d3c093b@199.232.57.124:443/?type=ws&encryption=none&host=sv35traiermibdvne.com&security=tls&sni=dialacoke.com#[🇬🇧]t.me/ConfigsHub
 vless://6f3c4abf-4a22-4711-b5d1-103bf1995f9b@ZuLa.ir:8080?path=%2F&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://1f3747e8-8beb-4a30-a52c-97efd9829b08@194.5.157.239:16977?type=xhttp&path=%2Fcva&host=&mode=auto&security=reality&pbk=W58j2vDj3iiLCVhsPNKVaguS0xQBoAoYr2nChwDRWk4&fp=chrome&sni=yahoo.com&sid=72cfda14fc&spx=%2F#[🏁]t.me/ConfigsHub
+vless://c834946b-c876-50a8-84ce-cad3cba8bd86@fastly.nEt:80?security=none&encryption=none&host=PABLOO-MOSTAFA.COM&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://c834946b-c876-50a8-84ce-cad3cba8bd86@faculty.ucdavis.edu:443?allowInsecure=1&security=tls&host=PABLOO-MOSTAFA.COM&fp=qq&type=ws&sni=faculty.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
+ss://28473f96-1907-43cd-b5fc-4163e6d5376f@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=90278dfc#⚜️Telegram:@IP_CF
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.219.236.123:2222?security=none&encryption=none&headerType=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@15.236.21.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.175.65:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+trojan://telegram-id-directvpn@3.23.229.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
