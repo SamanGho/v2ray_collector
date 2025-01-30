@@ -7713,3 +7713,4 @@ trojan://telegram-id-privatevpns@15.236.21.166:22222?security=tls&alpn=http/1.1&
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.175.65:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 trojan://telegram-id-directvpn@3.23.229.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.101.43:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.tomu0749.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://4d0466d9-90b0-4f95-aef9-ca1c35b31c43@ul-uae2.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#⚜️Telegram:@IP_CF
