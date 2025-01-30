@@ -7541,3 +7541,12 @@ trojan://telegram-id-directvpn@51.21.20.226:22222?security=tls&sni=trojan.burger
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.128.214.97:443#[🏁]t.me/ConfigsHub
 trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com&allowInsecure=1&type=tcp#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@18.135.192.156:443#[🇬🇧]t.me/ConfigsHub
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.131:2087?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=CdCyRiRd72.gOzAlBaLaBiYa-bEbInAm.cOm#[🇺🇸]t.me/ConfigsHub
+ss://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.184.92:443?encryption=none&security=tls&sni=147135010103.sec19org.com&allowInsecure=1&type=tcp&headerType=none#⚜️Telegram:@IP_CF
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.186.120:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇫🇮]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.33.45:443?path=%3Fed%3D2560&security=tls&encryption=none&host=fatwith.us.kg&type=ws&sni=fatwith.us.kg#[🇨🇦]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638732516883233130.rome-mpl-dr.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇫🇮]t.me/ConfigsHub
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ip.payexaye.my:2053?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm#[🇺🇸]t.me/ConfigsHub
+vmess://eyJhZGQiOiI0NS42MS4xODYuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDFiZjI2ZDctODczNC01YWMyLThiYmEtNzZhNzI0YWFhY2JkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MDgwIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJzaHN1cy4yNTY3MDkzOTQueHl6IiwiYWlkIjowLCJob3N0Ijoic2hzdXMuMjU2NzA5Mzk0Lnh5eiIsImlkIjoiN2E4ZWMwNDctNjYyYi00YTlmLWI4OWYtZmQ3ZDk3ZWNhOTBmIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9SVnI4QUxGQnNnVGZCQyIsInBvcnQiOjQ0MywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.12:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇸🇪]t.me/ConfigsHub
