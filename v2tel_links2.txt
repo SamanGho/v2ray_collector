@@ -7769,3 +7769,4 @@ vless://fbfa55e4-a92d-4c33-8504-a549cdf941a2@www.speedmeter.life:80?path=%2F-LiV
 ss://253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?path=%2Fvless-ws%2F%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=teleirani.ir&type=ws#⚜️Telegram:@IP_CF
 ss://5badf258-0313-418d-b9e6-95a52eefcf00@45.196.233.58:443/?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5badf258.com#⚜️Telegram:@IP_CF
 trojan://3763495894587285504@13.43.156.128:443/?type=tcp&security=tls&sni=useful-honeybee.treefrog761.one&allowInsecure=1#⚜️Telegram:@IP_CF
+vless://75a004d6-1d0c-e676-0cf9-1c63c96c6ac4@ie.brobaba.lat:443?security=reality&encryption=none&pbk=xg2c4Bl3toYWpPlnC4gx5NB8SopuoTCCCiIzT0aHE00&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=1ed07e07687e8a02#[🇩🇪]t.me/ConfigsHub
