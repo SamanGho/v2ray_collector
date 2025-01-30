@@ -7791,3 +7791,4 @@ ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn09.closeai.one:8216?plugin=obfs-local%3Bobfs%
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.124.98.5:443#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.94.57.47:443#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.79.48.193:443#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.39.57.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
