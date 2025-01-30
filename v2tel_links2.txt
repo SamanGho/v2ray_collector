@@ -7740,3 +7740,11 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.74.148:22222?path=/telegram-
 trojan://3767107462583558144@185.67.127.66:443/?type=tcp&security=tls&sni=cheerful-asp.goat627.mom#⚜️Telegram:@IP_CF
 vless://054d503d-4748-47a6-8118-71a96c51f2d9@172.66.168.197:443/?type=ws&encryption=none&host=Nl2-FulL.PrIvAteiP.NeT&path=%2FVLESS&security=tls&sni=Nl2-FulL.PrIvAteiP.NeT#⚜️Telegram:@IP_CF
 trojan://telegram-id-privatevpns@13.42.203.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
+trojan://telegram-id-directvpn@51.20.33.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=clitwu.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS-All|@ArV2ray
+ss://31a169ff-f987-4a80-bfdb-d96345aad9ff@chloe.ns.cloudflare.com:443?encryption=none&security=tls&sni=aa7p68.gamvpn.com&type=ws&alpn=http/1.1&host=aa7p68.gamvpn.com&path=/wss#⚜️Telegram:@IP_CF
+vless://7e3c63f6-3e12-4d19-a9c9-ceb98dfc07c0@www.parsvds.com:2096?path=%2F2096%2F%40VRayyNGvpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bEAt.MIRaclETaxbiTS.Top.&fp=random&type=ws&sni=bEAt.MIRaclETaxbiTS.Top.#[🇨🇦]t.me/ConfigsHub
+ss://27055935-7817-4a86-92c1-89cbca3e9986@zed.chatoochak.com:2096?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+trojan://telegram-id-privatevpns@18.134.92.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.113.112:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://3763495894587285504@13.41.168.115:443/?type=tcp&security=tls&sni=clever-chimp.goat627.mom&allowInsecure=1#⚜️Telegram:@IP_CF
