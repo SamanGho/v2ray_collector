@@ -7642,3 +7642,4 @@ vmess://eyJhZGQiOiIxMTguMTkzLjM0LjE1OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 trojan://telegram-id-privatevpns@18.132.7.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.37.12.70:8000#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.73.63.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
