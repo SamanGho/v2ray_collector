@@ -1,4 +1,3 @@
-vless://9b53688e-d36b-44cd-cde9-e7f6d920210f@x.Snappfood.lol:443?security=reality&encryption=none&pbk=ysc-smz8s0W4-LskjjcyxNQ-sryPT3bVumwfUKBgOWM&headerType=none&fp=randomized&spx=%2F&type=tcp&sni=www.latimes.com#[🇩🇪]t.me/ConfigsHub
 vless://0060fb3a-06d1-5962-85cb-5f22ac528d68@fastly.net:80?security=none&encryption=none&host=0-MOSIV2-0.COM&type=ws#⚜️Telegram:@IP_CF
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.142.40.178:2222?security=none&encryption=none&headerType=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://ff0f6189-c705-4c40-ae71-a3ea31e7114d@151.101.2.165:80?path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam&security=none&encryption=none&host=IPSERVIS2.ORG&type=ws#[🇺🇸]t.me/ConfigsHub
@@ -148,3 +147,4 @@ vmess://eyJhZGQiOiIxMDcuMTQ4LjIwNy4yNDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.179.240:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@13.49.213.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.131.208:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.179.240:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
