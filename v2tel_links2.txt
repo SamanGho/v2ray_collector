@@ -7953,3 +7953,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.183.157.66:22222?path=/telegram-
 trojan://telegram-id-directvpn@3.140.112.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638734201752853393.london-mpl-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.37.76.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiJiaWlpYS12cG4td2hhbC5mYXN0Lmhvc3RpbmctaXAuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYXQuSVIuIiwiaWQiOiJpZDYtLS12cG4td2hhbCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDU2LyNpZC10ZWxlZ3JhbTotLS1cdTAwM2VAdnBuX3doYWxcdTAwM2MtLS0iLCJwb3J0IjoiODAiLCJwcyI6Ilvwn4e68J+HuF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
