@@ -7883,3 +7883,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiS2IzMjVRSjRmWDNkM085V2s5ZDdC@77.239.100.183
 vless://01569302-ddab-4d89-8804-a16c3a9001b0@188.245.227.239:11163/?type=tcp&encryption=none&sni=zula.ir&fp=chrome&security=reality&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&sid=f830f6#[🇩🇪]t.me/ConfigsHub
 vless://SVNTEAM3@svnteam.misvn.ir:443/?type=tcp&encryption=none&sni=www.refersion.com&fp=chrome&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&sid=#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.180:443#[🇬🇧]t.me/ConfigsHub
+vless://dcf74299-42c2-4a5c-900e-2c92b16e0f8e@104.20.212.228:443?path=%2FpfhFpgoct4UM9oLq%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=nofilepanel.pages.dev&fp=randomized&type=ws&sni=noFiLepanEL.PaGEs.DeV#[🇨🇦]t.me/ConfigsHub
