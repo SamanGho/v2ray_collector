@@ -8009,3 +8009,6 @@ trojan://telegram-id-directvpn@13.49.213.155:22222?security=tls&alpn=http/1.1&he
 vless://e8c30ec3-ef19-4294-91e1-1f896fe6c169@live.989bull.com:443?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vistapcit.com&fp=chrome&type=ws&sni=live.989bull.com#[🇳🇱]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.33.21.190:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 trojan://telegram-id-privatevpns@52.214.246.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
+vless://0117a6a8-046f-4a70-bf7a-f3e17b28933b@103.168.19.163:20829?security=&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+ss://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393/?type=tcp&encryption=none#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@63.176.116.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
