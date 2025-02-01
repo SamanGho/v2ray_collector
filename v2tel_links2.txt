@@ -8232,3 +8232,4 @@ vless://tel%3Av2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryp
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?path=%2FG9WiaAeAdacfio6X%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HaSTI.fReeAIrLAINes.COm&fp=randomized&type=ws&sni=hAsTi.frEEairLainEs.Com#[🇨🇦]t.me/ConfigsHub
 vless://5ac03af2-3a0e-45d1-ac30-8583e1ca07ca@193.39.9.235:8081?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://4db82bff-0889-4320-8944-7b8d8ee66ff5@89.213.40.225:2333/?type=tcp&security=tls&sni=www&allowInsecure=1#⚜️Telegram:@IP_CF
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.36.222:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#⚜️Telegram:@IP_CF
