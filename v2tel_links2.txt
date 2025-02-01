@@ -8189,3 +8189,6 @@ vless://6644ca53-043a-4e8c-bcaa-4c48f3748a39@152.42.187.173:80?path=%2FFree%20By
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.144.139:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
 trojan://C9zSyneYN7Rl3K38qxu5y3axI82CaEXZ0SwjZFplDpYaTcOABDDOC6SeF4R3Ag@154.17.26.150:28331?security=tls&headerType=none&type=tcp&sni=deliver.missionsec.io#⚜️Telegram:@IP_CF
 vless://abb0b05d-4683-42f1-981f-f3537026ac2d@s-9.lp-s.top:1410?path=%2F&security=&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://tel:v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#[🇫🇮]t.me/ConfigsHub
+vless://tel:v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#[🇫🇮]t.me/ConfigsHub
+vless://tel:v2rayng_76@baby.bia2bax.shop:26909?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
