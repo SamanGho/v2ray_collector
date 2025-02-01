@@ -8113,3 +8113,6 @@ vmess://eyJhZGQiOiIxOTguMi4yMTguMTAwIiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiIxMDcuMTQ4LjIwNy4yNDkiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDg3MTIiLCJwcyI6Ilvwn4e68J+HuF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNDIuNC4xMDQuMzMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjE0MyIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 trojan://Aimer@108.165.152.241:2053?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
+vless://6841438d-0b0d-4277-9b1a-227f6bc868a0@s26.radnikmax.ir:8452?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://e5559048-b2c0-4668-8f55-581835d1c882@tnl39.vipradvin.ir:8220?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+ss://4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=facobook.com#⚜️Telegram:@IP_CF
