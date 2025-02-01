@@ -1,5 +1,3 @@
-ss://77-977-9Ou-_ve-_ve-_ve-_ve-_ve-_ve-_ve-_vTdzz7zvv73vv71-77-977-977-977-977-9PO-_vV95@185.153.183.119:3237#[🇫🇷]t.me/ConfigsHub
-trojan://telegram-id-directvpn@18.133.12.254:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaREF4WkRFMg==@95.164.44.221:8388#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.132.150.166:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇬🇧]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.176.60.193:443#[🏁]t.me/ConfigsHub
@@ -148,3 +146,5 @@ vless://ca3ac72a-687e-44ad-9166-f741d8b03f27@31.44.3.107:8443?mode=gun&security=
 trojan://telegram-id-privatevpns@13.41.15.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 vless://ee5eaa40-6fb0-4e1d-85cc-43ca2d1442a6@tn14.radmehrmax.ir:8088?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://%37%31%35%35%39%64%38%33%2d%64%65%35%63%2d%34%33%35%31%2d%38%35%64%65%2d%66%36%39%66%30%64%35%66%66%65%65%62@188.245.212.4:2083?Telegram=&security=reality&encryption=none&authority=Tel%65gra%6d-ip%562Ra%79-Te%6cegr%61m-i%70V2R%61y-T%65leg%72am-%69pV2%52ay-%54ele%67ram%2dipV%32Ray%2dTel%65gra%6d-ip%562Ra%79&pbk=IXX%72Qcq%58gzo%70BeS%47pCO%5fu53%6beeK%5aaN1%41oOz%64yLA%2dMzo&fp=ran%64omi%7aed&spx=/&type=grpc&sni=ref%65rsi%6fn.c%6fm&sid=11a%34b6b%63a8#⚜️Telegram:@IP_CF
+trojan://03bb7640-df39-11ef-a9b1-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+trojan://telegram-id-privatevpns@34.250.142.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
