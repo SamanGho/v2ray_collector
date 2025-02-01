@@ -1,4 +1,3 @@
-vless://0060fb3a-06d1-5962-85cb-5f22ac528d68@fastly.net:80?security=none&encryption=none&host=0-MOSIV2-0.COM&type=ws#⚜️Telegram:@IP_CF
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.142.40.178:2222?security=none&encryption=none&headerType=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://ff0f6189-c705-4c40-ae71-a3ea31e7114d@151.101.2.165:80?path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam&security=none&encryption=none&host=IPSERVIS2.ORG&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://ff0f6189-c705-4c40-ae71-a3ea31e7114d@speedtest.net:80?path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam&security=none&encryption=none&host=IPSERVIS2.ORG&type=ws#[🇺🇸]t.me/ConfigsHub
@@ -148,3 +147,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakppWXpCag==@45.140.146.223:8388?type=tcp#[
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TmpsaU5EYzRPREExWVRSbU5ESTBOMk13TWpRMU5UVXpNRGhqTWpobVpUZz06WmpBelpUTmlaakl0WTJVMVlpMDBOV1ZtTFRnMlpXWXRNVE0yWVRkbE5UYz0=@cn02.crosswall.org:28837?type=tcp#[🏁]t.me/ConfigsHub
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WW1KbVpEZzNOR1JtTURGa1l6RTVaVEpsT0dRM05ERm1ZMk0wWW1Oak1UQT06WmpBelpUTmlaakl0WTJVMVlpMDBOV1ZtTFRnMlpXWXRNVE0yWVRkbE5UYz0=@cn02.crosswall.org:52189?type=tcp#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWFjYmNiYS1iYWNhLWFiY2EtZGFiYy1hYmFiY2JhY2NiY2EiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MTA4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://1981c20c-f7fe-4458-ed6d-febcdc1284ee@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none=Telegram#⚜️Telegram:@IP_CF
