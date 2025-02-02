@@ -1,4 +1,3 @@
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.21.69.44:443?mode=gun&security=tls&encryption=none&authority=&fp=firefox&type=grpc&serviceName=&sni=Tp773WeWsV.aLtAbAnIc.Ir#[🇨🇦]t.me/ConfigsHub
 trojan://x3wOepOcT04FnR8YYF35pzSACDgRBa3CAe9qNalDCy6a2uE8Z7xlX3SSyZKDIj@154.17.24.29:443?security=tls&headerType=none&type=tcp&sni=imprint.freetrade.link#[🇺🇸]t.me/ConfigsHub
 vless://ee57bd87-3831-49fa-8a60-825c560c4539@51.68.88.224:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇫🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMTguMTkzLjM0LjE1OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2N2ZmNTAwYS04NDg0LTRlZDgtY2Y4Zi1iOGQzNDE1MzQxNDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUyODI1IiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
@@ -148,3 +147,4 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@108.162.192.154:2053?mode=gun&secur
 vless://7996d412-0b2a-4533-bba1-f7531861f1ec@85.237.211.219:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=ul-uae2.09vpn.com#[🇹🇷]t.me/ConfigsHub
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ip.payexaye.my:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=CdCyRiRd73.gOzAlBaLaBiYa-bEbInAm.cOm#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVFV4T1RRNQ%3D%3D@de1.opensocks.site:1443#[🇩🇪]t.me/ConfigsHub
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@ru1.pptv-tv.store:17615?allowInsecure=0&sni=data.52daishu.life#⚜️Telegram:@IP_CF
