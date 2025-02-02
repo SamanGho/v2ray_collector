@@ -8541,3 +8541,4 @@ vless://27055935-7817-4a86-92c1-89cbca3e9986@62.60.155.152:2096?encryption=none&
 trojan://telegram-id-directvpn@63.176.213.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.197.128.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.175:8880?encryption=none&security=none&type=grpc#[🇺🇸]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEuMTA3LjI0Ny4yMTkiLCJwb3J0IjoxODQzNCwiaWQiOiIzYWI3Y2Q5OC1mODRmLTQ2NDktYmYyMy1kZDRhMWNlNGM5MGEiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIiLCJhdXRob3JpdHkiOiIifQ==
