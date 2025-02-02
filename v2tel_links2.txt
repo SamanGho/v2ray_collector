@@ -8560,3 +8560,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMlkyT1RSaQ@89.221.224.93:8388#[🏁]t.me/Co
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638721216101614817.amsterdam-blk-dra.info:8880/?type=grpc&encryption=none#[🇳🇱]t.me/ConfigsHub
 vless://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:2053/?type=tcp&encryption=none&sni=github.io&fp=chrome&security=reality&pbk=Ikwx0g2PAiJglT4BkwRHOyWUbMhZJRO1nF-S-1WHPDU&sid=a4c4d9258f0685a4#[🇩🇪]t.me/ConfigsHub
 vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@5.75.200.6:80/?type=ws&encryption=none&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2Fstream%2F#[🇩🇪]t.me/ConfigsHub
+vless://0ee358fe-8d55-445b-89d7-4ed76d58a515@151.101.194.165:80?path=/Telegram-ID-@mobilesignal--Telegram-ID-@mobilesignal--Telegram-ID-@mobilesignal&ed=2560&host=JoinBede-ELiV2-RAY.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://55a1198e-a5e7-53cc-88fe-5d05382bc85e@elena.fastly80-3.hosting-ip.com:80?path=%2FTelegram-ID-mobilesignal--Telegram-ID-mobilesignal--Telegram-ID-mobilesignal&host=TG.ELiV2RAY.iR&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://7c478077-7fa2-4e7e-a2bd-d84f1b9e4075@elena.fastly80-3.hosting-ip.com:80?path=/Telegram-ID-@mobilesignal--Telegram-ID-@mobilesignal--Telegram-ID-@mobilesignal&ed=2560&host=Join.ELiV2-RAY.ir&type=ws#[🇺🇸]t.me/ConfigsHub
