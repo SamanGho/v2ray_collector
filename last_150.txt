@@ -1,7 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVGMzWXpJMw==@fr1.opensocks.site:8388?type=tcp#[🇫🇷]t.me/ConfigsHub
-vless://62cefde8-0f4d-43f7-a531-804c37e066d9@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#[🇺🇸]t.me/ConfigsHub
-vless://fb13612f-0bfe-42cb-9c08-a347761c00c5@faculty.ucdavis.edu:443?path=%2F@MOSIV2-@MOSIV2-@MOSIV2-@MOSIV2-@MOSIV2-@MOSIV2%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=jOin--Bede--mOsiV2.ir&fp=randomized&type=ws&sni=faculty.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
-vless://fb13612f-0bfe-42cb-9c08-a347761c00c5@faculty.ucdavis.edu:443?path=%2F@MOSIV2-@MOSIV2-@MOSIV2-@MOSIV2-@MOSIV2-@MOSIV2%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=jOin--Bede--mOsiV2.ir&fp=randomized&type=ws&sni=faculty.ucdavis.edu#[🇨🇦]t.me/ConfigsHub
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@103.231.73.153:443/?type=ws&encryption=none&host=mmdserver.us.kg&path=%2F%3Fed%3D2048&security=tls&sni=mmdserver.us.kg#[🏁]t.me/ConfigsHub
 trojan://Aimer@45.194.53.81:2087/?type=ws&host=ngepx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=ngepx.ambercc.filegear-sg.me&alpn=http%2F1.1#[🇺🇸]t.me/ConfigsHub
 vless://v2rayng___76@baby.bia2bax.shop:26909/?type=tcp&encryption=none#[🇫🇮]t.me/ConfigsHub
@@ -148,3 +144,7 @@ vless://07f0b3e7-81c3-46e8-a6af-32cc02e1feb2@173.245.59.132:2053?path=%2F&securi
 vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi42NC4zMi4yMTciLCJwb3J0IjoiMjA4NyIsInR5cGUiOiJndW4iLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJuZXQiOiJncnBjIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6InRscyIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=
 trojan://telegram-id-directvpn@13.60.152.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.143.192:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://telegram-id-directvpn@13.53.246.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.8.109.156:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://telegram-id-privatevpns@18.132.254.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
+vless://TELEGRAM-NUFiLTER-a0acc0869e6c@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Pizza-nufilter.com&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws6
