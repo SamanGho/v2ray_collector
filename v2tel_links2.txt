@@ -8434,3 +8434,6 @@ vless://TELEGRAM-NUFiLTER-7d0b3d468bfb@NUFiLTER.fastly80-3.hosting-ip.com:80?pat
 ss://16d9cd97-9e10-487f-a926-7a3df107fb1a@147.93.62.28:34595?security=reality&sni=yahoo.com&type=xhttp&path=%2Fxhttp&fp=chrome&pbk=ZiHn\_zqeJWaFqhpFI-VgtZJ9eBXHnQqlfnEhaQVS\_SA&sid=ffa771747e2785#⚜️Telegram:@IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.96.87.76:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 trojan://telegram-id-privatevpns@18.194.109.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@3.13.24.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.39.201:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+trojan://telegram-id-privatevpns@3.75.65.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
