@@ -8814,3 +8814,4 @@ vless://TELEGRAM-NUFiLTER-fc3c3603bd11@nufilter.fastly80-2.hosting-ip.com:80/?ty
 vless://6644ca53-043a-4e8c-bcaa-4c48f3748a39@152.42.187.173:80/?type=ws&encryption=none&host=m.zoom.us&path=%2FFree%20By%20Tharuwa%20%28%40z_z_z_zz_z%29#[🏁]t.me/ConfigsHub
 vless://736a8cb6-6467-4081-8c4e-73c400c422e6@151.101.194.165:80/?type=ws&encryption=none&host=onyeki-ip.com&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206Qm9pWDEwMjkyNA@107.174.133.203:9875#[🇺🇸]t.me/ConfigsHub
+trojan://3763495894587285504@nearby-sheep.goat627.mom:443/?type=tcp&security=tls#⚜️Telegram:@IP_CF
