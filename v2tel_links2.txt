@@ -8563,3 +8563,5 @@ vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@5.75.200.6:80/?type=ws&encryption=n
 vless://0ee358fe-8d55-445b-89d7-4ed76d58a515@151.101.194.165:80?path=/Telegram-ID-@mobilesignal--Telegram-ID-@mobilesignal--Telegram-ID-@mobilesignal&ed=2560&host=JoinBede-ELiV2-RAY.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://55a1198e-a5e7-53cc-88fe-5d05382bc85e@elena.fastly80-3.hosting-ip.com:80?path=%2FTelegram-ID-mobilesignal--Telegram-ID-mobilesignal--Telegram-ID-mobilesignal&host=TG.ELiV2RAY.iR&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://7c478077-7fa2-4e7e-a2bd-d84f1b9e4075@elena.fastly80-3.hosting-ip.com:80?path=/Telegram-ID-@mobilesignal--Telegram-ID-@mobilesignal--Telegram-ID-@mobilesignal&ed=2560&host=Join.ELiV2-RAY.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://3767107462583558144@5.189.203.50:443?security=tls&headerType=none&type=tcp&sni=modest-bulldog.goat627.mom#⚜️Telegram:@IP_CF
+trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.192:443?security=tls&headerType=none&type=tcp&sni=cmc1.5gsieuvip.vn#⚜️Telegram:@IP_CF
