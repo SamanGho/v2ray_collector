@@ -8723,3 +8723,4 @@ vmess://eyJhZGQiOiJpcnZpZGVvLmNmZCIsImFpZCI6MCwiaG9zdCI6ImlydmlkZW8uY2ZkIiwiaWQi
 trojan://telegram-id-privatevpns@3.79.177.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.50.152.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.96.97.251:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+vless://01faecc9-1067-4a19-f848-59a40fb81538@74.248.139.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=six.dilik.co&alpn=h2%2Chttp%2F1.1&fp=randomized#⚜️Telegram:@IP_CF
