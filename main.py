@@ -18,7 +18,7 @@ def increment_counter(current_count):
     current_count+=1
     with open('run_counter.txt','w') as f:
         f.write(str(current_count))
-    if current_count>20:
+    if current_count>12:
         truncate_files()
 
         current_count=1
