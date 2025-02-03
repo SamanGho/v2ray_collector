@@ -5344,3 +5344,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#[�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg@89.221.224.94:8388#[🏁]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsImFkZCI6Ijk0LjE4Mi4xNTAuMjMxIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjJiN2NlMWQyLTAzNzItNDEwNC1hYTA2LWY3ZDk5OWYyNmUxZCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==
 trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.192:443?security=tls&headerType=none&type=tcp&sni=cmc1.5gsieuvip.vn#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQ3ZjYTdWRjExNDJFQ2NRSkJRU0I2OWdIeXZuNEpid1hKTTRxNUFSOWJGbkc3VENYQ2JQaGllVmIyR1p6Um5Uekc1OHJuWUVNbXNGdE5GMTRjMVhwbVdnNG1YcE1naEg=@mx2.drawnrisha.one:55988#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.96.7:443#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@54.74.227.99:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇮🇪]t.me/ConfigsHub
+ss://2022-blake3-aes-256-gcm:YmJmZDg3NGRmMDFkYzE5ZTJlOGQ3NDFmY2M0YmNjMTA%3D%3AZjAzZTNiZjItY2U1Yi00NWVmLTg2ZWYtMTM2YTdlNTc%3D@cn02.crosswall.org:52189#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.130.192.231:22222?security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp#[🇬🇧]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#[🏁]t.me/ConfigsHub
+vless://19d3596a-a6c6-44be-9f18-26f349da4972@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.169.214.126:443#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.157.241.128:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇨🇦]t.me/ConfigsHub
+ss://2022-blake3-aes-256-gcm:NjliNDc4ODA1YTRmNDI0N2MwMjQ1NTUzMDhjMjhmZTg%3D%3AZjAzZTNiZjItY2U1Yi00NWVmLTg2ZWYtMTM2YTdlNTc%3D@cn02.crosswall.org:28837#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.214.246.177:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇮🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@95.164.249.61:54075#[🏁]t.me/ConfigsHub
+ss://77-977-9Hu-_ve-_ve-_ve-_vX3vv73vv73vv703c--_ve-_ve-_ve-_vX5p77-977-9442ce--_ve-_vTrvv73vv70e77-977-977-977-9fe-_ve-_ve-_vTdz77-977-977-977-9fmnvv73vv73jjZx777-977-9@116.202.21.122:1777#[🇩🇪]t.me/ConfigsHub
+ss://253vv71_77-977-977-917nvv73vv70336_vv71577-9fu-_ve-_vR1177-977-9de-_vTU6253vv71_77-977-977-917nvv73vv70336_vv71577-9fu-_ve-_vR1177-977-9de-_vTU=@167.82.0.47:80#[🇺🇸]t.me/ConfigsHub
