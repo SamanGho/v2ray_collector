@@ -8748,3 +8748,4 @@ trojan://telegram-id-directvpn@3.148.119.14:22222?security=tls&alpn=http/1.1&hea
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.198.254.10:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#⚜️Telegram:@IP_CF
 trojan://telegram-id-privatevpns@35.181.213.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 vless://fed01482-6a05-4234-bff7-d7ff6106ff63@45.138.24.119:8443?mode=gun&security=reality&encryption=none&pbk=Paai0w6bHcKmaZzm8Sljt8uKydSYX5h1t3G_Y3T-Rm0&fp=chrome&spx=%2F&type=grpc&serviceName=JoinBadeChannel%40antimeli&sni=www.speedtest.net&sid=f74b9234#[🇳🇱]t.me/ConfigsHub
+vless://%562%52%41%58%58@SRCVPN.fastly80-3.hosting-ip.com:80?path=%2F%54%65%6C%65%67%72%61%6D%2C%56%32%52%41%58X%2CTelegram%2C%3Fed%3D2048&host=%56%32%52%41%58X.ir&type=ws#⚜️Telegram:@IP_CF
