@@ -8613,3 +8613,4 @@ trojan://telegram-id-directvpn@15.157.241.128:22222?security=tls&sni=trojan.burg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQ3ZjYTdWRjExNDJFQ2NRSkJRU0I2OWdIeXZuNEpid1hKTTRxNUFSOWJGbkc3VENYQ2JQaGllVmIyR1p6Um5Uekc1OHJuWUVNbXNGdE5GMTRjMVhwbVdnNG1YcE1naEg=@mx2.drawnrisha.one:55988#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@54.74.227.99:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.214.246.177:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇮🇪]t.me/ConfigsHub
+trojan://3770966768580042752@alert-teal.goat627.mom:443?security=tls&sni=alert-teal.goat627.mom&allowInsecure=1&type=tcp#⚜️Telegram:@IP_CF
