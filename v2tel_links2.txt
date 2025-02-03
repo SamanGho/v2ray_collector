@@ -8740,3 +8740,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.178:8880/?type=grpc&encry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.44:8880/?type=grpc&encryption=none#[🇸🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#[🇬🇧]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.173:989#[🏁]t.me/ConfigsHub
+vless://55a1198e-a5e7-53cc-88fe-5d05382bc85e@elena.fastly80-3.hosting-ip.com:80?path=%2FTelegram-ID-ELiV2RAY--Telegram-ID-ELiV2RAY--Telegram-ID-ELiV2RAY&host=TG.ELiV2RAY.iR&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://7c478077-7fa2-4e7e-a2bd-d84f1b9e4075@elena.fastly80-3.hosting-ip.com:80?path=/Telegram-ID-@ELiV2RAY--Telegram-ID-@ELiV2RAY--Telegram-ID-@ELiV2RAY&ed=2560&host=Join.ELiV2-RAY.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://0ee358fe-8d55-445b-89d7-4ed76d58a515@151.101.194.165:80?path=/Telegram-ID-@ELiV2RAY--Telegram-ID-@ELiV2RAY--Telegram-ID-@ELiV2RAY&ed=2560&host=JoinBede-ELiV2-RAY.ir&type=ws#[🇺🇸]t.me/ConfigsHub
