@@ -3394,3 +3394,4 @@ trojan://telegram-id-directvpn@54.155.29.239:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.51.224.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 trojan://telegram-id-privatevpns@18.132.181.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 vless://350ba876-0706-4525-b342-f70062cb24f8@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMkUyWlRVMg==@is2.opensocks.site:8388#[🏁]t.me/ConfigsHub
