@@ -2,7 +2,7 @@ name: Scrape V2Ray Links
 
 on:
   schedule:
-    - cron: '*/20 * * * *'  # Runs every 10 minutes
+    - cron: '*/20 * * * *'  # Runs every 20 minutes
   workflow_dispatch:
 
 jobs:
@@ -37,11 +37,10 @@ jobs:
           LAST_SWITCH=$(cat .last_switch)
           CURRENT_TIME=$(date +%s)
           TIME_DIFF=$((CURRENT_TIME - LAST_SWITCH))
-
           # 7200 seconds = 2 hours
           if [ $TIME_DIFF -ge 7200 ]; then
             # It's been 2 hours, switch files
-            if grep -q "v2tel_links1.txt" .last_file; then
+            if [[ "${{ env.file }}" == "v2tel_links1.txt" ]]; then
               echo "file=v2tel_links2.txt" >> $GITHUB_ENV
               echo "next_file=v2tel_links1.txt" >> $GITHUB_ENV
             else
@@ -52,16 +51,14 @@ jobs:
             date +%s > .last_switch
           else
             # Continue with the current file
-            if grep -q "v2tel_links1.txt" .last_file; then
-              echo "file=v2tel_links1.txt" >> $GITHUB_ENV
+            echo "file=${{ env.file }}" >> $GITHUB_ENV
+            if [[ "${{ env.file }}" == "v2tel_links1.txt" ]]; then
               echo "next_file=v2tel_links2.txt" >> $GITHUB_ENV
             else
-              echo "file=v2tel_links2.txt" >> $GITHUB_ENV
               echo "next_file=v2tel_links1.txt" >> $GITHUB_ENV
             fi
           fi
         fi
-
         # Save the current file to the .last_file for the next run
         echo "${{ env.file }}" > .last_file
 
@@ -81,7 +78,19 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add base64 base64_1 ${{ env.file }} last_150.txt .last_switch .last_file
         
-        git commit -m "Update V2Ray links "
-        git push https://x-access-token:${PROV2}@github.com/${{ github.repository }}.git HEAD:main
+        # Add all relevant files to the commit
+        git add ${{ env.file }} last_150.txt base64_150.txt .last_switch .last_file
+        
+        # Check if there are any changes to commit
+        if git diff-index --quiet HEAD --; then
+          echo "No changes to commit."
+        else
+          # Generate a detailed commit message
+          COMMIT_MESSAGE="Update V2Ray links in ${{ env.file }} and last_150.txt"
+          if [ -s base64_150.txt ]; then
+            COMMIT_MESSAGE="$COMMIT_MESSAGE, encoded last_150.txt to base64_150.txt"
+          fi
+          git commit -m "$COMMIT_MESSAGE"
+          git push https://x-access-token:${PROV2}@github.com/${{ github.repository }}.git HEAD:main
+        fi
