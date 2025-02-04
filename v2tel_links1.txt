@@ -3275,3 +3275,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.241.81.217:22222?path=/telegram-
 trojan://3763495894587285504@nearby-sheep.goat627.mom:443/?type=tcp&security=tls#⚜️Telegram:@IP_CF
 
 ss://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.31.34:8880?encryption=none&security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#⚜️Telegram:@IP_CF
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.198.254.10:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#⚜️Telegram:@IP_CF
+vless://8155040b-e61a-48a6-baae-82716daf723b@147.182.183.207:443?mode=auto&path=%2F%40Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4c#[🇺🇸]t.me/ConfigsHub
