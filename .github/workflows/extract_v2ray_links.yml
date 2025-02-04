@@ -62,8 +62,12 @@ jobs:
         # Save the current file to the .last_file for the next run
         echo "${{ env.file }}" > .last_file
 
+        # Debug: Print the value of the file variable
+        echo "Current file set to: ${{ env.file }}"
+
     - name: Run scraping script for the determined file
       run: |
+        echo "Running script for file: ${{ env.file }}"
         python main.py ${{ env.file }}
 
     - name: Clear the previous file after switching
