@@ -3486,3 +3486,9 @@ vless://f8f44e52-5c6b-47ae-b95a-d5609b0058f3@104.26.15.16:2096?path=%2F2096%2F%4
 vless://3415f323-9e99-4b15-ddac-7bdb0409c606@95.217.0.23:26209?path=%2F&security=none&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
 vless://051f2caf-63c2-42a5-dfdb-46dd62b3f2b2@138.199.194.142:32975?type=kcp&headerType=wireguard&seed=OKFiG1VzaP&security=none#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.18.30:443#[🇧🇭]t.me/ConfigsHub
+vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:443?security=none&encryption=none&host=playstation.com&headerType=http&type=tcp#[🇳🇱]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.86.99.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEuMTA3LjEzOC41MyIsInBvcnQiOiIzMDMwIiwiaWQiOiI5NDc4YTczYS05Yjk3LTRjMWQtODg2Yi01ODc2YjE0YTU4ZDQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+trojan://telegram-id-privatevpns@13.38.179.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs
+vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:2053?security=reality&encryption=none&pbk=mCCigQPrTHY9CMHgDgfWo00ij_dgYt0sAc_uHeRFklI&headerType=none&fp=random&spx=%2Fmaniwrld&type=tcp&sni=github.io&sid=a4c4d9258f0685a4#[🇳🇱]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.81.171:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
