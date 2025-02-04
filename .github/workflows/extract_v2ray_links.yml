@@ -40,7 +40,7 @@ jobs:
           # 7200 seconds = 2 hours
           if [ $TIME_DIFF -ge 7200 ]; then
             # It's been 2 hours, switch files
-            if [[ "${{ env.file }}" == "v2tel_links1.txt" ]]; then
+            if [[ "${{ env.file }}" == "v2tel_links1.txt" || -z "${{ env.file }}" ]]; then
               echo "file=v2tel_links2.txt" >> $GITHUB_ENV
               echo "next_file=v2tel_links1.txt" >> $GITHUB_ENV
             else
@@ -51,14 +51,16 @@ jobs:
             date +%s > .last_switch
           else
             # Continue with the current file
-            echo "file=${{ env.file }}" >> $GITHUB_ENV
-            if [[ "${{ env.file }}" == "v2tel_links1.txt" ]]; then
+            if [[ "${{ env.file }}" == "v2tel_links1.txt" || -z "${{ env.file }}" ]]; then
+              echo "file=v2tel_links1.txt" >> $GITHUB_ENV
               echo "next_file=v2tel_links2.txt" >> $GITHUB_ENV
             else
+              echo "file=v2tel_links2.txt" >> $GITHUB_ENV
               echo "next_file=v2tel_links1.txt" >> $GITHUB_ENV
             fi
           fi
         fi
+
         # Save the current file to the .last_file for the next run
         echo "${{ env.file }}" > .last_file
 
@@ -67,6 +69,11 @@ jobs:
 
     - name: Run scraping script for the determined file
       run: |
+        echo "Filename from env: ${{ env.file }}"
+        if [ -z "${{ env.file }}" ]; then
+          echo "Error: Filename is empty."
+          exit 1
+        fi
         echo "Running script for file: ${{ env.file }}"
         python main.py ${{ env.file }}
 
