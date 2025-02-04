@@ -3388,3 +3388,4 @@ vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni
 trojan://telegram-id-directvpn@54.72.170.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vmess://eyJhZGQiOiI0OS4xMi4xLjk5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDQzIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://f8f44e52-5c6b-47ae-b95a-d5609b0058f3@www.parsvds.com:2096?path=%2F2096%2F%40VRayyNGvpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bEAt.MIRaclETaxbiTS.Top.&fp=random&type=ws&sni=bEAt.MIRaclETaxbiTS.Top.#[🇨🇦]t.me/ConfigsHub
+
