@@ -3913,3 +3913,7 @@ vless://914cc792-fb72-490e-be37-f0d84156496a@hajlab.ucdavis.edu:443?path=%2F%40S
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&fp=chrome#[🇨🇦]t.me/ConfigsHub
 trojan://65086520307764900@54.251.73.17:443?security=tls&sni=relieved-raccoon.shiner427.skin&allowInsecure=1&type=tcp#⚜️Telegram:@IP_CF
 vless://6d6a134b-5bf4-46c6-9c02-97737e1d2cb1@188.121.117.161:80?security=none&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://%562%52%41%58%58--@151.101.0.155:80?path=%2F%54%65%6C%65%67%72%61%6D%2C%56%32%52%41%58X%2CTelegram%2C%3Fed%3D2048&host=%56%32%52%41%58X.ir&type=ws#⚜️Telegram:@IP_CF
+vless://31cd85f4-bd12-4866-da94-d48aa8c7d7d5@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#[🇬🇧]t.me/ConfigsHub
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=pormang.webhost99.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub
