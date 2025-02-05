@@ -3618,3 +3618,6 @@ trojan://telegram-id-privatevpns@3.125.150.234:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-directvpn@15.236.150.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 
 vless://03785d07-03ad-4e12-942e-aaccecb8ca2e@h5.xn--gmq282ekfhyys3gs.com:2087?mode=multi&security=reality&encryption=none&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&fp=firefox&spx=%2F&type=grpc&sni=dash.cloudflare.com&sid=83cdb009#⚜️Telegram:@IP_CF
+trojan://Aimer@188.164.159.25:2053?allowInsecure=1&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoidG9reW8uODk5OTk0Lnh5eiIsInBvcnQiOiI0NDMiLCJpZCI6ImEwNjA1NTI3LTI4ZTQtNDQ5Yy04MGVlLTU2NDJjYzE2YThhZiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcL2luZGV4IiwidGxzIjoidGxzIiwic25pIjoidG9reW8uODk5OTk0Lnh5eiJ9
+ss://3487ce43-b803-4770-97ff-f75880d7f9b4@104.16.92.169:80?encryption=none&security=none&type=ws&host=rough-mud-93b4-ppal03.wedane7745.workers.dev&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
