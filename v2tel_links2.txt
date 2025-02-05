@@ -424,3 +424,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#[�
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.186.96:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#⚜️Telegram:@IP_CF
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8090#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@121.127.46.147:989#[🇸🇪]t.me/ConfigsHub
+vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?type=ws&path=%2F%3Fed%3D2048&host=mmd6.ir&security=none#⚜️Telegram:@IP_CF
+trojan://Aimer@172.66.206.205:8443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEuMTA3LjI0Ny4yMTkiLCJwb3J0Ijo0ODMxOSwiaWQiOiJjMmY4NTEzMC1lMjZmLTQwMmEtOWEyZS1kYzY2MWYwZWViNTIiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIiLCJhdXRob3JpdHkiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg%3D%3D@45.140.167.94:8388#[🇬🇧]t.me/ConfigsHub
