@@ -3922,3 +3922,5 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.15.110.99:3229?security=none&typ
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.221.142.188:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.211.52.226:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiODUuMTMzLjI1My4xODMiLCJwb3J0IjoiMTQwOCIsImlkIjoiYWJiMGIwNWQtNDY4My00MmYxLTk4MWYtZjM1MzcwMjZhYzJkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+ss://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.28.34:8880?encryption=none&security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTY3LjE3Mi4yMzIuNjMiLCJwb3J0IjoiODg4MSIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJtaWhhbndlYmhvc3QuY29tIiwicGF0aCI6IlwvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIifQ==
