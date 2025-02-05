@@ -3763,3 +3763,7 @@ vmess://eyJhZGQiOiIzOC4xNC4xMDcuMjMzIiwiYWlkIjo2NCwiaG9zdCI6Ind3dy4yMzE3OTc1My54
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.96.1:443?path=%2F9BX39ZVMZoLNZe35%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HAStI.FreEAiRlaineS.CoM&fp=randomized&type=ws&sni=hastI.FrEeAIRLAInEs.CoM#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.190.161.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@18.198.168.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEuMTA3LjI0Ny4yMTkiLCJwb3J0Ijo1Mzk1NSwiaWQiOiIzMDgzMTMzYS0xNTBhLTQ3YjktYWJmYy0wNTcyMWMxNDMwNjgiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIiLCJhdXRob3JpdHkiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6YzFZTTdRSWR4NFRBMlVDNVRQSXpy@89.185.84.185:443#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.53.224.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://0c35e64e-3690-473d-bba6-e1bd6c6efe15@g.soskom.ir:32802?mode=gun&security=reality&encryption=none&pbk=XfXMJZ4sPWrkJpmuxv_wvpjyGS9Hfak40klQvuLToEE&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%3A%20%40NT_Safe&sni=yahoo.com&sid=e8b512f570b483e8#[🇩🇪]t.me/ConfigsHub
