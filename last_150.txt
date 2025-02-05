@@ -1,7 +1,3 @@
-vless://c26181b5-b49e-480e-a3d5-eb1583a1f38d@95.142.37.74:20011?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp#[🇷🇺]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNFIwOGliN3k0MjcweXpubExwU1FQ@77.83.246.74:443#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#[🇺🇸]t.me/ConfigsHub
-vless://TELEGRAM-NUFiLTER-393aab7a526d@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Dorzadim.filtero.net&type=ws#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.156.31.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://60f8e2fe-0f20-45de-9bad-02564156ebe2@x2222.need9ping.ir:2052?mode=gun&security=&encryption=none&authority=x2222.need9ping.ir&type=grpc&serviceName=8880vless#[🇩🇪]t.me/ConfigsHub
 vless://cefd5a6f-c391-48b2-bde6-8896fd7bd01c@ZuLa.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -61,6 +57,10 @@ vless://%562%52%41%58%58--@151.101.0.155:80?path=%2F%54%65%6C%65%67%72%61%6D%2C%
 vless://31cd85f4-bd12-4866-da94-d48aa8c7d7d5@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#[🇬🇧]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=pormang.webhost99.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=clitzr.ir&fp=chrome&type=ws&sni=mio.splashthat.com#[🇺🇸]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.15.110.99:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.221.142.188:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.211.52.226:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://2442f1da-d1e8-456c-a08f-5510b4d99cdf@live.989bull.com:443?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vistapcit.com&fp=chrome&type=ws&sni=live.989bull.com#[🇳🇱]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638734201752826467.athens-mpl-dr.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://19d3596a-a6c6-44be-9f18-26f349da4972@zula.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub

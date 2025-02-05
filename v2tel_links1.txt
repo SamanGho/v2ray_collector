@@ -3917,3 +3917,7 @@ vless://%562%52%41%58%58--@151.101.0.155:80?path=%2F%54%65%6C%65%67%72%61%6D%2C%
 vless://31cd85f4-bd12-4866-da94-d48aa8c7d7d5@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#[🇬🇧]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=pormang.webhost99.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=clitzr.ir&fp=chrome&type=ws&sni=mio.splashthat.com#[🇺🇸]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.15.110.99:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.221.142.188:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.211.52.226:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
