@@ -3756,3 +3756,10 @@ trojan://RV%3CoAVP5SBk%25Q%40jE@joinmahdiserver-484.pages.dev:2096?path=%2FtrJBY
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUDhkcnMxN21nM2N3ZEZuTHBmMUhn@77.83.246.74:443#[🏁]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.112.1:8443?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=hasTI.freeAirlAineS.COm&fp=randomized&type=ws&sni=hAsTI.FreEAIRlaiNES.COM#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.75.221:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.151:8080#[🇳🇱]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.33.45:443/?type=ws&encryption=none&host=fatwith.us.kg&path=%3Fed%3D2560&security=tls&sni=fatwith.us.kg#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiIzOC4xNC4xMDcuMjMzIiwiYWlkIjo2NCwiaG9zdCI6Ind3dy4yMzE3OTc1My54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6IlwvcGF0aFwvMzQwNDM0MTMwMDMyIiwicG9ydCI6MzgwMDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.96.1:443?path=%2F9BX39ZVMZoLNZe35%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HAStI.FreEAiRlaineS.CoM&fp=randomized&type=ws&sni=hastI.FrEeAIRLAInEs.CoM#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.190.161.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@18.198.168.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
