@@ -3921,3 +3921,4 @@ vless://telegram-id-ArV2ray@151.101.194.133:443?path=%2Ftelegram-ArV2ray%2Cteleg
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.15.110.99:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.221.142.188:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.211.52.226:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiODUuMTMzLjI1My4xODMiLCJwb3J0IjoiMTQwOCIsImlkIjoiYWJiMGIwNWQtNDY4My00MmYxLTk4MWYtZjM1MzcwMjZhYzJkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
