@@ -3968,3 +3968,9 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@cdnjs.com:8443?encryption=none&secu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#[🇳🇱]t.me/ConfigsHub
 vless://1d8fdd10-7c68-4e7f-8bc6-fc0f24288e6f@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
 vless://69f71e63-cea7-48b9-8c52-f877083cb743@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&security=tls&encryption=none&host=joinbedemaznettel.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
+trojan://Aimer@43.154.34.74:1935?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#[🏁]t.me/ConfigsHub
+trojan://d0cfea6c-2052-4add-aef5-501a4714d2f8@lbso.bnnodeservice.com:32038?allowInsecure=1&sni=cert.bitbyte.one#[🏁]t.me/ConfigsHub
+trojan://d0cfea6c-2052-4add-aef5-501a4714d2f8@lbso.bnnodeservice.com:32037?allowInsecure=1&sni=cert.bitbyte.one#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.28.39:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇫🇷]t.me/ConfigsHub
+trojan://bpb-trojan@172.67.180.227:443?security=tls&sni=qq.vvii.us.kg&type=ws&host=qq.vvii.us.kg&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#[🏁]t.me/ConfigsHub
