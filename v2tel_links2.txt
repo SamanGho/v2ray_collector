@@ -622,3 +622,11 @@ vless://8becb9ab-c3c8-4d2d-83ae-bc4b43545daf@ali1.karimi8.com:52388?mode=gun&sec
 ss://333baf8a-d8f4-4284-b0d1-4763f9d701fe@best1.bestshop10.ir:16072?mode=gun&security=none&encryption=none&type=grpc#⚜️Telegram:@IP_CF
 trojan://65086520307764900@54.251.73.17:443?security=tls&sni=relieved-raccoon.shiner427.skin&allowInsecure=1&type=tcp#⚜️Telegram:@IP_CF
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=pormang.webhost99.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.190.28.11:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+ss://5335d16e-7e42-4c9b-93a3-9e83bfd3073d@172.67.168.60:80?encryption=none&security=none&type=ws&host=workerr.johnstoner.workers.dev&path=%2F%3Fed%3D2048#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiODUuMTMzLjI1My4xODMiLCJwb3J0IjoiMTQwOCIsImlkIjoiYWJiMGIwNWQtNDY4My00MmYxLTk4MWYtZjM1MzcwMjZhYzJkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTY3LjE3Mi4yMzIuNjMiLCJwb3J0IjoiODg4MSIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJtaWhhbndlYmhvc3QuY29tIiwicGF0aCI6IlwvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIifQ==
+vmess://eyJhZGQiOiIxMDQuMjEuNzcuMjkiLCJhaWQiOjAsImhvc3QiOiJiZXlvbmRkYmMuc2JzIiwiaWQiOiI4ZDkwYzEyOS00MTU2LTRkNmMtOTExNS0yNGRmMjVmMjZhMDIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOjQ0MywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.182.12:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.142.96.95:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+ss://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.28.34:8880?encryption=none&security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#⚜️Telegram:@IP_CF
