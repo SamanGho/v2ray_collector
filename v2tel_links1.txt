@@ -4153,3 +4153,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEu
 ss://375dd25d-0ec6-454c-be6f-ce67b196b23b@104.21.84.22:443?encryption=none&security=tls&sni=freedom11.fmnxmt.workers.dev&fp=chrome&type=ws&host=freedom11.fmnxmt.workers.dev&path=%2F#⚜️Telegram:@IP_CF
 trojan://telegram-id-privatevpns@3.74.196.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 vless://ee802d05-85fb-48bd-867b-57eeacefb78a@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.39.208:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+vless://cbb7c755-9835-43a1-9ede-c19edb5355ed@185.158.175.171:58014?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+ss://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.31.34:8880?encryption=none&security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.189.160.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@63.177.194.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.157.40.119:5601#[🇺🇸]t.me/ConfigsHub
