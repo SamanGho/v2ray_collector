@@ -4061,3 +4061,4 @@ vless://%562%52%41%58%58--@SRCVPN.fastly80-3.hosting-ip.com:80?path=%2F%54%65%6C
 vless://d5012012-a850-49fc-bb81-17a4bf6876bd@www.speedtest.net:443?mode=auto&path=%2Fannn%3Fed%3D443&security=tls&alpn=h3&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#[🇨🇦]t.me/ConfigsHub
 vless://a626abcf-b56e-4d3f-9067-1a3e76ee489a@151.101.2.165:80?path=%2FVLESS%3Fed%3D80%3FJoinBadeChannel%40JOKERRVPNTelegram#[🇨🇦]t.me/ConfigsHub
 vless://ee802d05-85fb-48bd-867b-57eeacefb78a@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+
