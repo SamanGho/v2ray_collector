@@ -3965,3 +3965,6 @@ ss://YWVzLTEyOC1nY206NWExZmFlMGItNmJjNi00NGRkLTkzNDktZjIzNzgyMDZiY2Ex@south.sf0j
 vless://e4bfe605-c311-4efb-a1fa-3224dbd1cde7@opn.cdnserver.info:443?encryption=none&security=none&type=xhttp&path=%2F2205ac07&mode=auto#[🇫🇮]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.233.198.39:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@cdnjs.com:8443?encryption=none&security=tls&sni=hastI.frEEaIrlAiNes.Com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=HAsti.FrEeAiRLAIneS.com&path=%2FcVwhB4RnkmUyTlvX%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#[🇳🇱]t.me/ConfigsHub
+vless://1d8fdd10-7c68-4e7f-8bc6-fc0f24288e6f@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
+vless://69f71e63-cea7-48b9-8c52-f877083cb743@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&security=tls&encryption=none&host=joinbedemaznettel.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
