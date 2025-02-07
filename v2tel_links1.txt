@@ -4597,3 +4597,6 @@ vless://9564b172-744e-45bb-a720-c1b3115def9d@217.61.63.148:37172?security=none&e
 vless://99b5c293-c875-4531-aa29-38e75e706afc@s26.radnikmax.ir:8452?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://b489cc27-6056-48bb-891e-de437658d519@185.143.233.5:80?path=%2F&security=none&encryption=none&host=nim-f6a8e4b837-sh.apps.ir-central1.arvancaas.ir&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://5bfce67a-9175-4bba-b18b-1da3f11cc872@168.119.192.76:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.220.132.216:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNmQyYzlhNy04Y2E2LTRlMTQtYTNiNy1mMjc3MTFhM2I4OTc@free.2weradf.xyz:36245#[🏁]t.me/ConfigsHub
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&fp=random#[🇨🇷]t.me/ConfigsHub
