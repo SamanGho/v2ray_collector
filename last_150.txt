@@ -1,3 +1,4 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.96.1:2083/?type=ws&encryption=none&host=HaSTI.fREeAirLAineS.COm&path=%2FJRQhLvgozN890ROi%3Fed%3D2560&security=tls&sni=HaSti.fReEaiRLAinEs.COM&alpn=h2%2Chttp%2F1.1&fp=randomized#[🇨🇦]t.me/ConfigsHub
 trojan://3770966768580042752@89.39.70.165:443?security=tls&sni=warm-oryx.goat627.mom&type=tcp#⚜️Telegram:@IP_CF
 vless://7f6c7642-4801-40a7-bc38-024cc0a07302@20.215.42.100:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=eleven.dilik.co&alpn=h2%2Chttp%2F1.1&fp=randomized#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiJSZXphLm5zLmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIxNTUxMzgyMDEyMzQudG91Y2hpbmd0aGVzdGFyLmZ1biIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -53,7 +54,6 @@ vless://d5012012-a850-49fc-bb81-17a4bf6876bb@www.speedtest.net:443?security=tls&
 vless://a89f00d1-4e68-5409-9b39-381d46bb6e6e@www.speedtest.net:2052?path=%2Fvless%23telegram%40V2ray_Alpha&security=none&encryption=none&host=sPeedtest2.sbs.tr1.vless.sitespeedtest.net&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443?path=%2F%3Fed%3D2560%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#[🇨🇦]t.me/ConfigsHub
 vless://5bfce67a-9175-4bba-b18b-1da3f11cc872@188.245.164.188:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#[🇩🇪]t.me/ConfigsHub
-vless://5bfce67a-9175-4bba-b18b-1da3f11cc872@168.119.192.76:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#[🇹🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.56.119.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@fast.gambronservice.site:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=game.baziha0098.ir&type=ws#[🇺🇸]t.me/ConfigsHub
