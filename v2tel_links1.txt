@@ -4292,3 +4292,5 @@ ss://YWVzLTI1Ni1nY206VUVDOUYxUUI0NThHTVFFSw==@w72tapyb.slashdevslashnetslashtun.
 ss://YWVzLTI1Ni1nY206RlBKM1hZSDVFWTI0NlNYVQ==@183.61.177.234:15012#[🏁]t.me/ConfigsHub
 trojan://Aimer@27.50.48.186:2083?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 
+vless://c6f6bfb3-f9c7-46ba-8656-91d7c76cbade@pr1.vixsm.ir:4810?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@91.107.250.208:443?security=tls&alpn=h2&encryption=none&host=Telegram%20%3A&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#[🇩🇪]t.me/ConfigsHub
