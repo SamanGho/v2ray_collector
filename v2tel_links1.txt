@@ -4764,3 +4764,7 @@ vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@151.101.194.13
 vless://e16df891-f6e8-42ed-af97-302769f78989@188.34.201.88:16072?security=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@16.16.164.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@15.157.137.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://2b024e2f-f975-49d0-a57a-14d01eac8a5e@huffingtonpost.es:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Hormozvppn.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=www.huffingtonpost.es#[🇳🇱]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.16:8118#[🇺🇸]t.me/ConfigsHub
+vless://2b024e2f-f975-49d0-a57a-14d01eac8a5e@huffingtonpost.es:80?mode=auto&path=%2F&security=none&encryption=none&host=Hormozvppn.global.ssl.fastly.net&type=xhttp#[🇳🇱]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.82.53:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#⚜️Telegram:@IP_CF
