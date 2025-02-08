@@ -1,3 +1,4 @@
+vless://2e2f5cd2-cf20-4204-868b-fe8ea95e531a@gr.samsung-pakhsh.ir:6067?mode=gun&security=none&encryption=none&type=grpc&serviceName=2055vless#[🇩🇪]t.me/ConfigsHub
 vless://TELEGRAM-NUFiLTER-fc3c3603bd11@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=&encryption=none&host=kazemi11zerofun.com&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://3e3f884d-6d4c-4aa6-b87f-b19470a97705@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480#[🇺🇸]t.me/ConfigsHub
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@128.140.120.60:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.org&type=grpc&encryption=none#[🇩🇪]t.me/ConfigsHub
@@ -147,4 +148,3 @@ vless://fbc922ce-2eb5-4362-b92e-25db69c9b023@159.54.130.226:985?security=reality
 vless://fbc922ce-2eb5-4362-b92e-25db69c9b023@141.147.73.66:985?security=reality&encryption=none&pbk=xmqtBMz-4YkLgMf0b2B0U_vZX3IJElGgQQZuwmsEvy0&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=354ad572#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelZsTg%3D%3D@tr1.ssocks.wiki:8388#[🇹🇷]t.me/ConfigsHub
 vless://fbc922ce-2eb5-4362-b92e-25db69c9b023@158.180.37.201:985?security=reality&encryption=none&pbk=xmqtBMz-4YkLgMf0b2B0U_vZX3IJElGgQQZuwmsEvy0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=354ad572#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelZsTg%3D%3D@us1.ssocks.wiki:1443#[🇹🇷]t.me/ConfigsHub
