@@ -4634,3 +4634,4 @@ vless://5bfce67a-9175-4bba-b18b-1da3f11cc872@49.12.97.111:443?encryption=none&fl
 vless://08aa8e13-d639-4b24-9a7a-c2e56ee0beaa@91.107.131.93:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=SdNh0nIUd1kC8NVV7eDgUUEDwbQ-NP1JpRhJanIlxks&sid=#[🇩🇪]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?encryption=none&security=none&type=ws&host=pormang.webhost99.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=plolzu.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS-All|@ArV2ray
