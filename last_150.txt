@@ -1,3 +1,4 @@
+vless://2e2f5cd2-cf20-4204-868b-fe8ea95e531a@gr.samsung-pakhsh.ir:6067?mode=gun&security=none&encryption=none&type=grpc&serviceName=2055vless#[🇩🇪]t.me/ConfigsHub
 vless://TELEGRAM-NUFiLTER-fc3c3603bd11@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=&encryption=none&host=kazemi11zerofun.com&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://3e3f884d-6d4c-4aa6-b87f-b19470a97705@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480#[🇺🇸]t.me/ConfigsHub
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@128.140.120.60:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.org&type=grpc&encryption=none#[🇩🇪]t.me/ConfigsHub
@@ -22,7 +23,6 @@ vless://d5012012-a850-49fc-bb81-17a4bf6876bb@www.speedtest.net:443?security=tls&
 vless://a89f00d1-4e68-5409-9b39-381d46bb6e6e@www.speedtest.net:2052?path=%2Fvless%23telegram%40V2ray_Alpha&security=none&encryption=none&host=sPeedtest2.sbs.tr1.vless.sitespeedtest.net&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.132.207:443?path=%2F%3Fed%3D2560%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#[🇨🇦]t.me/ConfigsHub
 vless://5bfce67a-9175-4bba-b18b-1da3f11cc872@188.245.164.188:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#[🇹🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.56.119.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@fast.gambronservice.site:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=game.baziha0098.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.120:6697#[🇺🇸]t.me/ConfigsHub
