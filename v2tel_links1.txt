@@ -5067,3 +5067,18 @@ trojan://telegram-id-privatevpns@15.188.255.147:22222?security=tls&alpn=http/1.1
 vless://64ce3550-595a-4327-ba2c-5af2590b3d3b@151.101.158.204:80?encryption=none&security=none&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D64#[🇬🇧]t.me/ConfigsHub
 vless://5bc0b82d-ccd2-45a5-bcc6-69d7a59fe5cf@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fonmelo.com&path=%2Folem%2Fws%3Fed%3D4096#[🇬🇧]t.me/ConfigsHub
 vless://576d1c42-4b4a-4bba-c786-f1c43700d05d@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.213.173.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+vless://f27811ec-dab5-44f3-b947-4df5cce44a1c@103.180.236.42:11468?security=none&encryption=none&headerType=none&type=tcp#[🇮🇳]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.170.101:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+vless://c480d4be-2891-48b9-9143-6e67bd608558@172.64.33.81:443?security=tls&sni=mm5kft.billionaire33.com&type=ws&host=mm5kft.billionaire33.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiI5NS4yMTYuMTcwLjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImIzNGUzMTVkLTlmNTktNDI1Ni05YzRiLTQ2YWZmMWVhMDMzZSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjQyNzM5IiwicHMiOiJb8J+Hq/Cfh65ddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RGxlSk1hWkcwUlFkNXdFaTM5T0tsSU8yQXc5UzBEOHMvRlNXbGFXckJDaz06QmVIMSs5d1Q1TWs1ejdMVk9YaGJ2LzJOVDBmYXl3U2tla2RJR0lzMEVpVT0%3D@103.180.236.42:32557#[🇮🇳]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.213.173.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://3763495894587285504@89.39.70.207:443?security=tls&type=tcp&sni=pet-bulldog.goat627.mom#[🇳🇱]t.me/ConfigsHub
+vless://ac928b9c-5cb4-4271-973b-0555cb81f4c7@103.180.236.42:18866?security=reality&encryption=none&pbk=Fnl6q44shvR7L5PBIZWdBA34BIftx1w65F357zMrs0w&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=58bc#[🇮🇳]t.me/ConfigsHub
+vmess://eyJhZGQiOiI5MS4xMDcuMjQ3LjIxOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5Yjg1ZjI1Zi03ZTJiLTRlYzktODQxZS01NGFkZTNkMWU5YmUiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI0NjE3NSIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+trojan://telegram-id-privatevpns@18.130.18.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@18.130.18.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://er668@104.21.16.1:443?sni=kfjdi.pages.dev#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.47.184.187:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.64.165.101:7306#[🇺🇸]t.me/ConfigsHub
