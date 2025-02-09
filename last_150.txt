@@ -1,3 +1,5 @@
+vless://ee802d05-85fb-48bd-867b-57eeacefb78a@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://63005378-e32e-4e23-bc6e-84812f147a6f@configmr.pages.dev:443?security=tls&sni=ConFIgmr.PaGeS.dEV&alpn=h2,http/1.1&fp=randomized&type=ws&path=/VrChX4o5oasIm4In?ed%3D2560&host=configmr.pages.dev&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://9185ac57-fc59-412f-964f-a18af2531084@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.122.162:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.130.94.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
@@ -144,7 +146,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3c2NBZDVqdlFyTWM3Y1U1bzdtVmpU@45.129.185.82:42750#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@85.210.96.125:443#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelZsTg%3D%3D@95.164.34.7:1443#[🇹🇷]t.me/ConfigsHub
-ss://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082/?type=grpc&encryption=none&serviceName=vless-grpc#⚜️Telegram:@IP_CF
-ss://9bdd3d4b-3fe3-4b41-b3bd-fb2d0bcfcf7c@dd14.mehdit.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd14.mehdit.ir&fp=chrome&type=ws&sni=dd14.mehdit.ir#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg%3D%3D@43.202.96.177:443#[🏁]t.me/ConfigsHub
