@@ -5064,3 +5064,6 @@ vless://62cefde8-0f4d-43f7-a531-804c37e066d9@ZuLa.ir:8080?path=%2Ftelegram---VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SWFhcjF4dzZKQzF2Q1dJWjhwQVZS@16.16.171.237:12916#[🇸🇪]t.me/ConfigsHub
 vless://TELEGRAM-NUFiLTER-6d043a41998b@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss1x.ir&type=ws#%40NUFiLTER+%F0%9F%87%A6%F0%9F%87%B9ws
 trojan://telegram-id-privatevpns@15.188.255.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
+vless://64ce3550-595a-4327-ba2c-5af2590b3d3b@151.101.158.204:80?encryption=none&security=none&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D64#[🇬🇧]t.me/ConfigsHub
+vless://5bc0b82d-ccd2-45a5-bcc6-69d7a59fe5cf@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fonmelo.com&path=%2Folem%2Fws%3Fed%3D4096#[🇬🇧]t.me/ConfigsHub
+vless://576d1c42-4b4a-4bba-c786-f1c43700d05d@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
