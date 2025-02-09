@@ -5021,3 +5021,5 @@ trojan://telegram-id-directvpn@13.37.129.243:22222?security=tls&alpn=http/1.1&he
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.196.33.68:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://b34efc69-4736-4226-b0a5-159d44491bcd@77.239.100.183:58282?security=reality&encryption=none&pbk=RJTp-A4QAhq9YjENwATI9cxJqce2DFlgr47PP4q_sDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=57d2e1ac63b771#[🇳🇱]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.47.161.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#[🇺🇸]t.me/ConfigsHub
+vless://9d0047a8-8e7f-4f3a-8764-bf2db6249ed2@138.199.166.63:1825?security=reality&sni=stackoverflow.com&alpn=h2&fp=firefox&pbk=-UyKPBVzFFcYIP_m5gbAPILmHo32MKvVIIhC_S2I6Cc&sid=9d43b089&spx=/&type=tcp&encryption=none#[🇩🇪]t.me/ConfigsHub
