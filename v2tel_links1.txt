@@ -5264,3 +5264,4 @@ vless://61aca72a-5964-4cbb-b95a-d380c95a651f@151.101.194.228:443?security=tls&sn
 trojan://telegram-id-privatevpns@34.250.225.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-directvpn@63.177.133.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@23.154.136.176:9102#[🇺🇸]t.me/ConfigsHub
+vless://009cccba-c0ec-4297-9898-5115898a7246@103.71.22.3:443?security=reality&encryption=none&pbk=n3NmzivS8eutbp8V2dcDqe-UyZynD1jszNy3l-2wzkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=spb33.hipay.su&sid=afc6da8dd99e4b83#⚜️Telegram:@IP_CF
