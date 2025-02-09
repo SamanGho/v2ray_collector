@@ -1,3 +1,5 @@
+vless://d8ca77c4-668c-44b8-a621-763b4067490d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#[🇺🇸]t.me/ConfigsHub
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@54.202.157.101:1212?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a4844ba7#[🇺🇸]t.me/ConfigsHub
 vless://d8ca77c4-668c-44b8-a621-763b4067490d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@82.115.6.219:8443?sni=ngepz.ambercc.filegear-sg.me#[🇳🇱]t.me/ConfigsHub
 vless://ee802d05-85fb-48bd-867b-57eeacefb78a@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#[🇺🇸]t.me/ConfigsHub
@@ -109,7 +111,6 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@217.182.198.219:9101#[🇩🇪]t.me/Con
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@54.36.174.181:5500#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@16.16.134.194:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.61.49.102:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇸🇪]t.me/ConfigsHub
-trojan://65086520307764900@44.226.147.221:443/?type=tcp&security=tls&sni=moral-rat.shiner427.skin&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@ns3849026.ip-217-182-198.eu:445#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiI0Ni4yOS4xNjYuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjBjNDljZDE5LTI3NTgtNGQzOC1lNmE4LTExZjJkNjYzNTg2MCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDc1NTUiLCJwcyI6Ilvwn4e38J+Hul10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://99da041a-bdf9-4e24-88aa-3ee2912cb408@198.244.143.228:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#[🇬🇧]t.me/ConfigsHub
@@ -140,7 +141,6 @@ trojan://RV%3CoAVP5SBk%25Q%40jE@104.21.96.1:2096?security=tls&type=ws&sni=JoInma
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.113:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#[🇺🇸]t.me/ConfigsHub
 vless://b775ec56-b44d-473a-9e8e-99ef575d832a@104.21.16.1:80?security=none&type=ws&host=young-silence-6861.sjsbdjansbdjksb.workers.dev#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.216.166.80:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
-vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@wear.net:443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=aw035.ir&type=ws&sni=wear.net#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.92.149:443#[🇧🇭]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3c2NBZDVqdlFyTWM3Y1U1bzdtVmpU@45.129.185.82:42750#[🏁]t.me/ConfigsHub
