@@ -4951,3 +4951,6 @@ vmess://eyJhZGQiOiIzOC4zMy41Ni4yNyIsImFpZCI6NjQsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFm
 vless://a626abcf-b56e-4d3f-9067-1a3e76ee489a@join.isvvpn.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=Copy-Az-Chahnnel-ISVvpn-20.com&path=%2FVLESS%3Fed%3D80#[🇨🇦]t.me/ConfigsHub
 vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@91.107.248.32:80/?type=ws&encryption=none&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2Fstream%2F#[🇩🇪]t.me/ConfigsHub
 vless://79e1374d-7f94-4da6-97ad-5ce28a5d393e@188.227.84.54:8443/?type=grpc&encryption=none&serviceName=JoinBadeChannel%40antimeli&sni=www.speedtest.net&fp=chrome&security=reality&pbk=Paai0w6bHcKmaZzm8Sljt8uKydSYX5h1t3G_Y3T-Rm0&sid=f74b9234#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOekpoTURjMQ%3D%3D@us1.opensocks.site:1443#[🇺🇸]t.me/ConfigsHub
+vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@185.146.173.7:443?path=%2F%40ln2ray%3Fed%3D2560&security=tls&encryption=none&host=sinavm_sinavm.sinabigo.ir&fp=firefox&type=ws&sni=sinavm_sinavm.sinabigo.ir#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#[🇬🇧]t.me/ConfigsHub
