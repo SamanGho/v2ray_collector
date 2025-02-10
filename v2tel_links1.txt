@@ -5566,3 +5566,13 @@ trojan://telegram-id-privatevpns@18.135.207.52:22222?security=tls&alpn=http/1.1&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SWFhcjF4dzZKQzF2Q1dJWjhwQVZS@51.20.192.39:12916#[🇸🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SWFhcjF4dzZKQzF2Q1dJWjhwQVZS@16.171.65.182:12916#[🇸🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SWFhcjF4dzZKQzF2Q1dJWjhwQVZS@16.16.173.74:12916#[🇸🇪]t.me/ConfigsHub
+trojan://Aimer@27.50.49.179:2096?sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjAuMTg4LjExNy4yMDEiLCJwb3J0IjozMjk5NSwiaWQiOiIyN2NmMGI5NC1hMDlhLTRjN2QtOTgxOC05Njk2MDc2ZDdiNTIiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
+trojan://172d295b-abd4-4219-a83d-0585b498542c@84.247.144.24:443?sni=pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc#[🏁]t.me/ConfigsHub
+trojan://Bw5Mz7QkVp@155.138.220.91:443?security=tls&sni=z-v2-077769.kailib.com&type=tcp#[🇺🇸]t.me/ConfigsHub
+trojan://65086520307764900@18.139.61.105:443?security=tls&type=tcp&sni=dynamic-shrew.shiner427.skin#[🏁]t.me/ConfigsHub
+vless://8b5e0dc6-abde-4323-ac8a-9f26824b3c5f@104.16.96.120:443?security=tls&sni=edgetunnel-3pc.pages.dev&type=ws&path=%2F%3Fed&fp=random#[🇨🇦]t.me/ConfigsHub
+trojan://43e5eeacbad3032bfe4c25a2f011b6b7@104.251.227.182:443?sni=hezijiasuqi.com&allowInsecure=1#[🏁]t.me/ConfigsHub
+trojan://Aimer@172.64.35.199:443?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&path=/&host=ngepz.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.205.56:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@16.171.102.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
