@@ -5780,3 +5780,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.8.214.136:22222?path=/telegram-ch
 vless://fb86599e-fc7d-4a6c-857f-3fb7694d2707@join.mosiv2.fastly80-3.hosting-ip.com:80?path=%2F%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2%3Fed%3D2560&security=none&encryption=none&host=jOin--Bede--mOsiV2.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@108.162.195.127:443?sni=ngepo.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@54.217.100.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+vless://41b01981-7e05-472c-a618-e12b15ff5313@dd9.transitkala.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd9.transitkala.com&fp=chrome&type=ws&sni=dd9.transitkala.com#[🇩🇪]t.me/ConfigsHub
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.38:3237?security=none&encryption=none&host=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub
