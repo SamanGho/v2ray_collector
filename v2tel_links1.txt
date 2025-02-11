@@ -5671,3 +5671,4 @@ vless://9c1db283-1b21-4d04-abeb-91bf18dec777@157.10.53.146:14626?security=realit
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:2053?path=%2FAX0GWjCvjQscU063%3Fed%3D2048&security=tls&encryption=none&host=hasti.FrEEAiRlAINES.coM&fp=chrome&type=ws&sni=HAsti.freEaIrlaIneS.com#[🇨🇦]t.me/ConfigsHub
 vless://Parsashonam-170@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇳🇱]t.me/ConfigsHub
 vless://fe3abfcb-2252-54e2-9015-68278eb731e1@vpnandroid2_tr.home.kg:8880?security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇹🇷]t.me/ConfigsHub
+vless://0703e49e-48f3-403b-b49c-400bc5d1ceb0@140.82.58.247:8080/?path=%2F&security=none&encryption=none&type=ws#⚜️Telegram:@IP_CF
