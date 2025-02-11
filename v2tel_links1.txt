@@ -5954,3 +5954,8 @@ vless://54c5e338-649f-4416-8fcb-6e3bc19b5145@join.unlimiteddev.fastly80-3.hostin
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw%3D%3D@is3.opensocks.site:8388#[🏁]t.me/ConfigsHub
 ss://2ddd3453-be29-499d-aec3-bc003fc29b7b@213.108.23.243:26926/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=V1Sm4pc5EuEHSwsfXDDLYPuiu3JZUESNifEkvm5ARn8&sid=435d625ae815#⚜️Telegram:@IP_CF
 trojan://6557bf4a-852b-4a69-ad35-d53293386a13@52.194.140.195:443?sni=vn.mjt000.com#[🏁]t.me/ConfigsHub
+vless://5dbe9218-8f4d-5c4c-8b27-785e5b01317f@5.252.23.173:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🏁]t.me/ConfigsHub
+vless://0466bf43-b8a3-4ddb-eb1c-5bec6e1ae692@20.215.42.100:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eleven.dilik.co#[🏁]t.me/ConfigsHub
+vless://ef487a93-d7d4-422a-81c1-764237b52bed@216.9.224.211:4003?security=reality&encryption=none&pbk=ugJy-HhAx5XAQC8BZ9dI9IBZr7FDMkEe-I-kklVnQyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=soft98.4en1.net&sid=e6da440fec1529ea#[🇹🇷]t.me/ConfigsHub
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.186.2:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#[🇺🇸]t.me/ConfigsHub
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.184.159:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/ConfigsHub
