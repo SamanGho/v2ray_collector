@@ -5762,3 +5762,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.73.30:22222?path=/telegram-c
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.46.219:443?mode=gun&security=tls&encryption=none&type=grpc&sni=Tp810P28gI.aNa-SoFt.Ir#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig120.usecharge.ir:443#[🇧🇭]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.16.243.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@108.162.198.69:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&sni=Tp810P28gI.aNa-SoFt.Ir#[🇺🇸]t.me/ConfigsHub
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.21.64.1:443?mode=gun&security=tls&encryption=none&type=grpc&sni=Tp810P28gI.aNa-SoFt.Ir#[🇺🇸]t.me/ConfigsHub
+vless://04986e4a-0c5c-4de5-853e-911706546ecc@65.108.148.239:2096?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=free.best-antiaging-reviews.com#[🇫🇮]t.me/ConfigsHub
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.44.194:443?mode=gun&security=tls&encryption=none&type=grpc&sni=Tp810P28gI.aNa-SoFt.Ir#[🇨🇦]t.me/ConfigsHub
