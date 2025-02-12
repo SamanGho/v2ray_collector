@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.50.217:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.134.165:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇫🇷]t.me/ConfigsHub
 trojan://16c43955-e85b-444e-9f75-df8a38dbea3b@sg1.201e4f1c-3b89-0922-91b8-7243b8d5a1ea.2dde7df3.the-best-airport.com:443/?type=tcp&security=tls&sni=new.download.the-best-airport.com&allowInsecure=1#[🏁]t.me/ConfigsHub
 trojan://eca3a3aa-f204-4b22-ab79-683884e41881@nginx_sg.fzg2023.top:443/?type=tcp&security=tls&sni=v97.douyinvod.com&allowInsecure=1#[🏁]t.me/ConfigsHub
@@ -84,7 +85,6 @@ trojan://telegram-id-privatevpns@35.181.226.173:22222?security=tls&type=tcp&sni=
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.120:6379#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.195.147:443#[🇧🇭]t.me/ConfigsHub
-vless://665b6586-00af-4615-afc3-6310590489c1@a11.kiodent.ir:2053?security=none&type=tcp&headerType=http&path=%2F&host=fast.com#[🇺🇸]t.me/ConfigsHub
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@54.91.233.171:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHub
 trojan://Bw5Mz7QkVp@z-v2-078069.kailib.com:443?security=tls&headerType=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@107.170.54.158:80?encryption=none&security=none&sni=&type=ws&alpn=&host=arvancloud.com&path=/?ed=2048#[🇺🇸]t.me/ConfigsHub
