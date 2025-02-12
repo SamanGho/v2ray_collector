@@ -6004,3 +6004,9 @@ trojan://telegram-id-privatevpns@13.60.153.101:22222?security=tls&alpn=http/1.1&
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.21.6.44:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=Tp810P28gI.aNa-SoFt.Ir#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.181.254.225:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 
+vless://944ef446-ecc1-4535-9eaa-055b2fe802b0@54.37.4.61:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#[🇬🇧]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.246.213.210:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.236.4.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.154:443?security=tls&sni=147135004002.sec20org.com&type=tcp&fp=chrome#[🇺🇸]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.0.154:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.A.139.speedtest2.livE.&type=ws#WS-Irancell+%7C+%40ArV2ray
