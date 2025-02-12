@@ -6272,3 +6272,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.121.248:5001#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.123.245:8118#[🇺🇸]t.me/ConfigsHub
 vless://caea28eb-a062-4774-a365-3ebcdd919ebe@163.5.182.182:18156?security=none&type=tcp#[🇳🇱]t.me/ConfigsHub
+vless://9b580363-e1d2-443d-89b4-75836b6c0e4c@18.213.246.134:443?mode=auto&path=%2Fclient&security=reality&encryption=none&pbk=GaKaPbKnpd9HXEnDwp_N84e8e-bh4W5Ht1V1JmnUyQw&host=api.cloudflare.com&fp=chrome&spx=%2Fclient&type=xhttp&sni=api.cloudflare.com&sid=9d19629262#[🇺🇸]t.me/ConfigsHub
+vless://3d1cb5b3-ad5f-4c28-9ac2-679ab1869bf9@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#[🇳🇱]t.me/ConfigsHub
+vless://feed65d8-71d3-4e4d-8d0e-1a384d67c200@91.107.181.182:11045?mode=gun&security=reality&encryption=none&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%20%3A%20%40NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#[🇩🇪]t.me/ConfigsHub
+vless://aaf02126-8342-46b5-9c37-be749e0159fa@45.151.62.202:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=&fp=chrome&type=tcp&sni=google.com#[🇷🇺]t.me/ConfigsHub
