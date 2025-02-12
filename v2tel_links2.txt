@@ -1733,3 +1733,5 @@ vless://37114570-4648-4fde-b6a5-80d2bad7f354@ww.speedmeter.life:80?path=%2F-LiV2
 vmess://eyJhZGQiOiIyMy4xNjYuODguMTgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 trojan://3774827088566296576@185.67.125.78:443/?type=tcp&security=tls&sni=deciding-mantis.treefrog761.one#⚜️Telegram:@IP_CF
 ss://41abecd9-8096-4142-a75c-4e1d36d990bd@192.0.54.235:443?security=tls&sni=mmdserver.us.kg&type=ws&path=/?ed%3D2048&host=mmdserver.us.kg&encryption=none#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNndOVFNEV05EQXJRcmJkZWg3ZEJZ@86.104.74.203:32404#[🇫🇷]t.me/ConfigsHub
+ss://269815c8-4a82-e025-5f9b-39f1d8f65e04@185.255.112.175:5650/?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#⚜️Telegram:@IP_CF
