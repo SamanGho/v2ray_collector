@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@108.129.27.66:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇮🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxNjMuNS4xNTkuMjMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpcnZpZGVvLmNmZCIsImlkIjoiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4er8J+Ht110Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiaXJ2aWRlby5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@217.182.198.219:9101#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@54.36.174.181:5500#[🏁]t.me/ConfigsHub
@@ -146,5 +147,4 @@ trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:27103?security=tls&
 vless://v2rayng____76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#[🇫🇮]t.me/ConfigsHub
 vless://da8f38ae-cd05-472b-8820-661497ef3a46@safe.sanjesh.fun:7642?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://b5bfd6cc-86f3-47cd-9a3e-258160f59a4b@104.16.61.8:8080?path=%2F%3Fed%3D8080&security=none&encryption=none&host=fastfoods.api.ahmadp206.sbs.&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@freakconfigs13.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiI5MS4xMDcuMTM4LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjNDcxZWJhNC0xNWViLTQyNjQtOGU4ZC1kZTgwMWQ1N2RiMTciLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI4MDgwIiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
