@@ -6598,3 +6598,6 @@ trojan://6557bf4a-852b-4a69-ad35-d53293386a13@it.mjt000.com:443?security=tls&sni
 trojan://6557bf4a-852b-4a69-ad35-d53293386a13@20.2.18.26:443?security=tls&sni=it.mjt000.com&type=tcp#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.41.105:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiV3dXLnNQRWVEdEVzVC5OZVQiLCJwb3J0IjoiMjA4MyIsImlkIjoiOGFlNjU2NjQtODRlOC00MGUxLTk3MDgtOTIzNmYwODA4ZGZkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImFwaTMud2FsdG9ud2ViLmlyIiwicGF0aCI6IlwvcGFuZWw/ZWQ9MjU2MCIsInRscyI6InRscyIsInNuaSI6ImFwaTMud2FsdG9ud2ViLmlyIiwiYWxwbiI6Imh0dHBcLzEuMSIsImZwIjoiY2hyb21lIn0=
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=%2FMTMVPN%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FMTMVPN%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2FMTMVPN%3Fed%3D2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
