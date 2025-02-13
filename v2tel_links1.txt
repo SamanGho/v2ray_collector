@@ -6601,3 +6601,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiV3dX
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=%2FMTMVPN%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FMTMVPN%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2FMTMVPN%3Fed%3D2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-172@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#⚜️Telegram:@IP_CF
