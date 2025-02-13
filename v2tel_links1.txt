@@ -6305,3 +6305,8 @@ vmess://eyJhZGQiOiIzaC1wb2xhbmQxLjA5dnBuLmNvbSIsImFpZCI6MCwiaG9zdCI6IjNoLXBvbGFu
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@128.199.172.224:8080#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@139.64.165.101:5498#[🇺🇸]t.me/ConfigsHub
 
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@www.tiktok.com.jp3.viefast.net:443?security=tls&headerType=none&type=tcp&sni=kdlsupport.zendesk.com#[🏁]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.33.45:443?security=tls&encryption=none&host=fatwith.us.kg&type=ws&sni=fatwith.us.kg#[🇨🇦]t.me/ConfigsHub
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@it.viefast.net:443?security=tls&headerType=none&type=tcp&sni=kdlsupport.zendesk.com#[🇨🇦]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.30.52:80?path=%2F&security=none&encryption=none&host=a.mifeng.us.kg&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://7e6d3409-ea79-43d9-eaa1-e881146017de@172.167.12.228:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sizdah.dilik.co#[🇬🇧]t.me/ConfigsHub
