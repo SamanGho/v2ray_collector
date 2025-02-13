@@ -1,3 +1,4 @@
+vless://0792a045-c4e2-4816-bbb9-872b7aba601b@fishlab.ucdavis.edu:443?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=tls&fp=randomized&sni=fishlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@108.129.27.66:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇮🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxNjMuNS4xNTkuMjMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJpcnZpZGVvLmNmZCIsImlkIjoiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4er8J+Ht110Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiaXJ2aWRlby5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@217.182.198.219:9101#[🇩🇪]t.me/ConfigsHub
@@ -142,7 +143,6 @@ vless://f79a48da-1590-4cc0-bd3e-2a92f9ce36c7@kamyar.vact.ir:2083/?type=grpc&serv
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#[🇳🇱]t.me/ConfigsHub
 trojan://Aimer@192.0.54.7:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:27103?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
-vless://b5bfd6cc-86f3-47cd-9a3e-258160f59a4b@104.16.61.8:8080?path=%2F%3Fed%3D8080&security=none&encryption=none&host=fastfoods.api.ahmadp206.sbs.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://e6d5abcc-daec-44be-a679-7c2ed9d4183d@80.240.112.159:8443?mode=gun&security=reality&encryption=none&pbk=OPtEkpD5Qu9GjR179s5dluG39494gQwrkFPPTJwj0z4&fp=chrome&spx=%2F&type=grpc&sni=sToRaGe.goOglEaPis.com&sid=4fbb2a5522#[🇩🇪]t.me/ConfigsHub
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@45.90.96.19:443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#[🇩🇪]t.me/ConfigsHub
 vless://d5323028-03ee-4aa6-a27b-76b6c6fd49a1@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480#[🇨🇦]t.me/ConfigsHub
