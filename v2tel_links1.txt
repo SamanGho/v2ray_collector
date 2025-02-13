@@ -6337,3 +6337,7 @@ trojan://telegram-id-directvpn@13.61.205.149:22222?security=tls&alpn=http/1.1&he
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.61.205.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.51.67.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=pjolvu.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
+vless://63f4f2b2-b9de-4a27-beb6-ca478bc3e3f9@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=djRaMcDJDRJywTzoexhKfnoPjHCYQK3gpn3ph2R3dDk&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=906d#[🇩🇪]t.me/ConfigsHub
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.128:80?path=%2F%3Fed%3D2560%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#[🇳🇱]t.me/ConfigsHub
+vless://Parsashonam-172@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
