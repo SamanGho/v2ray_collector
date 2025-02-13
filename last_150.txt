@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@13.61.49.102:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇸🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@ns3849026.ip-217-182-198.eu:445#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiI0Ni4yOS4xNjYuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjBjNDljZDE5LTI3NTgtNGQzOC1lNmE4LTExZjJkNjYzNTg2MCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDc1NTUiLCJwcyI6Ilvwn4e38J+Hul10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://99da041a-bdf9-4e24-88aa-3ee2912cb408@198.244.143.228:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#[🇬🇧]t.me/ConfigsHub
@@ -146,5 +147,4 @@ vless://23a5a413-c1e1-4b29-f948-a48bb153400b@151.101.3.8:80?path=%2F%40vistav2ra
 vless://Free_HTTPCustom@free-httpcustom-free-httpcustom-free-httpcustomafree-httpcustom.custom-vip.site:80?type=xhttp&path=%2Fapps&host=spedtest.net&mode=auto&security=none#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.74.246.32:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://2fb8567e-0c85-4950-9975-af714241b2db@ZuLa.ir:8080?type=ws&host=seyyed.webdade.ip-ddns.com&path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed%3D2048&security=none#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@3.10.7.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 vless://TELEGRAM--V2RAXX@speedtest.net:80?type=ws&host=V2RAXX.ir&path=/Telegram,V2RAXX,Telegram,?ed%3D2048&security=none#[🇨🇦]t.me/ConfigsHub
