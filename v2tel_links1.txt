@@ -6497,3 +6497,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.190.106:22222?path=/telegram-c
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.190.106:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 trojan://telegram-id-privatevpns@3.77.77.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.77.77.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
+vless://468d278f-2bf4-41ba-ba06-50d41359dae0@lunarmc.ir:27180?type=tcp&security=none#[🏁]t.me/ConfigsHub
