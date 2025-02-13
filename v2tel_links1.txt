@@ -6331,3 +6331,9 @@ trojan://Pooria@104.17.148.22:443?security=tls&sni=301.pOORiAm.ir&type=ws&path=/
 trojan://Aimer@188.164.159.55:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#[🏁]t.me/ConfigsHub
 trojan://Aimer@18.153.94.168:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://8557a033-bb72-4ef6-9be8-2c8bc5f2b801@188.245.206.4:12711?security=&type=ws&path=/&encryption=none#[🇩🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.156.192:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+ss://0748c3bvv73vv71W77-977-977-9O3nvv73vv73vv73vv73vv71r77-977-9ae-_vR1977-977-9OtO-PHN277-977-9Vu-_ve-_ve-_vTt577-977-977-977-977-9a--_ve-_vWnvv70dfe-_ve-_vQ==@c1.vact.ir:2083#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@13.61.205.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.61.205.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.51.67.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
