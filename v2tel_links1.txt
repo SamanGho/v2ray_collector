@@ -7092,3 +7092,6 @@ vless://25469966-6dd1-489c-8dc2-a8f3532f899d@sto5.vpntype.dev:443?security=tls&e
 trojan://Aimer@185.183.84.96:20001?sni=agepw.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.21.84.93:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 vless://7bf45d7f-4435-4ad2-aa08-6de32c7e2ee7@172.64.35.250:443?security=tls&sni=p2lnox.alligator27.com&type=ws&host=p2lnox.alligator27.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER-3011a565e01b@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss7x.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER-3011a565e01b@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss7x.ir&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws4
+trojan://telegram-id-privatevpns@3.9.235.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
