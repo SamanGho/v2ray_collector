@@ -7597,3 +7597,14 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.177.229.195:5500#[🇩🇪]t.m
 vless://43236c35-249c-4824-9ba1-123561e75062@fishlab.ucdavis.edu:443?security=tls&sni=fishlab.ucdavis.edu&fp=randomized&type=ws&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&host=JoinBede--vmessorg--vmessorg.iR&encryption=none#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@193.108.119.63:7002#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVE5qTkRZNQ==@185.234.64.35:8388#[🇫🇷]t.me/ConfigsHub
+vless://7dd494e0-65dc-48b4-a8f8-ef7bb25fab70@fishlab.ucdavis.edu:443?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=tls&fp=randomized&sni=fishlab.ucdavis.edu#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.121.248:5001#[🇺🇸]t.me/MoftConfig
+vless://7dd494e0-65dc-48b4-a8f8-ef7bb25fab70@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480#[🇺🇸]t.me/MoftConfig
+vless://7dd494e0-65dc-48b4-a8f8-ef7bb25fab70@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVE5qTkRZNQ==@185.234.64.35:8388#[🇫🇷]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnajFkdncxNW5uakl5TVNqU2ZpY2VD@150.241.97.216:26039#[🇫🇮]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@193.108.119.63:7002#[🇩🇪]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@193.108.117.243:5498#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVGczWXpKaA==@45.84.1.33:8388#[🇷🇺]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.177.229.195:5500#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#[🇧🇭]t.me/MoftConfig
