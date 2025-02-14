@@ -7674,3 +7674,4 @@ vless://f0cab5ae-fd07-4e7c-b784-3b92bf2b3401@fra5.vpntype.dev:443?security=tls&e
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@185.244.208.225:17701?sni=data.52daishu.life#[🏁]t.me/ConfigsHub
 vless://0c04dd79-71ad-475e-9a22-8fe625afccbb@23.227.39.185:8080?type=ws&host=seyyed.webdade.ip-ddns.com&path=%2F%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@142.202.51.85:5498#[🇬🇧]t.me/MoftConfig
+vless://403c49c4-3fee-4cac-9f45-a3b3b272d47a@cloud2.xmsvx.com:80/?type=ws&encryption=none&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#👉🆔 @MoftConfig📡🇨🇦Canada
