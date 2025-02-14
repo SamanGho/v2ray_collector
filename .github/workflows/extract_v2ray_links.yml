@@ -2,7 +2,7 @@ name: Scrape V2Ray Links
 
 on:
   schedule:
-    - cron: '*/20 * * * *'  # Runs every 20 minutes
+    - cron: '*/10 * * * *'  # Runs every 20 minutes
   workflow_dispatch:
 
 jobs:
