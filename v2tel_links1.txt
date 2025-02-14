@@ -7433,3 +7433,24 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.246.9.159:3229?type=tcp&security
 vless://a8f70486-b250-4621-849b-a72126113099@hajlab.ucdavis.edu:443?path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @MoftConfig📡🇺🇸United States
 vless://091407b6-3ef7-4c21-b7d6-3b47f958f1d0@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=vqel8l.ulavpnx1.work&type=ws&alpn=http/1.1&host=vqel8l.ulavpnx1.work&path=/wss#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://f9256915-8c46-4b21-90f3-dca83cfb7a61@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=rEMarKAbLe-ChaRt.oNEEAt.CO.&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://65086441068973800@63.177.177.23:443?#👉🆔 @MoftConfig📡🇩🇪Germany
+trojan://Aimer@107.175.37.135:443?sni=ngepo.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Aimer@45.134.21.8:2053?security=tls&type=tcp&sni=agepq.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇧🇬Bulgaria
+vless://84b9fdd9-c46b-4dfd-9074-84cb45750e6e@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=rARE-cRediT.oNeeat.Co.&type=ws#[🇨🇦]t.me/MoftConfig
+vless://f9256915-8c46-4b21-90f3-dca83cfb7a61@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=rEMarKAbLe-ChaRt.oNEEAt.CO.&type=ws#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@198.62.62.192:2083?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER-6ab082280638@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fsxss21320x.ir&type=ws#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://telegram-id-privatevpns@18.130.203.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+vless://96776382-6b66-4115-b93e-6f8f72b6960e@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@220.121.230.236:21325?sni=agepq.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇰🇷South Korea
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.225.238:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇬🇧
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@15.223.69.112:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#[🇨🇦]t.me/MoftConfig
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.242.252.177:3229?type=tcp&security=none#[🇺🇸]t.me/MoftConfig
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.96.161.131:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#[🇨🇦]t.me/MoftConfig
+trojan://telegram-id-privatevpns@18.130.203.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧@MoftConfig
+trojan://NISHIKUITAN222@173.245.49.110:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://96776382-6b66-4115-b93e-6f8f72b6960e@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v20.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#[🇨🇦]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.225.238:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇬🇧]t.me/ConfigsHub
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.22.68.229:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#[🇺🇸]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.225.238:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇬🇧]t.me/MoftConfig
+trojan://telegram-id-directvpn@13.50.158.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
