@@ -7461,3 +7461,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.200.117:443#[�
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.89:6379#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.50.137.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM0Q0UTU2MUNxOTk2eXZqcDlxSGY0@62.60.217.17:64552#[🇩🇪]t.me/ConfigsHub
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-173@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D%2Fws%3Fed%3D2560&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=tls&encryption=none&alpn=h2,http/1.1&host=%50%61%72%73%61%73%68%6F%6E%61%6D-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇬🇧]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.194.231.164:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-173@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@51.44.53.233:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.155.189.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.194.231.164:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/ConfigsHub
+trojan://Aimer@65.109.199.131:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#[🇫🇮]t.me/ConfigsHub
