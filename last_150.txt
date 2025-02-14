@@ -1,3 +1,5 @@
+vless://a153b0d3-2a41-4bdf-844e-5f7a51decbbf@zula.ir:443?path=%2FQtQ18FbJKbogSwMu%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=grokcreator.pages.dev&fp=randomized&type=ws&sni=gRokCREAtor.PAGES.dEV#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#[🇺🇸]t.me/ConfigsHub
 vless://a153b0d3-2a41-4bdf-844e-5f7a51decbbf@zula.ir:443?path=%2FjRP9j8o3k2HpxbJc%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=serverv2ray.us.kg&fp=randomized&type=ws&sni=sErVeRV2ray.Us.kG#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@199.34.228.164:2087?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.176.27.55:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/ConfigsHub
@@ -49,7 +51,6 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.49.119:2375#[🇺🇸]t.me/Con
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0aUxsODNteldPQkx1YWNPWnlZNHN3@h110vpntr.outlinekeys.net:65262#[🇹🇷]t.me/ConfigsHub
 vless://37114570-4648-4fde-b6a5-80d2bad7f354@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://37114570-4648-4fde-b6a5-80d2bad7f354@ww.speedmeter.life:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&type=ws#[🇺🇸]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNndOVFNEV05EQXJRcmJkZWg3ZEJZ@86.104.74.203:32404#[🇫🇷]t.me/ConfigsHub
 vless://3d471686-81aa-405d-b596-d64e064848f3@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
 vless://8844c30c-c29e-4ad3-a359-5ba5e43da849@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&security=tls&encryption=none&host=joinbedemaznettel.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.0.154:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/ConfigsHub
@@ -139,7 +140,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:80
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.9:443#👉🆔 @MoftConfig📡🇺🇸United States
 vless://0c04dd79-71ad-475e-9a22-8fe625afccbb@www.visa.com:8080?path=/telegram,ELiV2RAY-telegram,ELiV2RAY-telegram,ELiV2RAY-telegram,ELiV2RAY-telegram,ELiV2RAY-telegram,ELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 trojan://PfE3MbyRzjb5VMOdPVyLYg@s1.xelera.ir:1000?mode=gun&security=none&authority=1aab173d7d45dd0f&type=grpc&serviceName=1000trojan#👉🆔 @MoftConfig📡🇩🇪Germany
-ss://0748c3a1-1b82-47ef-a846-a6faaacdfbe7@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=90278dfc#⚜️Telegram:@IP_CF
 trojan://telegram-id-privatevpns@35.181.64.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇫🇷France
 vless://375dd25d-0ec6-454c-be6f-ce67b196b23b@104.21.84.22:443?path=%2F&security=tls&encryption=none&host=freedom11.fmnxmt.workers.dev&fp=chrome&type=ws&sni=freedom11.fmnxmt.workers.dev#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@38.114.121.248:5001#👉🆔 @MoftConfig📡🇺🇸United States
