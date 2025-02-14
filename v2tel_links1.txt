@@ -6665,3 +6665,11 @@ vless://93e2cc37-33da-40ca-9161-8337621d4a8e@cloud2.xmsvx.com:80?encryption=none
 vless://TELEGRAM-NUFiLTER-3db492312b4d@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fsxss21320x.ir&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws
 vless://b9c49aa8-9e33-46e1-83c2-825deaeb8640@mahdiserver-3h9.pages.dev:2053?encryption=none&security=tls&sni=mahdiseRvEr-3H9.paGeS.deV&alpn=h2%2Chttp7%2F1.1&fp=chrome&type=ws&host=mahdiserver-3h9.pages.dev&path=%2F#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638734201752843863.paris-mpl-dra.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇫🇮]t.me/MoftConfig
+vless://1fae959c-261b-44fa-a57f-b917900afea6@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#[🇨🇦]t.me/MoftConfig
+trojan://bpb-trojan@172.67.180.227:443?security=tls&type=ws&sni=bpb-hd.aaronchin.xyz&path=/tr?ed=2560&host=bpb-hd.aaronchin.xyz#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#[🏁]t.me/ConfigsHub
+trojan://bpb-trojan@172.67.180.227:443?security=tls&type=ws&sni=bpb-hd.aaronchin.xyz&path=/tr?ed=2560&host=bpb-hd.aaronchin.xyz#[🇨🇦]t.me/MoftConfig
+trojan://6557bf4a-852b-4a69-ad35-d53293386a13@au.mjt000.com:443?security=tls&sni=au.mjt000.com&type=tcp#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#[🏁]t.me/MoftConfig
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#[🇺🇸]t.me/MoftConfig
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#[🇺🇸]t.me/ConfigsHub
