@@ -150,11 +150,8 @@ def main():
     filename = sys.argv[1]
 
     telegram_urls = [
-        "https://t.me/s/V2razy",
-        "https://t.me/s/v2ray_configs_pool",
+        "https://t.me/s/moftconfig",
         "https://t.me/s/ConfigsHUB2",
-        "https://t.me/s/ConfigsHUB",
-        "https://t.me/s/PrivateVPNs",
         "https://t.me/s/VlessConfig",
         "https://t.me/s/DirectVPN",
         "https://t.me/s/FreeV2rays",
