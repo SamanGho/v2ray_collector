@@ -2253,3 +2253,37 @@ vless://telegram-ArV2ray@AC.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2ry
 vless://7f97027a-6f60-5723-b101-eef62aab17db@faculty.ucdavis.edu:443/?type=ws&encryption=none&host=JoinBede-mosiv2.ir&security=tls&sni=faculty.ucdavis.edu&fp=qq#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://672b4d6e-46f8-48db-90f5-003d90cb211c@nl.parsroute.net:8445/?type=tcp&encryption=none&sni=ftp.debian.org&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=&packetEncoding=xudp#👉🆔 @MoftConfig📡🇳🇱The Netherlands
 vless://7f97027a-6f60-5723-b101-eef62aab17db@fastly.net:80/?type=ws&encryption=none&host=JoinBede-mosiv2.ir#👉🆔 @MoftConfig📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.231.31:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+trojan://Bw5Mz7QkVp@95.179.245.249:443?security=tls&headerType=&type=tcp&sni=z-v2-080537.kailib.com#👉🆔 @MoftConfig📡🇩🇪Germany
+trojan://Aimer@167.68.4.199:2053?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.215.172.82:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
+trojan://Aimer@3.64.205.189:443?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.177.63:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇨🇦
+trojan://3747000103274291200@77.73.70.64:443?security=tls&headerType=&type=tcp&sni=better-crappie.treefrog761.one#👉🆔 @MoftConfig📡🇷🇺Russia
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.177.63:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.18.15:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+trojan://Aimer@199.34.228.143:2096?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://telegram-id-directvpn@3.96.254.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://Aimer@27.50.49.166:8443?security=tls&headerType=&type=tcp&sni=acepo.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇭🇰Hong Kong
+trojan://Aimer@188.164.159.98:2083?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇿Czechia
+trojan://telegram-id-directvpn@3.148.77.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://Aimer@209.94.90.64:443?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Aimer@156.225.72.199:2096?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.66.121:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+trojan://bpb-trojan@104.18.107.117:443?security=tls&headerType=&type=tcp&sni=bpb.my79801.com#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://Bw5Mz7QkVp@45.76.80.201:443?security=tls&headerType=&type=tcp&sni=z-v2-082554.kailib.com#👉🆔 @MoftConfig📡🇩🇪Germany
+trojan://Aimer@160.79.104.131:8443?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+ss://5b67072c-e76c-45d7-b38b-e39e332ecad0@c2.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&fp=randomized&spx=%2F&type=grpc&sni=refersion.com&sid=11a4b6bca8#⚜️Telegram:@IP_CF
+vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.210.133:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=aw035.ir&type=ws&sni=wear.net#⚜️Telegram:@IP_CF
+trojan://Bw5Mz7QkVp@45.63.94.101:443?security=tls&headerType=&type=tcp&sni=z-v2-077954.kailib.com#👉🆔 @MoftConfig📡🇺🇸United States
+vmess://eyJhZGQiOiJ3d3cudmlzYS5jb20udHciLCJhaWQiOjAsImhvc3QiOiJzMi4yZ28udXMua2ciLCJpZCI6IjMwMWZhZDY3LTEyODgtNDdhOS1iM2NhLTIyYjgyM2U0ZTc4OSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MtYXJnbz9lZD0yMDQ4IiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://3747000103274291200@model-fly.adder289.quest:443?security=tls&headerType=none&type=tcp&sni=model-fly.adder289.quest#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiJoa25ieWl2ZmZmai5zaXRlIiwiYWlkIjowLCJob3N0IjoiaGtuYnlpdmZmZmouc2l0ZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9yYnFxdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImhrbmJ5aXZmZmZqLnNpdGUifQ==
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.210.149.201:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
+trojan://Aimer@210.99.204.14:10044?security=tls&headerType=&type=tcp&sni=ngepo.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇰🇷South Korea
+trojan://Bw5Mz7QkVp@45.63.31.221:443?security=tls&headerType=&type=tcp&sni=z-v2-080487.kailib.com#👉🆔 @MoftConfig📡🇦🇺Australia
+trojan://Aimer@104.129.166.131:8443?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇭🇰Hong Kong
+trojan://Aimer@27.50.48.186:2083?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇭🇰Hong Kong
+trojan://Aimer@192.200.160.15:8443?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://telegram-id-privatevpns@3.124.210.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪@MoftConfig
+vless://13a387fa-375b-41ee-9a2f-a07b762b2f27@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#[🇩🇪]t.me/ConfigsHub
