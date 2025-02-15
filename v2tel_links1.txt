@@ -7797,3 +7797,23 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.225.238:22222?security=tls&s
 vless://583a8f17-07c8-4f00-b425-6328bf6a1ecd@194.87.148.192:39800?encryption=none&security=none&type=tcp&headerType=none#👉🆔 @MoftConfig📡🇩🇪Germany
 ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg@80.92.204.106:9015#👉🆔 @MoftConfig📡🇩🇪Germany
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#👉🆔 @MoftConfig📡🇪🇸Spain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM%3D@95.164.249.61:54075#👉🆔 @MoftConfig📡🇲🇪Montenegro
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:2087?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=HaSti.fReEaIRlAineS.coM&fp=chrome&type=ws&sni=HASti.FReeAirlAINEs.cOm#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=pjmlbu.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS-All|@ArV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg%3D%3D@uk2.opensocks.site:8388#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://TELEGRAM-NUFiLTER-6ab082280638@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fsxss21320x.ir&type=ws#[🇺🇸]t.me/MoftConfig
+vless://3c9327b7-a38b-5fd0-8444-ec6044ffa608@skvpnandroid2.69.mu:80?path=%2Fvless&security=none&encryption=none&host=skvpnandroid2.69.mu.&type=ws#👉🆔 @MoftConfig📡🇸🇰Slovakia
+vless://0cf13601-4752-4f9f-b196-e2e214a589bb@172.167.181.175:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=hefdah.dilik.co#[🇬🇧]t.me/MoftConfig
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.163.90:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#👉🆔 @MoftConfig📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#[🇬🇧]t.me/MoftConfig
+vless://7f97027a-6f60-5723-b101-eef62aab17db@faculty.ucdavis.edu:443?security=tls&encryption=none&host=JoinBede-mosiv2.ir&fp=qq&type=ws&sni=faculty.ucdavis.edu#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://7f97027a-6f60-5723-b101-eef62aab17db@faculty.ucdavis.edu:443?security=tls&encryption=none&host=JoinBede-mosiv2.ir&fp=qq&type=ws&sni=faculty.ucdavis.edu#👉🆔 @MoftConfig📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.96.1:443?path=%2F9BX39ZVMZoLNZe35%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HAStI.FreEAiRlaineS.CoM&fp=randomized&type=ws&sni=hastI.FrEeAIRLAInEs.CoM#[🇺🇸]t.me/MoftConfig
+vless://7f97027a-6f60-5723-b101-eef62aab17db@fastly.net:80?security=none&encryption=none&host=JoinBede-mosiv2.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://Parsashonam-173@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @MoftConfig📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM%3D@95.164.249.61:54075#[🏁]t.me/MoftConfig
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.154:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135004002.sec20org.com#👉🆔 @MoftConfig📡🇵🇷Puerto Rico
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.221:8880?security=none&encryption=none&type=grpc#👉🆔 @MoftConfig📡🇫🇮Finland
+vless://97ecb2d3-02e0-4ced-a919-2d82607e8b63@dd12.transitkala.com:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd12.transitkala.com&fp=chrome&type=ws&sni=dd12.transitkala.com#👉🆔 @MoftConfig📡🇫🇮Finland
+vless://9c1db283-1b21-4d04-abeb-91bf18dec777@157.10.53.146:14626?security=reality&encryption=none&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com#[🏁]t.me/MoftConfig
