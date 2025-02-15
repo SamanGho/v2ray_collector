@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@3.139.220.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
 trojan://6557bf4a-852b-4a69-ad35-d53293386a13@54.178.222.133:443?security=tls&sni=uk.mjt000.com&type=tcp#[🏁]t.me/ConfigsHub
 trojan://c1f4cf20-494f-407e-8181-629ab03e2139@104.21.69.44:443?security=tls&sni=se1.safecdn.site&type=ws&host=se1.safecdn.site&path=%2Fby-AB_841%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D#[🇺🇸]t.me/ConfigsHub
 trojan://NISHIKUITAN111@89.116.46.33:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#[🇬🇧]t.me/ConfigsHub
@@ -145,6 +146,5 @@ vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?type=ws&host=porman
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.15.211.167:8443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#[🇺🇸]t.me/ConfigsHub
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.15.211.167:8443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206UkFNTFhYVE81TlNNNzg2Tw==@156.245.190.15:15006#[🏁]t.me/MoftConfig
-vless://665b6586-00af-4615-afc3-6310590489c1@a11.kiodent.ir:2053?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.0.28:443#[🇬🇧]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WUpDSjBSNFdZMU5XRlUyWQ@154.196.244.17:16007#[🏁]t.me/MoftConfig
