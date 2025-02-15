@@ -7740,3 +7740,14 @@ vless://0b5aa81a-4068-4a2b-f1c5-87b8f128c781@151.101.3.8:80?path=%2F%40vistav2ra
 trojan://Aimer@104.19.107.190:2096?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇦Canada
 trojan://Aimer@216.24.57.186:443?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
 trojan://bpb-trojan@104.21.79.143:443?security=tls&headerType=&type=tcp&sni=403b3611-99bC-43B7-88D7-26eD5D0825A9-3.pAgeS.dEv#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443?security=tls#[🏁]t.me/MoftConfig
+trojan://Aimer@18.153.94.168:443?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇩🇪Germany
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.128.195:989#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.165.101:8119#[🇺🇸]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.182.0.216:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.128.195:989#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.165.101:8119#[🇺🇸]t.me/ConfigsHub
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.182.0.216:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+vless://08744702-4e0e-434d-a63b-010f70b7ab87@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443?security=tls#[🏁]t.me/ConfigsHub
