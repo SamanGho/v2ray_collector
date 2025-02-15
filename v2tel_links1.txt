@@ -7953,3 +7953,27 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#[🇺🇸]t.me/MoftC
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.92.42:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.92.42:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 trojan://telegram-id-directvpn@13.36.73.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@51.21.128.122:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#👉🆔 @MoftConfig📡🇸🇪Sweden
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.164.244.89:3229?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=redw.pooriam.ir&path=/LwW5jwrnymnOdqki?ed%3D2560&security=none#[🇨🇦]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.112.1:443?type=ws&host=HAStI.FrEeAIRlAInEs.cOM&path=/aM6A6pLqSjHLOOQ5?ed%3D2560&security=tls&fp=randomized&sni=hASTi.FReeAIRlaiNes.cOM&alpn=h2,http/1.1#[🇨🇦]t.me/MoftConfig
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.222.185.157:3229?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://798233f3-8738-41ac-bb99-4e8a8fc309d3@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @MoftConfig📡🇺🇸United States
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?type=ws&host=pormang.webhost99.workers.dev&path=/?ed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.87.215.249:3229?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=redw.pooriam.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.242.165.191:3229?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.218.227.98:3229?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=redw.pooriam.ir&path=/LwW5jwrnymnOdqki?ed%3D2560&security=none#[🇨🇦]t.me/MoftConfig
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.16.67.180:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#👉🆔 @MoftConfig📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.112.1:443?type=ws&host=HAStI.FrEeAIRlAInEs.cOM&path=/aM6A6pLqSjHLOOQ5?ed%3D2560&security=tls&fp=randomized&sni=hASTi.FReeAIRlaiNes.cOM&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
+vless://798233f3-8738-41ac-bb99-4e8a8fc309d3@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @MoftConfig📡🇺🇸United States
+vless://7f7b73fb-e3fe-42e0-84bc-2630da69da58@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QuaINT-cOnStructiOn.OneEAt.Co.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.93.138.84:3229?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.84.132.96:3229?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.89.82.133:3229?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vmess://eyJhZGQiOiJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsImFpZCI6MCwiaG9zdCI6InVzd3V4aWFuLnBhaTUwMjg4LnVrIiwiaWQiOiJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjg0NDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.94.4.126:3229?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&security=&encryption=none&host=redw.pooriam.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://da8b385b-98b0-4d68-b176-ab6f51a3a8b7@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cApTIvAtIng-bUIlDiNG.ONEeaT.CO.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
