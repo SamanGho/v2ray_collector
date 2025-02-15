@@ -1,3 +1,4 @@
+vless://3873beec-44c6-45be-8900-d184a1d0ee8f@209.97.176.198:8443?security=reality&type=tcp&headerType=&path=&host=&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNGpPWS1yYkEwVHY1VGRiRWpUeWJB@209.97.176.198:1080#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 vless://7f97027a-6f60-5723-b101-eef62aab17db@faculty.ucdavis.edu:443/?type=ws&encryption=none&host=JoinBede-mosiv2.ir&security=tls&sni=faculty.ucdavis.edu&fp=qq#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://672b4d6e-46f8-48db-90f5-003d90cb211c@nl.parsroute.net:8445/?type=tcp&encryption=none&sni=ftp.debian.org&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=&packetEncoding=xudp#👉🆔 @MoftConfig📡🇳🇱The Netherlands
@@ -137,7 +138,6 @@ vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@13.59.158.251:8443?security=reality
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.222.45.226:3229?security=&type=tcp&encryption=none#[🇺🇸]t.me/MoftConfig
 vless://665b6586-00af-4615-afc3-6310590489c1@a11.kiodent.ir:2053?security=&type=tcp&headerType=http&host=fast.com&encryption=none#[🇺🇸]t.me/MoftConfig
 vless://ffaddb4b-271f-4627-983d-30016e5b0650@esna.twn24.ir:443?security=tls&fp=random&type=httpupgrade&path=/14564/?ed%3D2048&host=esna.twn24.ir&encryption=none#[🇨🇦]t.me/MoftConfig
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.255.18.130:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://a93fc14d-9438-4f2f-9778-313e2c57031b@138.199.162.176:465?security=&type=tcp&encryption=none#[🇩🇪]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?security=&type=ws&path=/?ed%3D2560&host=a.xn--i-sx6a60i.us.kg.&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://5bdb3fce-6dbd-44de-8e63-dd09f97b83ed@d5.vixsm.ir:2025?security=reality&sni=refersion.com&fp=chrome&pbk=0wkeiqZVR2sqzFcRvymJy1nt2421ZbGlurWsm45omC4&sid=0b336008af8942c3&type=tcp&encryption=none#[🇷🇺]t.me/MoftConfig
