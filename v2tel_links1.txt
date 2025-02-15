@@ -7719,3 +7719,24 @@ trojan://3747000103274291200@43.202.142.243:443?sni=humble-rodent.treefrog761.on
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA5LjEyMy4yMzIuNzQiLCJwb3J0Ijo1OTAzMiwiaWQiOiI5NmFiN2UxZi1iZjBkLTQ1Y2QtOGViYy1jOGJlMmY4ZDQzY2QiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
 ss://1fb52030-a522-4665-8a35-09b6710b062d@51.89.227.248:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#⚜️Telegram:@IP_CF
 vless://631b13ca-3ff4-4920-9c0d-085044ded5a3@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
+trojan://Aimer@222.97.9.166:50004?security=tls&headerType=&type=tcp&sni=ngepo.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇰🇷South Korea
+trojan://Aimer@188.164.159.55:2096?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇿Czechia
+trojan://SSorg@172.67.156.115:2087?security=tls&headerType=&type=tcp&sni=ssjj.esslh.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://Aimer@154.197.64.206:443?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Aimer@14.35.59.67:50000?security=tls&headerType=&type=tcp&sni=ngepo.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇰🇷South Korea
+trojan://Bw5Mz7QkVp@66.42.76.182:443?security=tls&headerType=&type=tcp&sni=z-v2-076956.kailib.com#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Aimer@192.0.54.221:2083?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://blue2024@104.18.153.27:443?security=tls&headerType=&type=tcp&sni=td.promote.icu#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://Aimer@209.208.227.79:443?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Bw5Mz7QkVp@199.247.27.91:443?security=tls&headerType=&type=tcp&sni=z-v2-078331.kailib.com#👉🆔 @MoftConfig📡🇳🇱The Netherlands
+vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@5.231.79.254:443?security=tls&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#👉🆔 @MoftConfig📡🇩🇪Germany
+trojan://Aimer@172.64.34.52:2096?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://er668@104.21.112.1:443?security=tls&headerType=&type=tcp&sni=kfjdi.pages.dev#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://Aimer@220.121.230.236:21325?security=tls&headerType=&type=tcp&sni=agepq.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇰🇷South Korea
+trojan://Bw5Mz7QkVp@45.76.60.234:443?security=tls&headerType=&type=tcp&sni=z-v2-074418.kailib.com#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Aimer@185.183.84.96:20001?security=tls&headerType=&type=tcp&sni=agepw.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Aimer@173.245.59.109:2087?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://0b5aa81a-4068-4a2b-f1c5-87b8f128c781@151.101.3.8:80?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=vistapcit.com&fp=chrome&type=ws&sni=live.989bull.com#⚜️Telegram:@IP_CF
+trojan://Aimer@104.19.107.190:2096?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://Aimer@216.24.57.186:443?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://bpb-trojan@104.21.79.143:443?security=tls&headerType=&type=tcp&sni=403b3611-99bC-43B7-88D7-26eD5D0825A9-3.pAgeS.dEv#👉🆔 @MoftConfig📡🇨🇦Canada
