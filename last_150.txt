@@ -1,3 +1,4 @@
+vless://Parsashonam-173@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇳🇱]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@45.149.12.206:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1#[🇳🇱]t.me/ConfigsHub
 vless://944ef446-ecc1-4535-9eaa-055b2fe802b0@198.244.143.119:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.50.137.193:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇸🇪Sweden
@@ -131,7 +132,6 @@ vless://9ac37507-dc17-5313-8125-c6f588c60103@5.252.23.173:8880?security=none&typ
 trojan://telegram-id-privatevpns@46.137.99.58:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇮🇪Ireland
 vless://568db334-5c96-4771-89ea-3f72761c73ef@31.7.70.170:2131?security=none&type=tcp&headerType=http#[🇮🇷]t.me/ConfigsHub
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@www.wto.org:8443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&headertype=none&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
-ss://0ff570d3-3452-4990-8144-fd2cb9357e09@www.visa.com:2095?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=925tg.s4ua8zqr.workers.dev&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
 vless://4004b4f2-d973-432f-8376-043a52cec187@57.129.41.217:8443?encryption=none&security=tls&sni=ov-germany2.09vpn.com&type=ws&headertype=none&path=%2Fvless%2F#👉🆔 @MoftConfig📡🇩🇪Germany
 vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.24.31.100:2083?encryption=none&security=tls&sni=nikuw.sspeednetokala.Us.KG&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&type=ws&headertype=none&host=nikuw.sspeednetokala.Us.KG&path=vless-ws%2F%3Fed%3D2048#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://568db334-5c96-4771-89ea-3f72761c73ef@31.7.70.170:2131?security=none&type=tcp&headerType=http#👉🆔 @MoftConfig📡🇮🇷Iran
