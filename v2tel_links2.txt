@@ -2810,3 +2810,27 @@ vless://26721978-890e-4946-bafa-cb03c9ff7f4a@109.237.99.177:38142?security=none&
 vless://3602c1ed-5506-4d78-a0be-f39a7594e888@49.12.222.117:57818?path=%2F&security=none&encryption=none&type=ws#👉🆔 @MoftConfig📡🇩🇪Germany
 ss://0ff570d3-3452-4990-8144-fd2cb9357e09@www.visa.com:2086?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=925tg.s4ua8zqr.workers.dev&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-174@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D%2Fws%3Fed%3D2560&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=tls&encryption=none&alpn=h2,http/1.1&host=%50%61%72%73%61%73%68%6F%6E%61%6D-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇬🇧]t.me/MoftConfig
+vless://9ac37507-dc17-5313-8125-c6f588c60103@5.252.23.173:8880?security=none&type=grpc&serviceName=vless-grpc#👉🆔 @MoftConfig📡🇸🇰Slovakia
+trojan://telegram-id-privatevpns@46.137.99.58:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇮🇪Ireland
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls&sni=us01.trojanyyds.xyz&allowInsecure=1&type=tcp&headerType=none#⚜️Telegram:@IP_CF
+vless://568db334-5c96-4771-89ea-3f72761c73ef@31.7.70.170:2131?security=none&type=tcp&headerType=http#[🇮🇷]t.me/ConfigsHub
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@www.wto.org:8443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&headertype=none&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://0ff570d3-3452-4990-8144-fd2cb9357e09@www.visa.com:2095?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=925tg.s4ua8zqr.workers.dev&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMzguMTExLjExNC4xNTMiLCJwb3J0IjoxNDgxMiwiaWQiOiIwMTQ2ZmM0MC01OTYyLTRlOWEtYjM2YS0yYjYwNmQwMDE0NjciLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
+vless://4004b4f2-d973-432f-8376-043a52cec187@57.129.41.217:8443?encryption=none&security=tls&sni=ov-germany2.09vpn.com&type=ws&headertype=none&path=%2Fvless%2F#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.24.31.100:2083?encryption=none&security=tls&sni=nikuw.sspeednetokala.Us.KG&alpn=h3%2Ch2%2Chttp%2F1.1&fp=android&type=ws&headertype=none&host=nikuw.sspeednetokala.Us.KG&path=vless-ws%2F%3Fed%3D2048#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://568db334-5c96-4771-89ea-3f72761c73ef@31.7.70.170:2131?security=none&type=tcp&headerType=http#👉🆔 @MoftConfig📡🇮🇷Iran
+trojan://telegram-id-privatevpns@34.254.37.7:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇮🇪Ireland
+trojan://telegram-id-privatevpns@3.11.246.170:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.186.2:443?security=tls&sni=147135010072.sec21org.com&type=tcp#👉🆔 @MoftConfig📡🇺🇸United States
+vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@v2ra1.ecrgpk.workers.dev:80?encryption=none&security=none&type=ws&headertype=none&host=v2ra1.ecrgpk.workers.dev&path=@VPNHTTPInjectorfree#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.77.53.200:5000#👉🆔 @MoftConfig📡🇵🇱Poland
+ss://YWVzLTI1Ni1nY206MFUxN0w0TFRGREszOFkxSg@23.185.248.17:17007#👉🆔 @MoftConfig📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVEJrWW1Gaw==@95.164.68.37:8388#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@172.67.245.156:2087?encryption=none&security=tls&sni=newus.sspeednetokala.US.KG&alpn=h2&fp=chrome&type=ws&headertype=none&host=newus.sspeednetokala.US.KG&path=vless-ws%2F%3Fed%3D2048#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.101.254:443#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+trojan://cbacaab-bcaa-bcaa-dcba-cbbaccabcaba@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
+vless://dc580147-c87c-4527-bf90-192eb1cf62d1@172.67.163.189:2095?encryption=none&security=none&type=ws&headertype=none&host=sTART.siTeg52770.WoRkErs.DEV&path=%2Ft0DCEkrZ7kAbLwDv%2FMC4wLjAuMA%3D%3D%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#👉🆔 @MoftConfig📡🇳🇱The Netherlands
+ss://0ff570d3-3452-4990-8144-fd2cb9357e09@www.visa.com:2095?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=925tg.s4ua8zqr.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.210.160.163:1001?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&headertype=none&host=a.xn--i-sx6a60i.us.kg&path=%2F#👉🆔 @MoftConfig📡🇳🇱The Netherlands
