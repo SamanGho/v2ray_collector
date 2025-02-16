@@ -9504,3 +9504,26 @@ vless://d8b42cd5-a149-4356-6e91-30ad83662600@35.87.248.230:1009?type=tcp&securit
 vless://e7108e71-c9ae-53d3-9131-fc3e2baca513@faculty.ucdavis.edu:443?allowInsecure=1&security=tls&host=Join-shokhmiplus.ir&fp=qq&type=ws&sni=faculty.ucdavis.edu#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#[🏁]t.me/ConfigsHub
 vless://14b802b6-09a9-47f3-900a-3b58ca983cb8@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#[🇨🇦]t.me/MoftConfig
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@zUla.IR:8443?path=%2FcVwhB4RnkmUyTlvX%3Fed%3D2560.AB_841-.[#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#[🇺🇸]t.me/MoftConfig
+vless://c0a5eb8d-e2ee-45e8-a3b3-1a5010d39e01@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v24.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.250.242:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+vless://TELEGRAM-NUFiLTER-5a72acb5a1db@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss222x.ir&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws3
+vless://d8b42cd5-a149-4356-6e91-30ad83662600@44.244.106.185:1009?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.37.120:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#[🇺🇸]t.me/MoftConfig
+vless://3d745584-ee55-4f77-8b12-34ad923aad02@jermaine.ns.cloudflare.com:443?encryption=none&security=tls&sni=jbvoei.shieldify.site&type=ws&alpn=http/1.1&host=jbvoei.shieldify.site&path=/wss#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@tmswech.ru:443#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+vless://9fcb535c-f0dc-42d2-869b-7e8a072a8ffc@jermaine.ns.cloudflare.com:443?encryption=none&security=tls&sni=l18oqn.a27app.com&type=ws&alpn=http/1.1&host=l18oqn.a27app.com&path=/wss#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://s42%26umY%28K5n*csP4@joinmahdiserver-eeu.pages.dev:8443?path=%2FtrOagy9SuM2cDpqUqO%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=joinmahdiserver-eeu.pages.dev&fp=randomized&type=ws&sni=JOInMAHDiseRVer-EEu.pAGEs.dEv#[🇺🇸]t.me/ConfigsHub
+vless://d8b42cd5-a149-4356-6e91-30ad83662600@44.244.19.34:1009?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://telegram-id-privatevpns@3.121.12.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+vless://c0a5eb8d-e2ee-45e8-a3b3-1a5010d39e01@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v24.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @MoftConfig📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.250.242:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇨🇦]t.me/MoftConfig
+vless://326B6124-9762-4A48-8CCA-D8B6E3999226@259284b7.ddns-link-b5.uk:10036?security=reality&encryption=none&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swcdn.apple.com&sid=686c0ef0#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.250.242:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE%3D@hk.fastsoonlink.com:40000#👉🆔 @MoftConfig📡🇭🇰Hong Kong
+vless://d8b42cd5-a149-4356-6e91-30ad83662600@18.188.183.153:1009?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://46062b78-fb45-4392-a817-6f460622ed6f@188.34.201.88:16072?mode=gun&security=none&encryption=none&authority=Telegram+%3A&type=grpc&serviceName=#👉🆔 @MoftConfig📡🇩🇪Germany
+trojan://telegram-id-privatevpns@3.121.12.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪@MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmcnNhNURGelJBTllQczV5TWV4c1ZVckM3ZDZOWThwdkJSRm40ZzFXa0Y0UjcxWTVhNkU2cVlwM1N4UDJFYVVoMnlYc0FLYlRBbTdTbUw1cWs1eE1Hb0RSakg1RjhCQlU%3D@107.181.155.244:55330#👉🆔 @MoftConfig📡🇱🇹Lithuania
+ss://77-977-977-977-977-9eO-_vX1cd--_vRvTr--_ve-_ve-_ve-_ve-_ve-_vXhrV3rvv73vv714Ou-_ve-_ve-_ve-_ve-_vXjvv719XHfvv70b06_vv73vv73vv73vv73vv73vv714a1d677-977-9eA==@hajlab.ucdavis.edu:443#⚜️Telegram:@IP_CF
