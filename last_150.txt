@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@13.50.137.193:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇸🇪Sweden
 vless://944ef446-ecc1-4535-9eaa-055b2fe802b0@198.244.143.119:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#[🇬🇧]t.me/ConfigsHub
 trojan://3747000103274291200@43.202.142.243:443?sni=humble-rodent.treefrog761.one&allowInsecure=0#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.21.52.239:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇸🇪Sweden
@@ -144,7 +145,6 @@ vless://dc580147-c87c-4527-bf90-192eb1cf62d1@172.67.163.189:2095?encryption=none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#👉🆔 @MoftConfig📡🇳🇱The Netherlands
 ss://0ff570d3-3452-4990-8144-fd2cb9357e09@www.visa.com:2095?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=925tg.s4ua8zqr.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.210.160.163:1001?encryption=none&security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&headertype=none&host=a.xn--i-sx6a60i.us.kg&path=%2F#👉🆔 @MoftConfig📡🇳🇱The Netherlands
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.16.112.66:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
 trojan://fuck@42.236.73.72:443?security=tls&headerType=&type=tcp&sni=www.zitian.cn#👉🆔 @MoftConfig📡🇨🇳China
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#👉🆔 @MoftConfig📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#👉🆔 @MoftConfig📡🇳🇱The Netherlands
