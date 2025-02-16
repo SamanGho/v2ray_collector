@@ -10064,3 +10064,5 @@ trojan://telegram-id-directvpn@18.168.194.159:22222?sni=trojan.burgerip.co.uk&al
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.74.254:443#[🇧🇭]t.me/MoftConfig
 trojan://telegram-id-directvpn@18.168.194.159:22222?sni=trojan.burgerip.co.uk&allowInsecure=0#[🇬🇧]t.me/MoftConfig
 vless://bacff32b-48b5-5191-b222-33538e15c735@45.89.55.188:8880?security=none&type=grpc&serviceName=vless-grpc#[🏁]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.176.62.148:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+ss://6090ccaa-aaaf-414c-81fe-c0b6eacd08a2@174.138.91.75:443?security=reality&encryption=none&pbk=isv0-h8thcIesJqsQJLcpvcJT91_WBrjD4syZVv5XiU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=e41c0d#⚜️Telegram:@IP_CF
