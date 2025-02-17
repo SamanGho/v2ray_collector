@@ -10802,3 +10802,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNjIu
 vless://9542de76-e19e-4b7a-8aa8-d6ace8fd0272@185.79.158.141:8088?security=none&type=tcp&headerType=http#👉🆔 @MoftConfig📡🇮🇷Iran
 trojan://bacabca-cbaa-bcaa-acbd-abcbbaabccac@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
 ss://bm9uZTpiYWNhYWNiLWNhYWItYmFjYS1kYWJjLWNiY2JhYWFjYmNhYg==@127.0.0.1:1080#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
+vless://f1c66385-dcb3-4e03-aa31-6adf6708b146@109.61.42.19:9314?security=none&type=tcp&host=varzesh3.com&headerType=http#👉🆔 @MoftConfig📡🇦🇪United Arab Emirates
+ss://YWVzLTI1Ni1nY206TURBNE1qRmxNakF6T1RkaE16VmlPV0kxTVRGaE5HWTNZV1JqWW1WbA@38.54.27.37:995#👉🆔 @MoftConfig📡🇧🇬Bulgaria
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@1.170.235.186:30332#👉🆔 @MoftConfig📡🇹🇼Taiwan
