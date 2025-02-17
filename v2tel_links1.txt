@@ -10311,3 +10311,12 @@ trojan://Aimer@125.132.46.2:10022?allowInsecure=1&sni=agepq.ambercc.filegear-sg.
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.130.251:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇸🇪
 vless://f9c0b388-54e7-44b9-b313-52e55efa51d5@65.109.209.201:7642?security=none&type=tcp&host=Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray-Telegram-icV2ray#👉🆔 @MoftConfig📡🇫🇮Finland
 trojan://telegram-id-privatevpns@13.61.203.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@13.112.16.52:443?security=tls&sni=tw01.trojanyyds.xyz&type=tcp#[🏁]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.205.175:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.219.31:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+trojan://Aimer@125.132.46.2:10022?allowInsecure=1&sni=agepq.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
+trojan://Aimer@185.119.117.146:8443?allowInsecure=1&sni=agepq.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
+trojan://telegram-id-directvpn@13.39.142.10:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://ff960237-57c7-4f59-a8ef-b48e4beaca45@141.101.113.76:443?security=tls&sni=MtnIrancellNamavaAparatir.kooH75.Ir&type=ws&host=MtnIrancellNamavaAparatir.kooH75.Ir&path=/Telegram:@metavpnn&fp=chrome&alpn=h2,http/1.1#[🇺🇸]t.me/MoftConfig
+vless://dc9906e9-967e-4053-b7e3-f2f900d30275@speedtest.net:80?security=none&type=ws&headerType=&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080&host=Digikala.iranian.net#[🇨🇦]t.me/MoftConfig
+trojan://telegram-id-directvpn@15.236.237.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
