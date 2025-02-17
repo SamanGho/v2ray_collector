@@ -10320,3 +10320,7 @@ trojan://telegram-id-directvpn@13.39.142.10:22222?security=tls&alpn=http/1.1&hea
 vless://ff960237-57c7-4f59-a8ef-b48e4beaca45@141.101.113.76:443?security=tls&sni=MtnIrancellNamavaAparatir.kooH75.Ir&type=ws&host=MtnIrancellNamavaAparatir.kooH75.Ir&path=/Telegram:@metavpnn&fp=chrome&alpn=h2,http/1.1#[🇺🇸]t.me/MoftConfig
 vless://dc9906e9-967e-4053-b7e3-f2f900d30275@speedtest.net:80?security=none&type=ws&headerType=&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080&host=Digikala.iranian.net#[🇨🇦]t.me/MoftConfig
 trojan://telegram-id-directvpn@15.236.237.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://YWVzLTI1Ni1nY206UE8xNTZGNEZSWEZNMVVPVA==@23.185.248.13:17003#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206NFhNUUI2R1oyNk83WVlVTg@185.126.239.231:20002#[🇷🇺]t.me/ConfigsHub
+trojan://Aimer@14.37.56.164:50000?allowInsecure=1&sni=agepw.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+vless://c0a5eb8d-e2ee-45e8-a3b3-1a5010d39e01@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.feadlenetwork19922h.net&path=%2F#[🇺🇸]t.me/ConfigsHub
