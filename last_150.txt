@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVEJrWW1Gaw==@95.164.68.37:8388#👉🆔 @MoftConfig📡🇩🇪Germany
 vless://538ec70c-b386-51ad-8155-aeaed37a22b6@172.67.245.156:2087?encryption=none&security=tls&sni=newus.sspeednetokala.US.KG&alpn=h2&fp=chrome&type=ws&headertype=none&host=newus.sspeednetokala.US.KG&path=vless-ws%2F%3Fed%3D2048#👉🆔 @MoftConfig📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.101.254:443#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 trojan://cbacaab-bcaa-bcaa-dcba-cbbaccabcaba@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
@@ -90,7 +91,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.155.2.193:22222?path=/telegram-c
 trojan://telegram-id-privatevpns@63.32.84.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.246.130.53:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇮🇪Ireland
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=%2F%40V2ray_Alpha%3D88.218.78.212&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#[🇨🇦]t.me/MoftConfig
-vmess://eyJhZGQiOiIxNS4yMDQuMjQ5LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWIxMTNjMTItNGRkNC00YmI1LTljMDEtY2ZmMDkyYjU1OWUzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODE2MCIsInBzIjoiW/Cfh7rwn4e4XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#👉🆔 @MoftConfig📡🇵🇱Poland
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.24:3237?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @MoftConfig📡🇫🇷France
 vless://163ca37e-8f41-4563-ad89-1fc621be579b@104.17.148.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#[🇨🇦]t.me/ConfigsHub
