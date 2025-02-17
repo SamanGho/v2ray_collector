@@ -10112,3 +10112,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSa0pmb2dSRG4yTWRIUTFFRXROVXRR@77.83.246.74:4
 vless://9fcb535c-f0dc-42d2-869b-7e8a072a8ffc@172.64.35.157:443?security=tls&sni=l18oqn.a27app.com&type=ws&host=l18oqn.a27app.com&path=/wss&alpn=http/1.1#👉🆔 @MoftConfig📡🇨🇦Canada
 trojan://telegram-id-directvpn@51.21.78.54:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇸🇪Sweden
 ss://1e56e60a-f5b4-443f-81b0-9b8593c73e61@185.235.137.85:59549?security=reality&encryption=none&pbk=9Zsv8K_EsD5IlY2Tv-o88ON512N5Kye6ZGBfeL2TdWc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.1.dragonspeed.ir#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.221:8880?security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER-73840112e7d1@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss1x.ir&type=ws#[🇨🇦]t.me/MoftConfig
