@@ -10451,3 +10451,8 @@ vless://e10be62a-0b26-4bbf-8e37-0507987992a4@client.fastvpshnop.site:2074?securi
 vless://5f6385fa-03ba-46af-8454-2a723e94f6d2@104.20.129.2:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=TaLl-dIvisIOn.OneeAt.cO.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://82ea964a-27bf-464d-9b84-be8ee90c88e0@104.20.129.2:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=plain-liNk.OnEeat.Co.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://a57fd3ae-fed4-4c76-961a-4684a835bb2f@104.20.129.2:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=aROmatIC-RaNGe.oNeeAT.cO.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.173.179:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://627dc960-357b-4388-b040-0d66155d0652@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.39.173.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#[🇳🇱]t.me/ConfigsHub
+vless://4b8d9b4e-c700-4ef0-a765-1937663b7ab8@173.245.59.81:443?security=tls&sni=kqghqc.allgums.com&type=ws&host=kqghqc.allgums.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
