@@ -11271,3 +11271,19 @@ vless://b855a1d8-6a71-43a9-b708-310aae4676aa@hajlab.ucdavis.edu:443?path=%2Ftele
 trojan://telegram-id-privatevpns@13.43.77.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 vless://f58f951e-e3ec-4d55-ae32-1f22b9d16969@157.245.22.105:443?path=%2F33522%2F%40ITSecurityComputer&security=tls&encryption=none&host=grit.tak30zanjan.ir&fp=random&type=ws&sni=grit.tak30zanjan.ir#👉🆔 @MoftConfig📡🇩🇪Germany
 trojan://telegram-id-privatevpns@13.48.253.133:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+vless://0bb388e0-e5ee-416c-b4ae-b9c863475821@103.35.188.136:443?security=reality&encryption=none&pbk=itbKQaHRgxYdKPVpb9bbuU7h42xsmh7xelNZ93FuvkY&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=54b70038b2766783#👉🆔 @MoftConfig📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#👉🆔 @MoftConfig📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#👉🆔 @MoftConfig📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#👉🆔 @MoftConfig📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#👉🆔 @MoftConfig📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#👉🆔 @MoftConfig📡🇵🇱Poland
+trojan://telegram-id-privatevpns@18.171.119.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.172:27401?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#👉🆔 @MoftConfig📡🇭🇰Hong Kong
+trojan://telegram-id-privatevpns@18.171.119.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaakZtWVRZMA%3D%3D@45.142.214.123:8388#👉🆔 @MoftConfig📡🇲🇩Moldova
+trojan://telegram-id-privatevpns@18.171.119.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧@MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @MoftConfig📡🇮🇹Italy
+trojan://telegram-id-privatevpns@18.171.119.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#👉🆔 @MoftConfig📡🇲🇽Mexico
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#👉🆔 @MoftConfig📡🇪🇸Spain
+vless://b1f58d90-e65f-4566-91f3-1b96e9a68612@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#[🇨🇦]t.me/ConfigsHub
