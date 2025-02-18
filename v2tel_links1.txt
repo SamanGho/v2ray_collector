@@ -10847,3 +10847,13 @@ trojan://Aimer@206.238.236.252:2096?security=tls&headerType=&type=tcp&sni=ngepx.
 trojan://trojan@104.21.3.52:443?security=tls&headerType=&type=tcp&sni=test-a23.pages.dev#👉🆔 @MoftConfig📡🇨🇦Canada
 trojan://Aimer@125.132.46.2:10022?security=tls&headerType=&type=tcp&sni=agepq.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇰🇷South Korea
 trojan://0000000@18.238.109.41:443?security=tls&headerType=&type=tcp&sni=www.lovelive-anime.jp#👉🆔 @MoftConfig📡🇺🇸United States
+vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@join.mosiv2.fastly80-3.hosting-ip.com:80?path=%2F%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2-%40MOSIV2%3Fed%3D2560&security=none&encryption=none&host=jOin--Bede--mOsiV2.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://8f60b7ec-bf22-4cba-b22a-ca8160cbf365@45.83.143.37:27757?security=reality&encryption=none&pbk=1x2kcyef8RdeKa4yaoCJSDhpVe4MJEWdotv3dVTvCkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=f7a6fc#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.69.70.181:22222?security=tls&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @MoftConfig📡🇧🇭Bahrain
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#[🇳🇱]t.me/MoftConfig
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=pjmpbu.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#👉🆔 @MoftConfig📡🇺🇸United States
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.227:8080#[🇳🇱]t.me/MoftConfig
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.158:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#[🇺🇸]t.me/ConfigsHub
+vless://c158ce06-b935-4808-bae8-754204374275@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
