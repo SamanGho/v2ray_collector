@@ -1,3 +1,4 @@
+vless://0c04dd79-71ad-475e-9a22-8fe625afccbb@www.visa.com:8080?path=%2Ftelegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.96.1:443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HAStI.FreEAiRlaineS.CoM&fp=randomized&type=ws&sni=hastI.FrEeAIRLAInEs.CoM#[🇺🇸]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTelegram%40v2ray_alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vmess://eyJhZGQiOiJ0ZXN0LnZhcnplc2gzLnJ1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI5NzM3YmZmLTJkZTctNDU2Mi1iOWYyLTk2M2E3NjA0YTk1YiIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6Ijg1IiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
@@ -133,7 +134,6 @@ trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-other.05vr9nyqg5.download:130
 vless://9df978a3-df6c-4f82-9e8b-0d2f1e517efb@151.101.128.155:80?security=none&type=ws&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#[🇨🇦]t.me/ConfigsHub
 vless://f1c66385-dcb3-4e03-aa31-6adf6708b146@217.195.194.46:4687?security=none&type=tcp&host=www.speedtest.net&headerType=http#👉🆔 @MoftConfig📡🇩🇪Germany
 trojan://telegram-id-directvpn@13.53.146.138:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
-ss://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?type=ws&path=%2F%3Fed%3D2048&host=mmd.ir&security=none#⚜️Telegram:@IP_CF
 vless://2684a95c-536d-4f0f-ac49-2cd01d4ac00d@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?security=tls&sni=REDw.pOOriam.Ir&type=ws&host=redw.pooriam.ir&path=%2FMTMVPN-MTMVPN-MTMVPN-MTMVPN%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://7db8133b-f6de-52e0-bc0a-15bf87599994@45.140.167.52:8880?security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇬🇧]t.me/MoftConfig
