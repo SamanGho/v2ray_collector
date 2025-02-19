@@ -3890,3 +3890,32 @@ trojan://Uy1%2CSF%23%5Dszr%25y.%3Cs@172.66.46.220:2083?security=tls&type=ws&sni=
 trojan://telegram-id-privatevpns@18.135.117.238:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@172.166.90.63:443#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 ss://157448af-8ecf-4075-a9e9-b23a6a94899b@212.102.48.216:8443?security=tls&sni=mad-es.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#👉🆔 @MoftConfig📡🇪🇸Spain
+trojan://Aimer@5.182.84.22:2096?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇷🇺Russia
+vmess://eyJhZGQiOiIxNDIuNC4xMDguMTQ3IiwiYWlkIjo2NCwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8xODE3MjEyNzIxMTQiLCJwb3J0IjozODAwNywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vless://e1cb17da-47ee-442a-fc77-51b61199ec17@37.27.185.191:16538?security=&encryption=none&headerType=none&type=tcp&sni=divarcdn.com#👉🆔 @MoftConfig📡🇫🇮Finland
+trojan://Aimer@104.20.30.149:8443?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://an70aOaIjcCF43gOlSB6eKER53Z38DYDx8l9RCSCpYTwXS3pueyAqyFZx2zDNA@plowman.meijireform.com:443?security=tls&headerType=&type=tcp#👉🆔 @MoftConfig📡🇯🇵Japan
+vless://fbf6784a-bf71-4e22-ba3d-8b765a82c17e@ash1-node1.nexabod.ir:8443?security=reality&encryption=none&pbk=xhnJcr48WrpUXZKYKEt9briENH872vPBP0WnheyIuzw&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=ad2e0e9e3ab3c493#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ%3D%3D@217.30.10.18:9019#👉🆔 @MoftConfig📡🇵🇱Poland
+trojan://Aimer@59.1.59.225:50000?security=tls&headerType=&type=tcp&sni=ngepo.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇰🇷South Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.141:8080#[🇳🇱]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER-a8d234460c35@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss222x.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.136:8080#[🇳🇱]t.me/ConfigsHub
+trojan://Aimer@77.232.140.101:2053?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇦🇪United Arab Emirates
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ%3D%3D@217.30.10.18:9020#👉🆔 @MoftConfig📡🇵🇱Poland
+trojan://Bw5Mz7QkVp@66.42.76.182:443?security=tls&headerType=&type=tcp&sni=z-v2-076956.kailib.com#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Bw5Mz7QkVp@149.28.110.226:443?security=tls&headerType=&type=tcp&sni=z-v2-077057.kailib.com#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Aimer@46.254.92.201:2053?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇮🇩Indonesia
+trojan://Aimer@47.79.86.103:587?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇯🇵Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.154:8080#[🇺🇸]t.me/ConfigsHub
+trojan://Aimer@5.182.84.66:2083?security=tls&headerType=&type=tcp&sni=acepo.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇷🇺Russia
+trojan://Aimer@108.162.193.201:443?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://Aimer@172.64.33.144:443?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#[🇸🇪]t.me/ConfigsHub
+trojan://Aimer@172.67.77.127:443?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://Aimer@108.165.152.93:2083?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇮🇳India
+trojan://Aimer@175.215.175.175:50003?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇰🇷South Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.0.205:443#[🇧🇭]t.me/ConfigsHub
+trojan://Aimer@3.132.116.250:443?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+vless://86d045f4-2a2b-4602-8f9e-5c91d29fc3b5@162.159.38.232:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=p9c5rg.testsnew.com#👉🆔 @MoftConfig📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#[🇺🇸]t.me/ConfigsHub
