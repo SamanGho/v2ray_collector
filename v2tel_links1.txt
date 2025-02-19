@@ -12040,3 +12040,19 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security
 vless://fbf6784a-bf71-4e22-ba3d-8b765a82c17e@5.75.201.243:8443?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=xhnJcr48WrpUXZKYKEt9briENH872vPBP0WnheyIuzw&sid=ad2e0e9e3ab3c493&type=tcp&headerType=none#👉🆔 @MoftConfig📡🇩🇪Germany
 vless://c69d6834-e4a8-4ff0-97e5-ca13746c65d1@188.213.129.63:8883?encryption=none&security=reality&sni=wwww.refersion.com&fp=chrome&pbk=hVFQpNhSU6uRXpnAIES-MIuye5PsS-jmiWMlgwTC4yA&sid=93ddf2d2c5d8c56b&type=tcp&headerType=none#👉🆔 @MoftConfig📡🇨🇭Switzerland
 
+vless://f6646232-9d2a-50ec-82d2-8a51673d84d7@faculty.ucdavis.edu:443?security=tls&encryption=none&host=JoinBede-mosiv2.ir&fp=qq&type=ws&sni=faculty.ucdavis.edu#👉🆔 @MoftConfig📡🇺🇸United States
+vless://2f90343f-c92f-4dcf-b150-4369c8749145@EXPRESSVPN_420.fast.hosting-ip.com:80?path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080&security=none&encryption=none&host=Digikala.iranian.net&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @MoftConfig📡🇪🇸Spain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#👉🆔 @MoftConfig📡🇯🇵Japan
+vless://f6646232-9d2a-50ec-82d2-8a51673d84d7@faculty.ucdavis.edu:443?security=tls&encryption=none&host=JoinBede-mosiv2.ir&fp=qq&type=ws&sni=faculty.ucdavis.edu#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://2f90343f-c92f-4dcf-b150-4369c8749145@EXPRESSVPN_420.fast.hosting-ip.com:80?path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080&security=none&encryption=none&host=Digikala.iranian.net&type=ws#👉🆔 @MoftConfig📡🇺🇸United States
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.158:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#👉🆔 @MoftConfig📡🇵🇷Puerto Rico
+vless://bbfeab42-afd8-4c8c-f4f5-d1d36599831f@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&encryption=none&host=fonmelo.com&type=ws&sni=zmaoz.faculty.ucdavis.edu.#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://d8c7256f-921a-50ff-9d36-5564197fd4a6@eevpnandroid2.69.mu:2052?security=none&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔 @MoftConfig📡🇪🇪Estonia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RXlEUTNjM1F4UmFxN3h4S0lKZ2ZX@213.176.66.228:24495#[🇫🇷]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560%2FV2ray_Alpha&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://Parsashonam-176@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @MoftConfig📡🇸🇪Sweden
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.181.176.166:443#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxMTIuMTMyLjIxMi4xOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDA0IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vless://9c1db283-1b21-4d04-abeb-91bf18dec777@157.10.53.146:14626?security=reality&encryption=none&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com#👉🆔 @MoftConfig📡🇻🇳Vietnam
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#👉🆔 @MoftConfig📡🇺🇸United States
