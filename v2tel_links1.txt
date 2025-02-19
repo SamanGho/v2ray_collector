@@ -11980,3 +11980,10 @@ ss://YWVzLTI1Ni1nY206RVhDQjNLS1cwR1hRM0VDRA@154.196.244.19:16009#👉🆔 @MoftC
 ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw@154.196.244.12:16002#👉🆔 @MoftConfig📡🇸🇬Singapore
 trojan://3778399737045327872@188.253.22.10:443?allowInsecure=1&sni=key-pangolin.treefrog761.one#👉🆔 @MoftConfig📡🇱🇻Latvia
 ss://157448af-8ecf-4075-a9e9-b23a6a94899b@84.17.53.74:8443?security=tls&sni=zrh-1.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#👉🆔 @MoftConfig📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozblhkckVuYTgwVVZwcngyUXlGQzRS@89.185.84.185:443#🇬🇧 Великобритания
+vless://48390ac8-9983-40cf-a522-265e00cf4cb6@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS\_v2ray-------@TLS\_v2ray-------@TLS\_v2ray-------@TLS\_v2ray-------@TLS\_v2ray-------@TLS\_v2ray-------@TLS\_v2ray&authority=&security=none#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://c0420bc9-1147-4643-b0bb-49e6bf7dee95@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.79.101.162:443#👉🆔 @MoftConfig📡🇰🇷South Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozblhkckVuYTgwVVZwcngyUXlGQzRS@89.185.84.185:443#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+ss://YWVzLTI1Ni1nY206WTdZMEVVWEY1WlpLSlRGVQ@154.196.244.24:16014#👉🆔 @MoftConfig📡🇸🇬Singapore
