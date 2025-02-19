@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@13.53.146.138:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
 vless://2684a95c-536d-4f0f-ac49-2cd01d4ac00d@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?security=tls&sni=REDw.pOOriam.Ir&type=ws&host=redw.pooriam.ir&path=%2FMTMVPN-MTMVPN-MTMVPN-MTMVPN%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://7db8133b-f6de-52e0-bc0a-15bf87599994@45.140.167.52:8880?security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇬🇧]t.me/MoftConfig
@@ -134,7 +135,6 @@ trojan://Aimer@5.182.84.22:2096?security=tls&headerType=&type=tcp&sni=ngepx.ambe
 vless://e1cb17da-47ee-442a-fc77-51b61199ec17@37.27.185.191:16538?security=&encryption=none&headerType=none&type=tcp&sni=divarcdn.com#👉🆔 @MoftConfig📡🇫🇮Finland
 trojan://Aimer@104.20.30.149:8443?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
 trojan://an70aOaIjcCF43gOlSB6eKER53Z38DYDx8l9RCSCpYTwXS3pueyAqyFZx2zDNA@plowman.meijireform.com:443?security=tls&headerType=&type=tcp#👉🆔 @MoftConfig📡🇯🇵Japan
-vless://fbf6784a-bf71-4e22-ba3d-8b765a82c17e@ash1-node1.nexabod.ir:8443?security=reality&encryption=none&pbk=xhnJcr48WrpUXZKYKEt9briENH872vPBP0WnheyIuzw&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=ad2e0e9e3ab3c493#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ%3D%3D@217.30.10.18:9019#👉🆔 @MoftConfig📡🇵🇱Poland
 trojan://Aimer@59.1.59.225:50000?security=tls&headerType=&type=tcp&sni=ngepo.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇰🇷South Korea
 trojan://Aimer@77.232.140.101:2053?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇦🇪United Arab Emirates
