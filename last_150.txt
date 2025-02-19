@@ -1,3 +1,6 @@
+vless://9df978a3-df6c-4f82-9e8b-0d2f1e517efb@151.101.128.155:80?security=none&type=ws&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://9df978a3-df6c-4f82-9e8b-0d2f1e517efb@151.101.64.155:80?security=none&type=ws&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#[🇺🇸]t.me/ConfigsHub
+trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-us.05vr9nyqg5.download:13019?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#👉🆔 @MoftConfig📡🇨🇳China
 vless://0f847048-610c-46b6-95f8-3c38b5c8471b@172.64.35.157:443?security=tls&sni=x0zt0o.proximavpn.site&type=ws&host=x0zt0o.proximavpn.site&path=%2Fwss&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
 trojan://5af7fa3a-ad9c-4346-ba7f-184e89c91758@lm.kaiqsz.com:51075?allowInsecure=1&sni=mmbiz10.redapricotcloud.com#👉🆔 @MoftConfig📡🇨🇳China
 trojan://3782591447421952000@inspired-dinosaur.adder289.quest:443?allowInsecure=1&sni=inspired-dinosaur.adder289.quest#👉🆔 @MoftConfig📡🇯🇵Japan
@@ -132,12 +135,9 @@ trojan://telegram-id-privatevpns@51.44.62.33:22222?security=tls&sni=trojan.burge
 vless://feaf9087-978a-4790-9b9f-86178e22b918@65.20.100.239:6067?security=none&type=grpc&serviceName=2055vless#👉🆔 @MoftConfig📡🇪🇸Spain
 ss://YWVzLTI1Ni1nY206TEtHOEc4Vkw2MFJTQjU5UA@23.185.248.13:17003#👉🆔 @MoftConfig📡🇺🇸United States
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.78.157:2083?security=tls&sni=hAstI.freeAIrLAINEs.coM&type=ws&host=HASTI.fREEAIrLAINeS.Com&path=/channel,ShokhmiPlus-channel,ShokhmiPlus-channel,ShokhmiPlus-channel,ShokhmiPlus%3Fed%3D2048&fp=randomized#👉🆔 @MoftConfig📡🇨🇦Canada
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@174.129.251.226:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#⚜️Telegram:@IP_CF
-ss://157448af-8ecf-4075-a9e9-b23a6a94899b@212.102.48.216:8443?security=tls&sni=mad-es.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#⚜️Telegram:@IP_CF
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.16.38.178:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=%2F%40ShadowProxy66#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.56.123.140:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.210.133:443?path=%2F%3Fed&security=tls&encryption=none&host=aw039.ir&type=ws&sni=wear.net#👉🆔 @MoftConfig📡🇺🇸United States
-ss://157448af-8ecf-4075-a9e9-b23a6a94899b@84.17.53.74:8443?security=tls&sni=zrh-1.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#⚜️Telegram:@IP_CF
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.16.38.178:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=%2F%40ShadowProxy66#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.16.38.178:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=%2F%40ShadowProxy66#[🇨🇦]t.me/MoftConfig
 vless://65d1a396-2beb-479e-add4-2c54f370b107@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
