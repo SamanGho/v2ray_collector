@@ -1,3 +1,4 @@
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@FreakconfigZ16.usecharge.ir:3237?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@FreakconfigZ16.usecharge.ir:3237?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/MoftConfig
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=sinabigo%2Fproxyip%3D88.218.78.212&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#[🇨🇦]t.me/ConfigsHub
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.38:3237?security=&encryption=none&host=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
@@ -115,7 +116,6 @@ vless://25af9eb2-3310-4f2b-bc82-ebea62ba7906@104.18.13.229:8880?encryption=none&
 trojan://telegram-id-directvpn@63.177.132.247:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/MoftConfig
 vless://a35017af-d228-44bd-885c-e5951ce09df6@cdnjs.com:80?encryption=none&security=none&type=ws&headertype=none&host=dl6.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.142.30:443?security=tls&sni=147135010072.sec21org.com&type=tcp#👉🆔 @MoftConfig📡🇺🇸United States
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?allowInsecure=1&sni=us01.trojanyyds.xyz#⚜️Telegram:@IP_CF
 ss://bm9uZTpiYWFiY2NhLWNhYmEtYmFjYS1iZGFjLWJiY2FhY2JhYmNhYw==@127.0.0.1:1080#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
 vless://e95064eb-16a6-4c88-9b7c-733a7906970a@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@www.visa.com:80?encryption=none&security=none&type=ws&headertype=none&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
