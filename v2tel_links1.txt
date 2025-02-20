@@ -13078,3 +13078,19 @@ ss://YWVzLTI1Ni1nY206UEdGMlRHVUNIUUJDNUlQNQ@156.231.104.26:18016#👉🆔 @MoftC
 vless://f8c8eaf1-202d-49f6-9661-59fb350f659c@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNjJ0dHJEdVJ2Ykc3MzBzYWJDdzdm@81.19.141.45:443#🇩🇪 Германия
 trojan://telegram-id-directvpn@54.195.237.208:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇮🇪Ireland
+trojan://Aimer@83.229.123.36:8443?security=tls&type=ws&sni=agepq.ambercc.filegear-sg.me&path=/&host=agepq.ambercc.filegear-sg.mehttp/1.1#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#[🏁]t.me/MoftConfig
+trojan://Bw5Mz7QkVp@65.20.113.246:443?security=tls&type=tcp&sni=z-v2-074389.kailib.com#👉🆔 @MoftConfig📡🇸🇪Sweden
+trojan://Bw5Mz7QkVp@65.20.113.246:443?security=tls&type=tcp&sni=z-v2-074389.kailib.com#[🇸🇪]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206RVhDQjNLS1cwR1hRM0VDRA==@154.196.244.19:16009#👉🆔 @MoftConfig📡🇸🇬Singapore
+ss://YWVzLTI1Ni1nY206TE44NTVCQUNNWldDMUNSNw==@156.245.190.21:15012#[🏁]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.62.84:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @MoftConfig📡🇸🇪Sweden
+trojan://Bw5Mz7QkVp@65.20.113.246:443?security=tls&type=tcp&sni=z-v2-074389.kailib.com#[🇸🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206TE44NTVCQUNNWldDMUNSNw==@156.245.190.21:15012#[🏁]t.me/ConfigsHub
+trojan://Aimer@83.229.123.36:8443?security=tls&type=ws&sni=agepq.ambercc.filegear-sg.me&path=/&host=agepq.ambercc.filegear-sg.mehttp/1.1#👉🆔 @MoftConfig📡🇭🇰Hong Kong
+ss://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.175.176:8443?security=tls&sni=de1.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#👉🆔 @MoftConfig📡🇩🇪Germany
+trojan://telegram-id-privatevpns@15.188.35.145:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://Aimer@83.229.123.36:8443?security=tls&type=ws&sni=agepq.ambercc.filegear-sg.me&path=/&host=agepq.ambercc.filegear-sg.mehttp/1.1#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206TE44NTVCQUNNWldDMUNSNw==@156.245.190.21:15012#👉🆔 @MoftConfig📡🇭🇰Hong Kong
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#👉🆔 @MoftConfig📡🇻🇳Vietnam
