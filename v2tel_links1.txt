@@ -13238,3 +13238,26 @@ vless://c3af9d3d-a1ee-4e65-8fe8-eb785424f5e1@xray.rtxconfigz.shop:443?security=t
 ss://YWVzLTI1Ni1nY206WDRZYWxWdHV0aTkxR0o5OGxpalNqYUY5ZHRlbUlLa0dpZXIxZndjanRZaz0%3D@95.164.4.51:8443#[🏁]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.125.46:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 ss://bm9uZTpjYWJhYWNiLWNhYmEtY2JhYS1jZGFiLWJiYmFjY2JhYWNjYQ==@127.0.0.1:1080#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
+trojan://telegram-id-privatevpns@13.49.54.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8118#👉🆔 @MoftConfig📡🇺🇸United States
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjE3LjIyMS4yNDgiLCJwb3J0IjoiODAiLCJpZCI6ImU2NTQzMzE5LTA1NzQtNDJhYy1iNzc4LTFjNDMyNWQ2MjZmNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJjaHVuY2h1YW4ua2VqaXhpYW9xaTY2Ni5zdG9yZSIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?allowInsecure=1&sni=us01.trojanyyds.xyz#👉🆔 @MoftConfig📡🇯🇵Japan
+vless://b9002d4e-5a6a-4490-84fd-272af4a695b9@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/MoftConfig
+vless://4caeb33c-e50a-428e-c84b-b5ef9e1b283a@159.69.150.187:2677?type=grpc#👉🆔 @MoftConfig📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#👉🆔 @MoftConfig📡🇺🇸United States
+ss://2805e3e5-25bc-4fea-9a5c-51eb800fe379@172.64.35.157:443/?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=y64n10.soroush-app.com&type=ws&sni=y64n10.soroush-app.com#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.125.46:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5003#👉🆔 @MoftConfig📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#👉🆔 @MoftConfig📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.121.43.71:8009#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://telegram-id-v2rayvpnchannel@51.20.158.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+vless://71dce9af-d790-4b38-a1fd-7745e0923bd3@172.67.214.223:443?encryption=none&security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&path=%2F-%40uciranir-%40uciranir-%40uciranir-%40uciranir-%40uciranir-%40uciranir-%40uciranir%2F%3Fed%3D2047#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.153.29:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=tcp&headerType=none#👉🆔 @MoftConfig📡🇺🇸United States
+ss://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.249.104:8443?security=tls&sni=se1.fromblancwithlove.com&type=tcp#[🇸🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.71:3306#👉🆔 @MoftConfig📡🇺🇸United States
+vless://b9002d4e-5a6a-4490-84fd-272af4a695b9@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.121.43.71:5500#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://telegram-id-directvpn@51.20.158.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+ss://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.249.104:8443?security=tls&sni=se1.fromblancwithlove.com&type=tcp#[🇸🇪]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.121.43.71:9102#👉🆔 @MoftConfig📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.71:5601#👉🆔 @MoftConfig📡🇺🇸United States
