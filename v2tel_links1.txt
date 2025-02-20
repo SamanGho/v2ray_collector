@@ -13118,3 +13118,18 @@ vless://95140148-1373-4eb2-8c6c-936ffb56a2ec@chloe.ns.cloudflare.com:443?encrypt
 vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://167a9e99-74d7-4b25-85f4-c8c54b343811@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@67.205.134.152:80?encryption=none&security=none&sni=&type=ws&alpn=&host=arvancloud.com&path=/?ed=2048#👉🆔 @MoftConfig📡🇺🇸United States
+vless://81207c7b-185a-487c-bec2-60e39f3bd12f@78.39.47.162:1006?security=&encryption=none&headerType=none&type=tcp&sni=zula.ir#👉🆔 @MoftConfig📡🇮🇷Iran
+trojan://bpb-trojan@172.67.209.80:443?security=tls&headerType=&type=tcp&sni=403b3611-99Bc-43b7-88D7-26ED5d0825a9-3.pAgeS.Dev#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://Bw5Mz7QkVp@65.20.113.246:443?security=tls&headerType=&type=tcp&sni=z-v2-074389.kailib.com#👉🆔 @MoftConfig📡🇸🇪Sweden
+trojan://Aimer@188.164.159.185:8443?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇿Czechia
+trojan://Aimer@52.220.205.101:9997?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇸🇬Singapore
+trojan://blue2024@162.159.44.161:443?security=tls&headerType=&type=tcp&sni=tc.promote.icu#👉🆔 @MoftConfig📡🇺🇸United States
+ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI%3D@119.167.230.252:22040#👉🆔 @MoftConfig📡🇨🇳China
+trojan://Aimer@154.26.179.89:443?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://bpb-trojan@104.21.30.195:443?security=tls&headerType=&type=tcp&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://52a44898-e5f7-4876-9c99-80babc1c782a@173.245.58.100:2052?security=none&type=httpupgrade&host=1.dreshghi.ir.ferialmostofi.c-om.padaco.ir.arashnasiri.com.shafashiraz.ir.honartandis.com.shouba.ir.iran-dental.com.sardkhoone.com.mohammadsalehpour.ir.abadgan.com.arvijpub.com.chmctruck.com.gandom-yar.ir#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#👉🆔 @MoftConfig📡🇵🇱Poland
+trojan://Aimer@162.159.44.127:443?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Aimer@27.50.49.179:2096?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇭🇰Hong Kong
+trojan://Aimer@108.165.152.67:2053?security=tls&headerType=&type=tcp&sni=agepq.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇮🇳India
+vless://telegram-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=atbpbc.ir&path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D2048#TLS-All|@ArV2ray
