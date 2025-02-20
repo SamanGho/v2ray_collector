@@ -13447,3 +13447,9 @@ vless://9f0577c0-0983-4907-8fa0-e46a795c92da@193.151.152.27:443?path=%2F&securit
 trojan://telegram-id-directvpn@34.249.6.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://442ac940-bbdd-4044-9b2c-e4e53cbe0055@104.16.197.224:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=little-grass-d3f7az.cijof58321.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.211.86:443?type=tcp&security=tls&sni=147135004002.sec20org.com#[🇺🇸]t.me/ConfigsHub
+vless://3871aa58-c190-4468-9b17-d34fa2371f0b@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#[🏁]t.me/ConfigsHub
+vless://3871aa58-c190-4468-9b17-d34fa2371f0b@ww.speedmeter.life:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://97ef6ad8-05d3-4d21-9048-c6fc6980d350@172.67.204.234:80?path=%2FFaRdAvipTurk.Rr&security=none&encryption=none&host=farda.vipturk.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1U2RzWUFtaDcyS3BmUVIwZlJoWlE3@206.189.152.167:4908#[🏁]t.me/ConfigsHub
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.222.128:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#[🇨🇦]t.me/ConfigsHub
