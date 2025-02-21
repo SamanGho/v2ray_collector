@@ -13690,3 +13690,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTUu
 vless://d6abd9d1-7b81-4f12-9b36-d30d401c319c@45.76.59.208:8080?security=none&type=ws&path=%2F#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZN2VmOFRqYklCV0IwUlg4aEdtamph@77.83.246.74:443#🇵🇱 Польша
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-178@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+vless://fdca651d-be66-43b6-cad0-dee49a6bbda6@104.17.148.22:8880?type=httpupgrade&path=%2FFreeConfig&host=KhodeAlfred.tehran-gamee.ir&security=none#[🇨🇦]t.me/ConfigsHub
+vless://d6abd9d1-7b81-4f12-9b36-d30d401c319c@45.76.59.208:8080?security=none&type=ws&path=%2F#[🇺🇸]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560&security=tls&encryption=none&host=redw.pooriam.ir&type=ws&sni=REDw.pOOriam.Ir#[🇨🇦]t.me/MoftConfig
+vless://telegram-ArV2ray@AC.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D2048&security=none&encryption=none&host=atbpbh.ir&type=ws#WS-All+%7C+%40ArV2ray
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDYuMjkuMTY2LjIzNyIsInBvcnQiOiI0NzU1NSIsImlkIjoiMGM0OWNkMTktMjc1OC00ZDM4LWU2YTgtMTFmMmQ2NjM1ODYwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
