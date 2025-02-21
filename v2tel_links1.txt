@@ -14173,3 +14173,12 @@ vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.11:443/?type=tcp&encryp
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2V1VoTE9ESlVVamN6TVRFMFZrNDVUdw@154.196.244.26:16016#[🏁]t.me/MoftConfig
 vless://91bfaa44-8882-4ac7-9d6e-9d2a01dece1c@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
 ss://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.140:3237/?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@13.48.29.23:8443?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#[🇸🇪]t.me/MoftConfig
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.20.94:2095?security=none&type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.20.94:2095?security=none&type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@13.48.29.23:8443?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#[🇸🇪]t.me/ConfigsHub
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.17.148.22:443?security=tls&sni=Tp912RiMgE.nEwReTr432As.InFo&type=grpc&fp=firefox#[🇨🇦]t.me/ConfigsHub
+vless://8fe10c19-0dd0-439a-82c6-e1ca51efd0cf@45.144.49.141:443?security=reality&encryption=none&pbk=9TXWuWVxhzcLYAQvSSeGEsPGMal0KGREy875a2vdEwE&host=cdn.samsung.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=1d072c42d1#[🏁]t.me/ConfigsHub
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.17.148.22:443?security=tls&sni=Tp912RiMgE.nEwReTr432As.InFo&type=grpc&fp=firefox#[🇨🇦]t.me/MoftConfig
+vless://8fe10c19-0dd0-439a-82c6-e1ca51efd0cf@45.144.49.141:443?security=reality&encryption=none&pbk=9TXWuWVxhzcLYAQvSSeGEsPGMal0KGREy875a2vdEwE&host=cdn.samsung.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=1d072c42d1#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#[🇫🇷]t.me/ConfigsHub
