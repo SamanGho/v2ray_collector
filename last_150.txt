@@ -1,6 +1,3 @@
-vless://%56%32%52%41%58%58@151.101.2.219:80?Telegram=@V2RayTz,@V2RayTz&path=/Te%6cegr%61m,V%32RAX%58,Te%6cegr%61m,?%65d=2%3048&security=none&encryption=none&host=V2R%41XX.%69r&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://f6a7873b-5d12-48a1-8439-a737b7dcbeab@www.visa.com:2052?path=%2F%3Fed%3D2560&security=&encryption=none&host=03tg.d8drh4l9.workers.dev&fp=chrome&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://Telegram-proxy_mtm@mehdi.vact.ir:443?type=grpc&serviceName=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN&authority=&security=reality&pbk=Aq5jw0I0Vtj6AOthjzuEMrMgzv9uqarSiK-S3qWJmQU&fp=chrome&sni=www.cdn77.com&sid=bae995654d&spx=%2F#👉🆔 @MoftConfig📡🇩🇪Germany
 vless://666348f9-c716-4fcb-ac51-40a382322df6@hajlab.ucdavis.edu:443?path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&security=tls&encryption=none&host=joinbedemaznettel.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-v2rayvpnchannel@54.82.118.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇺🇸United States
 vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.feadlenetwork19922h.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @MoftConfig📡🇺🇸United States
@@ -148,3 +145,6 @@ trojan://telegram-id-privatevpns@18.171.254.65:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.153.127.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪@MoftConfig
 trojan://Aimer@162.120.94.232:8443?allowInsecure=0&sni=agept.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://38090613-4d0b-4ef3-b711-ae57ec95197e@108.162.195.157:443?security=tls&sni=aeay1f.payperflower.com&type=ws&host=aeay1f.payperflower.com&path=%2Fwss&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
+ss://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.224.12:8443/?type=tcp&encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&alpn=h2#⚜️Telegram:@IP_CF
+vless://0444a54c-cce7-4dee-a6a5-ec1b027aa46f@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/ConfigsHub
+vless://4a79a4f5-0460-4f60-ae8b-c01ff59f1e0e@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/ConfigsHub
