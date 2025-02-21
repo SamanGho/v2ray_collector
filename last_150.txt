@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.112:8009#👉🆔 @MoftConfig📡🇺🇸United States
 vless://5b998e70-472a-44d7-b246-d4250765cd37@91.92.40.78:2070?type=tcp&security=none#[🇸🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoSFhoaE5jWTNpbDhOdXZzNzlHNThx@178.208.91.118:19805#[🇳🇱]t.me/ConfigsHub
 vless://6a682efb-a1ff-45d1-b9c1-bab4c263a16f@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
@@ -77,7 +78,6 @@ vless://dadbf1eb-93c5-4cd9-83f3-ed02fb539c6e@134.122.3.240:443?security=reality&
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.125.46:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇸🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1k0T0RCbQ@at1.opensocks.site:8388#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206NE9BS0o4Q0FTRVJBV1hJMQ==@156.231.104.23:18013#[🏁]t.me/ConfigsHub
-vless://280fbbbd-c5cc-4479-a987-c0569d9bcdf2@45.83.143.37:27757?security=reality&encryption=none&pbk=1x2kcyef8RdeKa4yaoCJSDhpVe4MJEWdotv3dVTvCkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=f7a6fc#[🏁]t.me/ConfigsHub
 vless://%74%65%6c%65%67%72%61%6d%2d%41%72%56%32%72%61%79@151.101.192.155:80?path=%2Ftelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%3Fed%3D2048&security=&encryption=none&host=atbpbc.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.49.54.20:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/ConfigsHub
 vless://4fd723c4-eddb-4f7b-9b79-3aacd07ff527@172.64.35.157:443?security=tls&sni=pjn6fw.shieldify.site&type=ws&host=pjn6fw.shieldify.site&path=/wss&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
