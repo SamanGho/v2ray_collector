@@ -13864,3 +13864,4 @@ vless://d99749f3-2e63-40f8-b461-5ca4d2ad952a@s2-fi-443.benyinglis1.com:443?encry
 vless://d99749f3-2e63-40f8-b461-5ca4d2ad952a@s4-fi-443.benyinglis1.com:443?encryption=none&security=tls&sni=blog.demo98.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=blog.demo98.ir&path=%2Fwp-admin%3Fed%3D1024#[🇫🇮]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.39.253.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://d99749f3-2e63-40f8-b461-5ca4d2ad952a@s3-fi-443.benyinglis1.com:443?encryption=none&security=tls&sni=blog.demo98.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=blog.demo98.ir&path=%2Fwp-admin%3Fed%3D1024#[🇫🇮]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn-i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub
