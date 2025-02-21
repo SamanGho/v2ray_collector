@@ -13684,3 +13684,4 @@ vless://9dbfd981-04a7-47e5-8796-bd7886348f6f@fra5.vpntype.dev:443?security=tls&e
 vless://a38f032a-8bfc-468c-ab57-5105571ee91a@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
 vless://b20bf54c-9edf-4b9f-b791-139251f6ad3c@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/MoftConfig
 
+trojan://Ys.c7%3FD9qmBLo%5EZ%5D@172.66.47.170:2053?security=tls&type=ws&sni=JOInMaHDiSeRVeR-333.pAGEs.DeV&path=/trIFLHqMRiIx9In1rG?ed=2560&host=joinmahdiserver-333.pages.dev#[🇨🇦]t.me/ConfigsHub
