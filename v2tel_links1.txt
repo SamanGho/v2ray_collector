@@ -13704,3 +13704,11 @@ vless://7fb1a822-bd72-4a27-b987-89a4dd398142@188.245.167.113:465?security=none&e
 ss://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443/?type=tcp&encryption=none&security=tls&sni=osl-no-01.fromblancwithlove.com&alpn=h2#⚜️Telegram:@IP_CF
 vless://4ca5583d-c326-4047-8465-5d30fd7c978b@185.79.158.145:8220?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.117.42:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
+ss://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.224.12:8443/?type=tcp&encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&alpn=h2#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@51.20.176.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://b27f4d97-2562-4867-ae20-45e625eec5f5@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.feadlenetworkv2sa.net&path=%2F#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.117.42:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+trojan://telegram-id-privatevpns@13.49.210.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@51.20.176.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER-12c6d26a2ec1@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=5.nufilter-telegram.ir&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws
