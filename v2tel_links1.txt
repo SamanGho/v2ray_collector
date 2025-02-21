@@ -14161,3 +14161,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmODVmMGVlZi1lMDViLTQ1MGItYWQwNy02NmE3YTFiNmR
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#[🇫🇷]t.me/MoftConfig
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@217.30.10.18:9014#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc@107.181.155.244:55330#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.94.110.89:443#[🇺🇸]t.me/MoftConfig
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.99:443/?type=tcp&encryption=none&sni=cdn.userway.org&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6#[🏁]t.me/MoftConfig
+vless://3f5c4213-9faf-4958-8572-40e11e829d0d@188.227.107.89:8443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=4FtHhoVD7TxmNBnNDCHmLiCJrdPOlUEaCU5IDFwERHc&sid=feac68&spx=/&type=grpc&serviceName=JoinBadeChannel@antimeli&encryption=none#[🇳🇱]t.me/MoftConfig
+ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@119.167.230.252:20783#[🏁]t.me/MoftConfig
+vless://05029a18-3dde-4607-b6af-c12c579745bd@144.202.81.68:8080?path=%2F&security=none&encryption=none&type=ws#⚜️Telegram:@IP_CF
+vless://d28ba1cd-eabf-4ea6-9655-e5c8fb11fcdf@202.124.251.40:13114/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swdist.apple.com&fp=chrome&security=reality&pbk=BQH9S8Hg5Z8AqqXb9pNX1Yl-fcQPlKRy1ZWClfvasBw&sid=6ba85179e30d4fc2#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.95.19.164:443#[🇺🇸]t.me/MoftConfig
+vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@103.148.73.177:443/?type=tcp&encryption=none&sni=cdn77.api.userway.org&fp=chrome&security=reality&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2#[🏁]t.me/MoftConfig
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.11:443/?type=tcp&encryption=none&sni=app.usercentrics.eu&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6#[🏁]t.me/MoftConfig
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2V1VoTE9ESlVVamN6TVRFMFZrNDVUdw@154.196.244.26:16016#[🏁]t.me/MoftConfig
