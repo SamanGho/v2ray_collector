@@ -14182,3 +14182,4 @@ vless://8fe10c19-0dd0-439a-82c6-e1ca51efd0cf@45.144.49.141:443?security=reality&
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@104.17.148.22:443?security=tls&sni=Tp912RiMgE.nEwReTr432As.InFo&type=grpc&fp=firefox#[🇨🇦]t.me/MoftConfig
 vless://8fe10c19-0dd0-439a-82c6-e1ca51efd0cf@45.144.49.141:443?security=reality&encryption=none&pbk=9TXWuWVxhzcLYAQvSSeGEsPGMal0KGREy875a2vdEwE&host=cdn.samsung.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=1d072c42d1#[🏁]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#[🇫🇷]t.me/ConfigsHub
+
