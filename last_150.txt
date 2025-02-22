@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.218:8008#👉🆔 @MoftConfig📡🇺🇸United States
 trojan://telegram-id-directvpn@63.177.132.247:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇩🇪Germany
 vless://ccaabab-bcaa-caab-abdc-acbbcabaccab@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#👉🆔 @MoftConfig📡🇭🇰Hong Kong
@@ -135,7 +136,6 @@ ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw@195.238.126.84:9039#[🏁]t.me/MoftC
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#[🇫🇷]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7306#[🏁]t.me/MoftConfig
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.18:9006#[🏁]t.me/ConfigsHub
-vless://bacff32b-48b5-5191-b222-33538e15c735@45.89.55.188:8880?type=grpc&mode=gun&serviceName=vless-grpc&authority=#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@80.92.204.106:9024#[🇩🇪]t.me/MoftConfig
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@217.30.10.18:9014#[🏁]t.me/ConfigsHub
 vless://d1ed44c8-d23a-4bf1-aa9c-fd93ae260cb2@151.101.64.155:80?sni=vipfast_7.com&type=ws&host=vipfast_7.com&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
