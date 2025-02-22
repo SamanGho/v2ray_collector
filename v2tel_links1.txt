@@ -15021,3 +15021,4 @@ vless://23d8a33c-38fb-4382-8993-48b857e1b0ef@188.245.208.177:26745?security=none
 vless://23d8a33c-38fb-4382-8993-48b857e1b0ef@188.245.208.177:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
 vless://49cf5550-d4ae-4ca6-9bb6-7aa5a10028ed@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/MoftConfig
 vless://ae1608e4-9e3b-42cf-96b7-df5855ac0042@135.181.155.147:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://335f01f7-5222-412b-bb99-55f8c0a33858@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
