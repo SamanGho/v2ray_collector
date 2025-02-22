@@ -1,3 +1,4 @@
+vless://23a6abe1-25fc-49d3-a616-312cd20c21cc@185.161.251.211:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9bc0a55a5379c0ed#👉🆔 @MoftConfig📡🇩🇪Germany
 vless://255b4df3-080b-4846-866c-24992a29467d@huffingtonpost.es:80?mode=auto&path=%2F&security=none&encryption=none&host=Kowroshhormozvpn.global.ssl.fastly.net&type=xhttp#[🇫🇷]t.me/ConfigsHub
 vless://255b4df3-080b-4846-866c-24992a29467d@huffingtonpost.es:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Kowroshhormozvpn.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=huffingtonpost.es#[🇫🇷]t.me/ConfigsHub
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@freakconfigs17.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#[🇩🇪]t.me/MoftConfig
@@ -131,7 +132,6 @@ ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.18:9045#[🏁]t.me/Confi
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2V1RKVk5UaFRPVEJGTTBkVFZERkJVUQ@ti3hyra4.slashdevslashnetslashtun.net:21001#[🏁]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.153.2:2095?security=none&type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638757556339780622.lisbon-mpl-eah.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
-vless://Parsashonam-179@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
 vless://Parsashonam-179@188.245.242.132:443?mode=stream-one&path=%2F%40Parsashonam&security=reality&encryption=none&pbk=k4cuNLKyoRu4QKypn4DtwJPLBNuwXm5UHV0GJt3yuFI&host=Whatsapp.com&fp=chrome&spx=%2F&type=xhttp&sni=Whatsapp.com&sid=7f338a#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.49.61.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:2083/?type=ws&encryption=none&host=HASTI.fREEAIrLAINeS.Com&path=%2FFKnSNrPXVx6punGp%3Fed%3D2048&security=tls&sni=hAstI.freeAIrLAINEs.coM#[🇨🇦]t.me/MoftConfig
