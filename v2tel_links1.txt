@@ -14231,3 +14231,6 @@ ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@217.30.10.18:9042#[🏁]t.me/MoftC
 vless://04c777f5-b658-4618-b207-7aac23375d84@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@54.36.174.181:9101#[🏁]t.me/MoftConfig
 vless://Parsashonam-179@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/MoftConfig
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-179@188.245.242.132:443?mode=stream-one&path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D&security=reality&encryption=none&pbk=k4cuNLKyoRu4QKypn4DtwJPLBNuwXm5UHV0GJt3yuFI&host=Whatsapp.com&fp=chrome&spx=%2F&type=xhttp&sni=Whatsapp.com&sid=7f338a#⚜️Telegram:@IP_CF
+vless://7603752d-c77b-4606-85eb-6384f4795b69@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCMU5KS1J0UDU4S2I2M1E4a3pONGtE@81.19.141.45:443#🇩🇪 Германия
