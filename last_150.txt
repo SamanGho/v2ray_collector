@@ -1,3 +1,5 @@
+vless://617d5079-9fae-494a-98ca-90da9e10cd70@134.209.25.172:80?encryption=none&security=none&sni=&type=ws&alpn=&host=arvancloud.com&path=/?ed=2048#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.drlimit.net#👉🆔 @MoftConfig📡🇺🇸United States
 vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.drlimit.net#👉🆔 @MoftConfig📡🇺🇸United States
 vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.drlimit.net#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.drlimit.net#👉🆔 @MoftConfig📡🇺🇸United States
@@ -146,5 +148,3 @@ vless://7861969e-5999-4ea5-93e0-09b0073d48f3@85.208.139.222:1633?security=realit
 vless://7861969e-5999-4ea5-93e0-09b0073d48f3@185.161.251.211:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&host=jokerrvpnTelegram#[🇩🇪]t.me/ConfigsHub
 vless://cb8a927b-8957-489f-c7e3-16e3880804c6@188.245.223.128:2087?security=tls&alpn=h2&encryption=none&host=JOKERRVPNTelegram#[🇩🇪]t.me/ConfigsHub
 vless://3d6ca650-df5c-43fd-bd69-01a335e1376a@173.245.59.132:2053?path=%2F%3FjokerrvpnTelegram#[🇨🇦]t.me/ConfigsHub
-trojan://3747000103274291200@dynamic-liger.adder289.quest:443/?type=tcp&security=tls&sni=dynamic-liger.adder289.quest&fp=chrome#⚜️Telegram:@IP_CF
-vless://af419efe-3c6e-4bbd-85be-59716dd07ea8@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
