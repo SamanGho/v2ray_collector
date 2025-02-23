@@ -15151,3 +15151,6 @@ vless://c646a78b-3a52-403e-a94d-c24704238d90@www.speedtest.net:2082?type=httpupg
 vless://c1d22711-2adf-4ffa-a5d8-439e665bb951@45.131.209.237:80?sni=656654647567245851483768538765962936476541237567854816545176587.11feea65a1d70a.workers.dev&type=ws&path=Telegram@WangCai2/?ed#[🏁]t.me/ConfigsHub
 trojan://Aimer@188.164.159.174:2053?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#[🏁]t.me/ConfigsHub
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.98.5:443?security=tls&sni=147135010072.sec21org.com&type=tcp&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://b481bdf0-bf4b-464a-8357-725a0bb5a7d9@194.76.18.158:443?path=%2Fb481bdf0-bf4b-464a-8357-725a0bb5a7d9&security=tls&encryption=none&host=hdfyreplace3.parthianempire.org&type=ws&sni=hdfyreplace3.parthianempire.org#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.123:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
