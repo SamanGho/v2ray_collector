@@ -15703,3 +15703,9 @@ vless://ec378bc8-3bf1-42ee-96e6-a981db207666@tel5.vpntype.dev:443?security=tls&e
 vless://bf9536f6-8218-4e49-8183-09a650a6ef60@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
 vless://c2a1fe98-5a25-4173-be3e-9fe9c7591484@13.dnss-mobile.ir:443?type=ws&host=13.dnss-mobile.ir&path=/alfred?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=13.dnss-mobile.ir&alpn=http/1.1#[🇺🇸]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.211.49:8880?security=none&type=grpc#[🇫🇮]t.me/MoftConfig
+trojan://trojan@104.21.3.52:443?security=tls&type=tcp&sni=test-a23.pages.dev#[🇨🇦]t.me/ConfigsHub
+trojan://trojan@104.21.3.52:443?security=tls&type=tcp&sni=test-a23.pages.dev#[🇨🇦]t.me/MoftConfig
+trojan://3747000103274291200@77.73.70.64:443?security=tls&type=tcp&sni=better-crappie.treefrog761.one#[🇷🇺]t.me/MoftConfig
+trojan://3747000103274291200@77.73.70.64:443?security=tls&type=tcp&sni=better-crappie.treefrog761.one#[🇷🇺]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#[🏁]t.me/MoftConfig
