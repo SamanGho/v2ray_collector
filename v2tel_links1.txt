@@ -15766,3 +15766,4 @@ vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.222:80?path=%2F%40AZARBA
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.e-l-i-v-2-r-a-y.fastly80-3.hosting-ip.com:80?path=%2Fchannel%2CELiV2RAY-channel%2CELiV2RAY-channel%2CELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&type=ws#[🇺🇸]t.me/MoftConfig
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.149:80?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#[🇺🇸]t.me/MoftConfig
 vless://79c9b1d1-9cec-454e-bf46-0b525f568d17@www.zula.ir:443?security=tls&encryption=none&fp=firefox&type=grpc&sni=ch4.newretr432as.info#[🇨🇦]t.me/MoftConfig
+
