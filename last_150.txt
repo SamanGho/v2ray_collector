@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.30.179:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
 vless://49cf5550-d4ae-4ca6-9bb6-7aa5a10028ed@188.34.201.88:16072?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇩🇪]t.me/MoftConfig
 trojan://Aimer@154.21.93.92:37955?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
 vless://a142faf1-7898-450f-bea6-5e3dbe20fdb5@dd2.atelienaderr.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd2.atelienaderr.ir&fp=chrome&type=ws&sni=dd2.atelienaderr.ir#[🇩🇪]t.me/MoftConfig
@@ -130,7 +131,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638760236678739929.kish-mpl-eao.inf
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.9.19:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
 vless://0e4328b2-8ff2-498c-b16d-8d4fb6d7f4f1@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.72:8080#[🇳🇱]t.me/MoftConfig
-vless://6aad8e8c-0bc7-4ebe-b5f9-a03a41b345e6@65.109.204.7:443?mode=gun&security=reality&encryption=none&pbk=zCDh3Kqi_w90gs6OAHgej9RvxzCQodYBN7ClxEe2OzQ&fp=chrome&spx=%2F&type=grpc&sni=tgju.org&sid=f9780068#[🇫🇮]t.me/ConfigsHub
 vless://cea5a6a5-a58a-4c2c-8742-a5368e5a6a9c@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s05.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s05.elitemizban.ir&fp=#[🇨🇦]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638760251168960091.paris-mpl-eap.info:8880?encryption=none&security=&sni=&type=grpc&host=&path=#[🇫🇮]t.me/MoftConfig
 vless://a4be0cc0-67a0-4b19-959e-06e4c2c9ec01@78.111.86.113:8443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=btaC-4IwgXj-SqKxJqhmrFzn-7bzuOOcDS0VMhyar0k&sid=966cc1f0bc0ec166&spx=/&type=grpc&serviceName=JoinBadeChannel@antimeli&encryption=none#[🇳🇱]t.me/MoftConfig
