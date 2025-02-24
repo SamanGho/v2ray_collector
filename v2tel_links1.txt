@@ -15709,3 +15709,4 @@ trojan://3747000103274291200@77.73.70.64:443?security=tls&type=tcp&sni=better-cr
 trojan://3747000103274291200@77.73.70.64:443?security=tls&type=tcp&sni=better-crappie.treefrog761.one#[🇷🇺]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#[🏁]t.me/MoftConfig
+vless://0b479aa4-8c80-479d-8083-2265a0351de4@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
