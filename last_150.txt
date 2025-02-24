@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1cHppanU4RWF0d09hUk9zM1Q4YVBL@81.19.141.45:443#🇩🇪 Германия
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.19.222.79:2087?security=tls&sni=wrhaq.athens-nowbiatoo.net&type=ws&host=wrhaq.athens-nowbiatoo.net&path=/morano#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMjdzcjR5N2VkRlRMcW1DRXJKbjVt@89.185.84.185:443#🇬🇧 Великобритания
 vless://d05e4b1d-a1d0-4119-899b-2f7b13aaf4b8@173.245.58.85:443?security=tls&sni=t5405x.fivegravity.com&type=ws&host=t5405x.fivegravity.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
@@ -112,7 +113,6 @@ ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#[🏁]t.me/Mo
 trojan://trojan@104.21.3.52:443?security=tls&type=tcp&sni=test-a23.pages.dev#[🇨🇦]t.me/MoftConfig
 trojan://3774827088566296576@194.62.96.160:443?security=tls&type=tcp&sni=next-hippo.treefrog761.one#[🏁]t.me/MoftConfig
 trojan://3747000103274291200@77.73.70.64:443?security=tls&type=tcp&sni=better-crappie.treefrog761.one#[🇷🇺]t.me/MoftConfig
-vless://TELEGRAM-NUFiLTER-f965847fde9f@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.nufilter-telegram.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tLm11c2ljZmExMjMuaXIuIiwiaWQiOiI5NGYzMzJiMC1jNWQzLTQ1MzEtYTFkNi02ZTYzNThjYzZjNzIiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvZDNkM0xtbHlZVzVvYjNOMExtTnZiUVx1MDAzZFx1MDAzZD9lZFx1MDAzZDI1NjAiLCJwb3J0IjoiMjA5NSIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://f0e6c8e5-c616-4a49-b534-2115c68a6198@c2.vact.ir:443?security=reality&encryption=none&pbk=gmfZyQtoXXrck45kkXm_vO3TlB0CcDNvkLkd3-HAfFA&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=b542ac#[🇩🇪]t.me/MoftConfig
 vless://2dc8a960-01b2-4680-b044-5950713ec39f@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
