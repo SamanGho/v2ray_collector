@@ -5437,3 +5437,14 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.211.49:8880?security=none&ty
 vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6MjA4MiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 ss://68bf637d-f323-4d9e-b8dc-80cd799a250d@5.180.30.31:8880/?mode=gun&security=none&encryption=none&type=grpc#⚜️Telegram:@IP_CF
 vless://42becf37-2d79-46d8-88fe-31cb8b45ead3@146.19.80.27:443?security=reality&sni=tgju.org&type=tcp&fp=random&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#[🏁]t.me/MoftConfig
+trojan://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:443?security=tls&sni=app.soft10.ir&type=ws&host=app.soft10.ir&path=%2FrIQYIUFzZ8PfAZpXO7Ci&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
+vless://ec378bc8-3bf1-42ee-96e6-a981db207666@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+trojan://Aimer@172.67.68.56:2096?sni=ngepz.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@154.211.8.109:2087?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#⚜️Telegram:@IP_CF
+vless://2f7d96b3-ea62-4081-b337-8d3b6c3771f7@57.129.41.216:8443?security=tls&sni=ov-germany1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=1#[🇩🇪]t.me/MoftConfig
+trojan://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:443?security=tls&sni=app.soft10.ir&type=ws&host=app.soft10.ir&path=%2FrIQYIUFzZ8PfAZpXO7Ci&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/MoftConfig
+vless://0b479aa4-8c80-479d-8083-2265a0351de4@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#[🏁]t.me/MoftConfig
+trojan://trojan@104.21.3.52:443?security=tls&type=tcp&sni=test-a23.pages.dev#[🇨🇦]t.me/MoftConfig
+trojan://3774827088566296576@194.62.96.160:443?security=tls&type=tcp&sni=next-hippo.treefrog761.one#[🏁]t.me/MoftConfig
+trojan://3747000103274291200@77.73.70.64:443?security=tls&type=tcp&sni=better-crappie.treefrog761.one#[🇷🇺]t.me/MoftConfig
