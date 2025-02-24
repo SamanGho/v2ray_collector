@@ -1,3 +1,4 @@
+vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FVPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.41:2375#[🇺🇸]t.me/MoftConfig
 vless://TELEGRAM-NUFiLTER-1b5de8686052@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=4.nufilter-telegram.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.50.126.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪@MoftConfig
@@ -72,7 +73,6 @@ ss://28c44428-df8b-44ed-be79-8778323db5b4@45.153.231.248:443?type=tcp&security=r
 vless://55fb088b-bb26-4ff0-86a5-105252f48372@toping.nicemen.co:2096?mode=gun&security=none&encryption=none&type=grpc&serviceName=y@HyTNp8g&s^NqPMX|4w}c3Gch3MC_#[🇫🇮]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:2053?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=hasti.FrEEAiRlAINES.coM&fp=chrome&type=ws&sni=HAsti.freEaIrlaIneS.com#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@121.153.45.186:18004?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#⚜️Telegram:@IP_CF
-vless://d6018eb8-39fa-4489-aba6-554ff622ae41@c1.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=BDsBcQ0GzxU-pGwN0H6zRVIbOhdL5dJy7cUd44xnayI&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=dfb4dc18a1#[🇩🇪]t.me/ConfigsHub
 trojan://IYd0HMG12j@104.21.96.1:443?security=tls&sni=esna.twn24.ir&type=httpupgrade&host=esna.twn24.ir&path=%2F16338%2Fmehdi&fp=random&allowInsecure=1#[🇺🇸]t.me/MoftConfig
 vless://414ac383-ee42-433c-9a9f-164f2886093f@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
 vless://d6018eb8-39fa-4489-aba6-554ff622ae41@c1.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=BDsBcQ0GzxU-pGwN0H6zRVIbOhdL5dJy7cUd44xnayI&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=dfb4dc18a1#[🇩🇪]t.me/MoftConfig
