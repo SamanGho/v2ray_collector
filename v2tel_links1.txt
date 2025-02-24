@@ -959,3 +959,5 @@ vless://3dbc0c83-8439-4838-abdb-6fd7e61df13e@c1.vact.ir:443?security=reality&enc
 vless://a838f5be-b2a5-4520-89cd-2d615af9e2f5@c2.vact.ir:443?security=reality&encryption=none&pbk=gmfZyQtoXXrck45kkXm_vO3TlB0CcDNvkLkd3-HAfFA&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=b542ac#[🇩🇪]t.me/MoftConfig
 vless://44a735eb-7c76-4145-acc5-534faef9bc2f@zs7.topsekan.site:48681?security=reality&encryption=none&pbk=8CjtcpzbGf-lInHYlQ4DZiYhWdXGLvS_O7DsNoTUdn0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=1338f7fa#[🇮🇷]t.me/MoftConfig
 vless://22e4e7ce-2ed0-4145-ba25-63a5c14f8de3@91.107.181.182:11045?type=grpc&serviceName=Tel#[🇩🇪]t.me/MoftConfig
+trojan://3747000103274291200@185.67.127.69:443/?type=tcp&security=tls&sni=ultimate-civet.adder289.quest#⚜️Telegram:@IP_CF
+vless://6481020c-d717-4450-98a8-4183508f6e7b@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
