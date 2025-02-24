@@ -15710,3 +15710,11 @@ trojan://3747000103274291200@77.73.70.64:443?security=tls&type=tcp&sni=better-cr
 ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#[🏁]t.me/MoftConfig
 vless://0b479aa4-8c80-479d-8083-2265a0351de4@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+trojan://Aimer@172.67.68.56:2096?sni=ngepz.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
+trojan://3774827088566296576@194.62.96.160:443?security=tls&type=tcp&sni=next-hippo.treefrog761.one#[🏁]t.me/MoftConfig
+trojan://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:443?security=tls&sni=app.soft10.ir&type=ws&host=app.soft10.ir&path=%2FrIQYIUFzZ8PfAZpXO7Ci&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/MoftConfig
+trojan://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:443?security=tls&sni=app.soft10.ir&type=ws&host=app.soft10.ir&path=%2FrIQYIUFzZ8PfAZpXO7Ci&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
+trojan://3774827088566296576@194.62.96.160:443?security=tls&type=tcp&sni=next-hippo.treefrog761.one#[🏁]t.me/ConfigsHub
+vless://2f7d96b3-ea62-4081-b337-8d3b6c3771f7@57.129.41.216:8443?security=tls&sni=ov-germany1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=1#[🇩🇪]t.me/MoftConfig
+vless://2f7d96b3-ea62-4081-b337-8d3b6c3771f7@57.129.41.216:8443?security=tls&sni=ov-germany1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
+trojan://Aimer@172.67.68.56:2096?sni=ngepz.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
