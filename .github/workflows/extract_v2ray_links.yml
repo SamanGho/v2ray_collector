@@ -91,7 +91,7 @@ jobs:
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         
         # Add all relevant files to the commit
-        git add ${{ env.file }} last_150.txt base64_150.txt .last_switch .last_file
+        git add ${{ env.file }} last_150.txt base64_150.txt .last_switch .last_file run_counter.txt
         
         # Check if there are any changes to commit
         if git diff-index --quiet HEAD --; then
@@ -100,7 +100,7 @@ jobs:
           # Generate a detailed commit message
           COMMIT_MESSAGE="Update V2Ray links in ${{ env.file }} and last_150.txt"
           if [ -s base64_150.txt ]; then
-            COMMIT_MESSAGE="$COMMIT_MESSAGE, encoded last_150.txt to base64_150.txt"
+            COMMIT_MESSAGE="$COMMIT_MESSAGE"
           fi
           git commit -m "$COMMIT_MESSAGE"
           git push https://x-access-token:${PROV2}@github.com/${{ github.repository }}.git HEAD:main
