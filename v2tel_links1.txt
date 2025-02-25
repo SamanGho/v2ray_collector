@@ -1371,3 +1371,10 @@ vless://88da5abf-08f2-44fe-951e-358e96bc86ba@svnteam.misvn.ir:443?security=reali
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.244.207.55:1009?type=tcp&security=none#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.e-l-i-v-2-r-a-y.fastly80-3.hosting-ip.com:80?path=%2Fchannel%2CELiV2RAY-channel%2CELiV2RAY-channel%2CELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://TELEGRAM-NUFiLTER-80ea8c95f9cd@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=2.nufilter-telegram.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.53.79.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.91.151:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+vless://8b07c31b-9b61-4fe3-bd60-ac3e4c4641db@www.speedtest.net:443?type=ws&host=cdn.mirza-film.ir&path=/H4DVI1hqkz4FSw&security=tls&fp=chrome&sni=cdn.mirza-film.ir&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@upload.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.240.216:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
+vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.24.207.192:80?path=%2FvpnAndroid2.vpnAndroid2%3Fed%3D2560&security=none&encryption=none&host=gozargah2.validbv7996.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#[🇳🇱]t.me/ConfigsHub
