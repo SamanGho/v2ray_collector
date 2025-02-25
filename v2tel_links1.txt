@@ -1433,3 +1433,5 @@ trojan://telegram-id-v2rayvpnchannel@13.53.79.247:22222?security=tls&sni=trojan.
 vless://5afe1b07-3d52-43c0-8e61-969a1d2531b0@g.soskom.ir:11045?mode=gun&security=reality&encryption=none&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%20%3A%20%40NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#[🇩🇪]t.me/ConfigsHub
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.37:2087?path=%2F&security=tls&encryption=none&host=TP9467o7ej.nEwDOm-dIdi2.INfO&type=ws&sni=TP9467o7ej.nEwDOm-dIdi2.INfO#[🇸🇪]t.me/MoftConfig
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.206.76:443?security=tls&sni=147135010072.sec21org.com&type=tcp#[🇺🇸]t.me/MoftConfig
+vless://v2rayng___76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#[🇫🇮]t.me/ConfigsHub
+vless://v2rayng__76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#[🇫🇮]t.me/ConfigsHub
