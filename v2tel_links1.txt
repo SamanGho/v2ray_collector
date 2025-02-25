@@ -1322,3 +1322,9 @@ trojan://telegram-id-directvpn@13.39.130.146:22222?security=tls&sni=trojan.burge
 trojan://telegram-id-directvpn@34.248.125.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://TELEGRAM-NUFiLTER-4deceacf1ee9@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=5.nufilter-telegram.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://MMD_Hell@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.11.82.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.107.241.24:8880?mode=gun&security=&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#[🇩🇪]t.me/ConfigsHub
+vless://a17ee8bd-2f80-4cb8-b4d9-644a69be8751@178.128.209.238:443?encryption=none&security=tls&sni=mqtt.googleapis.com&allowInsecure=1&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
+vless://92628d08-6c85-4d00-816e-5ae8f8dd6874@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/Chennel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE&security=none&encryption=none&host=Channel-VPNCUSTOMIZE--Channel-VPNCUSTOMIZE.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://amclubs2024@58.176.95.46:443/?type=ws&host=tr.amclub.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=tr.amclub.us.kg&allowInsecure=1&fp=randomized#⚜️Telegram:@IP_CF
