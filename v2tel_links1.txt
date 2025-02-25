@@ -1378,3 +1378,7 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@upload.ir:80?path=%2F%3Fed%3D2048&s
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.240.216:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.24.207.192:80?path=%2FvpnAndroid2.vpnAndroid2%3Fed%3D2560&security=none&encryption=none&host=gozargah2.validbv7996.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#[🇳🇱]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxMDMuNjcuNzkuMTU3IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjdkMmE0ZTY2LTE1MmMtNDlmNS05ZmY1LWMxOWE4MzZlOGM4OSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDUzNjUiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.185.239:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.185.239:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/ConfigsHub
