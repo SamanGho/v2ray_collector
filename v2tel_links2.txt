@@ -6080,3 +6080,12 @@ trojan://telegram-id-directvpn@13.51.57.254:22222?security=tls&sni=trojan.burger
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.64.138.145:7307#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWFiYmFjYy1jYmFhLWFhYmMtY2FkYi1hY2JiYmFhYWNjYmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MTA4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcjVDZ2h4NzdQcnRwSm83eDcya1ZD@89.185.84.185:443#[🇬🇧]t.me/ConfigsHub
+ss://6db0e9a8-45e6-49e1-ad02-f49495d425be@37.156.46.193:8080?path=%2F&security=none&encryption=none&type=ws#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@151.236.29.225:990#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiI0LjI0MC43My41NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNTEzYmZiMi1iN2MyLTRkYzYtYTNmOS01NTE0NWYxOTg3MDUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE0MTE4IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.214.144:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+trojan://3747000103274291200@94.177.131.199:443?security=tls&sni=open-maggot.pigeon031.one&fp=chrome&allowInsecure=1&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
+ss://579a292b-f022-4048-a7b5-14b13de553ed@147.45.76.57:443/?mode=gun&security=reality&encryption=none&pbk=k_MO5NjOZWEfP-V8wNlNCJ9xmhWTEcuIUvn4K0fqh0w&fp=chrome&type=grpc&serviceName=vless12200&sni=armenas.ir&sid=3ce4a3201d03a506#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@13.49.189.67:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTQ2LjEwMy40MC4yMTQiLCJwb3J0Ijo3MDMwLCJpZCI6IjAxZDQwN2E2LTRiNWYtNDY3NC04NTJmLTY4YzY1ODI2ZDgzMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInRscyI6Im5vbmUiLCJwYXRoIjoiXC8ifQ==
+vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.E.152.speedtest2.livE.&type=ws#WS6-Irancell+%7C+%40ArV2ray
