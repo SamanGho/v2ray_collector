@@ -2669,3 +2669,7 @@ vless://1b177464-8d68-4e3e-986c-373677391dfd@lon5.vpntype.dev:443?security=tls&e
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3D2560%2FV2ray_Alpha#[🇨🇦]t.me/MoftConfig
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTg4LjEzMC4xNTQuNTYiLCJwb3J0IjoiMjI5NDYiLCJ0eXBlIjoibm9uZSIsImlkIjoiN2VkMWQxMzgtMzdmNy00MWY3LTg0M2QtZDRmMmJkYmJhOTEzIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.162.24:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#⚜️Telegram:@IP_CF
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#[🏁]t.me/ConfigsHub
+vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?encryption=none&security=none&type=tcp&headerType=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net#[🇷🇺]t.me/ConfigsHub
+vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?encryption=none&security=none&type=tcp&headerType=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net#[🇷🇺]t.me/MoftConfig
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#[🏁]t.me/MoftConfig
