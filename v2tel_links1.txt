@@ -1759,3 +1759,23 @@ vmess://eyJhZGQiOiI0LjI0MC43My41NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0
 vmess://eyJhZGQiOiIxNTkuNjkuMTIwLjk4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI1YzNlMmU4LWRmYjYtNGEwYS1iNjU2LTg3ZTk5NzYxMDc4NSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDEzOTEiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://6db0e9a8-45e6-49e1-ad02-f49495d425be@37.156.46.193:8080?path=%2F&security=none&encryption=none&type=ws#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@13.49.189.67:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@195.133.52.153:8443?security=tls&headerType=http&type=tcp&sni=ru2.asc-sam.ir&host=ru2.asc-sam.ir#[🇷🇺]t.me/ConfigsHub
+trojan://TUFfeTYV56@104.21.96.1:2096?security=tls&type=httpupgrade&sni=esna.twn24.ir&path=/?ed=2048&host=esna.twn24.ir#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#[🇳🇱]t.me/MoftConfig
+trojan://Bw5Mz7QkVp@155.138.220.91:443?security=tls&type=tcp&sni=z-v2-077769.kailib.com#[🇺🇸]t.me/ConfigsHub
+trojan://Bw5Mz7QkVp@155.138.220.91:443?security=tls&type=tcp&sni=z-v2-077769.kailib.com#[🇺🇸]t.me/MoftConfig
+vless://c48ca15e-06a6-4857-abb1-c74ff67a6920@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#[🇹🇷]t.me/ConfigsHub
+trojan://65abdb1c-1cdf-4630-a32b-8ae566b48c00@89.213.40.26:40007?security=tls&type=tcp&sni=uknode.soon.guru#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOGQxYmE1NS0wOTQxLTRlNWEtYjUxNi1iNTA1ZjM4MTZmZWM=@free.2apzhfa.xyz:31171#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@108.129.20.225:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#⚜️Telegram:@IP_CF
+vless://f201f45d-8fa1-40bc-9fe1-05230f66051d@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
+trojan://3774827088566296576@52.77.206.160:443?security=tls&type=tcp&sni=flying-tuna.treefrog761.one#[🏁]t.me/ConfigsHub
+vless://91b20787-c7b8-406d-b5c0-3aad3601fa48@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOGQxYmE1NS0wOTQxLTRlNWEtYjUxNi1iNTA1ZjM4MTZmZWM=@free.2apzhfa.xyz:31171#[🏁]t.me/MoftConfig
+vless://a99d8fcb-1578-4abd-873b-e12a1528eb43@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#[🇳🇱]t.me/ConfigsHub
+vless://29cf58e1-672f-4340-97d4-1b7a48e32fdc@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+trojan://3774827088566296576@52.77.206.160:443?security=tls&type=tcp&sni=flying-tuna.treefrog761.one#[🏁]t.me/MoftConfig
+trojan://65abdb1c-1cdf-4630-a32b-8ae566b48c00@89.213.40.26:40007?security=tls&type=tcp&sni=uknode.soon.guru#[🇬🇧]t.me/ConfigsHub
+trojan://TUFfeTYV56@104.21.96.1:2096?security=tls&type=httpupgrade&sni=esna.twn24.ir&path=/?ed=2048&host=esna.twn24.ir#[🇺🇸]t.me/MoftConfig
