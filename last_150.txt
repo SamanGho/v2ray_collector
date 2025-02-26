@@ -1,3 +1,9 @@
+vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@103.148.73.177:443?encryption=none&security=reality&sni=cdn77.api.userway.org&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.75.198.232:8880?encryption=none&security=none&type=grpc#[🇩🇪]t.me/MoftConfig
+vless://f1d94c72-66c9-4eab-b66a-6ea7528a5837@ns.cloudflare.com:2052?security=none&type=httpupgrade&headerType=&path=%2FGoodLuck%3Fed%3D2560&host=5.dreshghi.ir.ferialmostofi.c-om.padaco.ir.arashnasiri.com.shafashiraz.ir.honartandis.com.shouba.ir.iran-dental.com.sardkhoone.com.mohammadsalehpour.ir.abadgan.com.arvijpub.com.chmctruck.com.gandom-yar.ir#[🇨🇦]t.me/MoftConfig
+vless://50d78176-9dec-4c30-a9c6-99684d39fc2c@185.10.19.51:2083?encryption=none&security=reality&sni=Python.org&fp=chrome&pbk=F1FguUh7QO0Ns1v8Z1-7U-VeSgFp_-vNMj0YeX06ti4&sid=cad55ac5&spx=%2F&type=grpc&authority=openml.org&serviceName=hormozvp.hormozvp.hormz.hrmz.tel&mode=multi#[🇫🇷]t.me/ConfigsHub
+vless://dc5c2ac2-8cc4-43db-be4f-d72803fa6f45@Archive-Android.0425.fun:443?type=grpc&serviceName=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&authority=&security=reality&pbk=cj94tgjXDkgM-h1YbsI6sr1azoQZ6YRK1WqpM5WJNUw&fp=chrome&sni=www.cdn77.com&sid=&spx=%2F#[🇩🇪]t.me/ConfigsHub
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.11:443?encryption=none&security=reality&sni=app.usercentrics.eu&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6&type=tcp&headerType=none#[🏁]t.me/MoftConfig
 trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@ru2.asc-sam.ir:2087?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#[🇷🇺]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.107.241.24:8880?encryption=none&security=none&type=grpc#[🇩🇪]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.25.243:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
@@ -141,10 +147,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.102.150:22222?path=/telegram
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.93.253.116:1009?type=tcp&security=none#[🇺🇸]t.me/MoftConfig
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.86.15.135:1009?type=tcp&security=none#[🇺🇸]t.me/MoftConfig
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@52.25.132.156:1009?type=tcp&security=none#[🇺🇸]t.me/MoftConfig
-trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?sni=hezijiasuqi.com#[🏁]t.me/MoftConfig
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.64.138.145:8091#[🇺🇸]t.me/MoftConfig
 vless://52723498-e94b-4e53-91c3-fc4fb203efea@uae2.server-dev7.site:443?security=none&encryption=none&host=namava.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://52723498-e94b-4e53-91c3-fc4fb203efea@uae2.server-dev7.site:443?security=none&encryption=none&host=namava.ir&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
-vless://00cb4441-7ea3-4b6c-8234-7b51323e6940@65.109.205.106:443?security=reality&sni=tgju.org&type=tcp&fp=chrome&pbk=vdciDduQREKON-KghQF_jr2BV0DdaSffv--6mx0Ai1E&sid=4c2fa86d33f5#[🇫🇮]t.me/MoftConfig
-vless://ff325d80-977a-4b0d-85d7-2a58fe364258@162.159.38.232:443?security=tls&sni=vi0sh0.ulavpnx2.work&type=ws&host=vi0sh0.ulavpnx2.work&path=/wss&alpn=http/1.1#[🇺🇸]t.me/MoftConfig
-trojan://blue2024@172.67.135.57:443?security=tls&type=tcp&sni=ta.promote.icu#[🇨🇦]t.me/MoftConfig
