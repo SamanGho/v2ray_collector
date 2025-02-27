@@ -2778,3 +2778,5 @@ vless://e497da22-d020-40fb-a1fa-bc294066a2d2@194.152.44.156:8080?path=%2Fgh%20re
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.13.58:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.250.141:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.40.28:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
+vless://6cd47e31-dd7e-4c2d-8511-186abba7b74e@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.222:80?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1&security=&encryption=none&host=pormang.webhost99.workers.dev&type=ws#[🇺🇸]t.me/MoftConfig
