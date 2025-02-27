@@ -1,10 +1,10 @@
+vless://5e8ffe14-b5f0-1b86-5582-8e02d1d9be12@pinterestpinvision.com:80?encryption=none&security=none&type=xhttp&host=grizzzlyyyys.com&path=%2F%3Fed%3D2048&mode=auto#[🇨🇦]t.me/MoftConfig
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.99:443?encryption=none&security=reality&sni=cdn.userway.org&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
 vless://6553cc18-6d37-43dc-a2e1-91904ceef86f@151.101.158.204:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#[🇬🇧]t.me/MoftConfig
 trojan://telegram-id-privatevpns@52.208.134.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
 vless://14cea04c-dbfa-4436-baa8-5a497d8f9e2c@167.82.9.225:80?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&security=none&encryption=none&host=vistapcit.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.72.213.89:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/MoftConfig
 vless://6553cc18-6d37-43dc-a2e1-91904ceef86f@speedtest.net:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
-vmess://eyJhZGQiOiIxMDQuMjEuMTYuMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJyYW5kb20iLCJob3N0IjoiIiwiaWQiOiJmNTg3MjE0NC05OTQ4LTRhMDAtZmU5My0wZTYzMjU0MDFhZGIiLCJuZXQiOiJncnBjIiwicGF0aCI6Ii9tZWhkaSIsInBvcnQiOiIyMDk2IiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImVzbmEudHduMjQuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibXVsdGkiLCJ2IjoiMiJ9
 trojan://telegram-id-directvpn@3.67.245.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://6553cc18-6d37-43dc-a2e1-91904ceef86f@146.75.8.88:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-privatevpns@52.208.134.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮@MoftConfig
