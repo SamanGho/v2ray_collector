@@ -3136,3 +3136,5 @@ vmess://eyJhZGQiOiIzMS4xMjkuMTA1LjIzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#[🏁]t.me/ConfigsHub
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online&allowInsecure=1&type=tcp&headerType=none#[🇩🇪]t.me/MoftConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.128.95:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/MoftConfig
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.217.33.238:1009?security=none&type=tcp#[🇺🇸]t.me/MoftConfig
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjA5Ljk3LjE3Ni4xOTgiLCJwb3J0IjoiODA4MSIsImlkIjoiMzg3M2JlZWMtNDRjNi00NWJlLTg5MDAtZDE4NGExZDBlZThmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJnb29nbGUuY29tIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNzMifQ==
