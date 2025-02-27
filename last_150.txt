@@ -1,3 +1,4 @@
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#[🇺🇸]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.72.213.89:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇨🇮
 trojan://telegram-id-privatevpns@52.208.134.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.229.59.137:443#[🏁]t.me/ConfigsHub
@@ -94,7 +95,6 @@ trojan://telegram-id-directvpn@16.171.105.21:22222?security=tls&alpn=http/1.1&he
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@52.38.183.96:1009?type=tcp&security=none#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-privatevpns@13.43.124.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 vless://f121aa29-a499-487d-8508-ad5cc06b7a18@harlan.ns.cloudflare.com:443?encryption=none&security=tls&sni=53psze.alligator27.com&type=ws&alpn=http/1.1&host=53psze.alligator27.com&path=/wss#[🇺🇸]t.me/MoftConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.129:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@52.26.159.162:1009?type=tcp&security=none#[🇺🇸]t.me/MoftConfig
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.245.6.4:1009?type=tcp&security=none#[🇺🇸]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.216.204.46:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇫🇮]t.me/MoftConfig
