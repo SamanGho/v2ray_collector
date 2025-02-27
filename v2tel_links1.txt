@@ -2683,3 +2683,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOWZkYTVhMC0xMmYyLTRmYWEtOTg1ZS01OTcyZTg2NTY
 vmess://eyJhZGQiOiIxNDYuMTkuMTY4LjE2MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiYXowNS5iZXlvbmR5LmNmZCIsImlkIjoiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+Hq/Cfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImF6MDUuYmV5b25keS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOWZkYTVhMC0xMmYyLTRmYWEtOTg1ZS01OTcyZTg2NTYxNDE@free.2apzhfa.xyz:31213#[🏁]t.me/MoftConfig
 vless://a4e2c972-23dc-4cf6-f864-f8636d6b9cf0@151.101.194.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
+vmess://eyJhZGQiOiI2YjJhMzAuNTBmOC0yMjY4LTQ1ZTAuY2ZkIiwiYWlkIjowLCJob3N0IjoianAwMXMuNTBmOC0yMjY4LTQ1ZTAuY2ZkIiwiaWQiOiIwYmE0YTI0MC0xNTg2LTRhNTQtOTI5Yy0yNjM4OWM4YTQxMTEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://telegram-id-directvpn@13.48.237.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.4.72:990#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.4.72:990#[🏁]t.me/MoftConfig
+trojan://telegram-id-privatevpns@15.237.65.103:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
+vless://8f135465-b669-4363-b7eb-e672ab6a1c5c@172.67.204.84:8443?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s12.gamers-room-forlifelol2.ir&type=grpc&serviceName=8443vless#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOWZkYTVhMC0xMmYyLTRmYWEtOTg1ZS01OTcyZTg2NTYxNDE@free.2apzhfa.xyz:31441#[🏁]t.me/MoftConfig
+vless://ba14d9ef-18b1-4879-8268-a0fe0c0c406a@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+vless://fa0562cc-76b4-4651-8f19-2938f3be0bf6@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+vless://9d15afe2-b091-4c07-ba6a-5dd6a7339240@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+vless://29f0eb85-d263-416b-af97-c1bbb835100b@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#[🇺🇸]t.me/MoftConfig
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.#[🇨🇦]t.me/MoftConfig
+vmess://eyJhZGQiOiIxMDQuMjEuMTYuMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJyYW5kb20iLCJob3N0IjoiIiwiaWQiOiJkYjdlNDgyZi1jODM2LTQzOGQtOWJkOC1mZmJmZGI0MjhjN2QiLCJuZXQiOiJncnBjIiwicGF0aCI6IlwvbWVoZGkiLCJwb3J0IjoiMjA5NiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6ImVzbmEudHduMjQuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibXVsdGkiLCJ2IjoiMiJ9
+vless://8f135465-b669-4363-b7eb-e672ab6a1c5c@172.67.204.84:8443?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s12.gamers-room-forlifelol2.ir&type=grpc&serviceName=8443vless#[🇨🇦]t.me/MoftConfig
