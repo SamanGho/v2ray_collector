@@ -1,3 +1,4 @@
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?path=%2F&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#[🇨🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638759307456521522.amsterdam-lmn-eal.info:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638759916510817203.gorgan-lmn-eal.info:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638743594865023274.brussels-lmn-dr.info:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
@@ -13,7 +14,6 @@ vless://f0e6c8e5-c616-4a49-b534-2115c68a6198@c2.vact.ir:443?security=reality&enc
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.58.17:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇫🇷]t.me/ConfigsHub
 vless://45df38fa-dd13-4361-9fd3-4f2e18d9e3b0@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&host=internet4everieone7.pages.dev#[🇨🇦]t.me/MoftConfig
-vless://CoD_VPN@speedtest.net:80?type=ws&host=V2RAXX.ir&path=/Telegram,V2RAXX,Telegram,?ed%3D2048&security=none#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.64.138.145:7307#[🇺🇸]t.me/MoftConfig
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.27.88.150:80?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#[🇨🇦]t.me/MoftConfig
 trojan://Aimer@206.238.236.16:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
