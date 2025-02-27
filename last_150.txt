@@ -1,3 +1,4 @@
+vless://6553cc18-6d37-43dc-a2e1-91904ceef86f@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#[🇬🇧]t.me/MoftConfig
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#[🇺🇸]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.72.213.89:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇨🇮
 trojan://telegram-id-privatevpns@52.208.134.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
@@ -41,7 +42,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.58.17:22222?path=/telegram-ch
 vless://45df38fa-dd13-4361-9fd3-4f2e18d9e3b0@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&host=internet4everieone7.pages.dev#[🇨🇦]t.me/MoftConfig
 vless://CoD_VPN@speedtest.net:80?type=ws&host=V2RAXX.ir&path=/Telegram,V2RAXX,Telegram,?ed%3D2048&security=none#[🇺🇸]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.127:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.64.138.145:7307#[🇺🇸]t.me/MoftConfig
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.27.88.150:80?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1&security=none&encryption=none&host=pormang.webhost99.workers.dev&type=ws#[🇨🇦]t.me/MoftConfig
 trojan://Aimer@206.238.236.16:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
