@@ -3475,3 +3475,14 @@ trojan://07b64645-79a4-4c39-97d0-a9d70b4cdaee@91.194.11.168:443?security=tls&all
 ss://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#⚜️Telegram:@IP_CF
 vless://0f942af7-1bfb-4b2a-c094-ff907461897c@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fonmelo.com&path=%2Folem%2Fws%3Fed%3D4096#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2lwb0VzYWUyNW1ybUhHMm9KNFZUMzdzY0JmVkJwTjVEV3RVRUxadXRWaGhYczhMZTVCOGZaOWhMbjl5dHd2YmY%3D@208.67.105.87:42501#[🇳🇱]t.me/ConfigsHub
+ss://0db55a6e-94fe-4ea8-b773-d991bf9b3304@45.12.134.120:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&headerType=none#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31441#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MjQzNzQ1OTE5ZDZkZTQ5YTVkYg@console.02.aliyun.aq.kunlunaqs.com:45578#[🏁]t.me/ConfigsHub
+vless://95815ee1-e153-49c3-b090-a6ac7dee265d@173.245.58.85:443?security=tls&sni=7umpnv.gamvpn.com&type=ws&host=7umpnv.gamvpn.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31441#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31245#[🏁]t.me/MoftConfig
+vless://95815ee1-e153-49c3-b090-a6ac7dee265d@173.245.58.85:443?security=tls&sni=7umpnv.gamvpn.com&type=ws&host=7umpnv.gamvpn.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31741#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31741#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31245#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MjQzNzQ1OTE5ZDZkZTQ5YTVkYg@console.02.aliyun.aq.kunlunaqs.com:45578#[🏁]t.me/MoftConfig
