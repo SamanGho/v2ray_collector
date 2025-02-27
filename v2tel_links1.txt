@@ -3464,3 +3464,7 @@ trojan://3747000103274291200@87.120.204.100:443?security=tls&sni=crucial-moccasi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638752458298717294.madrid-lmn-dr.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇫🇮]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31211#[🏁]t.me/MoftConfig
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31113#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31113#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.99:7002#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.99:7002#[🇺🇸]t.me/MoftConfig
