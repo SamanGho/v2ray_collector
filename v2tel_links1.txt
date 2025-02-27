@@ -3174,3 +3174,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#[�
 trojan://d5c73c2e-866f-449a-a2fd-0f974f932dca@198.199.90.251:12484?security=tls&sni=www.baidu.com&allowInsecure=1&type=tcp#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#[🇺🇸]t.me/MoftConfig
 trojan://d5c73c2e-866f-449a-a2fd-0f974f932dca@198.199.90.251:12484?security=tls&sni=www.baidu.com&allowInsecure=1&type=tcp#[🇺🇸]t.me/MoftConfig
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.92.187.242:1009?security=none&type=tcp#[🇺🇸]t.me/MoftConfig
+vless://54946484-0bd4-467e-9115-f9a63feadc42@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&type=ws#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOekpoTURjMQ%3D%3D@103.35.188.18:8388#[🇺🇸]t.me/ConfigsHub
+vless://8434dd2f-9f3c-4c6c-bf29-129c57718795@www.speedtest.net:2082?path=yakuzaytarmin%3Fed%3D2082&security=&encryption=none&host=yakuasubcha.poqpoq.shop.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://40d3fdd7-e534-4762-a125-359484e522ef@104.21.48.1:443?security=tls&sni=Ppal03.mAgdalENa-gAyLorD.wORKERs.DEv&type=ws&host=Ppal03.magdaLEnA-gAYLoRd.wORKerS.Dev&path=%2FiQm7_H2r35FnS6Uu%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/MoftConfig
+vless://54946484-0bd4-467e-9115-f9a63feadc42@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOekpoTURjMQ%3D%3D@103.35.188.18:8388#[🇺🇸]t.me/MoftConfig
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.89.15.234:1009?security=none&type=tcp#[🇺🇸]t.me/MoftConfig
+vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80?type=ws&host=round-truth-4e97-ppal03.vegasow726.workers.dev#[🇨🇦]t.me/MoftConfig
