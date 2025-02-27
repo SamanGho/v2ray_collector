@@ -3122,3 +3122,17 @@ trojan://telegram-id-privatevpns@16.170.161.34:22222?security=tls&alpn=http/1.1&
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.103.4:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 trojan://telegram-id-privatevpns@16.170.161.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪@MoftConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.103.4:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.217.33.238:1009?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.123.56.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.123.56.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online&allowInsecure=1&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.128.95:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.128.95:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇩🇪
+vmess://eyJhZGQiOiIxNS4yMDQuMjQ5LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWIxMTNjMTItNGRkNC00YmI1LTljMDEtY2ZmMDkyYjU1OWUzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODE2MCIsInBzIjoiW/Cfh7rwn4e4XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.128.95:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.123.56.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪@MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#[🏁]t.me/MoftConfig
+vmess://eyJhZGQiOiIzMS4xMjkuMTA1LjIzOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3OTNlMDNjYy0yYjA4LTRkMWItYmIwYi01OTI1NjdkMTkwNDMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE2MjMxIiwicHMiOiJb8J+Ht/Cfh7pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#[🏁]t.me/ConfigsHub
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online&allowInsecure=1&type=tcp&headerType=none#[🇩🇪]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.128.95:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/MoftConfig
