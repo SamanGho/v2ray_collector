@@ -3468,3 +3468,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjZkYWI3Ny0xNDU2LTQ3ZWMtOTczNC05Mjg2MzJjZWIyNjE@free.2apzhfa.xyz:31113#[🏁]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.99:7002#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.99:7002#[🇺🇸]t.me/MoftConfig
+vless://3a5ad6fe-9f31-4ab7-a572-709d03d65eae@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
