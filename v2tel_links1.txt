@@ -3523,3 +3523,7 @@ trojan://b2b23650-7141-31b9-9480-9f71d5439010@gy.58n.net:20278?sni=z278.hongkong
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8119#[🇺🇸]t.me/ConfigsHub
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?security=tls&type=grpc&sni=uk2.safecdn.site#[🇬🇧]t.me/ConfigsHub
 vless://6f5fa819-6157-4a10-a3da-ed59babbc7bd@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#[🏁]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#[🏁]t.me/MoftConfig
+trojan://blue2024@104.16.38.173:443?sni=hb.lii2010.us.kg#[🇨🇦]t.me/MoftConfig
+trojan://blue2024@104.16.38.173:443?sni=hb.lii2010.us.kg#[🇨🇦]t.me/ConfigsHub
