@@ -3574,3 +3574,8 @@ vless://51a34780-126f-4e00-a3c8-0f1ed8f56313@maznet-join-bede.mahdijamkaran.onli
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#[🏁]t.me/MoftConfig
 trojan://fsoOufuTGmSKzRDaAwAbww@89.34.230.155:443?security=none&type=tcp&headerType=&path=&host=#[🇳🇱]t.me/MoftConfig
 trojan://fsoOufuTGmSKzRDaAwAbww@178.63.244.9:443?security=none&type=tcp&headerType=&path=&host=#[🇩🇪]t.me/ConfigsHub
+vless://80ce1755-a23c-4bd3-9683-da7d9d33d604@151.101.192.155:80?security=none&type=xhttp&host=test8375828.global.ssl.fastly.net#[🇺🇸]t.me/MoftConfig
+vless://4e17d7c9-f36e-4693-b392-6b135bbbc427@free.fastly80.hosting-ip.com:80?type=ws&host=vpnvipforagin.com&path=/?ed%3D2048&security=none#[🇨🇦]t.me/MoftConfig
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?encryption=none&security=tls&sni=pHOTOgrApHipiCTureaI.IR&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=photographipictureai.ir&path=%2F3um9NK8jwisKz35E%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
+vless://86646b03-97a4-4670-8554-fb54cc691cf0@37.27.185.191:32227?security=none&type=grpc&serviceName=@proprojec#[🇫🇮]t.me/MoftConfig
+vless://4e17d7c9-f36e-4693-b392-6b135bbbc427@free.fastly80.hosting-ip.com:80?type=ws&host=vpnvipforagin.com&path=/?ed%3D2048&security=none#[🇨🇦]t.me/ConfigsHub
