@@ -4219,3 +4219,11 @@ vless://680cd473-e435-47df-83dc-99f29e06e40d@151.101.192.155:80?security=none&ty
 vless://bed0f806-f1e6-4f1b-af1a-af3be28925d1@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
 ss://48a9e50b-4f1e-4a44-9937-3c28b4b19a90@172.64.32.85:443?security=tls&sni=rz3z4b.gamvpn.com&type=ws&host=rz3z4b.gamvpn.com&path=/wss&alpn=http/1.1#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg%3D%3D@2.58.241.42:443#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZDhkYmZhYy0xMmM1LTQxMjYtYmFmNS0xMzAyY2Q2MmFlMDA@free.2weradf.xyz:36215#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZDhkYmZhYy0xMmM1LTQxMjYtYmFmNS0xMzAyY2Q2MmFlMDA@free.2weradf.xyz:36721#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZDhkYmZhYy0xMmM1LTQxMjYtYmFmNS0xMzAyY2Q2MmFlMDA@free.2weradf.xyz:36213#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZDhkYmZhYy0xMmM1LTQxMjYtYmFmNS0xMzAyY2Q2MmFlMDA@free.2weradf.xyz:36213#[🏁]t.me/ConfigsHub
+vless://468ef333-3a15-4c8b-848b-2e0b5e089349@173.245.59.100:2052?security=none&type=httpupgrade&host=3.dreshghi.ir.ferialmostofi.c-om.padaco.ir.arashnasiri.com.shafashiraz.ir.honartandis.com.shouba.ir.iran-dental.com.sardkhoone.com.mohammadsalehpour.ir.abadgan.com.arvijpub.com.chmctruck.com.gandom-yar.ir#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZDhkYmZhYy0xMmM1LTQxMjYtYmFmNS0xMzAyY2Q2MmFlMDA@free.2weradf.xyz:36721#[🏁]t.me/ConfigsHub
+vless://468ef333-3a15-4c8b-848b-2e0b5e089349@173.245.59.100:2052?security=none&type=httpupgrade&host=3.dreshghi.ir.ferialmostofi.c-om.padaco.ir.arashnasiri.com.shafashiraz.ir.honartandis.com.shouba.ir.iran-dental.com.sardkhoone.com.mohammadsalehpour.ir.abadgan.com.arvijpub.com.chmctruck.com.gandom-yar.ir#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZDhkYmZhYy0xMmM1LTQxMjYtYmFmNS0xMzAyY2Q2MmFlMDA@free.2weradf.xyz:36215#[🏁]t.me/MoftConfig
