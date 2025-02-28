@@ -4207,3 +4207,4 @@ vmess://eyJhZGQiOiIxNjIuMTU5LjI1Mi4yMTAiLCJhaWQiOjAsImhvc3QiOiJzZzAxcy41N2RlLTc4
 ss://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.94:3237?security=none&type=tcp#⚜️Telegram:@IP_CF
 vmess://eyJhZGQiOiIxMjguMjA0LjIyMy4xMTkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNGUxMGMwNTEtMjQ5NS00MjdiLWE4ZWQtYTYyN2Q4OGI1OWVlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC80ZTEwYzA1MS0yNDk1LTQyN2ItYThlZC1hNjI3ZDg4YjU5ZWUtdm0/ZWQ9MjA0OCIsInBvcnQiOiIyODU4MiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZDhkYmZhYy0xMmM1LTQxMjYtYmFmNS0xMzAyY2Q2MmFlMDA@free.2weradf.xyz:36143#[🏁]t.me/MoftConfig
+ss://78d5f6e2-0d8f-5728-9efa-6b9ce5d5bf48@94.131.122.105:2052?encryption=none&security=none&type=grpc&authority=&serviceName=vless-grpc&mode=gun#⚜️Telegram:@IP_CF
