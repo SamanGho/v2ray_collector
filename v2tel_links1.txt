@@ -5059,3 +5059,9 @@ trojan://3747000103274291200@185.67.125.177:443/?type=tcp&security=tls&sni=quali
 vless://f4488ac9-e072-40a5-9aed-b278ed8208db@167.235.70.79:2053?security=none&type=ws&path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560#[🇩🇪]t.me/ConfigsHub
 trojan://3747000103274291200@95.85.93.45:443/?type=tcp&security=tls&sni=simple-coyote.adder289.quest&allowInsecure=1#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#[🇫🇷]t.me/MoftConfig
+vless://89f3d070-f727-46d3-995e-3f8c6bd59558@104.21.10.89:443?path=%2F9fL9nkMsx6315cc9%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=testali.mehdiama279.workers.dev&fp=randomized&type=ws&sni=TESTaLi.mEHDiAMA279.WOrKErs.Dev#[🇨🇦]t.me/MoftConfig
+vless://3bd90dbc-82b2-4129-95ce-d7df6deb8fe2@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+ss://YWVzLTI1Ni1nY206RzJMQzFCUTQ4U1hTQktaWA==@185.126.239.231:20002#[🇷🇺]t.me/MoftConfig
+vless://89f3d070-f727-46d3-995e-3f8c6bd59558@104.21.10.89:443?path=%2F9fL9nkMsx6315cc9%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=testali.mehdiama279.workers.dev&fp=randomized&type=ws&sni=TESTaLi.mEHDiAMA279.WOrKErs.Dev#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNc0lCRnc2WFBtZmNwTFpYaFVOcEpkcjFnN0ZPYlpDVDVBZ0FFekYzT0VHZjFUNWQ=@95.128.71.141:41348#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNc0lCRnc2WFBtZmNwTFpYaFVOcEpkcjFnN0ZPYlpDVDVBZ0FFekYzT0VHZjFUNWQ=@95.128.71.141:41348#[🏁]t.me/ConfigsHub
