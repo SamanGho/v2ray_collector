@@ -5094,3 +5094,8 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.57:2087?security=tls&sni=5
 trojan://3763495894587285504@13.41.168.115:443?security=tls&sni=clever-chimp.goat627.mom&type=tcp&allowInsecure=1#⚜️Telegram:@IP_CF
 trojan://3747000103274291200@87.120.204.100:443?security=tls&sni=crucial-moccasin.adder289.quest&type=tcp&allowInsecure=1#[🏁]t.me/ConfigsHub
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.57:2087?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&fp=chrome#[🇨🇦]t.me/ConfigsHub
+vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.24.207.192:80?path=%2Ftelegram%40mtmvpn%3Fed%3D2560&security=none&encryption=none&host=gozargah2.validbv7996.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://c1410eab-cf4a-4ec6-9fc0-674e3c138ab8@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+vless://30063a49-a0eb-4d5c-ab78-b5709bbf47c6@iri.ginuerzht.ir:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@sx.s8573.ir:443?path=%2F3um9NK8jwisKz35E%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#[🇨🇦]t.me/MoftConfig
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@sx.s8573.ir:443?path=%2F3um9NK8jwisKz35E%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#[🇨🇦]t.me/ConfigsHub
