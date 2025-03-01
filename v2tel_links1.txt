@@ -4325,3 +4325,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.2.165:80?path=%2Fchannel%2C
 vless://07df3379-b430-5efa-afa2-4e7d8011bd6f@151.101.194.165:80?security=none&type=ws&host=0-MOSIV2-0.COM#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.e-l-i-v-2-r-a-y.fastly80-3.hosting-ip.com:80?path=%2F&security=&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&type=ws#[🇨🇦]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.4.12:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
+ss://eGNoYWNoYTIwLXBvbHkxMzA1OnRhWHliUnpBWXdpdmk1a1JqTktDTGJQdDN2MlJCK3J5cmt0bE9ncHQ1aFk9@185.106.93.148:443#[🇩🇪]t.me/MoftConfig
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dGFYeWJSekFZd2l2aTVrUmpOS0NMYlB0M3YyUkIrcnlya3RsT2dwdDVoWT0%3D@185.106.93.148:443#[🇩🇪]t.me/MoftConfig
+vless://dcaedec9-9e24-47ea-bdd8-d0c5c4c44d37@23.88.52.73:2096?type=tcp&security=reality&fp=firefox&sni=Www.safine.net&pbk=wzuNwzncGOhTuCcO2tt4j7es7b3logIYYlVmWvu1OBM&sid=118e3f91&spx=/#[🇩🇪]t.me/MoftConfig
+vless://8e7fc04e-0d19-445b-b416-4d85bc39d592@185.106.93.148:2002?encryption=none&security=reality&sni=x.ai&fp=chrome&pbk=rd6UkQumq8hDyw_uvrrpsgX_XlOi7xtXlwIkr3peDVQ&sid=a7585ba5f6&spx=%2FDaily_Configs&type=tcp&headerType=none#[🇩🇪]t.me/MoftConfig
+vless://b14a89d8-13d0-4551-a441-ead970ff2138@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
