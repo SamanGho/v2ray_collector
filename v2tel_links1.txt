@@ -5099,3 +5099,7 @@ vless://c1410eab-cf4a-4ec6-9fc0-674e3c138ab8@hon5.vpntype.dev:443?security=tls&e
 vless://30063a49-a0eb-4d5c-ab78-b5709bbf47c6@iri.ginuerzht.ir:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@sx.s8573.ir:443?path=%2F3um9NK8jwisKz35E%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#[🇨🇦]t.me/MoftConfig
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@sx.s8573.ir:443?path=%2F3um9NK8jwisKz35E%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#[🇩🇪]t.me/MoftConfig
+trojan://4a8973a9-6d7e-4996-b05a-7df3374c083a@165.227.229.34:443?security=tls&allowInsecure=1&type=tcp&headerType=none#[🇬🇧]t.me/MoftConfig
+trojan://4a8973a9-6d7e-4996-b05a-7df3374c083a@165.227.229.34:443?security=tls&allowInsecure=1&type=tcp&headerType=none#[🇬🇧]t.me/ConfigsHub
