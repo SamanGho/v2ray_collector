@@ -5982,3 +5982,5 @@ vless://2ff9135a-aee2-40d8-946f-b2a593312196@s2.vact.ir:443?mode=gun&security=re
 trojan://3747000103274291200@185.67.125.177:443/?type=tcp&security=tls&sni=quality-albacore.adder289.quest#⚜️Telegram:@IP_CF
 vless://21e05f5a-46a6-41de-acf8-e1c801d8483b@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#[🇨🇦]t.me/MoftConfig
 vless://6829284a-c6ba-4370-b353-d1cc6e6a78bf@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://cf8b9d10-2638-4673-8994-64bedfdb7164@128.199.114.96:2003?encryption=none&security=tls&allowInsecure=1&type=grpc&authority=&serviceName=GRPC&mode=gun#[🏁]t.me/ConfigsHub
+vless://cf8b9d10-2638-4673-8994-64bedfdb7164@128.199.114.96:2003?encryption=none&security=tls&allowInsecure=1&type=grpc&authority=&serviceName=GRPC&mode=gun#[🏁]t.me/MoftConfig
