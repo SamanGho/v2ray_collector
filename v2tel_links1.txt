@@ -5148,3 +5148,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?security=&encry
 vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.33.212:443?type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&security=tls&fp=firefox&sni=map.google.com&allowInsecure=true#⚜️Telegram:@IP_CF
 vless://b844151f-62b4-4c3f-9ec9-2f69cf77835a@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638760194675459018.lahijan-mpl-eao.info:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.27:5600#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:8888#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.19:443#[🇺🇸]t.me/ConfigsHub
+trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@34.220.92.150:20230?security=tls&sni=421421.xyz#[🇺🇸]t.me/ConfigsHub
+trojan://71086710-33eb-11ed-adce-1239d0255272@103.253.24.212:443?security=tls&sni=sg1-trojan.bonds.id&allowInsecure=1#[🏁]t.me/ConfigsHub
+trojan://a0087535-9c6f-42cd-9220-a7bb8eeae6cc@5.83.221.31:30057?security=tls&sni=v1kr02.fuqiangren.com#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.9:8080#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.79:443#[🇺🇸]t.me/ConfigsHub
