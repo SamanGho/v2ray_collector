@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@52.209.112.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://6fd362da-cac8-4ab5-f188-2bb650d2563d@151.101.3.8:80?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&security=none&encryption=none&host=vistapcit.com&type=ws#[🇺🇸]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE=@103.117.148.22:40009#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVB2TWpTNVVHUmpNZTZudUszVTh0@62.133.60.60:21712#[🇩🇪]t.me/ConfigsHub
@@ -147,4 +148,3 @@ vless://af5c83ce-e793-4be6-a526-b72030dc0762@ww.speedmeter.life:80?path=%2F-LiV2
 vless://392c6f4c-bff4-4fec-ab1e-c68673457616@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FJoinBedeee----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://392c6f4c-bff4-4fec-ab1e-c68673457616@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FJoinBedeee----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=&encryption=none&host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://2a9c688a-1dd2-4cb7-8b13-92b9fa428207@172.64.35.157:443?security=tls&sni=hgyprp.snaptrip.site&type=ws&host=hgyprp.snaptrip.site&path=%2Fwss&alpn=http/1.1#⚜️Telegram:@IP_CF
-vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.33.212:443?type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn@aklisvpn&security=tls&fp=firefox&sni=map.google.com&allowInsecure=true#⚜️Telegram:@IP_CF
