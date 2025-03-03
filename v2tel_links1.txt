@@ -6650,3 +6650,4 @@ vless://17109402-2117-4357-8399-f054ee906ec8@104.21.112.1:2083?security=tls&sni=
 vless://17109402-2117-4357-8399-f054ee906ec8@104.21.112.1:2083?security=tls&sni=MaHDiservEr-q9i.PaGes.DeV&type=ws&host=mahdiserver-q9i.pages.dev&path=%2Fn3Jn43Xl2JTUTMBf%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@54.172.221.2:80?security=none&type=tcp#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-v2rayvpnchannel@13.37.219.243:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphbXU1dEx3YkdMYm9iV3VZQXFVOUVr@77.83.246.74:443#🇵🇱 Польша
