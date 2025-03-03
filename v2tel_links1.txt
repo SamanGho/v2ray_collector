@@ -6047,3 +6047,5 @@ trojan://0bfa2050-b165-4156-859c-70f36d300dce@3.113.22.195:20230?security=tls&sn
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.250.216.70:22222/?type=ws&encryption=none&flow=&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjM2NpTlRYQ1hZTVozejZ1Tjc0eU0y@81.19.141.45:443#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMTguMTY3LjMuMTI2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmYTk4NzE0Yy0xZDJiLTNiNjAtODFlMC1mNzE1MTExMGU4MDEiLCJuZXQiOiJodHRwIiwicGF0aCI6IiIsInBvcnQiOjE0NDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoidHcyLnNka2xrZC5vcmcifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNWRmMWY5NS1lNWZhLTQ0MDUtYjAzYi02M2E2MjhkZDkyMWU@free.2apzhfa.xyz:31411#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNWRmMWY5NS1lNWZhLTQ0MDUtYjAzYi02M2E2MjhkZDkyMWU@free.2apzhfa.xyz:31411#[🏁]t.me/ConfigsHub
