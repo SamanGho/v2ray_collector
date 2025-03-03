@@ -6031,3 +6031,5 @@ trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@35.166.52.155:20230?security=tls&s
 vless://5335d16e-7e42-4c9b-93a3-9e83bfd3073d@172.67.168.60:80?security=none&type=ws&host=workerr.johnstoner.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
 trojan://telegram-id-directvpn@13.50.103.79:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/MoftConfig
 trojan://3778399737045327872@185.67.127.66:443?security=tls&sni=divine-slug.adder289.quest&type=tcp#[🇬🇧]t.me/MoftConfig
+vless://a61942e2-7033-40f2-afe1-28c9d67e66e4@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZUZlSjdicVdTcHg5YkdYR01Sak0x@81.19.141.45:443#🇩🇪 Германия
