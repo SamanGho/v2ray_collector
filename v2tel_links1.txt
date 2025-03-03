@@ -6033,3 +6033,7 @@ trojan://telegram-id-directvpn@13.50.103.79:22222?security=tls&sni=trojan.burger
 trojan://3778399737045327872@185.67.127.66:443?security=tls&sni=divine-slug.adder289.quest&type=tcp#[🇬🇧]t.me/MoftConfig
 vless://a61942e2-7033-40f2-afe1-28c9d67e66e4@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZUZlSjdicVdTcHg5YkdYR01Sak0x@81.19.141.45:443#🇩🇪 Германия
+vless://3e2be9f4-363f-419d-a23a-28e171c6bc54@172.67.140.149:8880?security=none&type=ws&host=telegram-falcunargo.31186fb105.workers.Dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+trojan://0bfa2050-b165-4156-859c-70f36d300dce@3.113.22.195:20230?security=tls&sni=jp008.421421.xyz&allowInsecure=1#[🏁]t.me/ConfigsHub
+trojan://ebhZ11qYng@uk-02.allhubb.info:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&fp=random&type=tcp&sni=uk-02.allhubb.info#[🇬🇧]t.me/ConfigsHub
+trojan://96cad374-7573-4463-8804-4665c2c3d932@13.212.205.164:6001?security=tls&sni=ho82IA13QmjF5Atv.apple.com#[🏁]t.me/ConfigsHub
