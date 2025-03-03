@@ -6620,3 +6620,16 @@ vless://f91b3fd5-b247-4258-9760-2217dbf36213@57.129.23.236:20910?security=realit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.157:8880?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/MoftConfig
 vless://8645d842-0d10-4d4c-a7a7-8d3e14d2dca2@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#[🇳🇱]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.204:8880?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/MoftConfig
+vless://Parsashonam-183@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇬🇧]t.me/ConfigsHub
+vless://Parsashonam-183@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇳🇱]t.me/ConfigsHub
+vless://f91b3fd5-b247-4258-9760-2217dbf36213@57.129.23.236:20910?security=reality&encryption=none&pbk=zfcReFxdDu57h_EOZItno2ir1DOQdfGIasn69APU7js&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=1fe8e221b4#[🇩🇪]t.me/ConfigsHub
+vless://Parsashonam-183@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇬🇧]t.me/MoftConfig
+vless://Parsashonam-183@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇳🇱]t.me/MoftConfig
+vless://Parsashonam-183@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.157:8880?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNTIuNzAuNTcuMTgyIiwiYWlkIjowLCJob3N0IjoiaXJ2aWRlby5jZmQiLCJpZCI6ImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImlydmlkZW8uY2ZkIn0=
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@JOIN.MOSIV2.fastly80-3.hosting-ip.com:80?path=/MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560&host=join----bede---mosiv2.ir&type=ws#[🇺🇸]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.204:8880?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+vless://Parsashonam-183@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@JOIN.MOSIV2.fastly80-3.hosting-ip.com:80?path=/MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560&host=join----bede---mosiv2.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.223:8880?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
