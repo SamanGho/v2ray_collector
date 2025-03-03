@@ -6247,3 +6247,21 @@ vless://d01ba60e-03a3-4bb5-86ea-cb9de4561012@flv4-vip.digitalldns.com:6587?secur
 vless://03c9f240-0bad-4f71-93f2-f5d272dada97@104.24.184.113:80/?type=ws&encryption=none&host=sparkling-limit-ppal03.yibijow194.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://eLpjAXg6pM@65.109.219.89:5060?security=tls&headerType=none&type=tcp&sni=sv1.ahsg.top#[🇫🇮]t.me/MoftConfig
 vless://dca7dfa7-1121-409e-fcff-8f16c968d420@104.17.148.22:8880/?type=httpupgrade&encryption=none&host=Alfred.Dnss-Mobile.ir&path=%2FFreeConfig#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@54.220.149.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+vless://8645d842-0d10-4d4c-a7a7-8d3e14d2dca2@zmaoz.faculty.ucdavis.edu:80/?type=ws&encryption=none&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇳🇱]t.me/ConfigsHub
+vless://ea286109-d20f-415e-849e-4af20ab04b65@51.81.37.5:443/?type=tcp&encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1#[🇺🇸]t.me/MoftConfig
+trojan://telegram-id-directvpn@54.220.149.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://8645d842-0d10-4d4c-a7a7-8d3e14d2dca2@zmaoz.faculty.ucdavis.edu:80/?type=ws&encryption=none&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇳🇱]t.me/MoftConfig
+vless://1937666c-9058-4f4a-bee6-cb31273cd3cd@104.248.168.91:443?security=none&encryption=none&headerType=none&type=tcp#[🇬🇧]t.me/ConfigsHub
+vless://c1a11e32-1638-430b-b41d-2e84bfdd8a32@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#[🇨🇦]t.me/MoftConfig
+trojan://telegram-id-privatevpns@35.181.175.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.181.175.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
+vless://ea286109-d20f-415e-849e-4af20ab04b65@51.81.37.5:443/?type=tcp&encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1#[🇺🇸]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.139:8880/?type=grpc&encryption=none#[🇫🇮]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.154.136.162:7002#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.154.136.162:7002#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@54.220.149.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.19.222.79:2087/?type=ws&encryption=none&host=numey.abuja-usepiqiu.info&path=%2Fmorano&security=tls&sni=numey.abuja-usepiqiu.info&fp=chrome#[🇨🇦]t.me/MoftConfig
+vless://c1a11e32-1638-430b-b41d-2e84bfdd8a32@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.181.175.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵@MoftConfig
+vless://dca7dfa7-1121-409e-fcff-8f16c968d420@104.17.148.22:8880?path=%2FFreeConfig&security=none&encryption=none&host=Alfred.Dnss-Mobile.ir&type=httpupgrade#[🇨🇦]t.me/MoftConfig
