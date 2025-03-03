@@ -6418,3 +6418,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVFF6TlRrMQ%3D%3D@us1.opensocks.site:8388#[�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakV3Wm1aaw%3D%3D@is2.opensocks.site:8388#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.43.83.38:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇬🇧]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREE1WWpGaA%3D%3D@de1.opensocks.site:8388#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-privatevpns@18.153.113.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪@MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLRW95Vm9VQlV3QXZGV1VMdkVNcDZj@89.185.84.185:443#🇬🇧 Великобритания
+ss://5d101b3e-bcdd-487f-9f70-6de4cc21ef06@193.124.203.178:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=germany1.rsvpn.ru&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#⚜️Telegram:@IP_CF
+vless://f82f3807-fb99-400a-843d-d1c7741981c0@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+trojan://telegram-id-directvpn@13.37.219.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPMGQ3TnUyRGU0MUlsUmtiTXdzUGlZ@77.83.246.74:443#[🏁]t.me/MoftConfig
+trojan://telegram-id-directvpn@13.37.219.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@18.153.113.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+vless://telegram-ArV2ray@AC.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2048&security=none&encryption=none&host=cruknl.ir&type=ws#[🇨🇦]t.me/MoftConfig
