@@ -1,3 +1,4 @@
+vless://667a4072-ef86-482b-81cb-da664e1e50ce@91.184.242.129:8443?path=%2Fwp-admin.php%3Fed%3D2083%3FjokerrvpnJoinBadeChannel@JOKERRVPNTelegram#[🇳🇱]t.me/MoftConfig
 trojan://telegram-id-privatevpns@13.37.72.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 vless://c81e4587-6003-42c3-be3f-a7f22516c20b@hajlab.ucdavis.edu:80?security=&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@54.161.236.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/MoftConfig
@@ -137,7 +138,6 @@ vless://d4008461-be09-43b4-bc77-8a6d55fe84d0@185.161.251.211:1633?security=reali
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@JOIN.MOSIV2.fastly80-3.hosting-ip.com:80?path=%2FMOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560&security=none&encryption=none&host=join---bede--mosiv2.ir&type=ws#[🇺🇸]t.me/MoftConfig
 vless://88e79468-dc96-93e0-199b-945538d116c0@Amir1.codephpplus13.ir:1101?mode=gun&security=reality&encryption=none&pbk=V0F2IEBeuLwqEH3F6PR_mWNk09mW--AFcdkwzpFKRSU&fp=chrome&type=grpc&serviceName=login&sni=Amir1.codephpplus13.ir&sid=20a79e340e609a03#[🇩🇪]t.me/ConfigsHub
 vless://Bia-mtmvpn@mehdi.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=BqyR1J0knEz_ExHwER9WKfxCeoMduUlb4oCGTez7-yg&fp=chrome&spx=%2F&type=grpc&serviceName=TELEGRAM-MTMVPN-TELEGRAM-MTMVPN&sni=www.cdn77.com&sid=6b#[🇩🇪]t.me/MoftConfig
-vmess://eyJhZGQiOiI1Ljc1LjIwNy4zNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZGI0YzIxNC01YmNhLTRhZmQtOWRkYy0zYzQwMWY5YTdhMTIiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.157:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇩🇪]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUFhiOEoyY2lEeWJva1dsN2t4S2Fi@45.144.54.156:51587?type=tcp#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTgzNmVkYy1lNzM4LTRlNjMtOTY0ZC1hZDYxZDllM2YyN2I=@45.196.222.10:61006#[🏁]t.me/MoftConfig

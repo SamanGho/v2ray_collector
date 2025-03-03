@@ -6391,3 +6391,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WXA2RlRsWlZlekdsc2VvUlJBcHlq@81.19.141.45:4
 vless://9c3efd76-6cab-48e4-9a89-cc0a32beae8a@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMi41OC44Ny4yMjEiLCJwb3J0IjoiMTIyNjkiLCJpZCI6ImRiODVmZjBlLWMzM2YtNDAxZC1jNDE1LTRjN2NjZTEzNTcwNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 ss://YWVzLTI1Ni1nY206WTdZMEVVWEY1WlpLSlRGVQ%3D%3D@154.196.244.24:16014#[🏁]t.me/ConfigsHub
+vless://%4A%6F%69%6E---%46%41%52%45%58%53%49---@joinbede.SRCVPN.fastly80-3.hosting-ip.com:80?path=%2F%54%65%6C%65%67%72%61%6D%2C%56%32%52%41%58X%2CTelegram%2C%3Fed%3D2048&host=%56%32%52%41%58X.ir&type=ws#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.105:443#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@142.202.48.105:3306#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBYmxFdmFxbnhOM3dIOGpxaGdleFRo@free3.okkserver.tech:2239#[🇸🇪]t.me/MoftConfig
+trojan://telegram-id-privatevpns@18.195.166.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+vless://1937666c-9058-4f4a-bee6-cb31273cd3cd@104.248.168.91:443/?type=tcp&encryption=none#⚜️Telegram:@IP_CF
+trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443/?type=tcp&security=tls#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiI1Ljc1LjIwNy4zNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZGI0YzIxNC01YmNhLTRhZmQtOWRkYy0zYzQwMWY5YTdhMTIiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+trojan://telegram-id-privatevpns@18.195.166.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪@MoftConfig
+trojan://telegram-id-privatevpns@18.195.166.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
