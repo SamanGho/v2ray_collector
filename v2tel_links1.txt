@@ -7340,3 +7340,6 @@ vless://076dd4c5-6ea1-4ad1-bfad-8fe312f6da92@whatismyipaddress.com:2096?security
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOekpoTURjMQ%3D%3D@us1.opensocks.site:8388#[🇺🇸]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.163:2095?security=none&type=ws&host=redw.pooriam.ir&path=%2F%40ShadowProxy66%3Fed%3D2048#[🏁]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.163:2095?security=none&type=ws&host=redw.pooriam.ir&path=%2F%40ShadowProxy66%3Fed%3D2048#[🏁]t.me/ConfigsHub
+vless://2d6afb85-81c0-4f44-87b4-72902cf258ae@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
+vless://c66b1fac-f708-4691-9c50-e8e8cffeffaf@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480#[🇺🇸]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.92.165:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
