@@ -6740,3 +6740,7 @@ ss://2afe3271-8dd4-435c-a699-1150077b14e8@185.146.173.58:8880/?path=%2F%3Fed%3D2
 vless://5dc6d3cd-db55-4e93-85c1-9396922e9a45@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2F#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.216.171.54:8880/?type=grpc&encryption=none#[🇫🇮]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052?type=ws&host=redw.pooriam.ir&path=%2F%40ShadowProxy66%3Fed%3D2048#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMDYyYTVjYS1hMzRlLTQ3YmYtOTgxMC1kYjkxMTg1ZjA3ZmM=@35.95.30.175:59019#[🇺🇸]t.me/ConfigsHub
+trojan://176196e4-7cf7-4561-87a9-21a1b4e344be@54.255.67.79:443?security=tls&sni=de.liangyuandian.top&allowInsecure=1#[🏁]t.me/ConfigsHub
+vless://076dd4c5-6ea1-4ad1-bfad-8fe312f6da92@104.19.222.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir#[🇨🇦]t.me/ConfigsHub
