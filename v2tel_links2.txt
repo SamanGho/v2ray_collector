@@ -8449,3 +8449,23 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.215.120.213:22222?path=/telegram
 vless://8e043245-77ff-490c-909c-bf46c9ffe71b@185.79.158.144:8099?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
 vless://90765624-6fb5-49d6-ce81-2b1c10645319@104.21.44.185:8443?path=%2Fmehdi&security=tls&encryption=none&host=Freedomisnear.onetwothree123.ir&type=ws&sni=Freedomisnear.onetwothree123.ir#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.122.47.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://530e4130-09f3-4dc4-9033-78b9c0b526d4@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6679#[🇫🇷]t.me/MoftConfig
+vless://db60d098-86db-445b-8a06-98e8d8318083@104.16.196.131:80?type=ws&host=www.opensignal.com.deepvpn.khunaungphyo.shop&path=/#[🇨🇦]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA@80.92.204.106:9061#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-privatevpns@18.130.104.51:22222?sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp&path=&host=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+vless://cb6b2a66-cfbf-4ce7-a971-0ab8d95f1867@151.101.128.155:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com&path=%2F%3Fed%3D2048#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#[🇫🇷]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@149.202.82.172:8080#[🇫🇷]t.me/MoftConfig
+vless://a2c1b75d-e69f-4fa7-be8c-5193881f713a@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8090#[🇫🇷]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:3389#[🇫🇷]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5000#[🇫🇷]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8091#[🏁]t.me/MoftConfig
+trojan://3747000103274291200@62.112.221.57:443?security=tls&headerType=none&type=tcp&sni=integral-malamute.adder289.quest#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:8888#[🇫🇷]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@54.36.174.181:9101#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#[🏁]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.92.165:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.120:2086?path=%2Fwp-admin%3Fed%3D2048&security=none&encryption=none&host=getasa.ir&type=ws#[🇮🇷]t.me/MoftConfig
