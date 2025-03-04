@@ -7362,3 +7362,7 @@ trojan://telegram-id-privatevpns@18.130.104.51:22222?sni=trojan.burgerip.co.uk&a
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@54.36.174.181:9101#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.130.104.51:22222?sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp&path=&host=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:3389#[🇫🇷]t.me/MoftConfig
+vless://db60d098-86db-445b-8a06-98e8d8318083@104.16.196.131:80?type=ws&host=www.opensignal.com.deepvpn.khunaungphyo.shop&path=/#[🇨🇦]t.me/ConfigsHub
+vless://db60d098-86db-445b-8a06-98e8d8318083@104.16.196.131:80?type=ws&host=www.opensignal.com.deepvpn.khunaungphyo.shop&path=/#[🇨🇦]t.me/MoftConfig
+vless://cb6b2a66-cfbf-4ce7-a971-0ab8d95f1867@151.101.128.155:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com&path=%2F%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
+vless://cb6b2a66-cfbf-4ce7-a971-0ab8d95f1867@151.101.128.155:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com&path=%2F%3Fed%3D2048#[🇺🇸]t.me/MoftConfig
