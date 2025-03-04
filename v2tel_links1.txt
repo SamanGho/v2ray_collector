@@ -6710,3 +6710,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.8.216:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.131:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.150:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.125:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
+vless://076dd4c5-6ea1-4ad1-bfad-8fe312f6da92@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&fp=#⚜️Telegram:@IP_CF
+trojan://7285ff92-0504-4022-a236-64e87d79d2f7@107.175.212.252:443?path=%2FkcZCBL02F1uNblTGnel4M2&security=tls&alpn=h2&host=newyork.huangshang.ddns-ip.net&fp=chrome&type=ws&sni=newyork.huangshang.ddns-ip.net#⚜️Telegram:@IP_CF
+vless://0422e520-c34a-43d9-a76b-e77e266f484a@188.245.96.137:1717?mode=gun&security=none&encryption=none&authority=jokerrvpnTelegram%20%3A&type=grpc&serviceName=1717vless#⚜️Telegram:@IP_CF
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.205:8880?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
