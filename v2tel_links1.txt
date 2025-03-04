@@ -6908,3 +6908,10 @@ vless://ZEDMODEON--ZEDMODEON@151.101.59.75:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZE
 trojan://telegram-id-privatevpns@18.130.104.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.130.104.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧@MoftConfig
 trojan://telegram-id-privatevpns@18.130.104.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS29.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#[🇩🇪]t.me/MoftConfig
+vless://d848f1cf-e5b9-4a2c-9336-ed1e65e6dae8@185.79.158.144:8099?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.158.15:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+vless://d848f1cf-e5b9-4a2c-9336-ed1e65e6dae8@185.79.158.144:8099?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.50.159.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiIxMDQuMjEuNDQuMTg1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6InJhbmRvbSIsImhvc3QiOiJGcmVlZG9taXNuZWFyLm9uZXR3b3RocmVlMTIzLmlyIiwiaWQiOiJkYjdlNDgyZi1jODM2LTQzOGQtOWJkOC1mZmJmZGI0MjhjN2QiLCJuZXQiOiJncnBjIiwicGF0aCI6Ii9tZWhkaSIsInBvcnQiOiIyMDk2IiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IkZyZWVkb21pc25lYXIub25ldHdvdGhyZWUxMjMuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibXVsdGkiLCJ2IjoiMiJ9
+vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@FreakconfigS29.usecharge.ir:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net#[🇩🇪]t.me/ConfigsHub
