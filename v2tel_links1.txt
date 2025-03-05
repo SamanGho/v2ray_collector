@@ -7394,3 +7394,4 @@ vmess://eyJhZGQiOiIxMDQuMTguMTQ5Ljc2IiwiYWlkIjowLCJob3N0IjoidXMua2twLm1lLmV1Lm9y
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@13.39.163.245:8443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#[🇫🇷]t.me/MoftConfig
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?security=tls&sni=FrEev2Rng---Freev2RnG---FrEEV2RnG---FreEV2rNG---FrEeV2RnG.s88p4JH.wOrKERS.dEV&type=ws&host=freev2rng---freev2rng---freev2rng---freev2rng---freev2rng.s88p4jh.workers.dev&path=%2FxfEwYSAtKPDzLBqD%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/MoftConfig
 vless://14d1031e-060d-49b2-973f-23a1d7ea10e8@104.26.15.16:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&host=bEAt.MIRaclETaxbiTS.Top.&path=%2F2096%2F%40VRayyNGvpn&fp=random&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/MoftConfig
+
