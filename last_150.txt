@@ -1,3 +1,5 @@
+vless://f33f9b91-c30d-47d4-9525-d4a661e00057@151.101.194.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v27.newbackup.com#[🇺🇸]t.me/MoftConfig
+vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.24.207.192:80?path=%2Ftelegram%40Selinc%3Fed%3D2560&security=none&encryption=none&host=gozargah2.validbv7996.ir&type=ws#[🇨🇦]t.me/MoftConfig
 vless://035c3642-1822-4406-aaf5-278392d3bf03@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.250.216.70:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/MoftConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.250.216.70:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/ConfigsHub
@@ -6,7 +8,6 @@ trojan://telegram-id-privatevpns@51.20.58.226:22222?security=tls&alpn=http/1.1&h
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.250.216.70:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇨🇮
 trojan://telegram-id-directvpn@13.61.63.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.61.63.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.20.58.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪@MoftConfig
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@207.244.65.58:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.23:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
@@ -147,4 +148,3 @@ trojan://telegram-id-directvpn@3.122.47.24:22222?security=tls&sni=trojan.burgeri
 vless://7d7560b9-e893-4a3b-f07a-df8857511c0c@104.17.148.22:8880?path=%2FFreeConfig%3Fed%3D2048%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none&encryption=none&host=Alfred.Dnss-Mobile.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://TELEGRAM-NUFiLTER-fc54df693e22@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=2.nuf-telegram.ir&type=ws#[🇺🇸]t.me/MoftConfig
 vless://7d7560b9-e893-4a3b-f07a-df8857511c0c@104.17.148.22:8880?path=%2FFreeConfig%3Fed%3D2048%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none&encryption=none&host=Alfred.Dnss-Mobile.ir&type=httpupgrade#[🇨🇦]t.me/MoftConfig
-vless://TELEGRAM-NUFiLTER-fc54df693e22@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=2.nuf-telegram.ir&type=ws#[🇺🇸]t.me/ConfigsHub
