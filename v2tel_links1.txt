@@ -7411,3 +7411,19 @@ vless://90f994ed-0589-4db7-ac64-7162204e9d3c@maznet-join-bede.mahdijamkaran.onli
 vless://8982b975-b1eb-44c1-b25c-d7024a724543@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#[🇷🇺]t.me/ConfigsHub
 
+trojan://telegram-id-privatevpns@13.61.156.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.46.225:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.46.225:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+trojan://telegram-id-directvpn@16.170.48.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://76cbbc98-1adc-4017-9689-8a13969a90e3@pa.hostirann.xyz:2089?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=XAsXZH4n6RP54ieBFHOfTYpJ4RUMjgsa_FhUA2kZWig&sid=b2058a43fe#[🇫🇮]t.me/MoftConfig
+vless://bd61c0c5-9fd1-4f30-abb5-4c60efa39b5b@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.36.135:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+trojan://telegram-id-privatevpns@13.61.156.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@16.170.48.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+trojan://telegram-id-directvpn@16.170.48.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@13.61.156.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪@MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.46.225:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇸🇪
+vless://88e79468-dc96-93e0-199b-945538d116c0@Amir1.codephpplus13.ir:1101?type=grpc&mode=gun&serviceName=login&security=reality&fp=chrome&sni=Amir1.codephpplus13.ir&pbk=V0F2IEBeuLwqEH3F6PR_mWNk09mW--AFcdkwzpFKRSU&sid=20a79e340e609a03#[🇩🇪]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.46.225:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
+vless://76cbbc98-1adc-4017-9689-8a13969a90e3@pa.hostirann.xyz:2089?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=XAsXZH4n6RP54ieBFHOfTYpJ4RUMjgsa_FhUA2kZWig&sid=b2058a43fe#[🇫🇮]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.248.163:8880?type=grpc&mode=gun&security=none#[🇫🇮]t.me/MoftConfig
