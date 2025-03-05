@@ -7399,3 +7399,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.199:8880?type=grpc#[�
 vless://a20fff5d-3e91-4ad8-9c76-78078a38ffbe@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?security=none&type=ws&host=photographipictureai.ir&path=%2FTelegram%40V2ray_Alpha#[🇳🇱]t.me/MoftConfig
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.co.ua&allowInsecure=1#[🏁]t.me/MoftConfig
+vless://telegram-ArV2ray@AC.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D2048&security=none&encryption=none&host=akpmubho.ir&type=ws#WS-All+%7C+%40ArV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMDYyYTVjYS1hMzRlLTQ3YmYtOTgxMC1kYjkxMTg1ZjA3ZmM=@35.92.147.172:59019#[🇺🇸]t.me/ConfigsHub
