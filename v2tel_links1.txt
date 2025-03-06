@@ -3441,3 +3441,10 @@ vless://272d1442-91ac-4c16-80f5-9c9862786e12@maznet-join-bede.mahdijamkaran.onli
 vless://740a9b54-db34-4d39-bb10-09df4e9e795a@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/MoftConfig
 vless://740a9b54-db34-4d39-bb10-09df4e9e795a@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/ConfigsHub
 vless://272d1442-91ac-4c16-80f5-9c9862786e12@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/MoftConfig
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.196.201:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#[🏁]t.me/ConfigsHub
+vless://51930f67-6505-4794-8298-fbf595b14c22@s3.nimhub.ir:2053?encryption=none&type=tcp&path=%2F&host=myket.ir,tamin.ir,rubika.ir,varzesh3.com,cafebazaar.ir&headerType=http&security=none#[🇮🇷]t.me/ConfigsHub
+vless://51930f67-6505-4794-8298-fbf595b14c22@s3.nimhub.ir:2053?encryption=none&type=tcp&path=%2F&host=myket.ir,tamin.ir,rubika.ir,varzesh3.com,cafebazaar.ir&headerType=http&security=none#[🇮🇷]t.me/MoftConfig
+vless://4a757b9b-c190-4aaa-aeb9-78190cc05790@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@142.202.49.84:8008#[🇺🇸]t.me/ConfigsHub
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.196.201:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@142.202.49.84:8008#[🇺🇸]t.me/MoftConfig
