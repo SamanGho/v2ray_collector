@@ -4079,3 +4079,8 @@ vless://72b9402f-f4fb-450e-8c97-875e4245f3cc@173.245.59.81:443?security=tls&sni=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.255.28.225:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇨🇮
 trojan://telegram-id-privatevpns@46.51.163.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
 vless://7de5b9f2-430a-4f2c-89b8-88e04a3ba179@37.156.47.137:1003?security=reality&encryption=none&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik&headerType=none&fp=chrome&type=tcp&sni=astartap-abr.ir#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@217.195.200.95:8080#[🇦🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#[🇳🇱]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@217.195.200.95:8080#[🇦🇪]t.me/MoftConfig
+vmess://eyJhZGQiOiIyMTMuMjQxLjE5OC41NyIsImFpZCI6MCwiaG9zdCI6ImxheDEuaWJnZncudG9wIiwiaWQiOiIxOTFiYWJjNS0yYWFmLTRmZTUtYTU2My1mMTQyNDRhZWZiNGUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3hyZW52d3MiLCJwb3J0Ijo4NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
