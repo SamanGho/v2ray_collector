@@ -4191,3 +4191,12 @@ vless://502bc9d5-e1a0-4a70-aba9-c4256a896f5a@157.90.118.187:443?security=reality
 vless://d5498284-13b7-4d4a-9705-70e5319d993c@151.101.194.228:80?security=none&type=ws&host=joinshhproxybedeeeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#[🇺🇸]t.me/MoftConfig
 vless://e3f16cb5-b2e4-4de5-8a8a-8768d6f2b645@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 
+trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@57.180.46.135:20230?security=tls&sni=421421.xyz#[🏁]t.me/ConfigsHub
+trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@34.221.104.95:20230?security=tls&sni=421421.xyz#[🇺🇸]t.me/MoftConfig
+vless://45b671b0-8b77-4906-bccb-9dc2d4f5274c@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+vless://b5028a5e-5c3c-4071-9032-f2e99f9621ab@151.101.64.155:80?security=none&type=ws&host=vipfast_7.com#[🇨🇦]t.me/ConfigsHub
+trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@34.221.104.95:20230?security=tls&sni=421421.xyz#[🇺🇸]t.me/ConfigsHub
+trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@57.180.46.135:20230?security=tls&sni=421421.xyz#[🏁]t.me/MoftConfig
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.160.209:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#[🏁]t.me/ConfigsHub
+vless://b5028a5e-5c3c-4071-9032-f2e99f9621ab@151.101.64.155:80?security=none&type=ws&host=vipfast_7.com#[🇨🇦]t.me/MoftConfig
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.160.209:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#[🏁]t.me/MoftConfig
