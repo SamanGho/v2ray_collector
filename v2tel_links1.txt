@@ -4855,3 +4855,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.192:
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#[🇨🇦]t.me/ConfigsHub
 vless://MMD_Hell@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#[🇺🇸]t.me/MoftConfig
 vmess://eyJhZGQiOiJiZXlvbmRkc3ouY2ZkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZXlvbmRkc3ouY2ZkIiwiaWQiOiI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfh6vwn4e3XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJiZXlvbmRkc3ouY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://0060fb3a-06d1-5962-85cb-5f22ac528d68@faculty.ucdavis.edu:443?allowInsecure=1&security=tls&host=0-MOSIV2-0.COM&fp=qq&type=ws&sni=faculty.ucdavis.edu#⚜️Telegram:@IP_CF
+vless://bd041b03-224b-44d1-a9ec-e25425c822b3@37.152.173.134:2053?security=none&type=tcp&host=myket.ir,tamin.ir,rubika.ir,varzesh3.com,cafebazaar.ir&path=%2F&headerType=http#[🇮🇷]t.me/ConfigsHub
+ss://483a572d-38a8-4b59-942f-76b0e94e9073@support.zoom.us:80?encryption=none&security=none&type=ws&headertype=none&host=free.darkshadoww.shop&path=%2F#⚜️Telegram:@IP_CF
