@@ -4334,3 +4334,6 @@ vless://7641534a-0569-4806-af99-795bac4539e5@www.speedtest.net:80?path=%2F-LiV2r
 trojan://telegram-id-privatevpns@63.176.120.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.208.112:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇫🇷
 vless://12454871-7c3e-4f2c-b232-75771a75bac5@91.107.243.247:443?security=reality&encryption=none&pbk=yvdTIbOoLcSSISo3u8sESDllxZa0EArFZb0igdbbPAo&headerType=none&fp=chrome&type=tcp&sni=mw7.hellont.ir&sid=4720f75a80#[🇩🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.38.67:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2Ftelegram%40ShadowProxy66%2F%3Fed%3D2048&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#[🇩🇪]t.me/ConfigsHub
