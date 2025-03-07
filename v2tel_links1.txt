@@ -4834,3 +4834,5 @@ vless://f93f3c09-972d-4b82-ba3e-953cf3526fc7@151.101.64.155:80?path=%2Fws%3Fed%3
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.202.46.215:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-v2rayvpnchannel@13.61.167.63:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMDYyYTVjYS1hMzRlLTQ3YmYtOTgxMC1kYjkxMTg1ZjA3ZmM=@35.160.41.228:59019#[🇺🇸]t.me/MoftConfig
+ss://0060fb3a-06d1-5962-85cb-5f22ac528d68@fastly.nEt:80?security=none&encryption=none&host=0-MOSIV2-0.COM&type=ws#⚜️Telegram:@IP_CF
+vless://e187c963-c364-4508-9526-88e0c2096e5f@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
