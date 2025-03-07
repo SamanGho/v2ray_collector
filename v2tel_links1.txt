@@ -4414,3 +4414,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.128:8880?mode=gun&securi
 vless://82b3c7c9-9229-4846-abdc-677f63058836@hajlab.ucdavis.edu:80?mode=auto&path=%2F%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn%3Fed&security=none&encryption=none&host=joinbedeMoft_Vpn.ir&type=xhttp#[🇨🇦]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@217.182.198.219:8882#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.56.213.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSTNuY3hGMkdQdVBpQjFsNWdpdGNP@188.126.67.227:63418#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSTNuY3hGMkdQdVBpQjFsNWdpdGNP@188.126.67.227:63418#[🇸🇪]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@217.182.198.219:8882#[🇩🇪]t.me/MoftConfig
+ss://8fea50e0-6444-47c0-98b1-c66b87ed33de@join.unlimiteddev.fastly80-3.hosting-ip.com:80/?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480#⚜️Telegram:@IP_CF
+vless://TELEGRAM-NUFiLTER-d6b9fdf2cf70@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=5.nuf-telegram.ir&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws
+trojan://3747000103274291200@85.90.194.160:443/?type=tcp&security=tls&sni=awaited-chicken.adder289.quest#⚜️Telegram:@IP_CF
