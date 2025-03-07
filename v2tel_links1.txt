@@ -4185,3 +4185,4 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.236.156.97:443#[🇺🇸]t.me/ConfigsHu
 vless://b427c815-8127-405f-99d9-2d9b177c2f3b@162.159.38.232:443?type=ws#[🇺🇸]t.me/MoftConfig
 vless://d25ec1c8-56e0-4b32-ac68-d4a439bca1e9@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
 trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@35.95.71.171:20230?security=tls&sni=421421.xyz#[🇺🇸]t.me/ConfigsHub
+ss://79e6c4ec-8198-4e44-b823-ec1d8a5f1854@14.102.229.179:80?security=none&type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#⚜️Telegram:@IP_CF
