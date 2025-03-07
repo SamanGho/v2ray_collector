@@ -4836,3 +4836,9 @@ trojan://telegram-id-v2rayvpnchannel@13.61.167.63:22222?security=tls&sni=trojan.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMDYyYTVjYS1hMzRlLTQ3YmYtOTgxMC1kYjkxMTg1ZjA3ZmM=@35.160.41.228:59019#[🇺🇸]t.me/MoftConfig
 ss://0060fb3a-06d1-5962-85cb-5f22ac528d68@fastly.nEt:80?security=none&encryption=none&host=0-MOSIV2-0.COM&type=ws#⚜️Telegram:@IP_CF
 vless://e187c963-c364-4508-9526-88e0c2096e5f@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@boston03.818185.xyz:443/?type=ws&host=boston03.818185.xyz&path=%2FQ3cz2AWTPMCtDGV1L6R1Jz18eIUw&security=tls&sni=bostON03.818185.XYZ&alpn=http%2F1.1#⚜️Telegram:@IP_CF
+vless://01d62e5f-826e-41f8-88da-646c5deff4c4@157.90.21.8:4043/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=GqpLuqbGhZ3N1oIlSMfuLnpKCNZOoK8JWwHPmqSNxgk&sid=#⚜️Telegram:@IP_CF
+vless://telegram%3Av2rayvpn___official@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#[🇩🇪]t.me/ConfigsHub
+vless://0060fb3a-06d1-5962-85cb-5f22ac528d68@faculty.ucdavis.edu:443?allowInsecure=1&security=tls&host=0-MOSIV2-0.COM&fp=qq&type=ws&sni=faculty.ucdavis.edu#⚜️Telegram:@IP_CF
+vless://telegram%3Av2rayvpn___official@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#[🇩🇪]t.me/ConfigsHub
+trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.192:443?encryption=none&security=tls&type=raw&headertype=none#⚜️Telegram:@IP_CF
