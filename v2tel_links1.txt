@@ -4898,3 +4898,9 @@ trojan://telegram-id-v2rayvpnchannel@3.79.200.133:22222?security=tls&sni=trojan.
 trojan://telegram-id-v2rayvpnchannel@3.79.200.133:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/MoftConfig
 vmess://eyJhZGQiOiIxMDQuMjEuNDYuMTIxIiwiYWlkIjowLCJob3N0IjoiaXZpZGVvcy5zYnMiLCJpZCI6IjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
+trojan://58dcd460-65df-47b1-b062-517df30bef29@54.169.8.253:443?security=tls&sni=sg.liangyuandian.top&allowInsecure=1#[🏁]t.me/ConfigsHub
+vless://67ee1ed1-87d3-48d3-b79f-e78416859566@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
+ss://4c9617f4-6137-4255-9d25-0eeb0fa819e6@cloud2.xmsvx.com:80/?path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config&security=none&encryption=none&host=jetservices55.ir&type=ws#⚜️Telegram:@IP_CF
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
+vless://ae1aafaf-9987-40c7-b626-0b1656e89b72@104.21.69.44:8443?security=tls&sni=vip.hvitrin.ir&type=ws&host=vip.hvitrin.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.226.76:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
