@@ -5394,3 +5394,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.16.80:22222?path=/telegram-c
 trojan://telegram-id-directvpn@13.48.34.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.222.61:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇩🇪
 trojan://O1zGXrDK94@5.75.202.11:443?security=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+vless://a6fe2ebd-a8df-4be7-a4df-d7f671513088@45.144.48.180:2083?security=reality&encryption=none&authority=Cloudflare.com&pbk=kiWKh0alnh0SU6PPIWUOaJyByPoepDlCbfxHw94QHCI&fp=firefox&spx=%2F&type=grpc&serviceName=%40Hormozv%40hormozvp%40Hormozv%40hormozvp%40Hormozv%40hormozvp%40Hormozv%40hormozvp%40Hormozv%40hormozvp%40Hormozv%40hormozvp&sni=dash.cloudflare.com&sid=775e2976#[🏁]t.me/ConfigsHub
