@@ -5373,3 +5373,13 @@ vless://8344be79-9298-489c-9c4f-b56bf4fc9b2d@s11.vact.ir:443?mode=gun&security=r
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.141:8080#[🇳🇱]t.me/MoftConfig
 trojan://telegram-id-privatevpns@18.200.71.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮@MoftConfig
 vless://567c98b6-2362-47bc-9959-587bcb00963e@s12.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=-Klt3151vv7nNAJFA1XI73cfw8DUnKjIetrSLxXGBEw&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=83a3c1c336165ead#[🇩🇪]t.me/MoftConfig
+ss://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.119:3237/?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+vless://dfb1e306-0059-4e01-a110-2bbb3bf3c9e6@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+vless://4a476229-010d-4bca-801f-41132c755e23@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+trojan://telegram-id-privatevpns@54.194.172.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮@MoftConfig
+vless://9f5d69a6-e70d-4f79-bc3a-25570e6f606a@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
+vless://10f25928-5034-4860-9203-7613715a93d7@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://ca278de5-74d8-4324-9304-dd5fbe66337f@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+vless://7bb90d79-9586-4c9b-9943-f3f06fa4d1ad@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+vless://a5067209-0bbe-40e0-9c98-6a025b2a49f8@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiVDRQeTAyVUtkWW1qdE1BdWNpZk1s@81.19.141.45:443#🇩🇪 Германия
