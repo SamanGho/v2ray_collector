@@ -4904,3 +4904,4 @@ ss://4c9617f4-6137-4255-9d25-0eeb0fa819e6@cloud2.xmsvx.com:80/?path=CANALTELEGRA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
 vless://ae1aafaf-9987-40c7-b626-0b1656e89b72@104.21.69.44:8443?security=tls&sni=vip.hvitrin.ir&type=ws&host=vip.hvitrin.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.226.76:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIT0N6cjRGSHV0RXp6NHZtT1E1THpU@194.87.45.189:443#🇪🇸 Испания
