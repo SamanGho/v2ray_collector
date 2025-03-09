@@ -5716,3 +5716,5 @@ trojan://030ba667-fde3-498d-99bb-9a0187519dcf@zfa03.333210.xyz:42395?security=tl
 vless://0b60e3d6-db54-40a9-a72d-9a704a39505d@hajlab.ucdavis.edu:80?type=ws&host=joinshhproxybedeeeeeee.ir&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://101bb99d-9010-4ef3-b860-fb2f4442cdc2@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s08.elitemizban.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://MMD_Hell@speedtest.net:80?type=ws&host=V2RAXX.ir&path=/Telegram,V2RAXX,Telegram,?ed%3D2048&security=none#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.9.192.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://030ba667-fde3-498d-99bb-9a0187519dcf@zfa03.333210.xyz:42406?security=tls&headerType=&type=tcp&sni=cdn.alibaba.com#[🏁]t.me/ConfigsHub
