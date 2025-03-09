@@ -5847,3 +5847,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.2.165:80?type=ws&host=join-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.68.168.184:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakU0Wg==@95.164.34.7:1443#[🇹🇷]t.me/MoftConfig
 vless://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.80.1:443?security=tls&sni=bostOn01.890614.XyZ&type=ws&host=boston01.890614.xyz&path=/1wqm4O6ukd1L6R1Jz18eIUw&fp=chrome&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
+ss://5c08cd2d-21b6-43f6-af3f-bd4bb6eb0713@rutube.isgood.host:13397?type=tcp&security=reality&pbk=85zDbAyTtEZB6DEhCvzIo8okIjjQfLXM9q4mLwTvmic&fp=chrome&sni=yahoo.com&sid=f3&spx=%2F&flow=xtls-rprx-vision#⚜️Telegram:@IP_CF
