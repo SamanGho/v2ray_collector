@@ -5444,3 +5444,7 @@ trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@35.91.106.104:20230?security=tls&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#[🏁]t.me/MoftConfig
 ss://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=%2Fstream%2F&security=tls&encryption=none&host=magdl.ir&type=ws&sni=anchor.fm#⚜️Telegram:@IP_CF
 trojan://O1zGXrDK94@5.75.202.11:443?security=none&type=grpc#⚜️Telegram:@IP_CF
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.48:2095?security=none&type=ws&host=redw.pooriam.ir#[🏁]t.me/MoftConfig
+vless://42d21c37-ec7a-43cc-a2d9-f0d91cd89a1c@151.101.66.228:80?type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇨🇦]t.me/MoftConfig
+vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.21.3.52:2087?security=tls&sni=vqscy.bamako-hipersonictodolist.info&type=ws&host=vqscy.bamako-hipersonictodolist.info&path=%2Fmorano#[🇨🇦]t.me/MoftConfig
+trojan://telegram-id-directvpn@3.73.157.246:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/MoftConfig
