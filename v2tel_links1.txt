@@ -5452,3 +5452,4 @@ trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@52.229.202.93:443?security=tls&sni
 vless://8c129b7d-c87f-42d7-bdac-55dfbfe88534@104.21.22.88:8080?security=none&type=ws&host=maHdi-hEctOrR.viSoWe1371.WOrkERS.dEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://8c129b7d-c87f-42d7-bdac-55dfbfe88534@104.21.22.88:8080?security=none&type=ws&host=maHdi-hEctOrR.viSoWe1371.WOrkERS.dEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
 trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@52.229.202.93:443?security=tls&sni=jp.mjt001.com#[🏁]t.me/ConfigsHub
+vless://53fbf990-2679-431a-afa0-0c7721fcb20e@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
