@@ -5995,3 +5995,12 @@ vmess://eyJhZGQiOiI1Ljc1LjE5OC4xNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://e61f121f-dfe3-45f1-a2b6-6178e7ab08c9@V2rayNG.SPDNet.online:48929?mode=gun&security=none&encryption=none&authority=www.speedtest.net.A.164.speedtest2.livE&type=grpc&serviceName=TEL%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet#[🇩🇪]t.me/ConfigsHub
 vless://0724d537-8882-48c4-9843-77f5a160f852@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#⚜️Telegram:@IP_CF
 trojan://90e7b2f3-fb61-4fd7-959f-176e9a51d8d7@13.114.54.150:20230?security=tls&sni=421421.xyz#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.114.122.252:5601#[🇺🇸]t.me/ConfigsHub
+vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@217.195.194.78:4687?security=none&type=tcp&host=www.speedtest.net&headerType=http#[🇩🇪]t.me/ConfigsHub
+trojan://f08d6a6b-a0b3-410e-a0ba-eae71b521904@13.212.247.85:20230?security=tls&sni=421421.xyz#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.255.47.221:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Y2U1MDY3NjYtMjBlOC00ODA4LWIyNTItMmMxZTY2YjZjYmJh@120.226.149.61:14004#[🏁]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#[🇺🇸]t.me/ConfigsHub
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?security=none&encryption=none&host=showmo.wfft.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.181.222.219:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVExTnpGag==@fr1.opensocks.site:8388#[🇫🇷]t.me/ConfigsHub
