@@ -5718,3 +5718,7 @@ vless://101bb99d-9010-4ef3-b860-fb2f4442cdc2@whatismyipaddress.com:2096?encrypti
 vless://MMD_Hell@speedtest.net:80?type=ws&host=V2RAXX.ir&path=/Telegram,V2RAXX,Telegram,?ed%3D2048&security=none#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.9.192.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 trojan://030ba667-fde3-498d-99bb-9a0187519dcf@zfa03.333210.xyz:42406?security=tls&headerType=&type=tcp&sni=cdn.alibaba.com#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.198.13:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+vless://ef1b6d3e-5bb3-47f9-a0d7-10ba48b13545@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+trojan://telegram-id-privatevpns@3.9.192.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧@MoftConfig
+trojan://telegram-id-privatevpns@18.132.158.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧@MoftConfig
