@@ -5980,3 +5980,10 @@ ss://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2052?encryption=none&secu
 trojan://telegram-id-directvpn@13.48.157.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@JOIN.MOSIV2.fastly80-3.hosting-ip.com:80?path=/MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560&host=join---bede---mosiv2.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.49.214.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@us6-01zl.huangshang.ggff.net:443/?type=ws&host=us6-01zl.huangshang.ggff.net&path=%2FILLcisbMYUd6MQzxVoMQ&security=tls&sni=us6-01zl.huangshang.ggff.net&alpn=h2&fp=chrome#[🇺🇸]t.me/ConfigsHub
+vless://Parsashonam-187@zmaoz.faculty.ucdavis.edu:80/?type=ws&encryption=none&host=Parsashonam-DE.ir&path=%2F%40Parsashonam%3Fed%3D2048#[🇬🇧]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg.&path=%2FTelegram-mtmvpn%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+trojan://Ng35283528@104.16.83.8:443/?type=ws&host=c2.validbv3528.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=c2.validbv3528.eu.org&fp=randomized#[🇨🇦]t.me/ConfigsHub
+vless://telegram-ArV2ray@151.101.192.155:80/?type=ws&encryption=none&host=akprutyp.ir&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
+vless://3a857328-3b53-4333-85b2-a6f2aa22ceb7@23.88.62.209:2089/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&sid=e3c5c005cae07eb8#[🇩🇪]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.194.165:80/?type=ws&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&path=%2F#[🇺🇸]t.me/ConfigsHub
