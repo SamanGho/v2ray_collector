@@ -5930,3 +5930,9 @@ ss://07f0b3e7-81c3-46e8-a6af-32cc02e1feb2@173.245.59.132:2053?encryption=none&se
 trojan://telegram-id-privatevpns@3.11.64.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#[🇷🇺]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#[🇺🇸]t.me/ConfigsHub
+vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@flv4-vip.digitalldns.com:6587?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@uaev4-vip.digitalldns.com:9314?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[🇦🇪]t.me/ConfigsHub
+vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@dev4-vip.digitalldns.com:4687?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@trv4-vip.digitalldns.com:6832?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub
+vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@usav4-vip.digitalldns.com:4020?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇺🇸]t.me/ConfigsHub
+ss://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.222.137.168:2222?security=none&type=tcp#⚜️Telegram:@IP_CF
