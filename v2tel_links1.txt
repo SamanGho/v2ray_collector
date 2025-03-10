@@ -6177,3 +6177,6 @@ trojan://dXjPoF4W3I@57.129.50.213:1935?security=tls&alpn=h3,h2,http/1.1&headerTy
 vless://13ed4a8b-6049-4f26-8cb3-9870df4fda4c@104.18.15.19:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=0107.cxypogon.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=%2F%40ShadowProxy66%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://af94594c-b048-4050-adcb-cf061c3155bd@5.56.133.42:443?security=none&encryption=none&host=neshan.org&headerType=http&type=tcp#[🇺🇸]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.39.97:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+trojan://dXjPoF4W3I@57.129.50.213:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=x1ger-ovh.devefun.net#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@16.16.81.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
