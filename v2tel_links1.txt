@@ -6107,3 +6107,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@join.mosiv2.fastly80-3.hosting-ip.c
 vless://9af9f8b3-637c-5d12-9d18-943c095635c9@eevpnandroid2.69.mu:2086?security=&encryption=none&type=grpc&serviceName=vless-grpc#[🏁]t.me/ConfigsHub
 vless://3a857328-3b53-4333-85b2-a6f2aa22ceb7@23.88.62.209:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#[🇩🇪]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub
