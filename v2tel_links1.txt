@@ -6665,3 +6665,9 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80/?type=ws&encryptio
 vless://670be98f-176a-4a21-82f9-d516c0e04232@178.62.112.47:443/?type=tcp&encryption=none&sni=TGju.org&fp=chrome&security=reality&pbk=Ya3K9Ddp7WYOnePuHUG1h83Dkp3i0E3OxrohUWn0a38&sid=#[🇬🇧]t.me/ConfigsHub
 vless://670be98f-176a-4a21-82f9-d516c0e04232@178.62.112.47:443/?type=tcp&encryption=none&sni=TGju.org&fp=chrome&security=reality&pbk=Ya3K9Ddp7WYOnePuHUG1h83Dkp3i0E3OxrohUWn0a38&sid=#[🇬🇧]t.me/MoftConfig
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg.&path=%2F#[🇨🇦]t.me/ConfigsHub
+vless://---telegram--ISVvpn--1@151.101.64.155:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn&security=none&encryption=none&host=www.speedtest.net.1.speedtest3.onlinE.&type=ws#⚜️Telegram:@IP_CF
+vless://d5d286d3-856a-4748-9e46-7044a8532571@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+trojan://a3998b7d5951c3fdd571fcd1bb040047@88.119.175.241:443/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@35.179.53.211:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇬🇧]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=%2F%3Fed%3D2560%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.114.165:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇩🇪]t.me/ConfigsHub
