@@ -6092,3 +6092,4 @@ trojan://58dcd460-65df-47b1-b062-517df30bef29@18.142.198.226:443?security=tls&sn
 vless://db9b2317-e0a5-4fc6-94d1-94679aaed414@188.227.86.125:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=goVS1x55KjMpSaiv_P5qGi1LVvBIRUOjXFtGVg3mPVA&sid=e6#[🇳🇱]t.me/MoftConfig
 vless://2f3d04d0-20fd-40c1-b28e-26285083e283@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
 
+trojan://telegram-id-v2rayvpnchannel@13.53.162.121:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/ConfigsHub
