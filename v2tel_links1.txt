@@ -6538,3 +6538,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.210.29:22222?path=/telegram-c
 trojan://telegram-id-directvpn@13.50.148.115:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 ss://42f36835-730c-4ecc-9daf-20121ae7ba47@104.16.101.43:80/?path=%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.tomu0749.workers.dev&type=ws#⚜️Telegram:@IP_CF
 vless://45d07182-a6a8-4d25-85e1-98e5b8d906a7@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.210.29:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇬🇧]t.me/MoftConfig
+trojan://3767107462583558144@3.146.95.134:443?security=tls&sni=better-lab.goat627.mom&type=tcp&allowInsecure=1#⚜️Telegram:@IP_CF
