@@ -7479,3 +7479,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?path=%2F&security=
 trojan://telegram-id-privatevpns@54.78.108.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮@MoftConfig
 vless://telegram-ISVvpn1@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.speedtest.net.6.argonet.onlinE.&type=ws#[🇨🇦]t.me/MoftConfig
 ss://46880baf-1914-444d-bbb3-483e1d6d771c@176.119.203.50:56173/?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2Ftelegram%40mtmvpn%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/MoftConfig
+trojan://5YU_wF51gNep1pgX9wumrQ@safe.sanjesh.fun:6176?security=tls&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.90.238.93:8880?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.75.172:80?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/MoftConfig
