@@ -7538,3 +7538,10 @@ vless://8d528d46-11fc-4968-b457-3ed1cd5bc7ec@sin5.vpntype.dev:443?security=tls&e
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.59.43:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
 trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.18.229:443?security=tls&sni=jp.mjt001.com#[🏁]t.me/MoftConfig
 
+trojan://telegram-id-v2rayvpnchannel@51.20.180.84:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.181.213.231:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#👉🆔 @MoftConfig📡🇫🇷France
+vless://1cadde13-c17f-4206-b3d6-139edacdce52@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@54.254.153.213:443?security=tls&sni=us01.trojanyyds.xyz&allowInsecure=1#[🏁]t.me/ConfigsHub
+vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@162.159.195.226:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&alpn=h3,h2#[🇨🇦]t.me/ConfigsHub
+vless://e03205d8-5ee4-432f-acab-34e16e844174@104.17.148.22:2087?security=tls&sni=vpn.filmekade.ru&type=ws&host=vpn.filmekade.ru&path=%2Ftelegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
+vless://bfc73db8-88ee-4739-844d-2a1aebda0671@138.199.241.98:443?security=reality&flow=xtls-rprx-vision&sni=tgju.org&type=tcp&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#[🇩🇪]t.me/ConfigsHub
