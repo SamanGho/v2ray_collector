@@ -7792,3 +7792,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#[�
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2F%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/MoftConfig
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=telegramV2ray_Alpha%3D88.218.78.212&security=tls&alpn=http%2F1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=random&type=ws&sni=crolinde.carlotta.cloudns.org#[🇨🇦]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRE13WldJeg%3D%3D@89.221.224.166:8388#[🏁]t.me/ConfigsHub
+ss://900466aa-aa08-49ed-bf40-d740e5c7d5e7@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&type=httpupgrade#⚜️Telegram:@IP_CF
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.43.75:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
+vless://26e96e64-386a-47b1-b1ea-9ed8140fa859@g.soskom.ir:26528?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=%2FEvay_vpnJoinBadeChannel%40EVAY_VPN&type=grpc#[🇩🇪]t.me/ConfigsHub
+vless://e759cd74-d55c-4ee4-a19b-e0fe487d3570@91.107.181.182:39439?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=axLa2Yb5VegTFNy2v8chJvX6ShWl5v9jPgyGeFpTMwA&sid=1f&type=grpc&authority=&serviceName=TEL%20%3B%20%40v2ray-store&mode=gun#[🇩🇪]t.me/ConfigsHub
+vless://f93f3c09-972d-4b82-ba3e-953cf3526fc7@151.101.64.155:80?encryption=none&security=none&type=ws&host=Copy-az-chahnnel-ISVvpn-215.com&path=%2Fws%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREJrTg@146.19.106.5:8388#[🇨🇦]t.me/MoftConfig
+trojan://telegram-id-privatevpns@3.71.234.42:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
