@@ -8173,3 +8173,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXOFpWZ3JBb1BDOXNvelc5VVVvTDNt@194.87.45.189:
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.193.213.21:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3D2560#[🇺🇸]t.me/MoftConfig
 vless://a8f095f1-3663-40f9-be12-2c16ae3e86ba@mJe.nimhub.ir:2096?type=ws&host=mJe.nimhub.ir&path=/&security=tls&fp=random&sni=mJe.nimhub.ir&alpn=h2,http/1.1#[🇩🇪]t.me/MoftConfig
 vless://562dd1aa-c1a0-413b-a331-113bbeb086b0@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+
