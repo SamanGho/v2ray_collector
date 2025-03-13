@@ -8830,3 +8830,4 @@ vless://0896baf8-5a95-4d66-82b6-0cb2884cbd9e@bahbah.khoreshtsabzi.ir:19210?mode=
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#[🇺🇸]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.91.167:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇩🇪]t.me/MoftConfig
 vless://GanXnBYV@185.143.233.120:2086?path=%2Ftelegram-shrakpublic%3Fed%3D2048&security=none&encryption=none&host=getasa.ir&type=ws#[🇮🇷]t.me/MoftConfig
+vless://082d02ee-333d-4e01-83e2-3989803a17fb@alyaf.com.alyaf.com:445?type=tcp&security=none#⚜️Telegram:@IP_CF
