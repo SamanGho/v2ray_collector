@@ -1,3 +1,5 @@
+vmess://eyJhZGQiOiIxNDkuMjAyLjUwLjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk1N2I0MThjLWU2MzctNTA0NS1hNWEyLTdlZjZiMmZkNjgzYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODA4MCIsInBzIjoiW/Cfh6vwn4e3XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+trojan://telegram-id-directvpn@51.21.233.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.200.232:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@16.170.111.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 vless://---telegram-ISVvpn---1@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.speedtest.net.7.isvpython.onlinE.&type=ws#[🇨🇦]t.me/MoftConfig
@@ -144,7 +146,5 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:443?path=%2FPQbo6
 trojan://telegram-id-privatevpns@13.39.184.98:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:8443?path=%2FHl5ZA0QBitIoHN9C%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOzaRGAh.vALidBv7996.Ir#[🇨🇦]t.me/ConfigsHub
 vless://68665e7f-31c1-49f4-9347-3e18c18e024b@138.68.131.11:1615?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#[🇬🇧]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.91.167:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇩🇪]t.me/MoftConfig
-vless://RAKETA_5889827@212.111.88.184:443?security=reality&encryption=none&pbk=310Tjx1xSaet9WjXtEJEngtdp-NhD6GWJs7ZQSoblhc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=apple.com&sid=ffffffffff#[🇳🇱]t.me/MoftConfig
 vless://RAKETA_5889827@212.111.88.184:443?security=reality&encryption=none&pbk=310Tjx1xSaet9WjXtEJEngtdp-NhD6GWJs7ZQSoblhc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=apple.com&sid=ffffffffff#[🇳🇱]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.91.167:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇩🇪]t.me/ConfigsHub
