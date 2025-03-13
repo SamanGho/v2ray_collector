@@ -8415,3 +8415,5 @@ trojan://04f8b43b-70b7-4b26-94b5-2486e86d9eb0@t38.emoyes.top:27554/?type=tcp&sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.103.32:443#[🇧🇭]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.208.173:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
 vless://202dda91-9993-41a4-8169-b6b721ad88c6@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s17.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s17.elitemizban.ir&fp=#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.168.68.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://04f8b43b-70b7-4b26-94b5-2486e86d9eb0@t33.emoyes.top:660/?type=tcp&security=tls&sni=www.python.org&allowInsecure=1#⚜️Telegram:@IP_CF
