@@ -8529,3 +8529,17 @@ vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880/?type=ws&encry
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2F#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.163:2095/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2F%40ShadowProxy66%3Fed%3D2048#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.123.121.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=%2Fvpnowl%3Fed%3D2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2F#[🏁]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2F#[🏁]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80?path=%2Fvpnowl%3Fed%3D2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#[🇨🇦]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.15.85:80/?type=ws&encryption=none&host=redfrEe8w.Pooriam.ir&path=%2Fvpnowl%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.61:80/?type=ws&encryption=none&host=301.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#[🇮🇷]t.me/MoftConfig
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880/?type=ws&encryption=none&host=photographipictureai.ir&path=%2FTelegram%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1%2F%3Fed%3D2560#[🇳🇱]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.155:80/?type=ws&encryption=none&host=301.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#[🏁]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80/?type=ws&encryption=none&host=redfrEe8w.Pooriam.ir&path=%2Fvpnowl%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.82:80/?type=ws&encryption=none&host=301.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#[🇮🇷]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.95:2095/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2FTM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2048#[🏁]t.me/MoftConfig
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@195.85.59.155:8880/?type=ws&encryption=none&host=photographipictureai.ir&path=%2FTelegram%40Azarbayjab1%40Azarbayjab1%40Azarbayjab1%2F%3Fed%3D2560#[🏁]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2F%40ShadowProxy66%3Fed%3D2048#[🏁]t.me/MoftConfig
+vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@www.vpslook.com:443/?type=ws&encryption=none&host=dewuxian.pai50288.uk&path=%2Fa8e84392&security=tls&sni=dewuxian.pai50288.uk#[🇨🇦]t.me/MoftConfig
