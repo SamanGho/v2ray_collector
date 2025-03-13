@@ -8471,3 +8471,11 @@ trojan://telegram-id-directvpn@13.61.83.133:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@13.61.83.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://ZEDMODEON--ZEDMODEON@45.144.51.195:35036?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#[🏁]t.me/MoftConfig
 ss://1fd55645-2505-487d-91a7-b1772373336e@31.47.45.102:18656?security=&encryption=none&host=fast.com&headerType=http&type=tcp#⚜️Telegram:@IP_CF
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/MoftConfig
+trojan://bpb-trojan@104.21.75.193:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=randomized&type=ws&sni=bpb-hd.aaronchin.xyz#[🇨🇦]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@okanc.node-is.green:21114#[🇩🇪]t.me/MoftConfig
+trojan://bpb-trojan@104.21.75.193:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=randomized&type=ws&sni=bpb-hd.aaronchin.xyz#[🇨🇦]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@okanc.node-is.green:21114#[🇩🇪]t.me/ConfigsHub

@@ -1,3 +1,4 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.148:80/?type=ws&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#[🇨🇦]t.me/ConfigsHub
 vless://4cbb71d8-4262-43af-8b4f-e126b794ff8d@104.21.92.241:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&fp=chrome&alpn=h3,h2#[🇨🇦]t.me/ConfigsHub
 vless://7bed96d0-884e-4104-928b-bba15cedf92b@128.140.80.34:8443?security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://76bf3c4c-57c6-486d-b964-e0a7cf0882ee@104.18.26.94:443?security=tls&sni=esetsecuritylicense.kitonap759.workers.dev&type=ws&host=esetsecuritylicense.kitonap759.workers.dev&fp=chrome#[🇨🇦]t.me/ConfigsHub
@@ -136,7 +137,6 @@ vless://9b0b5662-ee43-473a-abcd-d751402fbe6f@5.75.200.42:443?security=reality&en
 vless://f43d170a-8b44-4375-b8f9-44b2c5d9f9b4@spd.fastly80-3.hosting-ip.com:80?encryption=none&security=none&type=ws&host=rohammmmmvistav2.ir&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#[🇺🇸]t.me/ConfigsHub
 vless://5180643e-97fb-4e35-9afe-d3dd31432c05@44.222.146.41:443?mode=stream-up&path=%2Fclient%2F%3F%40jokerrvpnTelegram#[🇺🇸]t.me/ConfigsHub
 vless://1cb642d5-4850-467b-955d-ce8c1844be3d@3.92.81.121:443?mode=stream-up&path=%2Fclient%2F%3F%40jokerrvpnTelegram#[🇺🇸]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.35.109:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://d2917b4b-9575-48ad-a227-e3e5a45c5df0@3.238.63.177:443?mode=stream-up&path=%2Fclient%2F%3F%40jokerrvpnTelegram#[🇺🇸]t.me/ConfigsHub
 vless://cdba56b7-82c5-449f-b5ef-86bf02c9797e@65.21.181.218:443?mode=gun&security=reality&encryption=none&authority=%40jokerrvpnTelegram%20%3A&pbk=CpD2tuOBsn8rHQm8hSzErseno4fsHTdsdq58anDW3AI&fp=chrome&type=grpc&serviceName=%40cephalon_ai_bot&sni=stackoverflow.com&sid=b81f1f0ca108#[🇫🇮]t.me/ConfigsHub
 vless://663b9c37-da88-4594-9664-733882be1e6a@3.231.152.5:443?mode=stream-up&path=%2Fclient%2F%3F%40jokerrvpnTelegram#[🇺🇸]t.me/ConfigsHub
