@@ -8238,3 +8238,12 @@ vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.161:2082?type=ws&host=021
 vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.161:2082?type=ws&host=0210.uous1wog.workers.dev&path=/?ed%3D2560#[🏁]t.me/ConfigsHub
 ss://71559d83-de5c-4351-85de-f69f0d5ffeeb@c2.vact.ir:2083?mode=gun&security=reality&encryption=none&authority=%40V2rayNGcloud-Telegram-v2rayNGcloud-%40V2rayNGcloud-Telegram-%40V2rayNGcloud-Telegram-%40V2rayNGcloud&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&fp=randomized&spx=%2F&type=grpc&serviceName=&sni=refersion.com&sid=11a4b6bca8#⚜️Telegram:@IP_CF
 trojan://0f73d067-8fac-4bf4-a08e-ca2434ef5086@zfa03.333210.xyz:42405?security=tls&headerType=&type=tcp&sni=cdn.alibaba.com#⚜️Telegram:@IP_CF
+trojan://2155145a-b1b5-443a-8977-670f6bd10f02@13.115.226.135:50001?security=tls&sni=bgroup.node1.t.nodelist-airport.com&allowInsecure=1#[🏁]t.me/MoftConfig
+trojan://2155145a-b1b5-443a-8977-670f6bd10f02@13.115.226.135:50001?security=tls&sni=bgroup.node1.t.nodelist-airport.com&allowInsecure=1#[🏁]t.me/ConfigsHub
+ss://722a3cf9-5ac0-46fb-8653-e276c52c0896@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=zu8vya.bestvpninuae.com&type=ws&alpn=http/1.1&host=zu8vya.bestvpninuae.com&path=/wss#⚜️Telegram:@IP_CF
+vless://39967a0e-206c-4671-b2c7-efe53eaf8e1c@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+trojan://telegram-id-privatevpns@18.130.196.100:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇬🇧]t.me/ConfigsHub
+vless://a8f095f1-3663-40f9-be12-2c16ae3e86ba@91.107.176.168:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=/&fp=random&alpn=h2,http/1.1#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.130.196.100:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇬🇧]t.me/MoftConfig
+ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.206.182:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=tcp&headerType=none#⚜️Telegram:@IP_CF
+vless://a8f095f1-3663-40f9-be12-2c16ae3e86ba@91.107.176.168:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=/&fp=random&alpn=h2,http/1.1#[🇩🇪]t.me/MoftConfig

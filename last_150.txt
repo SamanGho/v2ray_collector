@@ -1,3 +1,4 @@
+vless://Join-telegram-MMTMVPN@mehdi1.vact.ir:443/?type=grpc&encryption=none&serviceName=Telegram_MTMVPN_telegram_MTMVPN_MTMVPN_MTMVPN_MTMVPN&sni=www.cdn77.com&fp=chrome&security=reality&pbk=v7fGRbxsgQopXYEGvrqzJ7R4_C4I8YhA1gh9GthWKx0&sid=04480b#[🇩🇪]t.me/MoftConfig
 vless://e2a5b491-38c9-4379-9033-ee275270da5c@188.213.128.116:1011/?type=tcp&encryption=none#[🏁]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.194.67:80/?type=ws&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#[🇺🇸]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.148:80/?type=ws&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#[🇨🇦]t.me/MoftConfig
@@ -147,4 +148,3 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@185.193.30.172:443?security=tls&sni
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ec@104.21.69.44:8443?security=tls&sni=main.kasler.lol&type=xhttp&host=Main.kasler.lol&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/MoftConfig
 trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.147.16:443?security=tls&sni=jp.mjt001.com#[🏁]t.me/MoftConfig
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.18.9.101:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&alpn=h3,h2#[🇨🇦]t.me/MoftConfig
-ss://722a3cf9-5ac0-46fb-8653-e276c52c0896@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=zu8vya.bestvpninuae.com&type=ws&alpn=http/1.1&host=zu8vya.bestvpninuae.com&path=/wss#⚜️Telegram:@IP_CF
