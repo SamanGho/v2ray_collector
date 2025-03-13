@@ -8804,3 +8804,5 @@ trojan://telegram-id-privatevpns@18.175.7.60:22222?security=tls&sni=trojan.burge
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@85.114.138.122:8443?security=reality&sni=02020.sbs&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwB&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
 trojan://a124e41a-0fb8-4543-a0ab-a127c7b515a9@43.207.174.131:20230?security=tls&sni=jp005.421421.xyz&allowInsecure=1#[🏁]t.me/ConfigsHub
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@85.114.138.122:8443?security=reality&sni=02020.sbs&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwB&allowInsecure=1#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmd0t2dU5XQTVVd01RUldXVnlMdGdB@77.83.246.74:443#🇵🇱 Польша
+ss://66924fa3-47cf-4272-a290-9bd476ebc6cd@45.95.233.8:2040/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&sni=fr.ign.com&fp=chrome&security=reality&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=#⚜️Telegram:@IP_CF
