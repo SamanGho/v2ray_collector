@@ -1,3 +1,4 @@
+vless://Join-telegram-MMTMVPN@mehdi1.vact.ir:443/?type=grpc&encryption=none&serviceName=Telegram_MTMVPN_telegram_MTMVPN_MTMVPN_MTMVPN_MTMVPN&sni=www.cdn77.com&fp=chrome&security=reality&pbk=v7fGRbxsgQopXYEGvrqzJ7R4_C4I8YhA1gh9GthWKx0&sid=04480b#[🇩🇪]t.me/MoftConfig
 vless://e2a5b491-38c9-4379-9033-ee275270da5c@188.213.128.116:1011/?type=tcp&encryption=none#[🏁]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.194.67:80/?type=ws&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#[🇺🇸]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.148:80/?type=ws&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#[🇨🇦]t.me/MoftConfig
@@ -143,7 +144,6 @@ vless://72105386-9e62-4600-a69f-f0e954c87274@151.101.2.228:80?security=none&type
 trojan://072c477b-90c1-4600-998f-1a2990542782@13.115.138.228:20230?security=tls&sni=421421.xyz#[🏁]t.me/MoftConfig
 trojan://4d04b30c-ef7b-4a07-8f9e-f581ec171f8a@104.21.112.1:443?security=tls&sni=us7-02.890624.xyZ&type=ws&host=us7-02.890624.xyz&path=/Zseq8mE8wMzbGFtV&fp=chrome&alpn=http/1.1#[🇨🇦]t.me/MoftConfig
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.22.59.149:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&fp=chrome&alpn=h3,h2#[🇨🇦]t.me/MoftConfig
-ss://5c81506c-218f-4cf8-88f2-e4d7331aec4e@170.64.129.89:1516?type=tcp&security=reality&pbk=HPQKlFds1IsTN-F_25nEmI5Wtl1TG-RztsE6d8pqSAg&fp=chrome&sni=refersion.com&sid=efc2baf434b8&spx=%2F#⚜️Telegram:@IP_CF
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@185.193.30.172:443?security=tls&sni=powerpow.wfft.ir&type=ws&host=powerpow.wfft.ir&path=/&fp=chrome&alpn=h2,http/1.1#[🏁]t.me/MoftConfig
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ec@104.21.69.44:8443?security=tls&sni=main.kasler.lol&type=xhttp&host=Main.kasler.lol&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/MoftConfig
 trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.147.16:443?security=tls&sni=jp.mjt001.com#[🏁]t.me/MoftConfig
