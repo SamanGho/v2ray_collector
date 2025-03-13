@@ -8848,3 +8848,7 @@ ss://YWVzLTI1Ni1nY206Wlo3NDJBWlQxREtMUkRJRg==@206.245.211.15:19005#[🇬🇧]t.m
 vless://3dc9015f-20cb-42d6-adab-55ce831bae61@104.19.222.79:2087?security=tls&sni=whatismyipaddress.com&type=ws&host=dhxtj.abuja-ghashang.org&path=%2Fmorano&allowInsecure=1#[🇨🇦]t.me/MoftConfig
 trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@54.185.136.163:20230?security=tls&sni=421421.xyz#[🇺🇸]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052?path=%2FTM-ShadowProxy66%3Fed%3D2048&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🏁]t.me/ConfigsHub
+vless://0c20237c-0f96-4e84-bcbc-ead7b8364d1c@passer01.ultranumber.top:22344?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@100.29.61.194:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#⚜️Telegram:@IP_CF
+vless://0c20237c-0f96-4e84-bcbc-ead7b8364d1c@passer01.ultranumber.top:22344?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
+trojan://3747000103274291200@inspired-cardinal.insect388.motorcycles:443/?type=tcp&security=tls&sni=inspired-cardinal.insect388.motorcycles&fp=chrome#⚜️Telegram:@IP_CF
