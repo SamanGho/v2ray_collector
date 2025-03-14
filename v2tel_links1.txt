@@ -9612,3 +9612,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.252.50.14:22222?path=/telegram-ch
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.16:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#[🇫🇷]t.me/MoftConfig
 trojan://telegram-id-privatevpns@3.70.149.109:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/ConfigsHub
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.16:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#[🇫🇷]t.me/ConfigsHub
+trojan://4db82bff-0889-4320-8944-7b8d8ee66ff5@89.213.40.225:2333?security=tls&sni=www&allowInsecure=1&type=tcp#⚜️Telegram:@IP_CF
+vless://2c128910-c617-479e-8ba0-6029ef243e32@2.144.6.60:9652?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://2c128910-c617-479e-8ba0-6029ef243e32@2.144.6.60:9652?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+ss://1c86a177-d7ff-4a5f-8255-cfeb4e051305@188.245.251.47:8080?security=none&encryption=none&host=sso.farhang.gov.ir&headerType=http&type=tcp#⚜️Telegram:@IP_CF
