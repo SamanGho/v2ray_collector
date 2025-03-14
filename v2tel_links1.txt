@@ -9601,3 +9601,4 @@ vmess://eyJhZGQiOiJVUzctMDEuODkwNjI0LnhZeiIsImFpZCI6MCwiaG9zdCI6InVzNy0wMS44OTA2
 trojan://telegram-id-privatevpns@52.47.97.39:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/MoftConfig
 trojan://f08d6a6b-a0b3-410e-a0ba-eae71b521904@18.182.63.94:20230?security=tls&sni=421421.xyz#[🏁]t.me/MoftConfig
 trojan://telegram-id-privatevpns@52.47.97.39:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.148.81:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
