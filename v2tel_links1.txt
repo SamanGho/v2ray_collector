@@ -9595,3 +9595,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprTmFYZklGS1JTQmgwbUx1RHdYRFFL@194.87.45.189:
 vless://c13fa928-c02c-4073-bc51-c9326ecc459b@91.92.40.78:2070?type=tcp&security=none#[🇸🇪]t.me/ConfigsHub
 ss://07f0b3e7-81c3-46e8-a6af-32cc02e1feb2@173.245.59.132:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=almze.gt-ov.com&fp=chrome&type=ws&sni=almze.gt-ov.com#⚜️Telegram:@IP_CF
 vless://c13fa928-c02c-4073-bc51-c9326ecc459b@91.92.40.78:2070?type=tcp&security=none#[🇸🇪]t.me/MoftConfig
+vless://bb9c3041-fdd1-462a-9a03-9049bcf04338@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
+trojan://f08d6a6b-a0b3-410e-a0ba-eae71b521904@18.182.63.94:20230?security=tls&sni=421421.xyz#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiJVUzctMDEuODkwNjI0LnhZeiIsImFpZCI6MCwiaG9zdCI6InVzNy0wMS44OTA2MjQueHl6IiwiaWQiOiI0ZDA0YjMwYy1lZjdiLTRhMDctOGY5ZS1mNTgxZWMxNzFmOGEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2J1YTJoTWNiQTh3TXpiR0Z0ViIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://telegram-id-privatevpns@52.47.97.39:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/MoftConfig
+trojan://f08d6a6b-a0b3-410e-a0ba-eae71b521904@18.182.63.94:20230?security=tls&sni=421421.xyz#[🏁]t.me/MoftConfig
+trojan://telegram-id-privatevpns@52.47.97.39:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/ConfigsHub
