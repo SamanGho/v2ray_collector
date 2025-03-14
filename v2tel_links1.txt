@@ -9249,3 +9249,13 @@ vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.161.144.111:443?security=&type=tc
 vmess://eyJhZGQiOiIyMDcuOTAuMjM2LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZjYjk3YzZiLTkxMjAtNDVmNC1iN2NjLTYyYmZjNzE2NTYxMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjEwMDgiLCJwcyI6Ilvwn4e68J+HuF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://95701d09-280b-478f-9812-ae2947cc1b1e@5.161.144.111:443?security=&type=tcp&encryption=none#[🇺🇸]t.me/MoftConfig
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.177.165:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@51.21.184.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.177.165:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#[🇺🇸]t.me/MoftConfig
+trojan://telegram-id-directvpn@51.21.184.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+trojan://telegram-id-privatevpns@13.61.226.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪@MoftConfig
+vless://tel%3A%3A%3Av2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#[🇩🇪]t.me/MoftConfig
+vless://d3e06e5a-65a6-4b5a-8304-7ec359db1885@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+trojan://telegram-id-directvpn@51.21.184.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.61.226.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+trojan://telegram-id-privatevpns@13.61.226.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub
