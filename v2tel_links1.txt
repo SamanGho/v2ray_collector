@@ -10426,3 +10426,9 @@ vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.64.79:443?security=tls&sni=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakU0Wg@uk1.ssocks.wiki:8388#👉🆔 @MoftConfig📡🇹🇷Turkey
 ss://2e40b4ec-500e-472a-a793-0a461fd5832c@157.173.127.234:443?security=reality&sni=analytics.google.com&type=tcp&fp=chrome&pbk=7RLBPpWgd020eML4NsskFQJkMGsRtuw8htBCMlA9a0Q&sid=6f58152144#⚜️Telegram:@IP_CF
 vless://11feb93a-cfc0-48cd-84ef-d9e4701b8a5d@162.159.38.232:443?security=tls&sni=m3rl21.ulavpnx1.work&type=ws&host=m3rl21.ulavpnx1.work&path=/wss&alpn=http/1.1#👉🆔 @MoftConfig📡🇺🇸United States
+ss://2a02a9a8-c952-401d-bb45-2c12c4c056ac@151.101.3.8:80/?path=%3F%3D9090&security=none&encryption=none&host=External_Net.org&type=ws#👉🆔 @MoftConfig📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Germany2.vip-nufilter.coM&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#👉🆔 @MoftConfig📡🇺🇸United States
+vless://0f07af2b-9026-4560-9a0a-7d3af8e05479@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://0f07af2b-9026-4560-9a0a-7d3af8e05479@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔 @MoftConfig📡🇸🇬Singapore
+trojan://telegram-id-privatevpns@3.248.85.86:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇮🇪Ireland
