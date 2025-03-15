@@ -9736,3 +9736,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.227.53:22222?path=/telegram-c
 trojan://telegram-id-privatevpns@13.53.183.42:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.49.186.184:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/MoftConfig
 ss://4a617961-06bb-405d-b1d8-28abaaaf18e7@157.173.127.235:443?security=reality&sni=analytics.google.com&type=tcp&fp=chrome&pbk=k9oHeYY0hNmcd6BRZQTX9sp0ZQR7Bx85fPMu0v4uvwc&sid=c5a5eca0d8234375#⚜️Telegram:@IP_CF
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.42.89.68:8880?security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇳🇱]t.me/MoftConfig
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.42.89.68:8880?security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇳🇱]t.me/ConfigsHub
