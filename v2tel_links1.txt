@@ -9698,3 +9698,12 @@ vless://d9cd7ec2-bd1a-42fc-9554-286dcc8eb72a@sto5.vpntype.dev:443?security=tls&e
 vless://0a917cea-1caa-455f-bccc-8e5eed80d677@91.194.161.69:80?encryption=none&security=none&type=grpc&authority=&serviceName=vless-grpc&mode=gun#[🏁]t.me/MoftConfig
 
 vless://7e80f195-2c0c-42ec-b67f-f97b6ad18453@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+vless://f88e0a3c-75d5-411d-a39d-7a95bb123fd0@dash.parspack.com:2087?path=%2F%40V2rayyNGvpn%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=BeAt.mIRacLeTaXbItS.tOP.&fp=chrome&type=httpupgrade&sni=bEAt.MIRaclETaxbiTS.Top.#[🇨🇦]t.me/ConfigsHub
+vless://f88e0a3c-75d5-411d-a39d-7a95bb123fd0@dash.parspack.com:2087?path=%2F%40V2rayyNGvpn%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=BeAt.mIRacLeTaXbItS.tOP.&fp=chrome&type=httpupgrade&sni=bEAt.MIRaclETaxbiTS.Top.#[🇨🇦]t.me/MoftConfig
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.122:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#[🇫🇷]t.me/MoftConfig
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.195.57:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome&allowInsecure=1#[🇺🇸]t.me/MoftConfig
+vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=Www.speedtest.net.g.sPeedtest3.sbs.&type=ws#WS-Irancell+%7C+%40ArV2ray
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.195.57:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
+vless://617d5079-9fae-494a-98ca-90da9e10cd70@104.248.172.240:80?security=none&type=ws&host=arvancloud.com#[🇬🇧]t.me/ConfigsHub
+vless://617d5079-9fae-494a-98ca-90da9e10cd70@104.248.172.240:80?security=none&type=ws&host=arvancloud.com#[🇬🇧]t.me/MoftConfig
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.122:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#[🇫🇷]t.me/ConfigsHub
