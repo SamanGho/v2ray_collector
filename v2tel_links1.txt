@@ -9707,3 +9707,10 @@ vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.195.57:443?security=tls&sni
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@104.248.172.240:80?security=none&type=ws&host=arvancloud.com#[🇬🇧]t.me/ConfigsHub
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@104.248.172.240:80?security=none&type=ws&host=arvancloud.com#[🇬🇧]t.me/MoftConfig
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.122:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#[🇫🇷]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNzIuNjcuMTM4LjY5IiwiYWlkIjowLCJob3N0IjoiaG1zMTkuYmVzdC10aXppLnRvcCIsImlkIjoiNjJhYTVmODAtMDMyOC00MDA0LWEzNzUtN2Y1YTU5ZGY0MDIyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0Ijo0NDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiaG1zMTkuYmVzdC10aXppLnRvcCJ9
+vless://341d458c-9cbd-48ad-a18f-5eb38ca88582@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/ConfigsHub
+vless://341d458c-9cbd-48ad-a18f-5eb38ca88582@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/MoftConfig
+vless://58d9fb7f-c084-429e-8e7b-a124d6ab2a02@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM1hvTlJUaVZUT3NBelhPVlBQMDA4@194.87.45.189:443#[🏁]t.me/MoftConfig
+vless://58d9fb7f-c084-429e-8e7b-a124d6ab2a02@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM1hvTlJUaVZUT3NBelhPVlBQMDA4@194.87.45.189:443#[🏁]t.me/ConfigsHub
