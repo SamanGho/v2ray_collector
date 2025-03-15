@@ -10419,3 +10419,10 @@ vless://dbe4b1d1-03e6-4033-886b-09ebe99730bd@185.161.251.211:1633?security=reali
 vless://cc35f6ba-be03-4d1e-b229-db443b5a7ce7@151.101.194.133:443?security=tls&sni=live.wkrq.com&type=ws&host=downloadlynet.ir.&path=%2F%40custom_config%3Fed%3D2560&fp=firefox&alpn=h2,http/1.1#[🇺🇸]t.me/MoftConfig
 vless://10525b84-7f6e-43ef-912b-87434df813f4@172.64.34.232:443?security=tls&sni=news5.testsnew.com&type=ws&host=news5.testsnew.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/MoftConfig
 vless://ca6eaaa9-d470-4173-b46b-4e912e20b9e0@FASTSHOVPNtelegram.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=FastShoVpn.TelegramChannel.com&type=ws#[🇺🇸]t.me/MoftConfig
+vless://07865379-86dd-4ca6-ad22-81255519c482@104.26.1.117:2083?security=tls&sni=vipv2rey.mamare.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://021b97e0-b194-4907-91ed-8625bcc60f28@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ENCHANtING-amount.OnEeAt.Co.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://3240071c-9d7a-4c20-a840-8fd1a4d9ddb9@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=tls&encryption=none&host=joinxvproxybedeeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.64.79:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#👉🆔 @MoftConfig📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakU0Wg@uk1.ssocks.wiki:8388#👉🆔 @MoftConfig📡🇹🇷Turkey
+ss://2e40b4ec-500e-472a-a793-0a461fd5832c@157.173.127.234:443?security=reality&sni=analytics.google.com&type=tcp&fp=chrome&pbk=7RLBPpWgd020eML4NsskFQJkMGsRtuw8htBCMlA9a0Q&sid=6f58152144#⚜️Telegram:@IP_CF
+vless://11feb93a-cfc0-48cd-84ef-d9e4701b8a5d@162.159.38.232:443?security=tls&sni=m3rl21.ulavpnx1.work&type=ws&host=m3rl21.ulavpnx1.work&path=/wss&alpn=http/1.1#👉🆔 @MoftConfig📡🇺🇸United States
