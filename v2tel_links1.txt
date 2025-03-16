@@ -11421,3 +11421,7 @@ vless://536d45be-c91a-4095-8e14-5f86895f3723@54.37.78.215:43305?mode=gun&securit
 vless://8bb790b3-60ac-40a3-b4ee-779b926ebc3b@51.89.226.95:45477?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🇬🇧]t.me/ConfigsHub
 vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.210.133:443?encryption=none&security=tls&sni=wear.net&type=ws&host=aw035.ir&path=%2F%3Fed%3D2048#⚜️Telegram:@IP_CF
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=%2F%40ShadowProxy66%3Fed%3D2560&security=&encryption=none&host=redw.pooriam.ir&type=ws#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiIzLjExMi4yMTIuMTk3IiwiYWlkIjowLCJob3N0IjoidGxzLjA1Lm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIiwiaWQiOiIzNTE5ZGZjMC1mYTI3LTQxY2MtOGMxOS05ODE4MThmOWY2ZDUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjMzNDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoidGxzLjA1Lm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIiwiYWxsb3dpbnNlY3VyZSI6MX0=
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.156:8090#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.80:5498#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.47:5498#[🇺🇸]t.me/ConfigsHub
