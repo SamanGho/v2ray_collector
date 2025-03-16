@@ -11381,3 +11381,12 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?encryption=none&sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.151:8080#[🇳🇱]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?encryption=none&security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2FShadowProxy66%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052?encryption=none&security=none&type=ws&host=redw.pooriam.ir&path=%2FTM-ShadowProxy66%3Fed%3D2048#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40v2rayngzendegimamad%2F%3Fed%3D2503&security=none&encryption=none&host=301.pooriam.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.50.22.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://11bcf10d-f905-5ccb-892b-38335ffe9e9f@www.speedtest.net:2052?path=%2Fvless%23%40v2rayngzendegimamad%40v2rayngzendegimamad%40v2rayngzendegimamad&security=none&encryption=none&host=sPeedtest2.sbs.lt1.vless.sitespeedtest.net&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=%2FTelegram%40v2rayngzendegimamad%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#[🇨🇦]t.me/ConfigsHub
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2053?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=D031tAp7Jq.MySpDmMeTi.CoM#[🇨🇦]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.15.85:80?path=%2F%3Fed%3D2560%2Ftelegram%40v2rayngzendegimamad%2F%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.50.22.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052?path=%2FTM-v2rayngzendegimamad66%3Fed%3D2048&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🏁]t.me/ConfigsHub
