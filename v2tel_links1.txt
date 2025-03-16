@@ -10550,3 +10550,16 @@ vless://69470c8f-f07d-43bc-b7be-60e27bf7c396@151.101.64.155:80?path=%2Ftelegram-
 vmess://eyJhZGQiOiIxMDQuMTYuMTU1LjEwIiwiYWlkIjowLCJob3N0IjoiMTAwLTIwOS00Ny0xNDEuczIuZGItbGluazAyLnRvcCIsImlkIjoiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9kYWJhaS5pbjEwNC4yMC4yNy4xMTUiLCJwb3J0IjoyMDk1LCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vless://a2892c48-533d-4b24-a553-4547fe2b538f@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
 vless://baacacb-caba-caab-cdab-cbcaacacabbb@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2Ftelegram%40mtmvpn%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.95:2095?type=ws&host=redw.pooriam.ir&path=%2F#[🏁]t.me/MoftConfig
+trojan://bv4kWm6T3P8Y@139.84.197.130:443?sni=ash.b495fdd7-be5f-4409-99b3-f725f6bca02e.kailib.com#[🏁]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&type=ws&host=301.pooriam.ir&path=%2FTelegram%40V2ray_Alpha#[🇨🇦]t.me/MoftConfig
+trojan://bv4kWm6T3P8Y@139.84.197.130:443?sni=ash.b495fdd7-be5f-4409-99b3-f725f6bca02e.kailib.com#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&type=ws&host=301.pooriam.ir&path=%2FTelegram%40V2ray_Alpha#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&type=ws&host=301.pooriam.ir&path=%2FTelegram%40V2ray_Alpha#[🇨🇦]t.me/ConfigsHub
+vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed%3D2560#[🇨🇦]t.me/MoftConfig
+vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.95:2095?type=ws&host=redw.pooriam.ir&path=%2F#👉🆔 @MoftConfig📡🇯🇵Japan
+trojan://bv4kWm6T3P8Y@139.84.197.130:443?sni=ash.b495fdd7-be5f-4409-99b3-f725f6bca02e.kailib.com#👉🆔 @MoftConfig📡🇦🇺Australia
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.95:2095?type=ws&host=redw.pooriam.ir&path=%2F#[🏁]t.me/ConfigsHub
