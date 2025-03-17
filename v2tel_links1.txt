@@ -11480,3 +11480,30 @@ trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@35.93.215.90:20230?security=tls&sn
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:2096?security=tls&sni=An66Mg2Gf4.MySpDmMeTi.CoM&type=ws&host=An66Mg2Gf4.MySpDmMeTi.CoM&path=%2F#👉🆔 @MoftConfig📡🇸🇪Sweden
 vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443/?type=tcp&encryption=none&security=tls&sni=005188006073.sec1org.com#👉🆔 @MoftConfig📡🇺🇦Ukraine
 trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@35.93.215.90:20230?security=tls&sni=421421.xyz#👉🆔 @MoftConfig📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UjNGWUk3NTQ1VVJUWklUSw@8tv68qhq.slashdevslashnetslashtun.net:15013#👉🆔 @MoftConfig📡🇨🇳China
+vless://65778c6f-fcf7-4d76-8649-acf185b48e79@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+ss://YWVzLTI1Ni1nY206NTRTWTFTUDVIVTczRTAwWg@ti3hyra4.slashdevslashnetslashtun.net:17001#👉🆔 @MoftConfig📡🇨🇳China
+vless://56812842-5954-4489-837c-e757c916a955@172.67.73.163:80?security=none&type=ws&host=remaRKABlE-hOTeL.oneEat.co.&path=%2F%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#👉🆔 @MoftConfig📡🇭🇺Hungary
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.8.157:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇩🇪]t.me/ConfigsHub
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.153.2:2087?security=tls&sni=Tp289Im2F1.rAmAzAn1.InFo&type=ws&host=Tp289Im2F1.rAmAzAn1.InFo&path=/&alpn=h2http/1.1#[🇨🇦]t.me/ConfigsHub
+vless://31348b17-4ab2-40c0-b79e-c81032331d30@104.16.140.135:2087?security=tls&sni=b4f0b859-super-smoke-7916.bouncy-vulture1054.workers.dev&type=ws&host=b4f0b859-super-smoke-7916.bouncy-vulture1054.workers.dev#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://a38c9e28-9960-4e31-9f18-ed2495a756aa@vt-bana2-cn-11.ghpgwqswodgzv.com:40021?allowInsecure=1&sni=vt-bana2-cn-11.ghpgwqswodgzv.com&ws=1&wspath=%2Fdl_media#👉🆔 @MoftConfig📡🇨🇳China
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.158:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VFlNMU44MTJUMVFHRVVFOA@ti3hyra4.slashdevslashnetslashtun.net:17008#👉🆔 @MoftConfig📡🇨🇳China
+ss://08f7c98e-506c-4aca-a3ab-6fc99d015555@148.113.137.175:2053?encryption=none&security=reality&sni=sourceforge.net&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519&type=grpc&authority=&serviceName=2053vless&mode=gun#⚜️Telegram:@IP_CF
+ss://08f7c98e-506c-4aca-a3ab-6fc99d015555@148.113.140.185:2053?encryption=none&security=reality&sni=sourceforge.net&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519&type=grpc&authority=&serviceName=2053vless&mode=gun#⚜️Telegram:@IP_CF
+trojan://bpb-trojan@172.66.44.203:443?security=tls&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv&type=tcp#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxbU9ENXgwOUt5Tk5KNlVTQ1ppUTRSdk4ybFNWUTZqekFFWW12clNMdFJac1NYNWdGNkNmY0VsdlVjdUxsblpE@94.131.96.213:29647#👉🆔 @MoftConfig📡🇵🇱Poland
+ss://YWVzLTI1Ni1nY206RTFTQ0I3UTFQN0hGUjhLOA@ti3hyra4.slashdevslashnetslashtun.net:17005#👉🆔 @MoftConfig📡🇨🇳China
+trojan://633ac2fe-e080-4119-ac96-2abb6c96a5a6@34.143.164.67:443?security=tls&sni=34.143.164.67&type=tcp&allowInsecure=1#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.0.54.96:443#👉🆔 @MoftConfig📡🇸🇬Singapore
+trojan://633ac2fe-e080-4119-ac96-2abb6c96a5a6@34.143.164.67:443?security=tls&sni=34.143.164.67&type=tcp&allowInsecure=1#[🏁]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.91:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#👉🆔 @MoftConfig📡🇯🇵Japan
+vless://56812842-5954-4489-837c-e757c916a955@172.67.73.163:80?security=none&type=ws&host=remaRKABlE-hOTeL.oneEat.co.&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.8.157:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇩🇪]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.158:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.154.136.132:5601#👉🆔 @MoftConfig📡🇺🇸United States
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.153.2:2087?security=tls&sni=Tp289Im2F1.rAmAzAn1.InFo&type=ws&host=Tp289Im2F1.rAmAzAn1.InFo&path=/&alpn=h2http/1.1#[🇨🇦]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.18:5003#👉🆔 @MoftConfig📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydWpZdUlWdW1UcVBIV0JWdk9SRmZ0@212.113.106.76:29149#👉🆔 @MoftConfig📡🇦🇹Austria
