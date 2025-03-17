@@ -7075,3 +7075,47 @@ trojan://Aimer@108.165.152.93:2083?security=tls&headerType=&type=tcp&sni=agept.a
 trojan://Aimer@154.197.64.196:2087?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
 vmess://eyJhZGQiOiI0OS4xMy4zMC41MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MmVmZjJjYy03NDdhLTQwNzYtYTNjZi05NmEzYjAwZWI3OTQiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDk2IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJobXMxOS5iZXN0LXRpemkudG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.46.199:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.112:9102#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.204:8009#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.84:6679#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:9090#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.35:5000#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.5:8000#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8881#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.51:8091#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTEyOC1jZmI6WDRRaEYzVkw2MHh0cm55Vw==@147.135.76.41:11204#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.95.218:8000#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.150.152.16:6379#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@51.21.209.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.49:7307#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.61.235:9102#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.105:8118#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.21:8118#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7002#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.120:4444#[🇺🇸]t.me/MoftConfig
+trojan://telegram-id-privatevpns@51.21.166.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪@MoftConfig
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8118#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8882#[🇺🇸]t.me/ConfigsHub
+trojan://tg-fq521free@216.24.57.30:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&path=/&host=torjan.xn--xhq44j.eu.org#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.216:5000#[🇺🇸]t.me/ConfigsHub
+trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.218:7001#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.113:6379#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.5:8881#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjIwNzg2ZjAxNmY1YTdj@198.244.149.246:15273#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4a2NZbUt6bFI4RWJ4aU4zcHNIMTVp@2.56.122.207:28711#[🇩🇪]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.117:8080#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.216:6697#[🇺🇸]t.me/MoftConfig
+vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=Www.speedtest.net.l.sPeedtest3.sbs.&type=ws#WS-Irancell+%7C+%40ArV2ray
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5004#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.105:443#[🇺🇸]t.me/MoftConfig
+vmess://eyJhZGQiOiIxODguMTE0Ljk5LjEzNCIsImFpZCI6MCwiaG9zdCI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7307#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.87.215:8882#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7001#[🇺🇸]t.me/MoftConfig
