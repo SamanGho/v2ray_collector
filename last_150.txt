@@ -1,31 +1,3 @@
-vless://265d5d86-eef8-4d3e-a429-812f3c377a1d@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Dry-fire.ONeeAt.co.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.77.74:8080?encryption=none&security=none&sni=&type=ws&alpn=&host=d1.hetzner.com&path=/test=true#👉🆔 @MoftConfig📡🇵🇱Poland
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?path=%2F&security=tls&encryption=none&host=PuOqBsJs.jOkErMaN.InFo&type=ws&sni=PuOqBsJs.jOkErMaN.InFo#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://13982e9d-23d7-4884-92ee-a674ccc80c31@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ENlIGhtENED-COnNEctIoN.oNEeAT.Co.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
-trojan://665c944d-047d-4659-80d5-3eaac70241a9@164.90.168.75:443?security=tls&sni=de2-full.privateip.net&allowInsecure=1#[🇩🇪]t.me/MoftConfig
-ss://YWVzLTI1Ni1nY206NE9BS0o4Q0FTRVJBV1hJMQ==@156.231.104.23:18013#👉🆔 @MoftConfig📡🇯🇵Japan
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@soccer120.info:2087?encryption=none&security=tls&sni=Tp2871HmT0.rAmAzAn3.InFo&type=ws&alpn=h2http/1.1&host=Tp2871HmT0.rAmAzAn3.InFo&path=/#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@34.208.49.180:8443?security=reality&type=tcp&headerType=&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#👉🆔 @MoftConfig📡🇺🇸United States
-vless://77f806f0-8f87-4c01-8e07-c88d52092e92@104.21.73.221:443?security=tls&sni=cs2.film2serial.cloud&type=grpc&serviceName=6k9LhPdmkFyy7eL4dZlhBC&fp=chrome&alpn=h2&allowInsecure=false#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://87b69fed-7b33-4679-9481-208a5cd67a11@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mELoDiC-PArk.OneeAT.cO.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@188.114.99.160:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇺🇸]t.me/MoftConfig
-vless://8494f144-0512-4f94-8358-aac140b61ff4@141.101.120.73:443?encryption=none&security=tls&sni=pnm.cartononlinemigmig.xyz&alpn=http%2F1.1&fp=chrome&type=httpupgrade&host=pnm.cartononlinemigmig.xyz&path=%2FLpICfNpuXFhbLfADADBO#[🇬🇧]t.me/ConfigsHub
-vless://8d4d81ee-5928-4617-8726-22a47164e766@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s25.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s25.elitemizban.ir#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@52.47.142.18:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/MoftConfig
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=7G6gLgL6fJ.mYsPdMmEtI.cOm&alpn=h3h2&type=ws&host=7G6gLgL6fJ.mYsPdMmEtI.cOm&path=%2F#[🇨🇦]t.me/MoftConfig
-vless://5e1306ff-3ffa-4166-89ab-1a06ff42eca6@www.speedtest.net:443?encryption=none&security=tls&sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.do2.ddns-ip.net&type=ws&host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.do2.ddns-ip.net&path=%2FTelegram-XV2ry2%3Fed%3D512#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://8494f144-0512-4f94-8358-aac140b61ff4@141.101.120.73:443?encryption=none&security=tls&sni=pnm.cartononlinemigmig.xyz&alpn=http%2F1.1&fp=chrome&type=httpupgrade&host=pnm.cartononlinemigmig.xyz&path=%2FLpICfNpuXFhbLfADADBO#👉🆔 @MoftConfig📡🇬🇧United Kingdom
-vless://723af342-568e-4332-9233-6f33a9ca2de8@172.67.2.238:80?security=none&sni=v2raylandd-88.vmjisexa.workers.dev&type=ws&host=v2raylandd-88.vmjisexa.workers.Dev#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://f2bcfdd0-71f7-46ba-96fb-a859cd356d34@s12.nimhub.ir:2053?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir%2Ctamin.ir%2Crubika.ir%2Cvarzesh3.com%2Ccafebazaar.ir#[🇮🇷]t.me/MoftConfig
-trojan://telegram-id-v2rayvpnchannel@51.44.88.147:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/MoftConfig
-vless://36b98d0b-958d-4d4a-c1b7-aaf1a7fa756a@137.131.10.83:25073?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#👉🆔 @MoftConfig📡🇺🇸United States
-vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.1.12:443?path=%2F%3Fed%3DMARAMBASHI\_MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://8b596857-5c40-44f9-b1e7-ff573e25d009@www.parsvds.com:2096?path=%2F2096%2F%40VRayyNGvpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=BeAt.mIRacLeTaXbItS.tOP.&fp=random&type=ws&sni=bEAt.MIRaclETaxbiTS.Top.#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.220:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#👉🆔 @MoftConfig📡🇫🇷France
-trojan://a124e41a-0fb8-4543-a0ab-a127c7b515a9@sg005.421421.xyz:20230?allowInsecure=1#👉🆔 @MoftConfig📡🇸🇬Singapore
-vless://5e1306ff-3ffa-4166-89ab-1a06ff42eca6@www.speedtest.net:443?encryption=none&security=tls&sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.do2.ddns-ip.net&type=ws&host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.do2.ddns-ip.net&path=%2FTelegram-XV2ry2%3Fed%3D512#[🇨🇦]t.me/MoftConfig
-vless://8494f144-0512-4f94-8358-aac140b61ff4@141.101.120.73:443?encryption=none&security=tls&sni=pnm.cartononlinemigmig.xyz&alpn=http%2F1.1&fp=chrome&type=httpupgrade&host=pnm.cartononlinemigmig.xyz&path=%2FLpICfNpuXFhbLfADADBO#[🇬🇧]t.me/MoftConfig
-vless://36b98d0b-958d-4d4a-c1b7-aaf1a7fa756a@137.131.10.83:25073?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#[🇺🇸]t.me/MoftConfig
 vless://5e1306ff-3ffa-4166-89ab-1a06ff42eca6@www.speedtest.net:443?encryption=none&security=tls&sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.do2.ddns-ip.net&type=ws&host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.do2.ddns-ip.net&path=%2FTelegram-XV2ry2%3Fed%3D512#[🇨🇦]t.me/ConfigsHub
 vless://36b98d0b-958d-4d4a-c1b7-aaf1a7fa756a@137.131.10.83:25073?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#[🇺🇸]t.me/ConfigsHub
 vless://8d4d81ee-5928-4617-8726-22a47164e766@whatismyipaddress.com:2096?encryption=none&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s25.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s25.elitemizban.ir#[🇨🇦]t.me/MoftConfig
@@ -148,3 +120,31 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151
 vless://bc13c046-5de5-4480-9e61-fd1e08ac9e80@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080&security=none&encryption=none&host=6bizaram.azzndagi.net&type=ws#👉🆔 @MoftConfig📡🇺🇸United States
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.69.44:80?path=tmevpnAndroid2%2F%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://e14b4a6b-0c62-4551-a952-b3eff4b973de@194.156.103.86:2096?security=reality&encryption=none&pbk=2aoxX2Wjq25LmOUq9CuhJ6KJTA8z1i3Aspe-7RhTR1s&fp=firefox&type=grpc&sni=dash.cloudflare.com&sid=28f58957#👉🆔 @MoftConfig📡🇦🇲Armenia
+trojan://Aimer@154.211.8.109:2087?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Aimer@162.159.44.168:443?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Aimer@108.165.152.29:2096?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇮🇳India
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.232:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#[🏁]t.me/MoftConfig
+trojan://Aimer@125.132.46.2:10022?security=tls&headerType=&type=tcp&sni=agepq.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇰🇷South Korea
+trojan://Aimer@108.162.195.199:443?security=tls&headerType=&type=tcp&sni=ngepo.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://Aimer@154.197.64.248:8443?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Aimer@108.162.194.193:443?security=tls&headerType=&type=tcp&sni=agepy.aimercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://Aimer@154.17.228.203:443?security=tls&headerType=&type=tcp&sni=agepq.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+vmess://eyJhZGQiOiJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsImFpZCI6MCwiaG9zdCI6InVzd3V4aWFuLnBhaTUwMjg4LnVrIiwiaWQiOiJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjg0NDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoidXN3dXhpYW4ucGFpNTAyODgudWsifQ==
+trojan://Aimer@108.165.152.130:2083?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇮🇳India
+ss://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.132:3237?encryption=none&security=none&type=tcp&headerType=none#⚜️Telegram:@IP_CF
+trojan://Aimer@130.250.137.63:2083?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+vless://f1a7ecfb-af0c-493a-8286-ec47de150ac3@57.129.43.114:8880?security=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@108.128.209.77:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/MoftConfig
+trojan://Aimer@154.211.8.98:2087?security=tls&headerType=&type=tcp&sni=agepy.aimercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Aimer@121.180.184.145:50000?security=tls&headerType=&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇰🇷South Korea
+vless://f1a7ecfb-af0c-493a-8286-ec47de150ac3@57.129.43.114:8880?security=none&type=grpc#[🇩🇪]t.me/MoftConfig
+trojan://Aimer@104.26.15.138:2053?security=tls&headerType=&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.51:80?path=Telegram%40WangCai2%2F%3Fed&security=&encryption=none&type=ws&sni=redw.pooriam.ir#👉🆔 @MoftConfig📡🇯🇵Japan
+trojan://Aimer@108.165.152.252:2096?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇮🇳India
+trojan://telegram-id-privatevpns@108.128.209.77:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.232:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.98:80?sni=redw.pooriam.ir&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#[🏁]t.me/ConfigsHub
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.17.148.22:2096?security=tls&sni=7G6gLgL6fJ.mYsPdMmEtI.cOm&type=ws&host=7G6gLgL6fJ.mYsPdMmEtI.cOm&path=%2F#[🇨🇦]t.me/ConfigsHub
+trojan://Aimer@108.165.152.93:2083?security=tls&headerType=&type=tcp&sni=agept.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇮🇳India
+trojan://Aimer@154.197.64.196:2087?security=tls&headerType=&type=tcp&sni=ngepx.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJobXMxOS5iZXN0LXRpemkudG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
