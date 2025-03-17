@@ -12492,3 +12492,21 @@ trojan://telegram-id-privatevpns@63.176.208.236:22222?security=tls&sni=trojan.bu
 trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@34.220.57.90:20230?security=tls&sni=421421.xyz#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@92.223.2.79:8080#👉🆔 @MoftConfig📡🇦🇲Armenia
 vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@chopper.lnmarketplace.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=chopper.lnmarketplace.net&alpn=h2&fp=randomized#[🇩🇪]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.48:2095?security=none&type=ws&host=redw.pooriam.ir&path=/#👉🆔 @MoftConfig📡🇯🇵Japan
+vless://cbbaaca-abca-cbaa-acdb-aabbccaaccbb@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
+vless://8a52d270-ed78-4f73-99fb-83d6e9c953a1@213.176.121.10:443?security=none&type=tcp&host=p30afzar.com&headerType=http#[🇮🇷]t.me/ConfigsHub
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@chopper.lnmarketplace.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=chopper.lnmarketplace.net&alpn=h2&fp=randomized#👉🆔 @MoftConfig📡🇳🇱The Netherlands
+trojan://lBSSFOalI3yXZDOAwADg9a8zTCexE6pjxeX4D3a0FgSSYRqlCyCOYcz83w3aYR3cTZDF8@154.17.20.103:443?sni=length.wireshop.net#👉🆔 @MoftConfig📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER-6f9435128b61@www.speedtest.net:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=banagh.azadistadium.com&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://S3uISCSXalplOFZCy9njYOCA2AlKqDNSZly3FE8w6RzyYaxagK7eDcN0C333ES3anCOpu@104.247.121.10:443?sni=covteam.homeofbrave.net#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@34.220.57.90:20230?security=tls&sni=421421.xyz#👉🆔 @MoftConfig📡🇺🇸United States
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.13.58:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
+vless://5d8b462c-aeae-416b-9c12-4d97ea025e29@5.22.212.180:443?security=reality&sni=www.refersion.com&type=tcp&fp=chrome&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&sid=e869#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://8a52d270-ed78-4f73-99fb-83d6e9c953a1@213.176.121.10:443?security=none&type=tcp&host=p30afzar.com&headerType=http#[🇮🇷]t.me/MoftConfig
+vless://8a52d270-ed78-4f73-99fb-83d6e9c953a1@213.176.121.10:443?security=none&type=tcp&host=p30afzar.com&headerType=http#👉🆔 @MoftConfig📡🇮🇷Iran
+trojan://S3uISCSXalplOFZCy9njYOCA2AlKqDNSZly3FE8w6RzyYaxagK7eDcN0C333ES3anCOpu@104.247.121.10:443?sni=covteam.homeofbrave.net#[🇺🇸]t.me/MoftConfig
+vless://5d8b462c-aeae-416b-9c12-4d97ea025e29@5.22.212.180:443?security=reality&sni=www.refersion.com&type=tcp&fp=chrome&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&sid=e869#[🇩🇪]t.me/MoftConfig
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@chopper.lnmarketplace.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=chopper.lnmarketplace.net&alpn=h2&fp=randomized#👉🆔 @MoftConfig📡🇩🇪Germany
+trojan://072c477b-90c1-4600-998f-1a2990542782@54.184.218.233:20230?security=tls&sni=us003.421421.xyz&allowInsecure=1#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@34.220.57.90:20230?security=tls&sni=421421.xyz#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206NE9BS0o4Q0FTRVJBV1hJMQ@156.231.104.23:18013#👉🆔 @MoftConfig📡🇯🇵Japan
