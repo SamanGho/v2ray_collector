@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8882#[🇺🇸]t.me/ConfigsHub
 trojan://tg-fq521free@216.24.57.30:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&path=/&host=torjan.xn--xhq44j.eu.org#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.216:5000#[🇺🇸]t.me/ConfigsHub
@@ -90,7 +91,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.5.22:22222?path=/telegram-cha
 trojan://b44da489-fc70-4fd0-8997-a83b51f59267@57.180.30.125:20230?security=tls&sni=jp007.421421.xyz&allowInsecure=1#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#👉🆔 @MoftConfig📡🇯🇵Japan
 vless://b20644e0-c6e7-4c1c-bc9c-3538d9e86b3a@94.182.104.168:1234?security=none&type=tcp&host=Ponisha.ir&headerType=http#[🇮🇷]t.me/ConfigsHub
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.82:80?security=none&encryption=none&host=301.pooriam.ir&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://470d7ae6-4c20-48fc-8cea-8f94002e4168@www.speedtest.net:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.speedtest.net.14.speedtest3.onlinE.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.208:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#👉🆔 @MoftConfig📡🇯🇵Japan
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.82:80?security=none&encryption=none&host=301.pooriam.ir&type=ws#[🇮🇷]t.me/MoftConfig
