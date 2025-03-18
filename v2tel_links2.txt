@@ -7767,3 +7767,37 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.11.221:22222?path=/telegram-
 trojan://telegram-id-directvpn@13.43.8.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@13.41.231.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@63.176.29.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VmtOU05raE9PRlZNVlRSVE5FNHlOdw@45.154.207.246:20030#[🇩🇪]t.me/MoftConfig
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2U2xsUk5UQkhXRXhMVmpKR05scFlWQQ@qh62onjn.slashdevslashnetslashtun.net:15015#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRE13WldJeg==@is3.opensocks.site:8388#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREE1WWpGaA==@de1.opensocks.site:8388#👉🆔 @MoftConfig📡🇩🇪Germany
+ss://19d3596a-a6c6-44be-9f18-26f349da4972@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjkxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNjOWI2NmI3LTFkZTctNGFhOS05NjQyLTU3NWE4YWUzZmYxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjAxODIiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VmtOU05raE9PRlZNVlRSVE5FNHlOdw@45.154.207.246:20030#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#👉🆔 @MoftConfig📡🇺🇸United States
+ss://19d3596a-a6c6-44be-9f18-26f349da4972@ZuLa.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://%69%64%2D%48%71%76%32%72%61%79%4E%47@84.234.31.28:2087?security=reality&pbk=z0Di-2ywYXzOdsNidu-6XSbSkCoAsHUbU05kbTPVzAQ&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=69a916d351#👉🆔 @MoftConfig📡🇨🇭Switzerland
+ss://YWVzLTEyOC1nY206ZWM1ODg1NDUtMjkyZS00YTExLWFkYTItZDYyZTU5OWFmOTI4@alsh.76681f9610f175c6.com:24502#👉🆔 @MoftConfig📡🇨🇳China
+trojan://6COpljDaSNl2wy8BaFCK3FncI4yOYAZYxRZAxe3uCaDqS3R8ezD0T9g357pESX@privacy.taiwanesefood.link:443?allowInsecure=0&sni=privacy.taiwanesefood.link#👉🆔 @MoftConfig📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#👉🆔 @MoftConfig📡🇳🇱The Netherlands
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.152:80?type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2U2xsUk5UQkhXRXhMVmpKR05scFlWQQ@qh62onjn.slashdevslashnetslashtun.net:15015#[🏁]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.103.198:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiIxMDQuMTcuMjEzLjI0MSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJwb3J0Ijo4MCwiaWQiOiJlNjU0MzMxOS0wNTc0LTQyYWMtYjc3OC0xYzQzMjVkNjI2ZjUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImNodW5jaHVhbi5rZWppeGlhb3FpNjY2LnN0b3JlIiwicGF0aCI6IlwvIiwidGxzIjoiIn0=
+vless://7c05c995-c00b-44d3-8b1b-e82640159817@62.60.198.78:51487?security=none&type=tcp#👉🆔 @MoftConfig📡🇮🇷Iran
+vless://0f9f0500-01a2-49a6-b67b-d1b38913ba2c@46.254.93.124:8080?security=none&type=ws&host=sNaPp.MaStErSrV.ir.#👉🆔 @MoftConfig📡🇮🇩Indonesia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA==@at1.opensocks.site:8388#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.27:8119#👉🆔 @MoftConfig📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER-e13a3c865928@www.speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=banagh.motorphrotan.ir&fp=chrome&type=ws&sni=banagh.motorphrotan.ir#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+tls%F0%9F%94%B52
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObU5sT0RZNA==@uk2.opensocks.site:8388#[🇬🇧]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER-931d54cffcad@www.speedtest.net:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&security=none&encryption=none&host=banagh.vipnufilter.online&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws%F0%9F%9F%A12
+vless://b7f20cb0-bb0a-4c84-ad8c-cec930ae81fa@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔 @MoftConfig📡🇮🇱Israel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA==@at1.opensocks.site:8388#👉🆔 @MoftConfig📡🇦🇹Austria
+ss://19d3596a-a6c6-44be-9f18-26f349da4972@ZuLa.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREE1WWpGaA==@de1.opensocks.site:8388#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVExTnpGag==@fr1.opensocks.site:8388#[🇫🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SkVKcFFITlRaU2MxYXV6VmsyV3Mz@162.221.207.62:8443#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SkVKcFFITlRaU2MxYXV6VmsyV3Mz@162.221.207.62:8443#[🇨🇦]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:443#👉🆔 @MoftConfig📡🇫🇷France
+vless://9d25af45-3e4d-41d6-b625-cc6e6e3e1d47@www.speedtest.net:2096?path=%2Ftelegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=wiwi.filmekade.ru&fp=chrome&type=ws&sni=wiwi.filmekade.ru#👉🆔 @MoftConfig📡🇨🇦Canada
