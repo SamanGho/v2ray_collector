@@ -12672,3 +12672,10 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2Ftelegram%40
 vless://4ca9010c-b8bf-45be-bbb2-ca16654229c4@52.204.222.191:443?encryption=none&security=reality&sni=api.cloudflare.com&fp=chrome&pbk=MnxjSxHAnNYXiRe9cUj20HQ9FQgsMKCUnWn-L7ilNEY&sid=70be1a743a&spx=%2Fclient%2F%3FEVAY_VPNJoinBadeChannel%40EVAY_VPN&type=xhttp&host=api.cloudflare.com&path=%2Fclient%2F%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&mode=stream-up#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.114.121.249:5498#👉🆔 @MoftConfig📡🇺🇸United States
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@166.88.131.195:52952#👉🆔 @MoftConfig📡🇻🇳Vietnam
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.209:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#👉🆔 @MoftConfig📡🇫🇷France
+trojan://Aimer@172.64.33.144:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://02015258-ffff-4fa9-9b73-cf6b12bbcfaf@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+ss://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=%2Fstream%2F%23Telegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=magdl.ir&fp=chrome&type=ws&sni=anchor.fm#👉🆔 @MoftConfig📡🇨🇦Canada
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoid2VzdHNnMi1kZG5zLm9yYWNsZW5hdC5jYyIsInBvcnQiOiIyMzQ1MiIsInR5cGUiOiJub25lIiwiaWQiOiJkZjAxMjYyNi05ZDU0LTRkNWQtYjJlZi0xOGNhMDM0YzI0NmQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0Ijoid2VzdHNnMi1kZG5zLm9yYWNsZW5hdC5jYyIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+ss://YWVzLTI1Ni1nY206WkRHQzBRMkUxMTJVQUpPNg==@156.245.190.23:15014#👉🆔 @MoftConfig📡🇬🇧United Kingdom
