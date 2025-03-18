@@ -1,5 +1,3 @@
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8882#[🇺🇸]t.me/ConfigsHub
-trojan://tg-fq521free@216.24.57.30:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&path=/&host=torjan.xn--xhq44j.eu.org#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.216:5000#[🇺🇸]t.me/ConfigsHub
 trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.218:7001#[🇺🇸]t.me/MoftConfig
@@ -148,3 +146,5 @@ vless://5c6460ab-5eb1-41c0-8187-6a57d7cfbfab@angelina.ns.cloudflare.com:443?encr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDY2NTk3MWZiNmZkNWVkQDE1MS4xMTUuNDMuMjc6MTEyMDI=#👉🆔 @MoftConfig📡🇵🇱Poland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGFjYzM4M2UzNzVmOGFlQDg5LjExNy4xNi4yMzU6MTExMDc=#👉🆔 @MoftConfig📡🇺🇸United States
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?encryption=none&security=tls&sni=FuMzLrHj.kOrTiZ.InFo&type=ws&alpn=h2http/1.1&host=FuMzLrHj.kOrTiZ.InFo&path=/#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://b040083c-1770-4fa2-9eec-50296d79893d@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=Www.speedtest.net.n.sPeedtest3.sbs.&type=ws#WS-Irancell+%7C+%40ArV2ray
