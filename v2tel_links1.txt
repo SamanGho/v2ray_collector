@@ -12626,3 +12626,25 @@ vmess://eyJhZGQiOiIxMDQuMTYuMTU1LjEwIiwiYWlkIjowLCJob3N0IjoiMTAwLTEwMy01OC0zOS5z
 trojan://telegram-id-privatevpns@108.128.8.151:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
 vless://262d8ab2-0d82-4b8b-90f9-601109aa39b3@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&security=tls&encryption=none&host=joinxvproxybedee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @MoftConfig📡🇨🇦Canada
 trojan://telegram-id-privatevpns@108.128.8.151:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/MoftConfig
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@18.237.53.57:1009?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.149.255.134:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#👉🆔 @MoftConfig📡🇺🇸United States
+vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.37.107:8080?encryption=none&security=none&sni=&type=ws&alpn=&host=d1.hetzner.com&path=/test=true#👉🆔 @MoftConfig📡🇵🇱Poland
+trojan://telegram-id-privatevpns@108.128.8.151:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇮🇪Ireland
+trojan://5a81db08-7af3-49a4-b089-b7a5b2c24c38@13.114.91.101:20230?security=tls&sni=jp007.421421.xyz&allowInsecure=1#👉🆔 @MoftConfig📡🇯🇵Japan
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.92.133.156:1009?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://7d9a91e3-b560-45cc-8a98-0b5b0cc85507@199.232.5.153:443?security=tls&sni=connectcarolina.sites.unc.edu&type=ws&host=fast-ali.ecomeco.xyz&path=/download.zula_v1.8.10&fp=chrome&alpn=h2,http/1.1#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.23.92.143:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#👉🆔 @MoftConfig📡🇺🇸United States
+vless://eb585313-ab12-4219-9dbb-0c50ccbd00bb@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://0bfa2050-b165-4156-859c-70f36d300dce@54.238.188.53:20230?security=tls&sni=jp008.421421.xyz&allowInsecure=1#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuT2ZrS2JvREF4aFR4MmsxY0FsdEl6@194.87.45.189:443#👉🆔 @MoftConfig📡🇪🇸Spain
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.69.44:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.#[🇨🇦]t.me/ConfigsHub
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.145.168.104:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://N5T0K3aYpYFSO4O3gnD73OcFwp6BCqCyCa3jlIxDXyZRDE282ljCASADaTN4CzZZYllFI@54.179.175.19:18333?sni=pricing.protocolbuffer.com#[🏁]t.me/ConfigsHub
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.221.91.131:1009?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.166.159.251:1009?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.147.84.20:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#👉🆔 @MoftConfig📡🇺🇸United States
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.210.31.247:1009?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.89.51.35:1009?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://eb585313-ab12-4219-9dbb-0c50ccbd00bb@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@3.85.110.253:1009?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
