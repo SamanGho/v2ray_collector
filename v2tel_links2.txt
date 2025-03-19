@@ -7847,3 +7847,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@107.20.120.43:22222?path=/telegram-
 vless://7252e824-8036-4d76-952f-e07949a21019@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔 @MoftConfig📡🇮🇱Israel
 vless://20118c4b-0ba2-4e34-a650-184e427c4c7c@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.84:443?security=tls&sni=147135004002.sec20org.com&type=tcp&alpn=h2,http/1.1#[🇺🇸]t.me/MoftConfig
+vless://67f6e881-73d2-4c20-abe2-28a72fa05c66@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/ConfigsHub
+vless://3fbacafb-65ae-4e76-b708-493213cf076e@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/ConfigsHub
