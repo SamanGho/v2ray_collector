@@ -13741,3 +13741,10 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.232:80/?type=ws&encrypti
 vless://63f76580-d208-440a-b63d-409c94cdf29f@194.87.71.73:443/?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&sid=#[🇩🇪]t.me/ConfigsHub
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@70.34.245.198:3042/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&sid=#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.202.83.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@104.17.147.22:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=smart.trainofy.info#[🇨🇦]t.me/ConfigsHub
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:8443?security=tls&sni=UhLkNuCe13.fItNeVo.iNfO&type=ws&host=UhLkNuCe13.fItNeVo.iNfO&path=/&alpn=h3h2#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NGI0OGY0ZjBmMzUxN2Q0@57.130.11.204:11202#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.134.4.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:2087?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=Ws7KsKxZe0.MySpDmMeTi.CoM#[🇸🇪]t.me/ConfigsHub
+trojan://Aimer@108.162.195.227:443?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@us2.pptv-tv.store:17742?allowInsecure=0#[🇺🇸]t.me/ConfigsHub
