@@ -13641,3 +13641,7 @@ ss://YWVzLTI1Ni1nY206OUMxMTZSOENJWU5QNEpNSg@ti3hyra4.slashdevslashnetslashtun.ne
 vmess://eyJhZGQiOiJzZ2Zxa3FtbHRjeS5zaXRlIiwiYWlkIjowLCJob3N0Ijoic2dmcWtxbWx0Y3kuc2l0ZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9yYnFxdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InNnZnFrcW1sdGN5LnNpdGUifQ==
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.162.194:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.249.221:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+vless://5cae3ae0-4d65-4d97-90eb-04f66ee3f85a@151.101.0.155:80?path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray&security=none&encryption=none&host=Zix95.net&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@16.170.30.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.7.100:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
