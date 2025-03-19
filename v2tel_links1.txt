@@ -13624,3 +13624,4 @@ vless://d6660712-4d18-47fd-b095-0c36db667250@104.17.187.197:443?security=tls&sni
 vless://9e254c76-622d-42e8-9290-3e89d6c35a8d@151.101.2.165:80?security=none&type=xhttp&host=Xpnxpnxpxn0xj.iR&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
 vless://d6660712-4d18-47fd-b095-0c36db667250@104.17.74.91:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
 
+ss://29247f87-7b05-4a9b-b227-739b543a68dc@012390a8793a402c9be0.nofkh-gas.info:8880?security=&encryption=none&pbk=&headerType=none&fp=&flow=&type=grpc&sni=&sid=#⚜️Telegram:@IP_CF
