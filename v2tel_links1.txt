@@ -13710,3 +13710,11 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2Fsinav
 ss://0ee358fe-8d55-445b-89d7-4ed76d58a515@151.101.194.165:80?path=/Telegram-ID-@ELiV2RAY--Telegram-ID-@ELiV2RAY--Telegram-ID-@ELiV2RAY&ed=2560&host=JoinBede-ELiV2-RAY.ir&type=ws#⚜️Telegram:@IP_CF
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.181.47:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzZDRUZmhtcjB1TXRQZzdJejJaemU1@81.19.141.45:443#[🇩🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.24.7.221:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://telegram-id-directvpn@34.254.134.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vmess://eyJhZGQiOiI5NC4xMzYuMTg0LjE1NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMjA3MzJjYy05ZTQzLTQ0NTMtODNmMS1jOTQzNWJlMjViNWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM4ODcyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://tel%3A%3A%3A%3A%3A%3A%3Av2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#[🇩🇪]t.me/ConfigsHub
+vless://d4ecd0cc-f9ae-4912-9de8-32ff7c0b79b5@141.227.164.8:21281?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/ConfigsHub
+vless://tel%3A%3A%3A%3A%3A%3A%3Av2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#[🇩🇪]t.me/ConfigsHub
+vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇺🇸]t.me/ConfigsHub
