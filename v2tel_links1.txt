@@ -13640,3 +13640,4 @@ trojan://Aimer@92.243.74.2:8443?allowInsecure=0&sni=agepl.ambercc.filegear-sg.me
 ss://YWVzLTI1Ni1nY206OUMxMTZSOENJWU5QNEpNSg@ti3hyra4.slashdevslashnetslashtun.net:18014#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiJzZ2Zxa3FtbHRjeS5zaXRlIiwiYWlkIjowLCJob3N0Ijoic2dmcWtxbWx0Y3kuc2l0ZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9yYnFxdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InNnZnFrcW1sdGN5LnNpdGUifQ==
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.162.194:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+
