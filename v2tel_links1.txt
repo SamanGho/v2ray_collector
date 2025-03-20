@@ -14456,3 +14456,6 @@ vless://a2cd8639-8d7e-4cd1-bf35-2175b4f6d915@www.speedtest.net:80?security=&type
 vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?security=none&host=fast.com%3F%40jokerrvpnTelegram#[🇺🇸]t.me/ConfigsHub
 vless://beac9a9b-357a-4920-82b3-31926fde5ef6@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.9.38:443?path=%2FYnqGMcAt%2F&security=tls&encryption=none&host=abc.vpneee.top&fp=chrome&type=ws&sni=abc.vpneee.top#[🇨🇦]t.me/ConfigsHub
+vless://650b3192-7eb9-442e-9802-e0768fe2c71e@sub.atakconfig.com:8080?type=tcp&security=none#[🇩🇪]t.me/ConfigsHub
+vless://de3e121a-8405-4888-98ec-8914c1850a2d@hetzner.unironically.ir:1370?security=reality&type=grpc&headerType=&serviceName=fdvsdv&authority=&mode=gun&sni=sourceforge.net&fp=chrome&pbk=JNcCRy0bfOEzzyqh1foTuuG9T8IvwiO8ApJu5FhVERs&sid=2665af94c7b25f90#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@16.170.194.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
