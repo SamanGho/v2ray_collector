@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638776090051738255.oslo-drec-abac.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#👉🆔 @MoftConfig📡🇫🇮Finland
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@13.58.142.81:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#👉🆔 @MoftConfig📡🇺🇸United States
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.221.13.178:1009?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
 vless://198ddf60-3071-433e-b5b8-3988a0a3ca82@46.101.127.50:13233?security=none&encryption=none&host= @Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&headerType=none&type=tcp#👉🆔 @MoftConfig📡🇩🇪Germany
@@ -140,7 +141,6 @@ trojan://telegram-id-directvpn@51.21.43.47:22222?security=tls&sni=trojan.burgeri
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.218.199:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206QUVMQkVIMVRONk9XQ05MQw@qh62onjn.slashdevslashnetslashtun.net:15015#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMDgzNTZlNy1lMjI1LTQ4YjYtYTBlNy00ZjA3N2Q2YjAxMDU@free.2apzhfa.xyz:31511#[🏁]t.me/ConfigsHub
-vless://a600111a-f165-4d09-b260-b39ceb36cfc1@104.19.54.50:8080?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=randomized&type=ws&sni=vpncustomize.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-Ip.Net#[🇨🇦]t.me/ConfigsHub
 trojan://58dcd460-65df-47b1-b062-517df30bef29@13.213.124.30:443?security=tls&sni=ca.liangyuandian.top&allowInsecure=1#[🏁]t.me/ConfigsHub
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8764/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503170996717-MVQjjXvt4R.download.microsoft.com#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.135.18:7002#[🇺🇸]t.me/ConfigsHub
