@@ -1,10 +1,3 @@
-vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.79.79:8080?encryption=none&security=none&sni=&type=ws&alpn=&host=d1.hetzner.com&path=/test=true#👉🆔 @MoftConfig📡🇵🇱Poland
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.40.206:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&allowInsecure=1#👉🆔 @MoftConfig📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVExTnpGag==@185.231.205.179:8388#[🇫🇷]t.me/ConfigsHub
-vless://8d4d81ee-5928-4617-8726-22a47164e766@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&fp=#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://a9596d5d-c0a3-4aad-af85-1b5d9c7bffce@46.101.127.50:56235?mode=gun&security=none&encryption=none&authority= @Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&type=grpc#👉🆔 @MoftConfig📡🇩🇪Germany
-vless://7bae290a-fd31-4fdf-ae3b-c07b75494a01@hajlab.ucdavis.edu:80?mode=auto&path=%2F%40Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn%3Fed&security=none&encryption=none&host=joinbedeMoft_Vpn.ir&type=xhttp#👉🆔 @MoftConfig📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREE1WWpGaA==@de1.opensocks.site:8388#👉🆔 @MoftConfig📡🇩🇪Germany
 ss://19d3596a-a6c6-44be-9f18-26f349da4972@ZuLa.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://%69%64%2D%48%71%76%32%72%61%79%4E%47@84.234.31.28:2087?security=reality&pbk=z0Di-2ywYXzOdsNidu-6XSbSkCoAsHUbU05kbTPVzAQ&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=69a916d351#👉🆔 @MoftConfig📡🇨🇭Switzerland
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.27:8119#👉🆔 @MoftConfig📡🇺🇸United States
@@ -148,3 +141,10 @@ vless://Free_HTTPCustom@free-httpcustom-free-httpcustom-free-httpcustomtfree-htt
 vless://d431711b-23dd-4de6-a0b6-deeed427e08e@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=1.wexer-rih.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.43.159.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.44.49.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.202.240:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.106.26:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@51.21.205.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.91.118:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://telegram-id-privatevpns@18.130.183.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.91.118:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-directvpn@51.21.205.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
