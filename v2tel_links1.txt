@@ -14465,3 +14465,8 @@ vless://3743e72f-a5f2-4b4f-a38e-7f7299a54028@194.182.84.53:443?encryption=none&s
 vless://da48223d-1ee6-47d7-af24-dff761579daa@45.135.194.45:10769?encryption=none&security=none&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 vless://51e44d01-5fa0-47d3-8ee3-ad1f04d3abcc@37.202.237.107:23297?encryption=none&security=none&type=ws&path=%2F#[🇮🇷]t.me/ConfigsHub
 vless://82f013e9-9f2e-45f7-9bcc-7690fc7b4069@151.101.194.165:80?encryption=none&security=none&type=ws&host=Zix95.net&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray#[🇺🇸]t.me/ConfigsHub
+vless://29199fb7-34b5-481b-b3aa-04118ede41d8@138.199.216.129:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
+vless://e227242d-26f1-41ce-ac78-eee39e3480f6@91.92.40.78:2070?type=tcp&security=none#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWmVxSVVDTWNhbzdSZU5qNUI4M1ly@91.84.109.28:49209#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsQnROTjRNRzNONHlUcnJlMXBCTElT@147.45.221.105:55515#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.61.164.114:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
