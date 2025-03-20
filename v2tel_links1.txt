@@ -14713,3 +14713,18 @@ trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@154.64.246.217:13660?security=tls&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NDYyYTQzYS1hZTg5LTRhOWEtYTU0NS05MTVmYTFjNTNkNDM@free.2weradf.xyz:36145#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@154.197.26.237:8388#👉🆔 @MoftConfig📡🇭🇰Hong Kong
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NDYyYTQzYS1hZTg5LTRhOWEtYTU0NS05MTVmYTFjNTNkNDM@free.2weradf.xyz:36571#[🏁]t.me/MoftConfig
+trojan://telegram-id-privatevpns@13.48.187.8:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇸🇪Sweden
+vless://%56%32%52%41%58%58@SRCVPN.fastly80-3.hosting-ip.com:80?mode=auto&path=%2FTelegram%2C%56%32%52%41%58%58%2CTelegram%2C%3Fed%3D2048&alpn=Tel:@SRCVPN,@SRCVPN,@SRCVPN&host=BIG-bang.global.ssl.fastly.net&type=xhttp#👉🆔 @MoftConfig📡🇺🇸United States
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@27.50.48.61:2083?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#👉🆔 @MoftConfig📡🇭🇰Hong Kong
+trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@vss.lihua.click:13655/?type=tcp&security=tls&sni=tw.lihua.click&allowInsecure=1#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NDYyYTQzYS1hZTg5LTRhOWEtYTU0NS05MTVmYTFjNTNkNDM@free.2weradf.xyz:36441#👉🆔 @MoftConfig📡🇨🇳China
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBQ0NvbTdHU1BTMm5teUZ2b0U4RWh3@194.116.217.181:1080#👉🆔 @MoftConfig📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NmVkYzdkNC03NDkwLTQ4ZmYtOTljYy00OTZiMGY0YTI3ZTk@xm.miloli.cc:31778#👉🆔 @MoftConfig📡🇨🇳China
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NDYyYTQzYS1hZTg5LTRhOWEtYTU0NS05MTVmYTFjNTNkNDM@free.2weradf.xyz:36571#👉🆔 @MoftConfig📡🇨🇳China
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638779006056419046.rasht-drec-abac.info:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @MoftConfig📡🇫🇮Finland
+vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.76.177:8080?path=%2Ftest%3Dtrue&security=none&encryption=none&host=d1.hetzner.com&type=ws#👉🆔 @MoftConfig📡🇵🇱Poland
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.106.26:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇫🇷France
+vless://ccaaabb-caab-abca-abcd-ccacaabcbbba@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NDYyYTQzYS1hZTg5LTRhOWEtYTU0NS05MTVmYTFjNTNkNDM@free.2weradf.xyz:36145#👉🆔 @MoftConfig📡🇨🇳China
+vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@156.238.18.162:2087?security=tls&sni=smart.trainofy.info&type=grpc#👉🆔 @MoftConfig📡🇯🇵Japan
+trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@154.64.246.217:13660?security=tls&sni=ssl-yg.lihuayun.click&type=tcp&allowInsecure=1#👉🆔 @MoftConfig📡🇺🇸United States
