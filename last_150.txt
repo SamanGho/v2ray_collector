@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@52.18.158.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.158.15.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
 trojan://telegram-id-privatevpns@52.18.158.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@51.112.83.198:3040?security=reality&sni=refersion.com&type=tcp&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#[🇦🇪]t.me/ConfigsHub
@@ -147,4 +148,3 @@ vless://6b1a8762-30d3-4953-a71b-7e1a84c3a437@fk2.890601.xyz:10940/?type=tcp&encr
 vmess://eyJhZGQiOiJ1a2gxLjg5MDYwMS54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsImlkIjoiMThiNDJkNGQtNTgwYy00YmNiLTk2NGItZGI5MzQ1N2IzYWUwIiwibmV0Ijoid3MiLCJwYXRoIjoiMThiNDJkNGQtNTgwYy00YmNiLTk2NGItZGI5MzQ1N2IzYWUwLXZtIiwicG9ydCI6IjgwODAiLCJwcyI6Ilvwn4es8J+Hp110Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://18b42d4d-580c-4bcb-964b-db93457b3ae0@uk1.890601.xyz:13507/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=paO1TMygT5PynUTEFWKHOym9ULbXoU7RyO-STHiDU1k&sid=31c87861#[🇬🇧]t.me/ConfigsHub
 vless://ca426e95-9d37-4cca-9521-e61dc50186c2@173.245.59.132:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=holze.gt-ov.com&fp=chrome&type=ws&sni=holze.gt-ov.com#[🇨🇦]t.me/ConfigsHub
-ss://3df94251-c428-4e34-a008-8dd16f779574@213.142.156.28:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=docker.com&fp=chrome&security=reality&pbk=1sDMgyhL5HPRAaRYJcAf21sWbSlq0kgitPVL2HQwB2M&sid=#⚜️Telegram:@IP_CF
