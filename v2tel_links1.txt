@@ -14675,3 +14675,20 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.185:8080?type=ws&host=a.x
 vless://172fd450-cebd-4678-937f-ac15be1d2925@188.114.96.3:2083?security=tls&sni=maHDiservEr-UfF.PaGES.dEv&type=ws&host=mahdiserver-uff.pages.dev&fp=chrome&alpn=h2,http/1.1#[🇨🇦]t.me/MoftConfig
 trojan://telegram-id-v2rayvpnchannel@16.170.193.255:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/ConfigsHub
 vless://172fd450-cebd-4678-937f-ac15be1d2925@188.114.96.3:2083?security=tls&sni=maHDiservEr-UfF.PaGES.dEv&type=ws&host=mahdiserver-uff.pages.dev&fp=chrome&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NDYyYTQzYS1hZTg5LTRhOWEtYTU0NS05MTVmYTFjNTNkNDM@free.2weradf.xyz:36143#👉🆔 @MoftConfig📡🇨🇳China
+vless://Parsashonam-196@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://telegram-id-v2rayvpnchannel@16.170.193.255:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇸🇪Sweden
+vless://bcaaacb-caba-aabc-bcda-accbbaacbcba@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
+trojan://Aimer@67.226.221.102:80?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#👉🆔 @MoftConfig📡🇺🇸United States
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?security=none&type=ws&host=showmo.wfft.ir&path=%2F%3Fed%3DMARAMBASHI\_MARAMBASHI%2F%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://ccaaabb-caab-abca-abcd-ccacaabcbbba@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
+vless://997ef7d0-0217-482d-93c0-f9265df171f8@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://465fc43c-9872-40f9-bb94-ebee934e40b4@23.227.38.135:443?security=tls&sni=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&type=ws&host=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&path=%2F#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://172fd450-cebd-4678-937f-ac15be1d2925@188.114.96.3:2083?security=tls&sni=maHDiservEr-UfF.PaGES.dEv&type=ws&host=mahdiserver-uff.pages.dev&fp=chrome&alpn=h2,http/1.1#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.224.24:8880?type=grpc#👉🆔 @MoftConfig📡🇫🇮Finland
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#👉🆔 @MoftConfig📡🇫🇷France
+trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@vss.lihua.click:13700/?type=tcp&security=tls&sni=jp2.lihua.click&allowInsecure=1#⚜️Telegram:@IP_CF
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.185:8080?type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3DMARAMBASHI\_MARAMBASHI%2F%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzZmMTZjNmQ3ZTNlYzUw@57.130.11.121:11202#👉🆔 @MoftConfig📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NDYyYTQzYS1hZTg5LTRhOWEtYTU0NS05MTVmYTFjNTNkNDM@free.2weradf.xyz:36341#👉🆔 @MoftConfig📡🇨🇳China
+trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@vss.lihua.click:13660/?type=tcp&security=tls&sni=ssl-yg.lihuayun.click&allowInsecure=1#⚜️Telegram:@IP_CF
