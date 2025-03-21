@@ -14782,3 +14782,19 @@ vless://361b5ce9-a57a-49be-905f-5df17a092761@EXPRESSVPN_420.fastly80-3.hosting-i
 vless://92d511ef-4aad-438f-8d70-5b6b2a861989@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8000#👉🆔 @MoftConfig📡🇺🇸United States
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.36.51.187:443#[🏁]t.me/MoftConfig
+vless://2e3a33aa-2d4f-4c34-bb71-249744caeae6@Www.speedtest.net:2052?path=%2F%3Fed%3D2048&security=&encryption=none&host=usaa.novintecc.ORG.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net&type=tcp&host=EVAY_VPNJoinBadeChannel%40EVAY_VPN&fp=randomized&alpn=h2#[🇳🇱]t.me/MoftConfig
+vless://e75a61b8-8233-4209-89e8-7f45e1055266@tify-binex-join.espikernajafi.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#👉🆔 @MoftConfig📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8091#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8091#[🇺🇸]t.me/MoftConfig
+vmess://eyJhZGQiOiJVczctMDEuODkwNjI0Lnh5eiIsImFpZCI6MCwiaG9zdCI6IlVzNy0wMS44OTA2MjQueHl6IiwiaWQiOiI0ZDA0YjMwYy1lZjdiLTRhMDctOGY5ZS1mNTgxZWMxNzFmOGEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2J1YTJoTWNiQTh3TXpiR0Z0ViIsInBvcnQiOjQ0MywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJ1czctMDEuODkwNjI0Lnh5eiJ9
+vless://2e3a33aa-2d4f-4c34-bb71-249744caeae6@Www.speedtest.net:2052?path=%2F%3Fed%3D2048&security=&encryption=none&host=usaa.novintecc.ORG.&type=httpupgrade#[🇨🇦]t.me/MoftConfig
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net&type=tcp&host=EVAY_VPNJoinBadeChannel%40EVAY_VPN&fp=randomized&alpn=h2#[🇳🇱]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.38:8880?type=grpc#👉🆔 @MoftConfig📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT01Ya3FlQ1NMTkhsVnkxQXZkcW0y@77.83.246.74:443#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#[🏁]t.me/ConfigsHub
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net&type=tcp&host=EVAY_VPNJoinBadeChannel%40EVAY_VPN&fp=randomized&alpn=h2#👉🆔 @MoftConfig📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT01Ya3FlQ1NMTkhsVnkxQXZkcW0y@77.83.246.74:443#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.154.136.132:5499#👉🆔 @MoftConfig📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.166.48:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSzRXRW9iVGVlQlM=@120.233.44.70:998#[🏁]t.me/ConfigsHub
