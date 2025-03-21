@@ -14920,3 +14920,22 @@ trojan://telegram-id-privatevpns@52.28.197.210:22222?allowInsecure=0&sni=trojan.
 ss://YWVzLTI1Ni1nY206SUVQOEdZUDRXTVI0ODJUSw@120.233.205.203:15005#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.36.73.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 trojan://0bfa2050-b165-4156-859c-70f36d300dce@18.181.177.59:20230?security=tls&sni=jp005.421421.xyz&allowInsecure=1#[🏁]t.me/ConfigsHub
+vless://78490186-da2b-4af6-83fa-c593690f3e46@151.101.130.228:80?path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048&security=none&encryption=none&host=joinxvproxybedee.ir&type=ws#[🇺🇸]t.me/MoftConfig
+vless://3a1ad320-5019-494b-a9b5-282ee84bf523@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=UnusuAl-cLOUd.ONeEat.co.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://78490186-da2b-4af6-83fa-c593690f3e46@151.101.130.228:80?path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048&security=none&encryption=none&host=joinxvproxybedee.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:2096?encryption=none&security=tls&sni=TySqHaWi1.RoCkStOnEy.iNfO&type=ws&alpn=h2http/1.1&host=TySqHaWi1.RoCkStOnEy.iNfO&path=/#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.87.66.233:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://telegram-id-v2rayvpnchannel@13.36.73.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇫🇷France
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.156:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🏁]t.me/MoftConfig
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&alpn=h2&encryption=none&host=EVAY_VPNJoinBadeChannel%40EVAY_VPN&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZTdiMDI2Mzc3ZmU5N2VhQDEwMC40Mi4xODIuMzA6NDg5NzE=#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://692397ef-c06b-4d2b-9979-dab3ca5f521b@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=AGile-instRumEnt.ONeEAT.Co.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://telegram-id-privatevpns@52.28.197.210:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ODNjYjc4MGM5YzA1MjE4QDYyLjExMi4yMjEuMTEyOjQ5MDA3#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+vless://Join-proxy_mtm-channel@mehdi9.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=Zxm8F7CUF28zUKUMcH2jE05qXJ1LuY6djreVLgeze2k&fp=chrome&spx=%2F&type=grpc&serviceName=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-Telegram-MTMVPN-telegram-MTMVPN-Telegram-MTMVPN-telegram-MTMVPN-MTMVPN&sni=www.cdn77.com&sid=3e#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.36.73.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇫🇷France
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@54.205.40.45:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#👉🆔 @MoftConfig📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDcVNodzh2Z3I0NXNQSVVsSVBaN3NQ@h110vpnus.outlinekeys.net:9483#👉🆔 @MoftConfig📡🇺🇸United States
+vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=Www.speedtest.net.w.sPeedtest3.sbs.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.112.13.110:443#👉🆔 @MoftConfig📡🇯🇵Japan
+vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?security=tls&sni=dnyhu.brandon-doshaboone.info&path=/tiger&type=ws&host=dnyhu.brandon-doshaboone.info#👉🆔 @MoftConfig📡🇨🇦Canada
