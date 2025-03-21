@@ -14873,3 +14873,12 @@ vless://37878f97-f85d-4254-9a61-2dcd5f3c8fa3@104.17.147.22:80?security=none&type
 trojan://telegram-id-privatevpns@51.44.49.128:22222?security=tls&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?encryption=none&security=tls&sni=TySqHaWi0.RoCkStOnEy.iNfO&type=ws&alpn=h2http/1.1&host=TySqHaWi0.RoCkStOnEy.iNfO&path=/#👉🆔 @MoftConfig📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Y2QwZjI0MTQwYWY2YmNkQDEwMC40Mi4xNzcuMTY1OjQ5ODk2#👉🆔 @MoftConfig📡🇩🇪Germany
+trojan://Jn3aMVDFDz@iran.farsonline24.ir:443?security=tls&fp=random&type=grpc&authority=iran.farsonline24.ir&serviceName=%2F21176%2F%40M3HDIO1&mode=gun#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://EFSyAmINNs@iran.farsonline24.ir:443?security=tls&fp=random&type=grpc&authority=iran.farsonline24.ir&serviceName=%2F21176%2F%40M3HDIO1&mode=gun#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://telegram-id-v2rayvpnchannel@13.51.224.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+ss://3602c1ed-5506-4d78-a0be-f39a7594e888@49.12.222.117:57818/?path=%2F&security=none&encryption=none&type=ws#⚜️Telegram:@IP_CF
+trojan://telegram-id-privatevpns@16.16.240.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+trojan://699ceb45-ab95-4838-a534-dd914a936eb4@5.83.221.31:50026?security=tls&sni=v2tw01.fuqiangren.com#👉🆔 @MoftConfig📡🇭🇰Hong Kong
+trojan://80CjyGNGCq@iran.farsonline24.ir:443?security=tls&fp=random&type=grpc&authority=iran.farsonline24.ir&serviceName=%2F21176%2F%40M3HDIO1&mode=gun#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://telegram-id-directvpn@13.51.224.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?security=tls&encryption=none&headerType=none&type=tcp&sni=005188006073.sec1org.com#👉🆔 @MoftConfig📡🇺🇦Ukraine
