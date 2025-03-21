@@ -14728,3 +14728,20 @@ vless://ccaaabb-caab-abca-abcd-ccacaabcbbba@127.0.0.1:1080?security=tls&type=tcp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NDYyYTQzYS1hZTg5LTRhOWEtYTU0NS05MTVmYTFjNTNkNDM@free.2weradf.xyz:36145#👉🆔 @MoftConfig📡🇨🇳China
 vless://b077fb58-0b18-43a2-b2e9-dfe2a6b464db@156.238.18.162:2087?security=tls&sni=smart.trainofy.info&type=grpc#👉🆔 @MoftConfig📡🇯🇵Japan
 trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@154.64.246.217:13660?security=tls&sni=ssl-yg.lihuayun.click&type=tcp&allowInsecure=1#👉🆔 @MoftConfig📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.4.238:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+trojan://pUDgiKDYyY@support.sabapardaziran.ir:2096?security=tls&sni=support.sabapardaziran.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://de6d5ce2-d169-4bfa-884d-5460492143c7@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+trojan://GlxLO2T3Gz@support.sabapardaziran.ir:2096?security=tls&sni=support.sabapardaziran.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://EH3X8Qr6PM@support.sabapardaziran.ir:2096?security=tls&sni=support.sabapardaziran.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.186.96:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakU0Wg==@95.164.34.7:8388#👉🆔 @MoftConfig📡🇹🇷Turkey
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.31.241.253:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+trojan://GsK6tjYPOp@support.sabapardaziran.ir:2096?security=tls&sni=support.sabapardaziran.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.156:80?security=none&type=ws&host=redw.pooriam.ir&path=Telegram🇨🇳+@WangCai2#[🏁]t.me/ConfigsHub
+trojan://EIVRICKjbk@support.sabapardaziran.ir:2096?security=tls&sni=support.sabapardaziran.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://YCz0uZ484pjDCFyKqRZ3823SqxDXEBSwNnNYlay3yeuDaA0aISDR533eFglaaOTO3lF8A@69.5.52.190:443?security=tls&sni=garland.taiwanesefood.link#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://9qfcALNnkp@support.sabapardaziran.ir:2096?security=tls&sni=support.sabapardaziran.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTQwLjI0NS40My4yMyIsInBvcnQiOiIyMzQ1MiIsInR5cGUiOiJub25lIiwiaWQiOiI4YjA4YjJkNS1mZjdmLTQ4ZDEtODM1OC1hMDNlMjZhMGM2OGYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0Ijoid2VzdHNnMi1kZG5zLm9yYWNsZW5hdC5jYyIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@154.64.246.217:13770?security=tls&sni=x-xjp.lihuayun.top&type=tcp&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
+trojan://xI2VTXKnzQ@support.sabapardaziran.ir:2096?security=tls&sni=support.sabapardaziran.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#👉🆔 @MoftConfig📡🇨🇦Canada
