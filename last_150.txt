@@ -1,3 +1,4 @@
+trojan://Aimer@8.223.15.4:443?allowInsecure=1&sni=agepl.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇭🇰Hong Kong
 vless://c92856da-9532-49ec-bb71-d981a623f5c9@104.21.11.28:443?security=tls&sni=freedom6.mamav81785.workers.dev&type=ws&host=freedom6.mamav81785.workers.dev&path=%2F#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://6d91bc33-2d86-4839-9205-02024ff483c7@162.159.130.11:443?security=tls&sni=wtestfrtt.requesttest.cloudns.org&type=ws&host=wtestfrtt.requesttest.cloudns.org&path=%2Fproxyip%3D%23MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&fp=random&alpn=http%2F1.1#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.97:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#👉🆔 @MoftConfig📡🇫🇷France
@@ -147,4 +148,3 @@ vless://648a40ff-826b-4243-b4e5-4e6510ae81c1@kamyar2.vact.ir:443/?type=grpc&serv
 vless://c17e5bd4-00f9-4cb2-bd8f-cfd21bd9e2fd@31.14.131.51:55829?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vless://c5661d59-c5c0-4155-bb4b-df294b246deb@141.95.103.120:54436?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🇩🇪]t.me/ConfigsHub
 vless://44aef0cc-ec1b-450e-8bc7-82d3dc2ba31c@51.77.108.99:13004?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🇬🇧]t.me/ConfigsHub
-vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.arv2ry.ip-ddns.com.&type=ws#WS2-All+%7C+%40ArV2ray
