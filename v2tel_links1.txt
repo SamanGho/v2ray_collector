@@ -15800,3 +15800,8 @@ vless://361b5ce9-a57a-49be-905f-5df17a092761@EXPRESSVPN_420.fastly80-3.hosting-i
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
 vless://361b5ce9-a57a-49be-905f-5df17a092761@EXPRESSVPN_420.fast.hosting-ip.com:80?path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080&security=&encryption=none&host=6bizaram.azzndagi.net&type=ws#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-directvpn@13.36.73.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vless://7d54a4ed-a079-453e-9320-61fd06c596e2@146.75.38.133:80?security=none&type=xhttp&host=joinbede_unlimiteddev.ir#[🇺🇸]t.me/MoftConfig
+vmess://eyJhZGQiOiI0LjI0MC43My41NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNTEzYmZiMi1iN2MyLTRkYzYtYTNmOS01NTE0NWYxOTg3MDUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE0MTE4IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vless://19429091-7825-4c39-8cf0-92e6b6402013@172.67.66.177:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=%2F&fp=random&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/MoftConfig
+vless://7d54a4ed-a079-453e-9320-61fd06c596e2@146.75.38.133:80?security=none&type=xhttp&host=joinbede_unlimiteddev.ir#[🇺🇸]t.me/ConfigsHub
+vless://19429091-7825-4c39-8cf0-92e6b6402013@172.67.66.177:2096?security=tls&sni=mJe.nimhub.ir&type=ws&host=mJe.nimhub.ir&path=%2F&fp=random&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
