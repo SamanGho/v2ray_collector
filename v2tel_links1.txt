@@ -16389,3 +16389,5 @@ vless://925fa8b2-40e4-456f-b87b-dc34f4f7cd6d@188.245.95.151:1524?security=none&t
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.157:2083?security=tls&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2F%3Fed%3D2560&fp=random#[🇨🇦]t.me/MoftConfig
 trojan://telegram-id-privatevpns@13.48.7.125:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇸🇪Sweden
 vless://cd2e9541-3fce-4d95-9bec-919d884f911e@172.67.204.84:443?security=tls&sni=tjovt.dominic-doshaboone.info&type=ws&host=tjovt.dominic-doshaboone.info&path=/tiger#[🇨🇦]t.me/MoftConfig
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.183.191.67:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#⚜️Telegram:@IP_CF
+vless://09afdf0f-0720-4a3e-b8a2-73b28dac0ff8@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
