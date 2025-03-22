@@ -1,21 +1,3 @@
-trojan://SDYlNZ6z5DA8TZqz33YnN4lzpp88YBZOyXC5we8AZBqn6YXwI0gISyalXjIOyNwCaDpDORKSyDCSg9S@rolling.homeofbrave.net:28333?allowInsecure=0&sni=rolling.homeofbrave.net#👉🆔 @MoftConfig📡🇺🇸United States
-vless://fb8f83ab-3fd4-4dd7-a072-f13da025bff2@104.26.14.85:80?security=none&type=ws&host=mARveLous-oRDer.ONEEAt.co.&path=%2F%3Fed%3D2048#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://98f9fb8e-ac0c-4a54-80ff-dcce095d9fbd@104.16.46.27:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=cold-snowflake-4912-ppal03.rarenok889.workers.dev&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://fb8f83ab-3fd4-4dd7-a072-f13da025bff2@104.26.14.85:80?security=none&type=ws&host=mARveLous-oRDer.ONEEAt.co.&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-v2rayvpnchannel@3.71.141.70:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇩🇪Germany
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.255.248.121:443?security=tls&sni=jp.mjt001.com#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.197.235.237:443#👉🆔 @MoftConfig📡🇯🇵Japan
-trojan://0FaYIOcSy4lBg38yRxnj7RlR3RZYSq3pC9OaSDAAOw6Oe8FCpy08u8pzx3eKZacDz3XE3@terture.meijireform.com:443?allowInsecure=0#[🏁]t.me/MoftConfig
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.255.248.121:443?security=tls&sni=jp.mjt001.com#[🏁]t.me/MoftConfig
-trojan://SDYlNZ6z5DA8TZqz33YnN4lzpp88YBZOyXC5we8AZBqn6YXwI0gISyalXjIOyNwCaDpDORKSyDCSg9S@rolling.homeofbrave.net:28333?allowInsecure=0&sni=rolling.homeofbrave.net#[🇺🇸]t.me/MoftConfig
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.197.235.237:443#[🏁]t.me/MoftConfig
-vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?security=tls&sni=fjctb.daniel-bezanberim.info&path=/tiger&type=ws&host=fjctb.daniel-bezanberim.info#👉🆔 @MoftConfig📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NTUxNmI0MzhmNjUyMTVlQDk0LjcyLjEwMi4yMzM6MjE1NDU=#👉🆔 @MoftConfig📡🇬🇧United Kingdom
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?encryption=none&security=tls&sni=FbDeLhXw0.RiCkTmOuSe.iNfO&type=ws&alpn=h2http/1.1&host=FbDeLhXw0.RiCkTmOuSe.iNfO&path=/#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?security=tls&sni=nqdoa.elizabeth-bezanberim.info&path=/tiger&type=ws&host=nqdoa.elizabeth-bezanberim.info#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://6b011ed1-c900-4566-aabb-4432eb0fa963@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=BAlaNced-foOD.oNEeaT.CO.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@soccer120.info:2087?encryption=none&security=tls&sni=tP293dJ588.DONALdBIGBanG1.iNFO&type=ws&alpn=h2http/1.1&host=tP293dJ588.DONALdBIGBanG1.iNFO&path=/#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://b38148b0-e68e-4af5-87d3-79a36e8c6063@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir&fp=#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://54c35d2c-18b5-4953-93b2-ccd022006fd6@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=RoUND-CAsH.onEEAt.Co.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://b38148b0-e68e-4af5-87d3-79a36e8c6063@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir&fp=#👉🆔 @MoftConfig📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphY2U2NDA5NzlkNjdkMDY0QDE0OC4xMTMuMjAxLjEwNDoyNjk1NA==#👉🆔 @MoftConfig📡🇨🇦Canada
@@ -148,3 +130,21 @@ vless://edef9de3-a257-4638-a7a8-e702d8d77ee4@mmdking.mamadking.shop:32415/?type=
 trojan://telegram-id-privatevpns@63.33.6.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮@MoftConfig
 vless://83bddc83-60aa-406d-a075-21b987f87f93@722309294.web-manage.com.tr:1523?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://8cf7a8ba-22a2-4876-b779-232f4c82dc3e@www.speedtest.net:443?mode=auto&path=%2F%3FNicotine_joker_Nicotine_joker_Nicotine_joker_Nicotine_joker_Nicotine_joker_Nicotine_joker_Nicotine_joker&security=tls&encryption=none&host=ipv4.dgclix.ir&type=xhttp&sni=ipv4.dgclix.ir#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.105.127:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:4444#👉🆔 @MoftConfig📡🇫🇷France
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@149.202.82.172:3389#[🇫🇷]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@149.202.82.172:9102#👉🆔 @MoftConfig📡🇫🇷France
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:4444#👉🆔 @MoftConfig📡🇵🇱Poland
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@149.202.82.172:8888#[🇫🇷]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.119.101:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@149.202.82.172:5600#[🇫🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#👉🆔 @MoftConfig📡🇫🇷France
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@149.202.82.172:8888#👉🆔 @MoftConfig📡🇫🇷France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.222.42:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+vless://54b3cbba-e6ac-485a-9481-976a0873eab9@172.67.190.211:2082?security=none&type=ws&host=bLaCk-trutH-63Bc.DoviF72324.WoRKeRs.dev&path=%2F%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@149.202.82.172:3389#👉🆔 @MoftConfig📡🇫🇷France
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@149.202.82.172:5600#[🇫🇷]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODI3NzhjOTczYmQxYmJh@67.220.67.59:42423#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODI3NzhjOTczYmQxYmJh@67.220.67.59:42423#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#👉🆔 @MoftConfig📡🇫🇷France
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@149.202.82.172:5600#👉🆔 @MoftConfig📡🇫🇷France
