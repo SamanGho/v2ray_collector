@@ -16003,3 +16003,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.250.36:22222?path=/telegram-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.176.37.131:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.176.37.131:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@sanjose01.852224.ggff.net:443/?type=ws&host=sanjose01.852224.ggff.net&path=%2FT5yZBrY2Qkg2cThJQeJb&security=tls&sni=sanjose01.852224.ggff.net&alpn=http%2F1.1&fp=chrome#⚜️Telegram:@IP_CF
