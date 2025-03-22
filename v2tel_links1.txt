@@ -16300,3 +16300,11 @@ trojan://telegram-id-directvpn@51.20.159.181:22222?security=tls&alpn=http/1.1&he
 trojan://f1f6dad0-0622-11f0-92c5-1239d0255272@51.38.65.155:443?security=tls&headerType=none&type=tcp&sni=uk1.test3.net#⚜️Telegram:@IP_CF
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.236.79:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.73.175.95:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.93.129:443#[🇧🇭]t.me/ConfigsHub
+vless://245f8d6f-989b-46b1-a773-d7cea3b16a10@242232454.web-manage.com.tr:1521?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://245f8d6f-989b-46b1-a773-d7cea3b16a10@32892393.web-manage.com.tr:1524?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+trojan://telegram-id-directvpn@63.177.47.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://fc7e3916-4beb-4dab-b4e1-f8898d98ac79@173.245.59.100:2052?type=httpupgrade&host=6.dreshghi.ir.ferialmostofi.c-om.padaco.ir.arashnasiri.com.shafashiraz.ir.honartandis.com.shouba.ir.iran-dental.com.sardkhoone.com.mohammadsalehpour.ir.abadgan.com.arvijpub.com.chmctruck.com.gandom-yar.ir&path=%2FGoodLuck%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://925fa8b2-40e4-456f-b87b-dc34f4f7cd6d@242232454.web-manage.com.tr:1521?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://925fa8b2-40e4-456f-b87b-dc34f4f7cd6d@32892393.web-manage.com.tr:1524?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
