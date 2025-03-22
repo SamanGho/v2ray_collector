@@ -16375,3 +16375,17 @@ vless://c59030ea-9a3b-46aa-854a-db32e0fc845f@esna.itn24.ir:443?encryption=none&s
 trojan://Aimer@160.79.105.160:8443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://802a5ca1-e1cf-4d33-8b05-6f7e577663b5@tify-binex-join.espikernajafi.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY%3Fed%3D2560&host=&security=none#[🇩🇪]t.me/MoftConfig
 vless://043db856-1b59-4ade-9daf-d9e6b9e40adf@g.soskom.ir:11045?mode=gun&security=reality&encryption=none&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%20%3A%20%40NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://925fa8b2-40e4-456f-b87b-dc34f4f7cd6d@37.27.211.10:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇫🇮]t.me/MoftConfig
+trojan://Aimer@167.68.4.131:8443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
+trojan://Aimer@160.79.105.160:8443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://Aimer@167.68.4.131:8443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
+vless://%56%32%52%41%58%58-@151.101.0.155:80?mode=auto&path=%2FTelegram%2C%56%32%52%41%58%58%2CTelegram%2C%3Fed%3D2048&alpn=Tel:@SRCVPN,@SRCVPN,@SRCVPN&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#👉🆔 @MoftConfig📡🇺🇸United States
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.157:2083?security=tls&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2F%3Fed%3D2560&fp=random#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://cd2e9541-3fce-4d95-9bec-919d884f911e@172.67.204.84:443?security=tls&sni=tjovt.dominic-doshaboone.info&type=ws&host=tjovt.dominic-doshaboone.info&path=/tiger#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://a7af3cab-00c1-44fa-8a02-0236b5a4ed9f@151.101.64.155:80?type=ws&host=1.wexer-rih.ir&path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
+vless://925fa8b2-40e4-456f-b87b-dc34f4f7cd6d@188.245.95.151:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://a7af3cab-00c1-44fa-8a02-0236b5a4ed9f@151.101.64.155:80?type=ws&host=1.wexer-rih.ir&path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://925fa8b2-40e4-456f-b87b-dc34f4f7cd6d@188.245.95.151:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇩🇪]t.me/MoftConfig
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.157:2083?security=tls&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2F%3Fed%3D2560&fp=random#[🇨🇦]t.me/MoftConfig
+trojan://telegram-id-privatevpns@13.48.7.125:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇸🇪Sweden
+vless://cd2e9541-3fce-4d95-9bec-919d884f911e@172.67.204.84:443?security=tls&sni=tjovt.dominic-doshaboone.info&type=ws&host=tjovt.dominic-doshaboone.info&path=/tiger#[🇨🇦]t.me/MoftConfig
