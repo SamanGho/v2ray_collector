@@ -16334,3 +16334,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNell4WkdSbQ==@45.140.167.182:8388#[🇬🇧]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.61.128.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vless://916cf097-d082-479b-ac57-7fcc0f80f17d@199.232.5.153:80?path=Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2044&security=&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=JoinBede--VPNCUSTOMIZE---VPNCUSTOMIZE.Ir&fp=randomized&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.119.101:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#⚜️Telegram:@IP_CF
+trojan://Aimer@199.34.228.191:2096?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+vless://d84db40d-28f5-4358-a96f-9e09cf99b714@V2rayNG.SPDNet.online:12685?mode=gun&security=none&encryption=none&authority=www.speedtest.net.A.164.speedtest2.livE&type=grpc&serviceName=TEL%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet#[🇩🇪]t.me/ConfigsHub
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.169.180.212:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#⚜️Telegram:@IP_CF
+vless://043db856-1b59-4ade-9daf-d9e6b9e40adf@g.soskom.ir:11045?type=grpc&serviceName=Tel+%3A+%40NT_Safe&authority=&security=reality&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&sni=yahoo.com&sid=20db1be5e1ab118a&spx=%2F#⚜️Telegram:@IP_CF
