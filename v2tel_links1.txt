@@ -16825,3 +16825,7 @@ vmess://eyJhZGQiOiIxNTIuNjkuMTk3LjYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.119.142:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇬🇧]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.110.149:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 trojan://telegram-id-directvpn@16.171.217.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://8cf7a8ba-22a2-4876-b779-232f4c82dc3e@www.speedtest.net:443?mode=auto&path=%2F%3FjokerrvpnTelegram#[🇨🇦]t.me/ConfigsHub
+vless://753ac1b2-d3a1-408c-a5c6-59a36352e817@199.232.170.133:80?security=none&type=tcp#[🇫🇷]t.me/ConfigsHub
+vless://0cd3062d-cb6f-423c-ea0e-03d23be45f45@104.21.44.185:443?security=tls&sni=support.onetwothree123.ir&type=ws&host=support.onetwothree123.ir&path=%2F23654%2F%40M3HDIO1&fp=random&alpn=h2%2Chttp%2F1.1%2Ch3#[🇨🇦]t.me/ConfigsHub
+vless://95267673-3bee-486b-b591-59baa689bb7e@104.17.147.22:8443?security=tls&sni=ZenhariB1.PersonApps.info&type=ws&host=ZenhariB1.PersonApps.info&path=/&alpn=h3h2#[🇨🇦]t.me/ConfigsHub
