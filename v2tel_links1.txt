@@ -16661,3 +16661,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.46.18:8880?encryption=none&
 vless://7c598d05-6b60-4ba4-b326-52cca83adc95@pre-eng.hmray.pro:3092?encryption=none&security=none&type=ws&path=%2F#[🇮🇷]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?encryption=none&security=none&type=grpc#[🇳🇱]t.me/MoftConfig
 vless://16206e3f-18fe-421b-a5ef-606976e1e736@safe.sanjesh.fun:7642?security=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&type=tcp&headerType=&path=&host=#[🇫🇮]t.me/ConfigsHub
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@172.67.175.106:2087?security=tls&sni=50C1iGiMpI.mYsPdMmEtI.cOm&type=grpc#[🇨🇦]t.me/ConfigsHub
+vless://252456af-eeaf-41a4-f4f2-d18a2d234301@151.101.2.219:80?type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.24.13.213:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://telegram-id-directvpn@54.217.200.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
