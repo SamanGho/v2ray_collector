@@ -1,3 +1,4 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?encryption=none&security=none&type=ws&host=redw.pooriam.ir&path=%2F#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.181.21.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵@MoftConfig
 vless://13ed4a8b-6049-4f26-8cb3-9870df4fda4c@104.18.15.19:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=0107.cxypogon.workers.dev&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://2048b828-02fd-4620-90d1-4fbd61e49cc6@157.180.30.213:50576?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=GLDcqQJkCgIbTCoGFGlo5TmxcJ1cmbuHNhZyOIfBHXo&sid=53191d&type=grpc&authority=&serviceName=%40proprojec&mode=gun#[🇫🇮]t.me/ConfigsHub
@@ -126,7 +127,6 @@ vless://753759b2-9768-4285-960f-b5eb7dca33a5@hajlab.ucdavis.edu:80?path=%2F%40Sh
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.35.138.170:443#[🏁]t.me/ConfigsHub
 vless://ddb25cbe-e6da-4562-886f-853e4fe657f0@46.3.100.3:443?security=reality&sni=www.yahoo.co.jp&type=grpc&serviceName=GunService&fp=safari&pbk=rjw62ORAKn8uTo2rgH1iZFbvxhT5ZzH9zAph5ChSgl4&sid=9987b56cdf4c0681#👉🆔 @MoftConfig📡🇯🇵Japan
 trojan://Aimer@103.103.245.183:443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇭🇰Hong Kong
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.169.180.212:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#⚜️Telegram:@IP_CF
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:3306#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 trojan://Aimer@108.165.152.67:2053?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.165.19.6:443#[🏁]t.me/ConfigsHub
