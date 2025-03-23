@@ -16512,3 +16512,14 @@ vless://8d6b9186-5de2-41bb-b90b-397bd7dfa272@104.17.147.22:8080?type=httpupgrade
 trojan://Aimer@154.17.27.166:443?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#👉🆔 @MoftConfig📡🇺🇸United States
 vless://50cfad9c-d60a-4276-bd3f-696bc1ca9c25@hol.9model.ir:1025/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=sFgTIJFnMoj6ke5FMGqf3qWtXHftTuQk2FSTqPMHTmc&sid=#👉🆔 @MoftConfig📡🇳🇱The Netherlands
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.172.113:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.172.113:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/MoftConfig
+vless://4db4ce76-14f3-4b29-b41b-8aaa9cc28463@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.71:443#👉🆔 @MoftConfig📡🇳🇱The Netherlands
+trojan://telegram-id-directvpn@16.16.59.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#👉🆔 @MoftConfig📡🇭🇰Hong Kong
+vless://521de297-75cb-4302-a88b-c24532bf0f57@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+trojan://telegram-id-directvpn@16.16.59.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+vless://9dc7440d-575a-4c6d-a64e-d6a6a63d7b24@151.101.3.8:80?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&security=none&encryption=none&host=rohammmmmvistav2.ir&type=ws#👉🆔 @MoftConfig📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.172.113:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+vless://0932f706-e85d-4ffe-bf26-0c2b35ae4a84@151.101.3.8:80?mode=auto&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=Jointovistav2ray.fun.&type=xhttp#👉🆔 @MoftConfig📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.172.113:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇸🇪
