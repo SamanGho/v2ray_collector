@@ -16989,3 +16989,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcjdDNUtoRlMxbGdlaE1BUEJyckFF@89.185.84.185:
 vless://d082eef7-baa8-4d73-a29e-faf193aa0021@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
 vless://38d7c21e-9046-4009-b088-2ca887ef62cf@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
 vless://753ac1b2-d3a1-408c-a5c6-59a36352e817@199.232.170.133:80?type=xhttp&host=joinbede_unlimiteddev.ir#[🇫🇷]t.me/MoftConfig
+ss://1230083f-5c2a-4433-9985-7c0f15c15377@108.162.194.232:443?security=tls&sni=ikgsnv.kalastore.org&type=ws&host=ikgsnv.kalastore.org&path=/wss&alpn=http/1.1#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36313#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36243#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.195.217.3:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36313#[🏁]t.me/ConfigsHub
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.201.85.71:443#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.195.217.3:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/ConfigsHub
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.201.85.71:443#[🏁]t.me/MoftConfig
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjIxLjcxLjgiLCJwb3J0IjoiMjA4MyIsImlkIjoiNDVhOTk2NjktOTVkZC00MDk5LWI3ODEtMTRmZjEyYTU4ODEzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImVzbmEuaXRuMjQuaXIiLCJwYXRoIjoiXC9cdWQ4M2NcdWRkOTRATTNIRElPMSIsInRscyI6InRscyIsInNuaSI6ImVzbmEuaXRuMjQuaXIiLCJhbHBuIjoiaDIsaHR0cFwvMS4xLGgzIiwiZnAiOiJyYW5kb20ifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZTE5ZmNlYi1jZWRjLTQ4MzItYjQ2MC1mY2NmMjRmZGM4YmU@120.232.150.248:11008#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.51.117.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vless://60be7572-d2e4-4336-b776-5b44c7d2411a@d6.vixsm.ir:4810?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZTE5ZmNlYi1jZWRjLTQ4MzItYjQ2MC1mY2NmMjRmZGM4YmU@120.232.150.248:11008#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36721#[🏁]t.me/ConfigsHub
