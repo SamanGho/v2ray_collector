@@ -17257,3 +17257,9 @@ vless://ca426e95-9d37-4cca-9521-e61dc50186c2@173.245.59.132:2053?path=%2F%3F%40j
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=301.pooriam.ir&type=ws#[🇨🇦]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638783525254922316.stockholm-shledrc-acad.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/MoftConfig
 vless://ba7b5e77-35c6-457a-a414-bdb3bcc04996@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.42.isvpython.onlinE.&type=ws#[🇨🇦]t.me/MoftConfig
+trojan://86920f59-7e5e-4272-abec-271bb931121c@sg.lyyyds.club:443/?type=tcp&security=tls#⚜️Telegram:@IP_CF
+vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir%2F%3F%40jokerrvpnTelegram#[🇩🇪]t.me/ConfigsHub
+vless://b8c59cae-73a8-4f44-88f9-4e40a7b94058@104.19.54.50:8080?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=randomized&type=ws#[🇨🇦]t.me/MoftConfig
+vless://ca426e95-9d37-4cca-9521-e61dc50186c2@173.245.59.132:2053?path=%2F%3F%40jokerrvpnTelegram#[🇨🇦]t.me/ConfigsHub
+vless://Parsashonam-199@zmaoz.faculty.ucdavis.edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&encryption=none&host=Parsashonam-DE.ir&type=ws#[🇳🇱]t.me/ConfigsHub
+vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1523?security=none&encryption=none&host=testspeed-foreign.tci.ir%2F%3FjokerrvpnTelegram#[🇩🇪]t.me/ConfigsHub
