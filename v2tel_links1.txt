@@ -17659,3 +17659,30 @@ vless://ff4decf5-dddd-4b75-8644-e77674f3ac4a@185.79.158.144:8765?security=none&t
 vless://b2b7f2fd-58af-46c3-aa31-b00a32e3c781@104.18.20.0:443?path=%2Fpq%2Fin4&security=tls&encryption=none&host=in4_pq_vip_user_api.xn--ghqu5fm27b67w.com&fp=firefox&type=ws&sni=in4_pq_vip_user_api.xn--ghqu5fm27b67w.com#[🇨🇦]t.me/ConfigsHub
 vless://610648e9-0f0f-4a9b-9ba7-f35b07a80b4a@151.101.64.155:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://13ac567e-be17-4490-af05-c84233cb52bc@dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509?mode=auto&path=%2Fed%3Faskdfklasdlf-oiupon&security=reality&encryption=none&pbk=bT2H9Af5fVDySSaEfkoV9uW3BHNNuGCX6uUF49VN410&fp=random&spx=%2F&type=xhttp&sni=snapp.ir&sid=67#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@35.86.96.96:80?type=tcp&security=none#[🇺🇸]t.me/MoftConfig
+vless://07a227b7-745e-4b4b-b653-7c05466e662f@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://07a227b7-745e-4b4b-b653-7c05466e662f@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=1.wexer-rih.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.243.10.167:80?type=tcp&security=none#[🇺🇸]t.me/MoftConfig
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+vless://3b4e1c7b-a689-43b1-fe8d-2023c3b3a1c9@tify-binex-join.espikernajafi.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.240.222.56:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHub
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@38.180.29.115:443?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#👉🆔 @MoftConfig📡🇯🇵Japan
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@35.86.96.96:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHub
+vless://07a227b7-745e-4b4b-b653-7c05466e662f@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#[🇨🇦]t.me/MoftConfig
+vless://3b4e1c7b-a689-43b1-fe8d-2023c3b3a1c9@tify-binex-join.espikernajafi.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#[🇩🇪]t.me/MoftConfig
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.240.222.56:80?type=tcp&security=none#[🇺🇸]t.me/MoftConfig
+vless://07a227b7-745e-4b4b-b653-7c05466e662f@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=1.wexer-rih.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=showmo.wfft.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=showmo.wfft.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://55e38fb6-5a72-4eed-8e15-81f9a51ad12a@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.243.10.167:80?type=tcp&security=none#[🇺🇸]t.me/ConfigsHub
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.243.10.167:80?type=tcp&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZDM3ZGQ0YTBiNjAzZTU5@217.77.3.48:41691#👉🆔 @MoftConfig📡🇺🇸United States
+vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@45.131.4.78:80?sni=workerr.dimon22287.workers.dev&type=ws&host=workerr.dimon22287.workers.dev&path=Telegram%40WangCai2#👉🆔 @MoftConfig📡🇮🇷Iran
+vless://07a227b7-745e-4b4b-b653-7c05466e662f@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=1.wexer-rih.ir&type=ws#[🇨🇦]t.me/MoftConfig
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.13.140:8443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=showmo.wfft.ir&type=ws#[🇨🇦]t.me/MoftConfig
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTY1LjIyNy42NS4xNTgiLCJwb3J0IjoiODg4MSIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJtb2kuaXIiLCJwYXRoIjoiXC8iLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#👉🆔 @MoftConfig📡🇳🇱The Netherlands
