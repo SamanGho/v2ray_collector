@@ -1,3 +1,12 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.234:80?encryption=none&security=none&sni=redw.pooriam.ir&type=ws&host=redw.pooriam.ir&path=Telegram%20%40WangCai2%20%2F%3Fed%3D2560#👉🆔 @MoftConfig📡🇯🇵Japan
+vless://b2f5bd9c-a98d-4e63-bec5-a40b1c8025d3@37.156.45.84:1000/?type=grpc&encryption=none#[🇺🇸]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.14.85:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.1.12:443/?type=ws&encryption=none&host=photographipictureai.ir&path=%2FTelegram%40mtmvpn%2F%3Fed%3D2560&security=tls&sni=pHOTOgrApHipiCTureaI.IR&alpn=h2%2Chttp%2F1.1&fp=randomized#[🇨🇦]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638779006056412842.rasht-drec-abac.info:8880/?type=grpc&encryption=none#[🇫🇮]t.me/MoftConfig
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443/?type=ws&encryption=none&host=photographipictureai.ir&path=%2Fmtmvpn-mtmvpn-MTMVPN%3Fed%3D2560&security=tls&sni=pHOTOgrApHipiCTureaI.IR&alpn=h2%2Chttp%2F1.1&fp=randomized#[🇨🇦]t.me/MoftConfig
+vless://4eec7bc2-6bfd-4e54-b0a4-5890e8f97439@129.153.90.9:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=dj-download-us.xn--4gq62f52gopi49k.com&fp=ios&packetEncoding=xudp#👉🆔 @MoftConfig📡🇺🇸United States
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443/?type=ws&encryption=none&host=redfree8-304.pooriam.ir&path=MTMVPN%3Fed%3D2560&security=tls&sni=reDFrEE8-304.POorIaM.ir&alpn=h2%2Chttp%2F1.1&fp=randomized#[🇨🇦]t.me/MoftConfig
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@35.94.194.80:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=zula.ir&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#👉🆔 @MoftConfig📡🇺🇸United States
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.18.62:443/?type=tcp&encryption=none&security=tls&sni=147135011033.sec21org.com#[🇺🇸]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638779006056419046.rasht-drec-abac.info:8880/?type=grpc&encryption=none#[🇫🇮]t.me/MoftConfig
 vless://4eec7bc2-6bfd-4e54-b0a4-5890e8f97439@141.148.196.208:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=dj-downloadin.xn--4gq62f52gopi49k.com&fp=safari&packetEncoding=xudp#[🇮🇳]t.me/MoftConfig
@@ -129,22 +138,13 @@ vless://Parsashonam-199@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.243.215:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.51.16.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir%2F%3F%40jokerrvpnTelegram%20%3A&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.42.250:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
 vless://fe1a8735-11ae-5501-bc91-90343b78f8c1@vpnandroid2_tr.home.kg:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇹🇷]t.me/ConfigsHub
-vless://4d51570f-71e7-496d-a5a1-5f47b50bac35@37.27.250.128:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇫🇮]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MkhkWm5HYjVpYmg%3D@89.221.225.88:443#[🏁]t.me/MoftConfig
-vless://d534d992-c689-41b1-a690-0ba0b3f5e87e@104.21.21.31:443?path=%2Fswordnewnewnew&security=tls&encryption=none&host=hk.cishanjichang.me&type=ws&sni=hk.cishanjichang.me#[🇨🇦]t.me/MoftConfig
 vless://070867b9-1f40-41cc-8daa-c3412159c40a@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.speedtest2.cfd.&encryption=none#[🇨🇦]t.me/MoftConfig
 vless://df005349-f302-4125-808b-fc895ad7a1e5@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/MoftConfig
 vless://35533c43-70e7-47fe-9df5-83c475c0bea6@138.201.190.167:2095?type=xhttp&path=%2F&host=&mode=auto&security=reality&pbk=8uxl7EXDlJzA1pLYVJjQHLnQJyuyFkJ6Yr47boJbFCQ&fp=chrome&sni=yahoo.com&sid=e91b3bd4ead0ccd3&spx=%2F#[🇩🇪]t.me/ConfigsHub
-trojan://6040a753-e35b-4384-8713-96f3c639b621@uk803.890689.xyz:443/?type=ws&host=uk803.890689.xyz&path=%2FWxWOWO1YA9bs2HOmaeWimvT3&security=tls&sni=uK803.890689.Xyz&alpn=http%2F1.1&fp=chrome#⚜️Telegram:@IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.101.238:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/MoftConfig
-vless://35533c43-70e7-47fe-9df5-83c475c0bea6@138.201.190.167:2095?type=xhttp&path=%2F&host=&mode=auto&security=reality&pbk=8uxl7EXDlJzA1pLYVJjQHLnQJyuyFkJ6Yr47boJbFCQ&fp=chrome&sni=yahoo.com&sid=e91b3bd4ead0ccd3&spx=%2F#[🇩🇪]t.me/MoftConfig
-trojan://6040a753-e35b-4384-8713-96f3c639b621@kju84.890602.xyz:443/?type=ws&host=kju84.890602.xyz&path=%2FWxWOWO1YA9bs2HOmaeWimvT3&security=tls&sni=kju84.890602.XYZ&alpn=http%2F1.1&fp=chrome#⚜️Telegram:@IP_CF
 vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=Www.speedtest.net.a1.sPeedtest3.sbs.&type=ws#[🇨🇦]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#[🇬🇧]t.me/ConfigsHub
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#[🇨🇦]t.me/MoftConfig
 vless://fe1a8735-11ae-5501-bc91-90343b78f8c1@vpnandroid2_tr.home.kg:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇹🇷]t.me/MoftConfig
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.101.238:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#[🇺🇸]t.me/MoftConfig
