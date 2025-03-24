@@ -17003,3 +17003,5 @@ trojan://telegram-id-directvpn@13.51.117.52:22222?security=tls&alpn=http/1.1&hea
 vless://60be7572-d2e4-4336-b776-5b44c7d2411a@d6.vixsm.ir:4810?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZTE5ZmNlYi1jZWRjLTQ4MzItYjQ2MC1mY2NmMjRmZGM4YmU@120.232.150.248:11008#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36721#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36721#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36243#[🏁]t.me/MoftConfig
