@@ -1,3 +1,4 @@
+vless://Parsashonam-197@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇬🇧]t.me/MoftConfig
 vless://b0a5129d-9aa5-48a2-a98d-5a5822441cfa@194.60.134.78:2083?security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=chrome&type=grpc&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=adf8a1f5689177a2#👉🆔 @MoftConfig📡🇳🇱The Netherlands
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.232:80?path=Telegram%40WangCai2%2F%3Fed&security=&encryption=none&type=ws&sni=301.pooriam.ir#👉🆔 @MoftConfig📡🇮🇷Iran
 vless://d82295dc-ea45-455c-85d4-52dcb2f52687@188.245.95.151:1522?security=&encryption=none&headerType=none&type=tcp&sni=testspeed-foreign.tci.ir#👉🆔 @MoftConfig📡🇩🇪Germany
@@ -134,7 +135,6 @@ vless://d7807075-738b-4032-8124-f11eb88dd097@188.34.201.88:16072?mode=gun&securi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVExTnpGag%3D%3D@fr1.opensocks.site:8388#[🇫🇷]t.me/ConfigsHub
 vless://b0a82794-d4d3-4660-d3fd-34de710727d3@iran.farsonline24.ir:443?encryption=none&security=tls&sni=iran.farsonline24.ir&fp=chrome&type=ws&host=iran.farsonline24.ir&path=%2F40430%2F%40M3HDIO1#👉🆔 @MoftConfig📡🇨🇦Canada
 trojan://ksCDo3aEam@tabnak.itn24.ir:443?security=tls&sni=tabnak.itn24.ir&fp=chrome&type=ws&host=tabnak.itn24.ir&path=25590%2F%40M3HDIO1#👉🆔 @MoftConfig📡🇨🇦Canada
-trojan://900zMQxYJX@188.213.171.8:2053?security=reality&pbk=eshXsODFgqydPkdu8OqDDF0XIQc_HPYFPxFJTmq0JHE&headerType=none&fp=chrome&type=tcp&sni=tgju.org#⚜️Telegram:@IP_CF
 vless://b0a82794-d4d3-4660-d3fd-34de710727d3@iran.farsonline24.ir:443?encryption=none&security=tls&sni=iran.farsonline24.ir&fp=chrome&type=ws&host=iran.farsonline24.ir&path=%2F35872%2F%40M3HDIO1#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://25165ada-2fcc-4fa4-8493-4b8c9896c876@135.181.155.147:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#👉🆔 @MoftConfig📡🇫🇮Finland
 trojan://NuL1nBAAaM@support.sabapardaziran.ir:443?security=tls&sni=support.sabapardaziran.ir&fp=chrome&type=ws&host=support.sabapardaziran.ir&path=%2F55213%2F%40M3HDIO1#👉🆔 @MoftConfig📡🇨🇦Canada
