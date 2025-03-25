@@ -17862,3 +17862,8 @@ vless://eb19e160-51f8-40d3-966b-9fa5de336924@104.24.177.129:80?path=%2F%3Fed%3D2
 trojan://ksCDo3aEam@172.67.141.68:443?security=tls&sni=tabnak.itn24.ir&type=ws&host=tabnak.itn24.ir&path=%2F51759%2F%40M3HDIO1&fp=chrome#[🇨🇦]t.me/ConfigsHub
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTQwLjI0NS4zOS4yMTEiLCJwb3J0IjoiMjM0NTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiMzI3OTYyMjAtM2EzYi00ZGFhLWFmMTUtMDg4Y2FjZDEyOWViIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6Indlc3RzZzItZGRucy5vcmFjbGVuYXQuY2MiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=0&sni=agepm.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
+trojan://Aimer@5.182.84.244:443?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
+vless://03b04c54-7080-4052-a73e-8b6824dafe05@ipcloudflaretamiz.fastly80-2.hosting-ip.com:80?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D1024&security=none&encryption=none&host=vipfast_7.com&type=ws#⚜️Telegram:@IP_CF
+trojan://Aimer@27.50.49.47:2083?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@162.159.192.153:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&fp=chrome&alpn=h3,h2#[🇨🇦]t.me/ConfigsHub
