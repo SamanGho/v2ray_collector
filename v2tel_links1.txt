@@ -17904,3 +17904,9 @@ vless://b523e510-1e99-4aff-99f3-ad414dccbc8c@32892393.web-manage.com.tr:1524?sec
 vless://5d41c6dd-cc53-4faf-98e4-1524bfc09d3d@242232454.web-manage.com.tr:1521?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMzguMTk5LjE1OC4yNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2Y2NTBjYzQtMzlkMy00ZWI1LTgyZjEtMTQ5Y2NhMGMzNDJiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDAiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://b523e510-1e99-4aff-99f3-ad414dccbc8c@32892393.web-manage.com.tr:1524?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+trojan://c017fb27-a4b4-48f9-80f6-2bdb504adf75@18.167.165.158:42168?security=tls&sni=data.bilibili.com&type=tcp&allowInsecure=1#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.166.82:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+vless://5d41c6dd-cc53-4faf-98e4-1524bfc09d3d@32892393.web-manage.com.tr:1524?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.133.159:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇩🇪]t.me/ConfigsHub
+vless://84477544-3b2d-486b-82c3-eab804753c7b@37.27.250.128:1519?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇫🇮]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.42.244.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
