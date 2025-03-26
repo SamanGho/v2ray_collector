@@ -1,3 +1,5 @@
+trojan://telegram-id-directvpn@35.158.230.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.248.77.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://19742539-401b-4732-9a37-a0354cc84e67@104.18.8.74:443?security=tls&sni=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&type=ws&host=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=%2Fadmin&fp=random&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.81.235.90:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@45.89.52.66:9001#[🇹🇷]t.me/ConfigsHub
@@ -119,7 +121,6 @@ vless://6242c0ac-9ff5-4a8f-a1e4-89ef943899f4@hajlab.ucdavis.edu:80?security=&typ
 vless://6242c0ac-9ff5-4a8f-a1e4-89ef943899f4@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://84477544-3b2d-486b-82c3-eab804753c7b@37.27.211.10:1520?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇫🇮]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.153.220.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@54.228.206.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://Parsashonam-201@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.247:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=none&encryption=none&host=301.pooriam.ir&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&security=&encryption=none&host=Www.speedtest.net.ac.sPeedtest3.sbs.&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -146,5 +147,4 @@ vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@45.149.12.201:8880?security=&encryp
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.158.90:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/ConfigsHub
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443/?type=ws&encryption=none&host=WgRyZmDb0.RiCkTmOuSe.iNfO&path=%2F&security=tls&sni=WgRyZmDb0.RiCkTmOuSe.iNfO&alpn=h2http%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443/?type=ws&encryption=none&host=UoCmUcLi5.RiPlEtOoRy.iNfO&path=%2F&security=tls&sni=UoCmUcLi5.RiPlEtOoRy.iNfO&alpn=h2http%2F1.1#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@51.44.90.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638783473053464196.athens-shledrc-acad.info:8880/?type=grpc&encryption=none#[🇳🇱]t.me/ConfigsHub
