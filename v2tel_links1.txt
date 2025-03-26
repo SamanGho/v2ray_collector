@@ -18223,3 +18223,5 @@ vless://%50%61%72%73%61%73%68%6F%6E%61%6D-202@185.146.173.39:8880?path=%2F&servi
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-202@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D%3Fed%3D2048&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=%50%61%72%73%61%73%68%6F%6E%61%6D-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇳🇱]t.me/ConfigsHub
 
 
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.249.229.73:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiIxODUuMTU4LjE3NS41MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZmFzdC5jb20iLCJpZCI6ImE0NTA3NThiLTQ4NDUtNGI2YS1iMzMwLTUxYzQ2N2RjNWVhNiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI4MDgxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
