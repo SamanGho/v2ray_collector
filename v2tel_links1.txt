@@ -18326,3 +18326,7 @@ vless://4666445f-e1b0-4526-948c-748df917e3d0@hajlab.ucdavis.edu:80?path=%2F%40Sh
 trojan://telegram-id-directvpn@34.253.87.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.167.170:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://4666445f-e1b0-4526-948c-748df917e3d0@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@104.21.75.193:443?path=%2Fa8e84392&security=tls&encryption=none&host=dewuxian.pai50288.uk&type=ws&sni=dewuxian.pai50288.uk#[🇨🇦]t.me/ConfigsHub
+vless://032184bc-753c-43f5-b7c3-33a37e682f5f@tor5.vpntype.dev:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@13.49.109.89:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://NEHZp72yf2@95.181.162.233:443?security=tls&host=Zula.ir&headerType=http&fp=randomized&type=tcp&sni=dr-ping.ir#[🇳🇱]t.me/ConfigsHub
