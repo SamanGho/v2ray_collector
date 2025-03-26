@@ -1,3 +1,5 @@
+vless://8ede70ac-e922-4c10-9df6-772347d741e0@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.158.230.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.248.77.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://19742539-401b-4732-9a37-a0354cc84e67@104.18.8.74:443?security=tls&sni=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&type=ws&host=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=%2Fadmin&fp=random&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.81.235.90:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/ConfigsHub
@@ -143,8 +145,6 @@ vless://3208a53a-425e-4480-a650-0b4732f60654@151.101.64.155:80?path=/telegram-@I
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.177.165:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135010072.sec21org.com#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.174.174:8880?security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@51.81.36.243:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135001178.sec22org.com#[🇺🇸]t.me/ConfigsHub
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEuMTA3LjI0Ny4yMTkiLCJwb3J0Ijo0OTE4MSwiaWQiOiJmMGZlZjQxZC1lMGMwLTQxZjYtYTk1Ny0zZGNlYzllZTZjODMiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIiLCJhdXRob3JpdHkiOiIifQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@45.149.12.201:8880?security=&encryption=none&host=photographipictureai.ir&type=ws#[🇳🇱]t.me/ConfigsHub
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.158.90:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/ConfigsHub
-vmess://eyJhZGQiOiIxNzIuNjcuMTcwLjExIiwiYWlkIjowLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0Ijo0NDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyJ9
