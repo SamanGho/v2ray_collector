@@ -9849,3 +9849,14 @@ vmess://eyJhZGQiOiIxODUuMTU4LjE3NS41MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://0b5882a8-d7f0-4e44-b289-3d59eda71f45@mtn-join.servernett.cfd:34940?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#⚜️Telegram:@IP_CF
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.151.188:80?path=%2F&security=&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.51.65.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.177.165:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135010072.sec21org.com#[🇺🇸]t.me/ConfigsHub
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?path=%2F47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiY2NhYmFiYS1hYWNiLWNiYWEtYmNhZC1hYmFiYmFjY2FiY2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MTA4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxMDQuMTcuMTM5LjY5IiwiYWlkIjowLCJob3N0IjoidXMwM3MuNWQ4ZWNmODIuY2ZkIiwiaWQiOiI0YmYwNzRmNC03ZTljLTRlNGItYTEwZC0xNTZlMjYxOTk3MjkiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.174.174:8880?security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@51.81.36.243:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135001178.sec22org.com#[🇺🇸]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEuMTA3LjI0Ny4yMTkiLCJwb3J0Ijo0OTE4MSwiaWQiOiJmMGZlZjQxZC1lMGMwLTQxZjYtYTk1Ny0zZGNlYzllZTZjODMiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIiLCJhdXRob3JpdHkiOiIifQ==
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@45.149.12.201:8880?security=&encryption=none&host=photographipictureai.ir&type=ws#[🇳🇱]t.me/ConfigsHub
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.158.90:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNzIuNjcuMTcwLjExIiwiYWlkIjowLCJob3N0IjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsImlkIjoiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0Ijo0NDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoibGluZGUwNi5pbmRpYXZpZGVvLnNicyJ9
