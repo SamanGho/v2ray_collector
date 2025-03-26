@@ -18330,3 +18330,10 @@ vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@104.21.75.193:443?path=%2Fa8e84392&
 vless://032184bc-753c-43f5-b7c3-33a37e682f5f@tor5.vpntype.dev:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@13.49.109.89:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 trojan://NEHZp72yf2@95.181.162.233:443?security=tls&host=Zula.ir&headerType=http&fp=randomized&type=tcp&sni=dr-ping.ir#[🇳🇱]t.me/ConfigsHub
+ss://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv4.cloudjetr.com:3229?type=tcp&security=none#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.77.104.54:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.77.104.54:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+trojan://74260704627805900@95.85.93.167:443/?type=tcp&security=tls&sni=positive-treefrog.shiner427.skin&allowInsecure=1#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiIxODguMTE0Ljk2LjUiLCJhaWQiOjAsImhvc3QiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOjQ0MywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIn0=
+trojan://b1ac00e0-adc2-11ed-875a-1239d0255272@sg3.socifiles.com:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#⚜️Telegram:@IP_CF
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.96.1:2083?path=%2FJRQhLvgozN890ROi%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HaSTI.fREeAirLAineS.COm&fp=randomized&type=ws&sni=HaSti.fReEaiRLAinEs.COM#⚜️Telegram:@IP_CF
