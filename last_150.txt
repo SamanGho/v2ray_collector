@@ -1,3 +1,6 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?mode=gun&security=none&encryption=none&authority=/@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&type=grpc#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://telegram-id-privatevpns@3.255.12.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇮🇪Ireland
+trojan://telegram-id-directvpn@63.176.225.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇩🇪Germany
 trojan://telegram-id-privatevpns@54.195.170.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇮🇪Ireland
 vless://acea9941-b402-4217-b3a0-9dc1d556b385@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=1024&security=none&encryption=none&host=www.speedtest.net.41.isvpython.onlinE.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://03efc653-2ee0-47c0-99a0-25f1ed92e839@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
@@ -139,10 +142,7 @@ vless://894ca7c4-86db-4d6f-a438-7ecb475c4c4b@krg2jyul092d.librekit.com:26040?typ
 vless://3a98dee0-8d9f-4f17-a1b0-706b72bcab11@mehdi21.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=vLtM7H2Bbmzw5-Tevlxh2soD0WML7GJNeAg6gdhsCzo&fp=chrome&spx=%2F&type=grpc&serviceName=Join---MTMVPN-Join---MTMVPN-Join---MTMVPN-Join---MTMVPN&sni=www.cdn77.com&sid=ba66#[🇩🇪]t.me/MoftConfig
 vless://b0c150e0-48a0-4d2e-855d-edefa01d2a99@www.speedtest.net:443?mode=auto&path=%2Fcustom_config%2F%3F%40jokerrvpnTelegram%20%3A&security=tls&encryption=none&type=xhttp&sni=third.dgclix.ir#[🇨🇦]t.me/MoftConfig
 vless://a84e1d34-ffd9-5ede-a7e1-f5c4c4f51575@cdn.mouseflow.com:80?path=join-%40mosiv2-%40mosiv2-%3Fed%3D2048&security=none&encryption=none&host=www.digikala.com.joinTelegram.mosiv2.sk1.vless.Sitespeedtest.net.&type=ws#[🇨🇦]t.me/MoftConfig
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoid3d3LnNwZWVkdGVzdC5uZXQiLCJwb3J0IjoiNDQzIiwiaWQiOiJiZmY2YzYyOC01OGEyLTQ5OGUtYmU1My0wNzkzYzUzNmFmZWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IlwvZGFzaGJvYXJkP2VkPTI1NjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJhcGk0LndhbHRvbndlYi5pciIsImFscG4iOiJodHRwXC8xLjEiLCJmcCI6ImNocm9tZSJ9
 trojan://telegram-id-privatevpns@51.21.25.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.200.81.188:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
-trojan://telegram-id-directvpn@13.53.229.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@13.53.229.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
 vless://06f4c833-6b5c-4031-9e31-82ef0521216b@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
 trojan://telegram-id-privatevpns@51.21.25.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪@MoftConfig
