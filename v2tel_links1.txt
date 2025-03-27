@@ -18481,3 +18481,4 @@ vless://0398bf98-40fc-5f3a-ad3e-81ab26894bc2@vpnandroid2.info.gf:8880/?type=grpc
 vless://5e49d80e-ccef-47ae-bd2d-8fedd481f14f@51.77.108.99:13004?security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🇬🇧]t.me/ConfigsHub
 trojan://Aimer@40.233.70.7:8443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=ws&host=ngepz.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiY2FiYWFiYy1hY2JhLWFiY2EtY2RhYi1jYmFiY2FhYmFjY2IiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MjA4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://6040a753-e35b-4384-8713-96f3c639b621@kju84.890602.xyz:443/?type=ws&host=kju84.890602.xyz&path=%2FWxWOWO1YA9bs2HOmaeWimvT3&security=tls&sni=kju84.890602.XYZ&alpn=http%2F1.1#⚜️Telegram:@IP_CF
