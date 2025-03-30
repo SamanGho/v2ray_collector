@@ -1,3 +1,4 @@
+vless://894ca7c4-86db-4d6f-a438-7ecb475c4c4b@krg2jyul092d.librekit.com:26040?type=tcp&path=%2F&host=divarcdn.com&headerType=http&security=none#[🇫🇮]t.me/MoftConfig
 vless://3a98dee0-8d9f-4f17-a1b0-706b72bcab11@mehdi21.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=vLtM7H2Bbmzw5-Tevlxh2soD0WML7GJNeAg6gdhsCzo&fp=chrome&spx=%2F&type=grpc&serviceName=Join---MTMVPN-Join---MTMVPN-Join---MTMVPN-Join---MTMVPN&sni=www.cdn77.com&sid=ba66#[🇩🇪]t.me/MoftConfig
 vless://b0c150e0-48a0-4d2e-855d-edefa01d2a99@www.speedtest.net:443?mode=auto&path=%2Fcustom_config%2F%3F%40jokerrvpnTelegram%20%3A&security=tls&encryption=none&type=xhttp&sni=third.dgclix.ir#[🇨🇦]t.me/MoftConfig
 vless://a84e1d34-ffd9-5ede-a7e1-f5c4c4f51575@cdn.mouseflow.com:80?path=join-%40mosiv2-%40mosiv2-%3Fed%3D2048&security=none&encryption=none&host=www.digikala.com.joinTelegram.mosiv2.sk1.vless.Sitespeedtest.net.&type=ws#[🇨🇦]t.me/MoftConfig
@@ -147,4 +148,3 @@ trojan://telegram-id-privatevpns@34.247.153.108:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@54.78.74.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮@MoftConfig
 trojan://telegram-id-privatevpns@35.180.236.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵@MoftConfig
 trojan://telegram-id-privatevpns@18.175.90.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧@MoftConfig
-vless://a73e8091-d7f0-459b-9cd8-e05e09cabb6e@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
