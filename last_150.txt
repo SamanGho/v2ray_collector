@@ -1,3 +1,4 @@
+vless://894ca7c4-86db-4d6f-a438-7ecb475c4c4b@krg2jyul092d.librekit.com:26040?type=tcp&path=%2F&host=divarcdn.com&headerType=http&security=none#[🇫🇮]t.me/MoftConfig
 vless://3a98dee0-8d9f-4f17-a1b0-706b72bcab11@mehdi21.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=vLtM7H2Bbmzw5-Tevlxh2soD0WML7GJNeAg6gdhsCzo&fp=chrome&spx=%2F&type=grpc&serviceName=Join---MTMVPN-Join---MTMVPN-Join---MTMVPN-Join---MTMVPN&sni=www.cdn77.com&sid=ba66#[🇩🇪]t.me/MoftConfig
 vless://b0c150e0-48a0-4d2e-855d-edefa01d2a99@www.speedtest.net:443?mode=auto&path=%2Fcustom_config%2F%3F%40jokerrvpnTelegram%20%3A&security=tls&encryption=none&type=xhttp&sni=third.dgclix.ir#[🇨🇦]t.me/MoftConfig
 vless://a84e1d34-ffd9-5ede-a7e1-f5c4c4f51575@cdn.mouseflow.com:80?path=join-%40mosiv2-%40mosiv2-%3Fed%3D2048&security=none&encryption=none&host=www.digikala.com.joinTelegram.mosiv2.sk1.vless.Sitespeedtest.net.&type=ws#[🇨🇦]t.me/MoftConfig
@@ -41,7 +42,6 @@ trojan://telegram-id-privatevpns@13.37.18.215:22222?security=tls&sni=trojan.burg
 trojan://Aimer@23.94.213.132:27149?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=agepn.ambercc.filegear-sg.me&type=ws&sni=agepn.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.249:80?path=Telegram%40WangCai2%2F%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws&sni=gozargah.validbv7996.ir#👉🆔 @MoftConfig📡🇮🇷Iran
 vless://81447221-6548-60a1-a9d9-aac48e8c410b@116.203.165.24:35785?security=reality&encryption=none&pbk=sz_X684-MH30mtNFXgWxGXymB1vs82CNoMzwGJfVgWw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=c8801ea23cbfc6ff#👉🆔 @MoftConfig📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyUGpINGlVUEthd1hDSTluVWlkWVRy@89.185.84.185:443#🇬🇧 Великобритания
 trojan://Aimer@192.210.207.89:20080?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=agepn.ambercc.filegear-sg.me&type=ws&sni=agepn.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
 trojan://Aimer@77.74.228.4:2087?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=agepm.ambercc.filegear-sg.me&type=ws&sni=agepm.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
 vless://46132f43-5cb2-4f3f-9400-a4f114e31014@151.101.2.216:80?path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray&security=none&encryption=none&host=Zix95.net&type=ws&sni=Zix95.net#👉🆔 @MoftConfig📡🇺🇸United States
