@@ -1,20 +1,3 @@
-vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=Www.speedtest.net.af.sPeedtest3.sbs.&type=ws#[🇨🇦]t.me/MoftConfig
-vless://252456af-eeaf-41a4-f4f2-d18a2d234301@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#[🇨🇦]t.me/MoftConfig
-trojan://74260704627805900@right-monitor.shiner427.skin:443/?type=tcp&security=tls#[🇮🇳]t.me/MoftConfig
-vless://894ca7c4-86db-4d6f-a438-7ecb475c4c4b@krg2jyul092d.librekit.com:26040?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#[🇫🇮]t.me/MoftConfig
-vless://894ca7c4-86db-4d6f-a438-7ecb475c4c4b@krg2jyul092d.librekit.com:26040?type=tcp&path=%2F&host=divarcdn.com&headerType=http&security=none#[🇫🇮]t.me/MoftConfig
-vless://3a98dee0-8d9f-4f17-a1b0-706b72bcab11@mehdi21.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=vLtM7H2Bbmzw5-Tevlxh2soD0WML7GJNeAg6gdhsCzo&fp=chrome&spx=%2F&type=grpc&serviceName=Join---MTMVPN-Join---MTMVPN-Join---MTMVPN-Join---MTMVPN&sni=www.cdn77.com&sid=ba66#[🇩🇪]t.me/MoftConfig
-vless://b0c150e0-48a0-4d2e-855d-edefa01d2a99@www.speedtest.net:443?mode=auto&path=%2Fcustom_config%2F%3F%40jokerrvpnTelegram%20%3A&security=tls&encryption=none&type=xhttp&sni=third.dgclix.ir#[🇨🇦]t.me/MoftConfig
-vless://a84e1d34-ffd9-5ede-a7e1-f5c4c4f51575@cdn.mouseflow.com:80?path=join-%40mosiv2-%40mosiv2-%3Fed%3D2048&security=none&encryption=none&host=www.digikala.com.joinTelegram.mosiv2.sk1.vless.Sitespeedtest.net.&type=ws#[🇨🇦]t.me/MoftConfig
-trojan://telegram-id-privatevpns@51.21.25.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
-trojan://telegram-id-directvpn@13.53.229.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
-vless://06f4c833-6b5c-4031-9e31-82ef0521216b@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
-trojan://telegram-id-privatevpns@51.21.25.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪@MoftConfig
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.200.81.188:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇨🇮
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.200.81.188:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/MoftConfig
-vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiaDMsaDIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImZmOWE1NWUyLTAxMmYtNGJhYi04MTI1LWQwN2YxNGI5ZGQ2NSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiYXBpNC53YWx0b253ZWIuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImJmZjZjNjI4LTU4YTItNDk4ZS1iZTUzLTA3OTNjNTM2YWZlYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9kYXNoYm9hcmQ/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJhcGk0LndhbHRvbndlYi5pciIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.202:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.36.101.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵@MoftConfig
 vless://4373f2c5-2cf9-44fe-ac22-e362156bfeab@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/MoftConfig
 vless://4373f2c5-2cf9-44fe-ac22-e362156bfeab@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/ConfigsHub
@@ -148,3 +131,20 @@ vmess://eyJhZGQiOiIxMDEuOTkuOTEuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@217.30.10.18:9020#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxNS4yMDQuMjQ5LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWIxMTNjMTItNGRkNC00YmI1LTljMDEtY2ZmMDkyYjU1OWUzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODE2MCIsInBzIjoiW/Cfh7rwn4e4XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@107.23.3.80:80?security=none&encryption=none&headerType=none&type=tcp#[🇺🇸]t.me/MoftConfig
+vless://daccddbf-7a2a-4db2-bd2f-11589c4c08cc@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://067e3214-7b5f-4f15-a4b2-edd224ca0f1b@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+vless://7c7aab40-4025-43d0-bd0e-ebd170541d35@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+vless://167870e4-a8d4-49c3-bf2b-5f217b52996b@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+trojan://telegram-id-privatevpns@18.133.54.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧@MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTdVlWYlZlc1ZTUlRwcmpTQzBWa2JC@89.185.84.185:443#🇬🇧 Великобритания
+trojan://telegram-id-privatevpns@34.247.153.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮@MoftConfig
+trojan://telegram-id-privatevpns@54.78.74.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮@MoftConfig
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@184.72.82.70:80?security=none&encryption=none&headerType=none&type=tcp#[🇺🇸]t.me/MoftConfig
+vless://33bb335d-67c8-41fd-bffd-e648ce2973f2@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://f5b2fdb7-6382-4869-847c-4f86157c4543@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+trojan://telegram-id-privatevpns@35.180.236.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵@MoftConfig
+vless://8cf3b84b-3db5-4d89-9bd2-d796f93be126@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+trojan://telegram-id-privatevpns@18.175.90.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧@MoftConfig
+vless://3e7e3f3f-208f-4150-9bdd-dd981c518593@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://5b71a5e7-810a-433d-8c89-71ccb495d978@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
