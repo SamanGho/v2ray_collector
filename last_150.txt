@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?mode=gun&security=&encryption=none&type=grpc&sni=TABRIZ.NET#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#[🇳🇱]t.me/ConfigsHub
 vless://37e0cabd-bdb0-5e94-aea7-0506d2b0bf7f@94.131.96.137:8880?security=&encryption=none&type=grpc&serviceName=vless-grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.28:8880?security=&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
@@ -147,4 +148,3 @@ vless://2020b087-f142-5b1d-9e65-34c4f06a9daa@abrha.net:80?path=%2Fjoin-%40mosiv2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.215:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.236.143:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
 vless://0398bf98-40fc-5f3a-ad3e-81ab26894bc2@45.89.55.188:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🏁]t.me/ConfigsHub
-vless://ce9a4a9f-54cd-4e63-983b-ff8b7b6ce939@194.76.18.46:8080?security=none&type=httpupgrade&headerType=&path=%2F#[🏁]t.me/ConfigsHub
