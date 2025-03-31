@@ -1,3 +1,4 @@
+trojan://699ceb45-ab95-4838-a534-dd914a936eb4@gnpid1111.ndycom.com:50026?allowInsecure=1#👉🆔 @MoftConfig📡🇭🇰Hong Kong
 vless://8cc02481-fe23-437c-9c78-6c1f2fc75622@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#👉🆔 @MoftConfig📡🇨🇾Cyprus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#👉🆔 @MoftConfig📡🇬🇧United Kingdom
@@ -115,7 +116,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.12.31:80?security=none&type=
 trojan://vs6f8hvt@104.16.177.79:2087?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org&path=%2F%3Fed%3D2560&fp=randomized#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://1c72fbd9-74d9-421c-8ebe-946bec14d237@server.siasia.ir:2083?security=reality&encryption=none&pbk=lFSBLDW1PZMf27yZgJIu6U10H6b2SB_aYYhihVaroWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.whatsapp.com&sid=ab8e29#👉🆔 @MoftConfig📡🇩🇪Germany
 vless://7b227fd9-1895-4c9d-b65f-d8d2c68e9494@51.77.108.99:13004?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#👉🆔 @MoftConfig📡🇬🇧United Kingdom
-trojan://telegram-id-privatevpns@34.251.132.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@34.251.132.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
 vless://1c72fbd9-74d9-421c-8ebe-946bec14d237@server.siasia.ir:2083?security=reality&encryption=none&pbk=lFSBLDW1PZMf27yZgJIu6U10H6b2SB_aYYhihVaroWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.whatsapp.com&sid=ab8e29#[🇩🇪]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.252.64.166:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇮🇪Ireland
