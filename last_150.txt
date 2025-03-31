@@ -1,3 +1,4 @@
+vless://11408a02-19b1-4fcc-fbac-d12352f374c1@78.39.51.190:2096?type=tcp&security=none#[🇮🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?mode=gun&security=&encryption=none&type=grpc&sni=TABRIZ.NET#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#[🇳🇱]t.me/ConfigsHub
 vless://37e0cabd-bdb0-5e94-aea7-0506d2b0bf7f@94.131.96.137:8880?security=&encryption=none&type=grpc&serviceName=vless-grpc#[🏁]t.me/ConfigsHub
@@ -87,7 +88,6 @@ trojan://vs6f8hvt@104.16.177.79:2087?security=tls&sni=trojan.cchappy.eu.org&type
 vless://1c72fbd9-74d9-421c-8ebe-946bec14d237@server.siasia.ir:2083?security=reality&encryption=none&pbk=lFSBLDW1PZMf27yZgJIu6U10H6b2SB_aYYhihVaroWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.whatsapp.com&sid=ab8e29#👉🆔 @MoftConfig📡🇩🇪Germany
 vless://7b227fd9-1895-4c9d-b65f-d8d2c68e9494@51.77.108.99:13004?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 trojan://telegram-id-privatevpns@34.251.132.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
-vless://1c72fbd9-74d9-421c-8ebe-946bec14d237@server.siasia.ir:2083?security=reality&encryption=none&pbk=lFSBLDW1PZMf27yZgJIu6U10H6b2SB_aYYhihVaroWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.whatsapp.com&sid=ab8e29#[🇩🇪]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.252.64.166:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇮🇪Ireland
 vless://ef4bef8c-8be8-4bd0-864b-532f48dd0ef0@g.soskom.ir:11045?mode=gun&security=reality&encryption=none&authority=&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel+%3A+%40NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#👉🆔 @MoftConfig📡🇩🇪Germany
 vless://8b562c77-fc99-4d25-9100-d8c0849cc9ff@23.227.39.154:2053?security=tls&sni=8b562c77-fc99-4d25-9100-d8c0849cc9ff.bvzizx.com&type=ws&host=cosi.bvzizx.com&path=%2Fwss37193#👉🆔 @MoftConfig📡🇨🇦Canada
