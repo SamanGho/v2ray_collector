@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxNS4yMDQuMjQ5LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWIxMTNjMTItNGRkNC00YmI1LTljMDEtY2ZmMDkyYjU1OWUzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODE2MCIsInBzIjoiW/Cfh7rwn4e4XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 trojan://telegram-id-privatevpns@18.133.54.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧@MoftConfig
 trojan://telegram-id-privatevpns@34.247.153.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮@MoftConfig
@@ -143,7 +144,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.74.30:22222?path=/telegram-ch
 vless://e8a0c5de-3475-4c5f-830e-7629b0fb1ed4@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/MoftConfig
 vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://b5efc2f6-2c03-4d26-8cd4-046755fd9f74@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
-vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/MoftConfig
 vless://0705c34c-059c-5455-98f5-45f2840fc77e@www.speedtest.net:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&security=none&encryption=none&host=sPeedtest2.sbs.tr2.vless.sitespeedtest.net&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://b5efc2f6-2c03-4d26-8cd4-046755fd9f74@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/MoftConfig
 vless://0705c34c-059c-5455-98f5-45f2840fc77e@www.speedtest.net:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&security=none&encryption=none&host=sPeedtest2.sbs.tr2.vless.sitespeedtest.net&type=ws#[🇨🇦]t.me/MoftConfig
