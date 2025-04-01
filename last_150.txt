@@ -1,3 +1,5 @@
+trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@2.elk3b3nwfy.xyz:20012/?type=tcp&security=tls&sni=2.elk3b3nwfy.xyz&allowInsecure=1#👉🆔 @MoftConfig📡🇨🇳China
+trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@3.2gyh5ybsic.xyz:20103/?type=tcp&security=tls&sni=3.2gyh5ybsic.xyz&allowInsecure=1#👉🆔 @MoftConfig📡🇨🇳China
 vless://2e258968-08ad-497a-83f5-7421ea07275c@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/MoftConfig
 trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@10.2gyh5ybsic.xyz:20110/?type=tcp&security=tls&sni=10.2gyh5ybsic.xyz&allowInsecure=1#👉🆔 @MoftConfig📡🇨🇳China
 trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@7.2gyh5ybsic.xyz:20107/?type=tcp&security=tls&sni=7.2gyh5ybsic.xyz&allowInsecure=1#👉🆔 @MoftConfig📡🇨🇳China
@@ -146,5 +148,3 @@ trojan://d67cfeaf-b277-44ac-ab99-9dd02a7c5299@104.21.49.59:443?security=tls&sni=
 vless://96f97d12-d89e-4ffc-9d33-77927f041570@46.249.35.171:50175?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=Hhu0s3MQbVt6XEggtDYUoy4DnzuIJw5VOhXC2QMQ_io&sid=ead5fbe08ecf49&type=tcp&headerType=none#👉🆔 @MoftConfig📡🇳🇱The Netherlands
 vless://f5202085-8402-4b17-9e35-58ccd1b7f79b@111.243.171.244:20413?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.visa.com&fp=chrome&pbk=BQk3bbYxbWAzoi8F0gl7oiM90YO7wFNuwTJRxaWtWFg&sid=bd2ca454&type=tcp&headerType=none#👉🆔 @MoftConfig📡🇹🇼Taiwan
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?encryption=none&security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://a180cc52-b030-4aea-93ef-f1c03d76aaba@135.181.155.147:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#[🇫🇮]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEVERrUUpEWnJ0c3FHTnZwVGxqSEZm@89.185.84.185:443#🇬🇧 Великобритания
