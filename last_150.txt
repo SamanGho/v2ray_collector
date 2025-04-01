@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@217.30.10.18:9020#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxNS4yMDQuMjQ5LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWIxMTNjMTItNGRkNC00YmI1LTljMDEtY2ZmMDkyYjU1OWUzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODE2MCIsInBzIjoiW/Cfh7rwn4e4XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 trojan://telegram-id-privatevpns@18.133.54.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧@MoftConfig
@@ -16,7 +17,6 @@ trojan://telegram-id-directvpn@13.50.186.147:22222?security=tls&alpn=http/1.1&he
 vless://7b33f59f-aada-4b49-a4ac-1c335977f2af@www.gov.se:443/?type=ws&encryption=none&host=vless1-698.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=vless1-698.pages.dev&fp=random&packetEncoding=xudp#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638781262651216263.london-shledrc-acad.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
 vless://9f8e1a22-34b2-46ce-bcdf-7ba24d89e0bd@mehdi22.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=wlghahz8IBborsnQMFjenhi87XdUiueAe32SWbmOPxc&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-channel-MTMVPN-Telegram-channel-MTMVPN&sni=www.cdn77.com&sid=5745335c15#[🇩🇪]t.me/MoftConfig
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.233:80?path=Telegram%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🇮🇷]t.me/MoftConfig
 vless://cb82bd86-49a4-4523-8013-6d64cac61303@g.soskom.ir:26528?mode=gun&security=reality&encryption=none&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&spx=%2F&type=grpc&sni=yahoo.com&sid=8f9d4d9a#[🇩🇪]t.me/MoftConfig
 vless://cb82bd86-49a4-4523-8013-6d64cac61303@g.soskom.ir:26528?mode=gun&security=reality&encryption=none&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&spx=%2F&type=grpc&sni=yahoo.com&sid=8f9d4d9a#[🇩🇪]t.me/ConfigsHub
 vless://1d8f0a7c-ed28-4b72-ad4f-5731ac5bec3a@151.101.64.155:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.42.isvpython.onlinE.&type=ws#[🇨🇦]t.me/MoftConfig
