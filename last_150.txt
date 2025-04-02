@@ -1,3 +1,4 @@
+vless://4d7d8bcd-3326-4947-904a-5deea0bd6b7b@V2rayNG.SPDNet.online:12685?type=grpc&serviceName=TEL%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet&authority=www.speedtest.net.A.164.speedtest2.livE&security=none#👉🆔 @MoftConfig📡🇩🇪Germany
 trojan://telegram-id-v2rayvpnchannel@3.69.65.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇩🇪Germany
 trojan://telegram-id-privatevpns@34.251.132.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇮🇪Ireland
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.159:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg#👉🆔 @MoftConfig📡🇿🇦South Africa
@@ -137,7 +138,6 @@ vless://2116c07c-564c-495a-b99b-ccf08fb90674@group.darkshadoww.shop:443?security
 trojan://telegram-id-privatevpns@18.202.87.205:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇮🇪Ireland
 vless://2edc7ea3-d7fc-4865-990d-1f5be6d4b065@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FSIGrNRCU4ongDlz4%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
-vmess://eyJhZGQiOiJrcjMudHRjYy50ZWNoIiwiYWlkIjowLCJob3N0Ijoia3IzLnR0Y2MudGVjaCIsImlkIjoiYjJkMTA2NzMtMjRjYy00Zjk2LWIxZjMtZGE4YjE3NTg5MDc3IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 vless://a180cc52-b030-4aea-93ef-f1c03d76aaba@135.181.155.147:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#👉🆔 @MoftConfig📡🇫🇮Finland
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@5.135.235.160:443?security=tls&headerType=none&type=tcp&sni=upload.soft98.download#👉🆔 @MoftConfig📡🇫🇷France
 vless://236e5945-16a9-449e-9915-028d383237ac@188.245.32.66:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @MoftConfig📡🇩🇪Germany
