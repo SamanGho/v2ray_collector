@@ -12203,3 +12203,6 @@ ss://12ceade9-20f7-415c-9765-7b44ec39e7bc@85.133.201.22:2053?encryption=none&sec
 vless://7a24dbf2-455a-480e-ae03-f99d436d43c6@37.27.15.167:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&host=Telegram#[🇫🇮]t.me/ConfigsHub
 trojan://3r372@tj786.37927.online:443?security=tls&headerType=none&type=tcp#⚜️Telegram:@IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.60.220:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+ss://2b024e2f-f975-49d0-a57a-14d01eac8a5e@huffingtonpost.es:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Hormozvppn.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=www.huffingtonpost.es#⚜️Telegram:@IP_CF
+ss://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443/?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gozargah.validbv7996.ir&fp=random&type=ws&sni=gozargah.validbv7996.ir#⚜️Telegram:@IP_CF
+ss://0cf13601-4752-4f9f-b196-e2e214a589bb@172.167.181.175:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=hefdah.dilik.co&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#⚜️Telegram:@IP_CF
