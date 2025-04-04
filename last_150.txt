@@ -1,3 +1,4 @@
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_bf623de@bazar.ir:443?path=%2Fvless&security=tls&encryption=none&host=tr1.vless.site&type=ws&sni=tr1.vless.site#[🇨🇦]t.me/MoftConfig
 vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.145.84:443/?type=tcp&encryption=none&security=tls&sni=147135001195.sec22org.com&fp=chrome#👉🆔 @MoftConfig📡🇺🇸United States
 vless://0644ddf4-92ed-4159-a47d-a3dc96ae0a9e@whatismyipaddress.com:2096?security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir#[🇨🇦]t.me/MoftConfig
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443/?type=tcp&encryption=none&security=tls&sni=147135001178.sec22org.com&fp=chrome#👉🆔 @MoftConfig📡🇺🇸United States
@@ -147,4 +148,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.53.170:22222?path=/telegram-c
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.112.62:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇫🇷France
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.226.58:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@46.137.38.244:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇮🇪Ireland
-trojan://telegram-id-directvpn@13.43.194.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
