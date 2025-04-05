@@ -1,4 +1,3 @@
-vless://eeeca24b-6607-4040-9dae-2259feac6145@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @MoftConfig📡🇩🇪Germany
 vless://e1f8f779-bd78-46a0-b196-707d169f4061@104.20.19.168:8080?security=none&sni=v2raylandd-90.vmjisexa.workers.dev&type=ws&host=v2raylandd-90.vmjisexa.workers.Dev#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://4aaa5edf-da3c-5c87-adb6-74431bf98ba2@104.17.147.99:2052?security=none&type=ws&host=sPeedtest2.sbs.tr1.vless.sitespeedtest.net&path=%2Fvless%23%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://21b6795b-6a85-4c77-9de3-05e705953f4d@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
@@ -148,3 +147,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:
 trojan://74260700211203800@daring-gobbler.shiner427.skin:443?allowInsecure=1#👉🆔 @MoftConfig📡🇯🇵®️Japan©️Koto-ku (Toyosu)🛜 ping:296.54ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@45.196.222.171:40000#👉🆔 @MoftConfig📡🇭🇰®️Hong Kong©️Hong Kong🛜 ping:212.83ms
 trojan://74260700211203800@daring-gobbler.shiner427.skin:443?allowInsecure=1#👉🆔 @MoftConfig📡🇯🇵®️Japan©️Koto-ku (Toyosu)🛜 ping:276.69ms
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.114:80?path=Telegram%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🇮🇷]t.me/ConfigsHub
