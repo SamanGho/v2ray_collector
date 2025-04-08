@@ -1,3 +1,6 @@
+vless://b981829e-9bd1-4a7d-880d-9169fc2bd275@104.21.96.87:443?security=tls&sni=pPaL03.JeSSy-pAdbeRG.wORkeRs.DEv&type=ws&host=PpaL03.jessY-PaDbErg.WORkers.dEv&path=%2FWD-WyJ_sdA7Bly5X%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?path=%2F&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:51.36ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:22.34ms
 trojan://telegram-id-directvpn@34.231.223.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
 vless://8dabe69a-0cf2-47d1-bce2-2404bb1d67d5@104.19.150.10:2095?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=none&encryption=none&host=mci.mtn.ir.com.org.net.om.org.my-digimento0.ir.&type=httpupgrade#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:55.56ms
 vless://4a617961-06bb-405d-b1d8-28abaaaf18e7@157.173.127.235:443?security=reality&encryption=none&pbk=k9oHeYY0hNmcd6BRZQTX9sp0ZQR7Bx85fPMu0v4uvwc&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=c5a5eca0d8234375#👉🆔@MoftConfig📡🇩🇪®️Germany©️Düsseldorf🅿️ping:37.02ms
@@ -127,10 +130,7 @@ vless://8cba15d2-7c60-48b5-8075-58790b4ed714@91.107.183.103:443?security=reality
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FJoin_Bade_Channel@Nicotine_joker&fp=randomized#[🇨🇦]t.me/MoftConfig
 vless://44fc8c02-bf71-4331-89f7-e722a943ddd5@g.soskom.ir:11045?mode=gun&security=reality&encryption=none&authority=&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel+%3A+%40NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#[🇩🇪]t.me/ConfigsHub
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1#[🇫🇮]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWUjlKa1BLYnVmT1pRMmxy@admin.c4.havij.co:443#⚜️Telegram:@IP_CF
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0%3D@212.118.42.181:9260#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWNiOGZhNS03YWY1LTRhZGYtOWE4NC0wNTRmODRkYjc4M2Q@free.2weradf.xyz:36641#[🏁]t.me/ConfigsHub
-vmess://ewogICAgImFkZCI6ICJvYmRpaS5jZmQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJvYmRpaS5jZmQiLAogICAgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAidGVsZWdyYW0g8J+MuiBEYWlseVYycnkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJvYmRpaS5jZmQiCn0=Daily
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmJmYjQ5NS1hMzE3LTQ5YjAtOGZhMS0yZWQxZDMxYmQzNDM@free.2apzhfa.xyz:31211#[🏁]t.me/MoftConfig
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp&allowInsecure=1#[🇩🇪]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmJmYjQ5NS1hMzE3LTQ5YjAtOGZhMS0yZWQxZDMxYmQzNDM@free.2apzhfa.xyz:31411#[🏁]t.me/MoftConfig
