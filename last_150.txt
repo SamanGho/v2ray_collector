@@ -1,9 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.43:8880/?type=grpc&encryption=none#[🇺🇸]t.me/MoftConfig
-vless://a07827b5-4b27-4910-8333-f78949562fc9@138.128.225.100:443?security=tls&sni=design-mobo.ir&type=ws&fp=chrome&alpn=h2,http/1.1#[🇦🇪]t.me/MoftConfig
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.11.126:59483/?type=grpc&encryption=none&security=auto#[🇺🇸]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmRiYTMxMC0xMTM5LTRkZTctYTRlNC0wNWMwZjE0NjIyNDE@185.225.20.17:30005#[🏁]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmRiYTMxMC0xMTM5LTRkZTctYTRlNC0wNWMwZjE0NjIyNDE@156.224.79.232:30006#[🏁]t.me/ConfigsHub
-vmess://eyJhZGQiOiIxOTUuNTguNDkuODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDZlYjZiOGMtMmZkNi00ZDg2LWExZWQtMTg4ZmJjNmZlYWEzIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjIyMDAxIiwicHMiOiJb8J+Ht/Cfh7pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmRiYTMxMC0xMTM5LTRkZTctYTRlNC0wNWMwZjE0NjIyNDE@45.207.157.83:30001#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmRiYTMxMC0xMTM5LTRkZTctYTRlNC0wNWMwZjE0NjIyNDE@83.147.15.46:30002#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmRiYTMxMC0xMTM5LTRkZTctYTRlNC0wNWMwZjE0NjIyNDE@83.147.15.46:30002#[🏁]t.me/MoftConfig
@@ -148,3 +142,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.17:8880?mode=gun&security=n
 vless://54e5a128-9e5e-4e06-8af7-d8fa48f5dec7@tify-binex-join.espikernajafi.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#[🇩🇪]t.me/MoftConfig
 vless://7628b76d-174e-460b-9a49-0cbbd972fd08@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#[🇩🇪]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.22.116.154:8880?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#[🏁]t.me/MoftConfig
+vless://6ebf7cdf-2114-4ac1-affc-3ea2a1066d36@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vmess://eyJhZGQiOiIxOTMuMTA4LjExOS4xOTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2QzNmI2Y2ItNWQ4OS00NmYwLTlkNTEtNjViNTkxMzAxNzYyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMzg0MyIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://c29d39bd-92a4-45db-bb61-56013998617c@www.speedtest.net:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.htr.ddns-ip.net&type=ws&sni=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.htr.ddns-ip.net#[🇨🇦]t.me/MoftConfig
+vless://aedb48d6-8acc-4644-b74b-21ee6b3286d6@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowN2YwZjQ4MDg1OTkxN2Mw@85.190.246.242:41519#⚜️Telegram:@IP_CF
+vless://6babb657-1524-43bb-b421-11bda27bc9de@www.speedtest.net:443?path=salaam&security=tls&alpn=h2&encryption=none&host=gpt.smatiz.info&fp=chrome&type=ws&sni=gpt.smatiz.info#[🇨🇦]t.me/MoftConfig
