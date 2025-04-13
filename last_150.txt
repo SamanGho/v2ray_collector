@@ -1,3 +1,4 @@
+vless://6131ecda-eedd-42e3-b84c-2be4a31fdfa8@173.245.59.132:8080?encryption=none&security=none&type=httpupgrade&host=evay-free.ysphs.top.&path=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://780161d1-a345-45d4-96fb-c2c4b88bf151@104.21.44.107:443?encryption=none&security=tls&sni=dd.gevom47953.workers.dev&type=ws&host=dd.gevom47953.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://1fb465ac-60fb-4b77-b4a6-cc590ee6124e@104.21.24.57:443?encryption=none&security=tls&sni=freedom3.pacica4041.workers.dev&type=ws&host=freedom3.pacica4041.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://f6c960f3-dc81-45ca-9891-4138f78d9125@172.67.190.173:443?encryption=none&security=tls&sni=FalcuNaRgO.e9744be7d6.woRKeRs.DEv&type=ws&host=FalCUnaRGO.E9744be7D6.woRKERs.Dev&path=%2Fvn1-fm3_Ez8K-mTw%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
@@ -140,7 +141,6 @@ trojan://telegram-id-privatevpns@3.65.152.192:22222?security=tls&alpn=http/1.1&h
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NjVlNGQyZS05YmQwLTRlMTEtYWU4Ni1kMjFjOTczOTYwZDA@free.2apzhfa.xyz:31341#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiI0Ni4yNTAuMjM0LjMyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImIyODM2MzY5LTIyMGItNDg0MC04MGM0LThjZjkwNGM3MzVlZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDUzMTciLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@43.156.181.203:443?security=tls&sni=edccy.aimercc.filegear-sg.me&type=ws&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#[🏁]t.me/ConfigsHub
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.69.199.116:59483?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.125:8880?mode=gun&security=none&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=random&type=ws&sni=masaleini.mahsaamini.dpdns.org#[🇨🇦]t.me/ConfigsHub
