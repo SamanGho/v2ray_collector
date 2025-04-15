@@ -1,3 +1,5 @@
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.74.18:59483?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇫🇮]t.me/MoftConfig
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.38.194:59483?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇫🇮]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.197.202.176:59483?encryption=none&security=none&fp=chrome&type=grpc#[🇺🇸]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.64.73:59483?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇫🇮]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@128.140.124.194:59483?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇩🇪]t.me/MoftConfig
@@ -141,10 +143,8 @@ vless://7c1c9771-b081-417c-8895-c84201680a87@85.133.206.224:13000?security=none&
 vless://31c42652-a059-46e1-b7a7-76e9a8682bb4@217.61.20.57:38849?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🇬🇧]t.me/ConfigsHub
 vless://95984f4e-0733-4430-a937-f630cb2fb113@62.60.221.87:25679?type=tcp&host=cloudflare.com&headerType=http#[🇮🇷]t.me/ConfigsHub
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.141.118:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-vless://00cbf18a-7800-4333-8f41-4ae64db3ded1@95.179.248.225:13754?security=reality&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=ea1058117be12087&type=grpc&serviceName=xyz&packetEncoding=xudp&encryption=none#[🇩🇪]t.me/ConfigsHub
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.201:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.206.160:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/MoftConfig
 vless://00cbf18a-7800-4333-8f41-4ae64db3ded1@95.179.248.225:13479?security=none&type=tcp&host=ilovepdf.com&headerType=http#[🇩🇪]t.me/MoftConfig
-vless://527d06c5-c0ce-4e43-ecd4-0864d3671874@65.109.221.64:23227?security=none&type=ws&packetEncoding=xudp&encryption=none#[🇫🇮]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.67.87:59483?security=none&type=grpc#[🇺🇸]t.me/MoftConfig
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.134.199:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/MoftConfig
