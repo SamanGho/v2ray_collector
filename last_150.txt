@@ -1,3 +1,11 @@
+vmess://eyJhZGQiOiIxOTUuNTguNDkuODQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjAyZGM5ZDk4LWFmMTYtNGM4Zi04ZjkxLWIyOTQwNjIyMzcyYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6MjIwMDksInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.38.194:59483?type=grpc#[🇫🇮]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTkyYTgzMy1iMTE4LTRiNDYtOGU1NC0xMmNmNTAyNWQ0Y2Q@gsyd.aicheetah.lol:55601#[🏁]t.me/ConfigsHub
+vless://0d4438b4-d7b5-4837-ae6c-c4851c2f30ca@173.245.59.132:8080?type=httpupgrade&host=evay-free.ysphs.top.&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&security=none#[🇨🇦]t.me/MoftConfig
+vless://72d7ab94-4849-4a27-a840-ece6c8b53355@188.114.97.3:443?path=%2FLpzVdXD0ymOpZWeV%3Fed%3D2560flow%3D-udp443&security=tls&encryption=none&host=bestvpn-7qp.pages.dev&fp=chrome&type=ws&sni=bEstvpn-7Qp.pagES.dEV#[🇨🇦]t.me/ConfigsHub
+vless://c92856da-9532-49ec-bb71-d981a623f5c9@172.67.165.22:443?path=%2F&security=tls&encryption=none&host=freedom6.mamav81785.workers.dev&type=ws&sni=freedom6.mamav81785.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://dc3593a2-b748-4ec1-87fd-5834d26ef0aa@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+vless://785cf3d4-96f4-4b7b-a775-018ef266cc94@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.76:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🏁]t.me/MoftConfig
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.220.173.163:443#[🇺🇸]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.180.74.18:59483?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇫🇮]t.me/MoftConfig
@@ -137,14 +145,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NmZneUMyOGhzY21kd3FYajJ2MEZt@62.60.152.158:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDY2MDhjNC0xZTNmLTRhNTctYjRlOC05ODc5ZGQ1YzA5Y2Q@free.2weradf.xyz:36115#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxODFkZjQ0MC05NzZhLTQ2OWItYmRiOC03M2M0NzdkODdiMWE@free.2weradf.xyz:36111#[🏁]t.me/ConfigsHub
 vless://cf25a07b-798a-4912-9611-04d906a9189c@217.61.20.71:55443?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🇬🇧]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2ME5IbENsMm52VmZDOEFlWlBNZmZp@77.110.106.77:36301#[🇺🇸]t.me/ConfigsHub
 vless://99333609-167f-4750-ab63-34cfa27c723a@172.67.204.84:2053?path=%2Fcontainers%2Fde&security=tls&encryption=none&host=all18.kikforwindows.com&type=ws&sni=all18.kikforwindows.com#[🇨🇦]t.me/ConfigsHub
-trojan://1680cbc0-193c-11f0-a98e-1239d0255272@103.253.24.212:443/?type=tcp&security=tls&sni=tgju.org&allowInsecure=1#⚜️Telegram:@IP_CF
-trojan://telegram-id-privatevpns@13.61.250.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.206.215:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
-vless://24de3f3c-372b-4e2e-9e52-e8766a737871@cloudgetservice.mcloudservice.site:443?path=%2Flinkws%3Fed&security=tls&encryption=none&host=maxNEtviPAp-uk1.mAxnEtServicEs.ONLine&type=ws&sni=maxNEtviPAp-uk1.mAxnEtServicEs.ONLine#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.206.215:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
-trojan://telegram-id-directvpn@51.21.123.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMzBRaFVqemRVdFhpMXRzRHNGN0cx@147.45.221.106:46356#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@51.21.123.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
