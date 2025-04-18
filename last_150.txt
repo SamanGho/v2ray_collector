@@ -1,5 +1,3 @@
-vless://409e3014-38f1-4746-8cf7-9e869029be92@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/MoftConfig
-vless://17d1e2e2-5d61-47ce-b757-8feb674ba2ca@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/MoftConfig
 vless://f2f87937-e802-47b7-8818-2eff7a0e3e58@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.speedtest2.cfd.&encryption=none#[🇨🇦]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.74:8880?security=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://c2f690dc-6187-48a8-aa8b-b75d43d11df4@104.17.147.22:2053?security=tls&sni=app37.appdatanewh.lat&type=ws&host=app37.appdatanewh.lat&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/MoftConfig
@@ -148,3 +146,5 @@ ss://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?security=none&type=w
 vless://667b5dfa-7ec4-45d7-ba9c-6957eed8cfbb@157.173.127.239:443?security=reality&sni=analytics.google.com&type=raw&fp=chrome&pbk=c5VJpRsIyrxNp0eS3Lz5EMQH6jWBsvSTK7hNZQ77bl4&sid=4fd4ad#[🇩🇪]t.me/ConfigsHub
 ss://84f93722-ced5-4447-bd0e-74c3658227b1@151.101.0.155:80?security=none&type=ws&host=mt.acvs.ir&path=%2FChannel----MTMVPN----MTMVPN---MTMVPN---MTMVPN---MTMVPN----PROXY_MTM----PROXY_MTM----PROXY_MTM---MTMVPN---MTMVPN---MTMVPN%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
 ss://a89981b0-8096-4bbc-8d24-da2330650c4b@140.245.44.250:443/?type=ws&encryption=none&host=sgp.cayuo.me&path=%2Fbing&security=tls&sni=sgp.cayuo.me&packetEncoding=xudp#[🏁]t.me/MoftConfig
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@154.92.9.2:443?path=%2FTelegram%40V2ray_Alpha&security=tls&encryption=none&host=digitalscientificresearchgroup.ir&type=ws&sni=digitalscientificresearchgroup.ir#[🏁]t.me/MoftConfig
+vless://54948e91-700c-4663-b289-cae65830aebf@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
