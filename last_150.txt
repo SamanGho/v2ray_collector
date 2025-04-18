@@ -1,3 +1,7 @@
+vless://2a14775d-4acc-4fec-a53f-049ddd44ed0e@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://7c1c9771-b081-417c-8895-c84201680a87@85.133.206.224:13000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&path=/&headerType=http#[🇮🇷]t.me/ConfigsHub
+vless://31c42652-a059-46e1-b7a7-76e9a8682bb4@217.61.20.57:38849?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🇬🇧]t.me/ConfigsHub
+vless://95984f4e-0733-4430-a937-f630cb2fb113@62.60.221.87:25679?type=tcp&host=cloudflare.com&headerType=http#[🇮🇷]t.me/ConfigsHub
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.141.118:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.201:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.206.160:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/MoftConfig
@@ -73,7 +77,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.204:8880?mode=gun&security=
 vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@52.22.101.178:80?encryption=none&security=none&type=tcp&headerType=none#[🇺🇸]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.75.132:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#[🇺🇸]t.me/ConfigsHub
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.193:443?path=%2Fss.vs2024.us.kg&security=tls&encryption=none&host=vb.bgm2024.dpdns.org&type=ws&sni=vb.bgm2024.dpdns.org#[🇺🇸]t.me/ConfigsHub
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.189.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=random&type=ws&sni=cr7.traneh.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560flow%3D-udp443&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://c6763909-34f1-4b80-9522-f70d930e90e6@jp4.interld123456789.com:56702?security=reality&encryption=none&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=792147b8#[🇺🇸]t.me/ConfigsHub
@@ -83,9 +86,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZjk0WlIwdU9PTFR0UlllVWh6ckhp@89.185.84.185:
 vless://4e118336-5ab5-441e-8824-5f37b3ff54a9@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiJrYXBlbGxlbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyNURUxFR1JBTS1NQVJBTUJBU0hJX01BUkFNQkFTSEk/ZWRcdTAwM2Q1MTIiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImthcGVsbGVuZy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 trojan://telegram-id-privatevpns@35.180.220.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=cr777.rayan.dpdns.org&fp=chrome&type=ws&sni=cr777.rayan.dpdns.org#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.180.220.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#[🇨🇦]t.me/ConfigsHub
 vless://007d0673-c371-4d09-99d3-5fe28a483615@151.101.3.8:80?mode=auto&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Jointovistav2ray.fun.&fp=chrome&type=xhttp&sni=hajlab.ucdavis.edu#⚜️Telegram:@IP_CF
 trojan://telegram-id-vlessconfig@3.255.52.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇮🇪
 trojan://telegram-id-vlessconfig@13.61.53.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇸🇪
@@ -142,7 +143,6 @@ vless://512ce8aa-1865-4eb1-9c16-2bdc4da340b8@hajlab.ucdavis.edu:80?security=&typ
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.215.37:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-privatevpns@15.188.97.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 vless://5e67fcad-3ae2-4f6b-855d-82dc1d174eef@joooon.hajalii.com:47154?type=tcp&security=none#[🇩🇪]t.me/ConfigsHub
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.25:80?path=%2F&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://1a35d31c-4cc4-400a-9f49-a289496cd347@188.245.105.235:4298?type=grpc&serviceName=WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel&authority=&security=none#[🇩🇪]t.me/MoftConfig
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.233:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://72e83551-0fca-499d-9aae-5a9976c66c5e@joooon.hajalii.com:20358?type=xhttp&mode=auto&path=/&security=none#[🇩🇪]t.me/ConfigsHub
