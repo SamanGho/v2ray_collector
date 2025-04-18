@@ -1,3 +1,9 @@
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@108.162.196.159:443?encryption=none&security=tls&sni=cr7777.rayan.dpdns.org&fp=chrome&allowInsecure=1&type=ws&host=cr7777.rayan.dpdns.org&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://3d21c9bc-023b-4bb5-9b84-30523597a84a@68.183.44.89:2095?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#[🇬🇧]t.me/ConfigsHub
+vless://2a14775d-4acc-4fec-a53f-049ddd44ed0e@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://7c1c9771-b081-417c-8895-c84201680a87@85.133.206.224:13000?security=none&type=tcp&host=rubika.ir.igap.net.soft98.ir&path=/&headerType=http#[🇮🇷]t.me/ConfigsHub
+vless://31c42652-a059-46e1-b7a7-76e9a8682bb4@217.61.20.57:38849?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🇬🇧]t.me/ConfigsHub
+vless://95984f4e-0733-4430-a937-f630cb2fb113@62.60.221.87:25679?type=tcp&host=cloudflare.com&headerType=http#[🇮🇷]t.me/ConfigsHub
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.141.118:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.201:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.206.160:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/MoftConfig
@@ -125,12 +131,9 @@ trojan://bpb-trojan@162.159.152.2:443/?type=ws&host=zamim340.ggff.net&path=%2Ftr
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443/?type=ws&encryption=none&host=cr7.traneh.dpdns.org&path=%2Fsinavm-sinavm%2F%3Fed%3D2560flow%3D-udp443&security=tls&sni=cr7.traneh.dpdns.org#[🇨🇦]t.me/MoftConfig
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.189.41:443/?type=ws&encryption=none&host=cr7.traneh.dpdns.org&path=%2F&security=tls&sni=cr7.traneh.dpdns.org&fp=random#[🇨🇦]t.me/ConfigsHub
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@108.162.196.159:443/?type=ws&encryption=none&host=cr7777.rayan.dpdns.org&path=%2F%3Fed&security=tls&sni=cr7777.rayan.dpdns.org&fp=chrome#[🇨🇦]t.me/ConfigsHub
-vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?path=%2F&security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=random&type=ws&sni=masaleini.mahsaamini.dpdns.org#[🇨🇦]t.me/MoftConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.29:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://ef9ff6ce-eda5-4982-b609-fb41ed1062fa@91.92.40.78:2070?security=none&encryption=none&headerType=none&type=tcp#[🇸🇪]t.me/MoftConfig
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40mtmvpn&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#[🇨🇦]t.me/MoftConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.250:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/MoftConfig
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.169:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#[🇮🇷]t.me/MoftConfig
 trojan://telegram-id-directvpn@15.188.97.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.34:80?path=Telegram%40WangCai2%2F%3Fed&security=&encryption=none&host=redfree8.pooriashop.ir&type=ws#[🏁]t.me/MoftConfig
@@ -138,13 +141,10 @@ vless://577bd806-586b-4416-b885-7577bd12e474@www.speedtest.net:80?security=&type
 vmess://eyJhZGQiOiJrYXBlbGxlbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4e68J+HuF10Lm1lL0NvbmZpZ3NIdWIgLCxBbGwsLCIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 trojan://Aimer@52.76.137.189:443?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/MoftConfig
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?path=%2F&security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=random&type=ws&sni=masaleini.mahsaamini.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.113.134:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇺🇸]t.me/MoftConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/MoftConfig
 vmess://eyJhZGQiOiJrYXBlbGxlbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoia2FwZWxsZW5nLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.45.221:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇺🇸]t.me/MoftConfig
-vless://033a4982-a8c7-4bfb-9481-5a8a1c62cfd6@104.21.93.95:80?path=%2FiDE2j5JJnqTGPjmS%3Fed%3D2560&security=none&encryption=none&host=azadnet.b0b723a182.workers.dev&type=ws#⚜️Telegram:@IP_CF
 vless://512ce8aa-1865-4eb1-9c16-2bdc4da340b8@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.215.37:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-privatevpns@15.188.97.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
