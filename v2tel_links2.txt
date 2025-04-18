@@ -16619,3 +16619,43 @@ trojan://Aimer@154.197.64.240:8443?allowInsecure=0&sni=epcco.ambercc.filegear-sg
 trojan://telegram-id-directvpn@52.48.82.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.245.215.44:442?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/MoftConfig
 trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#[🇳🇱]t.me/MoftConfig
+trojan://telegram-id-privatevpns@56.228.39.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇸🇪@MoftConfig
+vless://0cd2c22e-7bab-41cc-8168-c77be874d632@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇬🇧]t.me/ConfigsHub
+vless://0f38c3a9-e0c0-47ba-c619-0f16933f1d18@151.101.130.219:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDlhODc3Ni0yNWMzLTQxNjAtODEzYS0yNDA5ZjFhMDg1MjM@free.2apzhfa.xyz:31611#[🏁]t.me/ConfigsHub
+vless://8dc5b94a-382f-4d34-b44e-d78ba12aee1a@104.22.32.78:8880?type=ws&host=join.vPncustomize.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized#[🇨🇦]t.me/ConfigsHub
+trojan://Aimer@173.245.59.144:443?sni=epcci.ambercc.filegear-sg.me&allowInsecure=0#⚜️Telegram:@IP_CF
+vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@198.41.209.70:443?path=%2F&security=tls&encryption=none&host=is.oldcloud.online&type=ws&sni=is.oldcloud.online#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiODQyZTVkZC04ODExLTQ2ZDEtOWU4Mi01OTM3M2I5MWQ2NWM@free.2weradf.xyz:36211#[🏁]t.me/MoftConfig
+vless://0cd2c22e-7bab-41cc-8168-c77be874d632@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiODQyZTVkZC04ODExLTQ2ZDEtOWU4Mi01OTM3M2I5MWQ2NWM@free.2weradf.xyz:36313#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiODQyZTVkZC04ODExLTQ2ZDEtOWU4Mi01OTM3M2I5MWQ2NWM@free.2weradf.xyz:36731#[🏁]t.me/MoftConfig
+vless://0cd2c22e-7bab-41cc-8168-c77be874d632@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiODQyZTVkZC04ODExLTQ2ZDEtOWU4Mi01OTM3M2I5MWQ2NWM@free.2weradf.xyz:36671#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiODQyZTVkZC04ODExLTQ2ZDEtOWU4Mi01OTM3M2I5MWQ2NWM@free.2weradf.xyz:36211#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiJzYW5qb3NlMDUuODUyMjI0LmdnZmYubmV0IiwiYWlkIjowLCJob3N0Ijoic2Fuam9zZTA1Ljg1MjIyNC5nZ2ZmLm5ldCIsImlkIjoiODljMWFlYTctNGQwZC00MDEzLWI2NjMtMGY5NGEzZTZiZGJkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9ZZkIyOUdYZjRjVGhKUWVKYiIsInBvcnQiOjQ0MywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiODQyZTVkZC04ODExLTQ2ZDEtOWU4Mi01OTM3M2I5MWQ2NWM@free.2weradf.xyz:36371#[🏁]t.me/MoftConfig
+vless://8dc5b94a-382f-4d34-b44e-d78ba12aee1a@104.22.32.78:8880?type=ws&host=join.vPncustomize.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized#[🇨🇦]t.me/MoftConfig
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@162.159.153.2:443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&fp=randomized&type=ws&sni=vlee.amclubs.nyc.mn#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiODQyZTVkZC04ODExLTQ2ZDEtOWU4Mi01OTM3M2I5MWQ2NWM@free.2weradf.xyz:36671#[🏁]t.me/MoftConfig
+vless://46cb3ca5-1626-11f0-b2ee-52540017d97b@t2.vixsm.ir:4814?security=&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiODQyZTVkZC04ODExLTQ2ZDEtOWU4Mi01OTM3M2I5MWQ2NWM@free.2weradf.xyz:36471#[🏁]t.me/MoftConfig
+vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.chandplus.com#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDlhODc3Ni0yNWMzLTQxNjAtODEzYS0yNDA5ZjFhMDg1MjM@free.2apzhfa.xyz:31611#[🏁]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@56.228.39.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇸🇪
+vless://0cd2c22e-7bab-41cc-8168-c77be874d632@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNNk5UZnp6SXJTM3ByQVVpVmNwNURK@89.185.84.185:443#⚜️Telegram:@IP_CF
+vless://0f38c3a9-e0c0-47ba-c619-0f16933f1d18@151.101.130.219:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@56.228.39.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+vless://af0d307d-11ad-4a6b-8dc5-b9c05be1dcc5@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+trojan://telegram-id-directvpn@56.228.39.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://5a08da9e-ce5f-4b6c-ac1b-527fef88aaa6@www.speedtest.net:8880?type=ws&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=vihypercloud.academigroup.ir.&security=none#[🇨🇦]t.me/MoftConfig
+vless://5a08da9e-ce5f-4b6c-ac1b-527fef88aaa6@www.speedtest.net:8880?type=ws&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=vihypercloud.academigroup.ir.&security=none#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@56.228.39.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@56.228.39.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇸🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRE13WldJeg%3D%3D@89.221.224.166:8388#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@exchange.gameaurela.click:52952#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiJiaWlpYS12cG4td2hhbC5mYXN0Lmhvc3RpbmctaXAuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYXQuSVIuIiwiaWQiOiJpZDQ1LS0tQHZwbi13aGFsIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNTYvI2lkLXRlbGVncmFtOi0tLVx1MDAzZUB2cG5fd2hhbFx1MDAzYy0tLSIsInBvcnQiOiI4MCIsInBzIjoiW/Cfh7rwn4e4XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@198.41.209.70:443?path=%2F&security=tls&encryption=none&host=is.oldcloud.online&type=ws&sni=is.oldcloud.online#[🇨🇦]t.me/MoftConfig
+vless://telegram-ArV2ray@www.speedtest.net:2052?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&security=none&encryption=none&host=Www.speedtest.net.a.2.mashti.link.&type=ws#WS-Irancell+%7C+%40ArV2ray
