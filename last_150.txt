@@ -1,3 +1,4 @@
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.209.80.28:443#[🏁]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@178.128.186.239:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.11.198.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇬🇧@MoftConfig
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.179.20.184:443#[🏁]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@185.146.173.16:2052?security=none&s
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.213.195:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&fp=chrome#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNmQzZTAzMC0yZmUxLTRkNTItOGZmNC02OTdjZDUxZjg2OTg@free.2weradf.xyz:36441#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNmQzZTAzMC0yZmUxLTRkNTItOGZmNC02OTdjZDUxZjg2OTg@free.2weradf.xyz:36215#[🏁]t.me/ConfigsHub
-vmess://eyJhZGQiOiI1LjE4MC4zMC4xMTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmNmODY0NzktYWFiNC00N2NmLTlkNmUtMzRkMzUzYmFhMWEyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MTM1MiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
