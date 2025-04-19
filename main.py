@@ -69,7 +69,7 @@ def gather_last_150_links():
         except Exception as e:
             print(f"Error reading {filename}: {e}")
     unique_links = list(dict.fromkeys(all_links))  # Preserve order and remove duplicates
-    last_links = unique_links[-150:]  # Get the last 150 links
+    last_links = unique_links[-250:]  # Get the last 150 links
     try:
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write('\n'.join(last_links))
