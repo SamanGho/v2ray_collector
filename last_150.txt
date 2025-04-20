@@ -1,10 +1,3 @@
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.141.118:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.201:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/MoftConfig
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.206.160:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/MoftConfig
-vless://00cbf18a-7800-4333-8f41-4ae64db3ded1@95.179.248.225:13479?security=none&type=tcp&host=ilovepdf.com&headerType=http#[🇩🇪]t.me/MoftConfig
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.67.87:59483?security=none&type=grpc#[🇺🇸]t.me/MoftConfig
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.134.199:443?sni=edcci.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#[🏁]t.me/ConfigsHub
 vless://9b219132-8757-4b0c-a572-50455e452d84@104.17.148.22:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://0093d1db-45e7-47ea-8aed-1ab87ef6fac4@185.143.235.1:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=www.error-log.ir&fp=chrome&type=ws&sni=r1-edge-v2-p.s3mer.net#[🇮🇷]t.me/ConfigsHub
 vless://33200397-46de-4701-88fe-648b98fe1358@138.128.225.100:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=ns.design-mobo.ir#[🇦🇪]t.me/ConfigsHub
@@ -248,3 +241,10 @@ vless://15f858a5-3b51-4fe1-a66b-39871f86cc3f@23.88.62.209:2089?security=reality&
 vless://ef9dcc45-fa18-4ad5-8235-ab7cc93adb18@151.101.204.249:80?security=none&type=ws&host=website.amin-app.ir&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#[🇳🇱]t.me/ConfigsHub
 vless://6ecaeb2e-e582-aca0-f972-b0f83f478299@s3.saitsazs.ir:30004?security=reality&type=grpc&authority=mci.ir&mode=gun&sni=refersion.com&fp=safari&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#[🇫🇷]t.me/ConfigsHub
 vless://3feb3c38-d864-4184-f051-7d6156234f7f@172.67.160.233:8880?path=%2FTelegram-Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn---Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn-Admin-Mystic_vpn%3Fed%3D2048&security=none&encryption=none&host=Mystic-vpn.academivpn-mystic.site.&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYWE2OTM4NC00MzU3LTQzYWItOGFlZi0wMzczYTNjMmQ0YTk@free.2apzhfa.xyz:31115#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTE1MTFiMS1mN2I2LTQwZDMtYjkwNy05N2FkNzYzN2Q0MTc@free.2weradf.xyz:36371#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYWE2OTM4NC00MzU3LTQzYWItOGFlZi0wMzczYTNjMmQ0YTk@free.2apzhfa.xyz:31722#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYWE2OTM4NC00MzU3LTQzYWItOGFlZi0wMzczYTNjMmQ0YTk@free.2apzhfa.xyz:31741#[🏁]t.me/ConfigsHub
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#⚜️Telegram:@IP_CF
+vless://2b619c86-0173-4779-b1db-91bd18e3a618@104.21.79.221:2096?security=tls&sni=phantom.persia.my&type=ws&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
+trojan://e604616e-645e-41d0-96e6-c6dd7a03cba5@sla.cn.964e995b760.gogodns.xin:27101?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
