@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.74:8880?security=none&type=grpc#[🇺🇸]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.27.215:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZGM0OGE3YS1iNjE4LTQ1YWYtYTgzMS01YWZiZDY4NmIwMmY@gg21.hangfengjiasu.com:13203#[🏁]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.133.208:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
@@ -246,5 +247,4 @@ vless://V2RAXX----@V2RAXX-channel.cataba.ir:1234?mode=gun&security=none&encrypti
 vless://V2RAXX----@V2RAXX-channel.cataba.ir:1234?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX#[🇩🇪]t.me/MoftConfig
 vless://a04ad97c-36c8-47d8-b8b8-283d62b53b2f@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
 vless://V2RAXX----@V2RAXX-channel.cataba.ir:15379?path=%2F%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%3Fed%3D2560&security=none&encryption=none&type=ws#[🇩🇪]t.me/MoftConfig
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiYjRlMjdmZjMtc3Yyc2cwLXQ2eW9tay0xaGZhYy5oZ2MxLnRjcGJici5uZXQiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMTcwNDlmZTAtYTA0ZS0xMWVjLWE4YmYtZjIzYzkxY2ZiYmM5IiwiYWlkIjoiMiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwidGxzIjoiIn0=
 vless://V2RAXX----@V2RAXX-channel.cataba.ir:15379?path=%2F%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%3Fed%3D2560&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
