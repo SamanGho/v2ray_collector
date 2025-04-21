@@ -1,3 +1,5 @@
+vless://f4142b19-e943-41cd-b324-c0965a30650b@104.18.8.74:443?path=%2Fadmin&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&fp=random&type=ws&sni=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li#[🇨🇦]t.me/ConfigsHub
+vless://de4cffdb-4e60-4284-9161-1c37c3313029@104.18.14.19:2052?security=none&type=ws&host=0228.losdnett.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://---telegram--ISVvpn---2@www.speedtest.net:80?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.isv.speedtest5.sitE.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://9afb8981-4211-496b-8d08-62626bed352a@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://3d37dc61-81fb-44fc-bf20-3cfdeeb84b98@hajlab.ucdavis.edu:80?type=ws&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&host=joinxvproxybedee.ir&security=none#[🇺🇸]t.me/ConfigsHub
@@ -239,8 +241,6 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.108:80?path=%2F&security=n
 vless://c96cec85-560a-467a-96f6-e40d6a63dfc8@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.108:80?encryption=none&security=none&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=%2F#[🇮🇷]t.me/MoftConfig
 trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info&type=tcp&headerType=none#[🇺🇸]t.me/MoftConfig
-vmess://eyJhZGQiOiJhYjViNDU3Yy1zdjRuNDAtdGFzb3JzLTF0ZHF0Lmx6Yi5wbGViYWkubmV0IiwiYWlkIjoyLCJob3N0IjoiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCJpZCI6IjE2N2RiOTdjLWVlMDEtMTFlZi1iNzM3LWYyM2M5MWNmYmJjOSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6ODAsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.203.128:443#⚜️Telegram:@IP_CF
 vless://e2968be0-2467-499c-952e-2f6dda725cc5@5.199.174.190:443?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.203.128:443#[🇬🇧]t.me/ConfigsHub
 vless://dcf88e16-a70d-4eb9-9121-07726b85e54e@84.32.186.239:443?mode=gun&security=none&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
