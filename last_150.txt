@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVHpqd05hOEE4YWppcXRENnNkeXRQ@147.45.51.30:443#[🏁]t.me/ConfigsHub
 vless://ebbd3aa7-60ac-4a1a-9377-91ef60b7d6e9@185.143.235.1:443?path=%2Ftelegram-mitivpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dash.error-log.ir&fp=chrome&type=ws&sni=r1-edge-v2-p.s3mer.net#[🇮🇷]t.me/ConfigsHub
 vless://mitivpn@138.128.225.100:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=www.design-mobo.ir#[🇦🇪]t.me/ConfigsHub
 vless://33200397-46de-4701-88fe-648b98fe1358@185.143.235.1:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdn.error-log.ir&fp=chrome&type=ws&sni=r1-edge-v2-p.s3mer.net#[🇮🇷]t.me/ConfigsHub
@@ -120,7 +121,6 @@ trojan://telegram-id-directvpn@52.48.82.57:22222?security=tls&alpn=http/1.1&head
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.105:8880?type=grpc#[🏁]t.me/ConfigsHub
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.35.132.172:443#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.48.82.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.93.10:8091#[🇺🇸]t.me/ConfigsHub
 vless://f4deb8e2-d957-4042-c2ee-39bbd16fc00a@104.17.147.22:80?type=httpupgrade&host=www.speedtest.net.ns.cloudflare.com.try.cloudflare.com.toshan.ip-ddns.com.&path=/%54%65%6c%65%67%72%61%6d%2d%48%71%562%72%61%79%4e%47%2d%54%65%6c%65%67%72%61%6d%2d%48%71%562%72%61%79%4e%47%2d%54%65%6c%65%67%72%61%6d%2d%48%71%562%72%61%79%4e%47%2d%54%65%6c%65%67%72%61%6d%2d%48%71%562%72%61%79%4e%47%2d%54%65%6c%65%67%72%61%6d%2d%48%71%562%72%61%79%4e%47%2d#[🇨🇦]t.me/ConfigsHub
 vless://31b77383-79f0-4cfa-9cfe-30e6a1d2c6f3@104.17.148.22:8880?security=none&type=httpupgrade&host=join.wedbaztel.iran.ir.arvancloud.ir.nett.aliYostd.ip-ddns.com&path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@154.197.64.240:8443?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
