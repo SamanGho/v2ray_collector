@@ -1,3 +1,4 @@
+trojan://telegram-id-vlessconfig@16.171.251.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇸🇪
 ss://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?security=none&type=ws&host=QW.VU6d72nt9y.zULaiR.orG.&path=%2F%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
 vless://667b5dfa-7ec4-45d7-ba9c-6957eed8cfbb@157.173.127.239:443?security=reality&sni=analytics.google.com&type=raw&fp=chrome&pbk=c5VJpRsIyrxNp0eS3Lz5EMQH6jWBsvSTK7hNZQ77bl4&sid=4fd4ad#[🇩🇪]t.me/ConfigsHub
 ss://84f93722-ced5-4447-bd0e-74c3658227b1@151.101.0.155:80?security=none&type=ws&host=mt.acvs.ir&path=%2FChannel----MTMVPN----MTMVPN---MTMVPN---MTMVPN---MTMVPN----PROXY_MTM----PROXY_MTM----PROXY_MTM---MTMVPN---MTMVPN---MTMVPN%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
@@ -74,7 +75,6 @@ vless://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@172.67.135.23:443?path=%2FGuJUq5kZ2
 vless://1a50ebe0-2a29-4a46-ad16-906614733213@http.alirezaoshjelalbcsom.ir:2086?path=%2Fwww.adsl.tci.ir%3Fed%3D1024&security=none&encryption=none&host=aljywww.speedtest.net.%E7%9C%9F%E7%9A%84www.digikala.com.%E6%88%91%E7%9C%9F.%E7%9A%84%E7%9C%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E7%88%B1%E7%9A%84%E5%BE%88%E7%88%B1%E5%BE%88join.www.speedtest.net.ovh.Powerfullserver.de.venora.xyzfyl.uyflutufa.gozaroshloreshin.ira.cfnmthod.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.28.108.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.28.108.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇮]t.me/MoftConfig
 trojan://telegram-id-privatevpns@15.236.157.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://52c9faa5-9396-484e-8c8d-66576c1ef772@194.182.79.65:40359?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vless://197e2db1-496c-4700-b90c-86ac17b411d6@57.129.43.114:6669?security=none&type=grpc#[🇩🇪]t.me/ConfigsHub
