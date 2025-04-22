@@ -1,5 +1,3 @@
-vless://1688039e-a45f-499e-b9f4-c098c87d3b32@108.162.196.159:443/?type=ws&encryption=none&host=cr7777.rayan.dpdns.org&path=%2F%3Fed&security=tls&sni=cr7777.rayan.dpdns.org&fp=chrome#[🇨🇦]t.me/MoftConfig
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.189.41:443/?type=ws&encryption=none&host=cr7.traneh.dpdns.org&path=%2F&security=tls&sni=cr7.traneh.dpdns.org&fp=random#[🇨🇦]t.me/MoftConfig
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443/?type=ws&encryption=none&host=cr7.traneh.dpdns.org&path=%2Fsinavm-sinavm%2F%3Fed%3D2560&security=tls&sni=cr7.traneh.dpdns.org#[🇨🇦]t.me/MoftConfig
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.188.41:443/?type=ws&encryption=none&host=cr7.traneh.dpdns.org&path=%2F&security=tls&sni=cr7.traneh.dpdns.org&fp=chrome#[🇨🇦]t.me/MoftConfig
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.189.41:443/?type=ws&encryption=none&host=cr7.traneh.dpdns.org&path=%2F&security=tls&sni=cr7.traneh.dpdns.org&fp=random#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +246,5 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@18.167.37.206:443?sni=edcca.ambercc
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@202.39.212.181:25062?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#[🏁]t.me/ConfigsHub
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@221.157.196.48:12623?path=%2Fbing&security=tls&encryption=none&host=photosair.ir&type=ws&sni=photosair.ir#[🏁]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.22.169.189:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVhYjVkMi1kZjJlLTRiZTUtOGVmNS1mZWZkOTMyYzJjNDY@b.naiun.node-is.green:51104#⚜️Telegram:@IP_CF
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.211.211:59483?security=none&type=grpc#[🇺🇸]t.me/MoftConfig
