@@ -1,3 +1,4 @@
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@108.162.196.159:443/?type=ws&encryption=none&host=cr7777.rayan.dpdns.org&path=%2F%3Fed&security=tls&sni=cr7777.rayan.dpdns.org&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://ef9ff6ce-eda5-4982-b609-fb41ed1062fa@91.92.40.78:2070?security=none&encryption=none&headerType=none&type=tcp#[🇸🇪]t.me/MoftConfig
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40mtmvpn&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#[🇨🇦]t.me/MoftConfig
@@ -244,7 +245,6 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.22.169.189:59483?security=auto&
 vless://def6e08c-b9ec-4257-86ef-475efaddd366@91.107.167.61:59248?security=reality&encryption=none&pbk=8Kv7EfgfL25rSlPhosakuzPleZ4wWXN90dlh4Ti6FhA&host=TELEGRAM%20%3A%20MARAMBASHI%20MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#[🇩🇪]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@129.232.134.112:990#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.243:443#[🇺🇸]t.me/MoftConfig
-vless://Parsashonam-225@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇳🇱]t.me/ConfigsHub
 vless://39e4bf94-f3f4-4ea5-a232-1d7706cd10f6@54.37.7.94:443?encryption=none&security=reality&sni=snapp.ir&fp=chrome&pbk=mXoYA71X3faWTOW2FF0-oCrvLcfP1VHo9T44awgiKBk&sid=f8d21b62b1&spx=%2F&type=tcp&headerType=none#[🇬🇧]t.me/ConfigsHub
 trojan://f7a08c90-1f80-11f0-8f88-1239d0255272@sg1.6n6.net:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#[🏁]t.me/ConfigsHub
 vless://2fa98116-094c-4b92-a516-f5c6316145b2@104.18.8.74:443?encryption=none&security=tls&sni=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&alpn=h2%2Chttp%2F1.1&fp=random&type=ws&host=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=%2Fadmin#[🇨🇦]t.me/ConfigsHub
