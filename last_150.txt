@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@52.19.205.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://6f2bc169-077c-4dbd-a046-ad3dd91b477e@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://e31e3ef9-5868-415a-ae99-e5f2eb4f244b@188.166.8.106:20899?encryption=none&security=reality&sni=griizzzlyy.viraticket.ir&fp=chrome&pbk=tkJem2102KJ0lvZBkjT8xm1tZYu4zgd8e1HJdrMU_WI&sid=6f98c675d7&spx=%2F&type=tcp&headerType=none#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNTFhOWE3MC00YzY4LTQ3NDAtOGYyZC1kYzQ0ZmY1Yzg0MmE@free.2apzhfa.xyz:31411#[🏁]t.me/ConfigsHub
@@ -222,7 +223,6 @@ vless://c96cec85-560a-467a-96f6-e40d6a63dfc8@sin5.vpntype.dev:443?security=tls&e
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.108:80?encryption=none&security=none&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=%2F#[🇮🇷]t.me/MoftConfig
 trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info&type=tcp&headerType=none#[🇺🇸]t.me/MoftConfig
 vless://e2968be0-2467-499c-952e-2f6dda725cc5@5.199.174.190:443?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.203.128:443#[🇬🇧]t.me/ConfigsHub
 vless://dcf88e16-a70d-4eb9-9121-07726b85e54e@84.32.186.239:443?mode=gun&security=none&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
 vless://7748dafc-1cf0-4d27-baa0-f29518675f8f@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#[🇨🇦]t.me/MoftConfig
 vless://7ac566e9-fd84-47e5-acd1-67a41260960f@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
