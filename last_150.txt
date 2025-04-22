@@ -1,6 +1,3 @@
-vless://1688039e-a45f-499e-b9f4-c098c87d3b32@108.162.196.159:443/?type=ws&encryption=none&host=cr7777.rayan.dpdns.org&path=%2F%3Fed&security=tls&sni=cr7777.rayan.dpdns.org&fp=chrome#[🇨🇦]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
-vless://ef9ff6ce-eda5-4982-b609-fb41ed1062fa@91.92.40.78:2070?security=none&encryption=none&headerType=none&type=tcp#[🇸🇪]t.me/MoftConfig
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40mtmvpn&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#[🇨🇦]t.me/MoftConfig
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.169:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#[🇮🇷]t.me/MoftConfig
 trojan://telegram-id-directvpn@15.188.97.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
@@ -248,3 +245,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.243:443#[🇺🇸]t.me/MoftCon
 vless://39e4bf94-f3f4-4ea5-a232-1d7706cd10f6@54.37.7.94:443?encryption=none&security=reality&sni=snapp.ir&fp=chrome&pbk=mXoYA71X3faWTOW2FF0-oCrvLcfP1VHo9T44awgiKBk&sid=f8d21b62b1&spx=%2F&type=tcp&headerType=none#[🇬🇧]t.me/ConfigsHub
 trojan://f7a08c90-1f80-11f0-8f88-1239d0255272@sg1.6n6.net:443?security=tls&headerType=none&type=tcp&sni=telewebion.com#[🏁]t.me/ConfigsHub
 vless://2fa98116-094c-4b92-a516-f5c6316145b2@104.18.8.74:443?encryption=none&security=tls&sni=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&alpn=h2%2Chttp%2F1.1&fp=random&type=ws&host=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=%2Fadmin#[🇨🇦]t.me/ConfigsHub
+vless://bf6ae348-978f-43f4-bcbd-69eaf06302c1@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+vless://4470f40c-963e-488c-9821-5aac0c5ff930@huffingtonpost.es:80?flow&type=xhttp&host=joinbede_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&mode=auto&extra=&security=none#[🇳🇱]t.me/MoftConfig
+vless://4470f40c-963e-488c-9821-5aac0c5ff930@huffingtonpost.es:80?flow&type=xhttp&host=joinbede_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&mode=auto&extra=&security=none#[🇳🇱]t.me/ConfigsHub
