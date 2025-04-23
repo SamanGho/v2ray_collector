@@ -1,3 +1,4 @@
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.35.132.172:443#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.48.82.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://f4deb8e2-d957-4042-c2ee-39bbd16fc00a@104.17.147.22:80?type=httpupgrade&host=www.speedtest.net.ns.cloudflare.com.try.cloudflare.com.toshan.ip-ddns.com.&path=/%54%65%6c%65%67%72%61%6d%2d%48%71%562%72%61%79%4e%47%2d%54%65%6c%65%67%72%61%6d%2d%48%71%562%72%61%79%4e%47%2d%54%65%6c%65%67%72%61%6d%2d%48%71%562%72%61%79%4e%47%2d%54%65%6c%65%67%72%61%6d%2d%48%71%562%72%61%79%4e%47%2d%54%65%6c%65%67%72%61%6d%2d%48%71%562%72%61%79%4e%47%2d#[🇨🇦]t.me/ConfigsHub
 vless://31b77383-79f0-4cfa-9cfe-30e6a1d2c6f3@104.17.148.22:8880?security=none&type=httpupgrade&host=join.wedbaztel.iran.ir.arvancloud.ir.nett.aliYostd.ip-ddns.com&path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
@@ -133,7 +134,6 @@ vless://ef9dcc45-fa18-4ad5-8235-ab7cc93adb18@website.amin-app.ir:8880/?type=ws&e
 trojan://28bdfb42-f7ae-4a1f-9c85-dbc7f6b6cc95@45.146.232.170:43590/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/MoftConfig
 vless://a194feb6-2e80-4526-a808-23417ca1feec@54.37.7.94:443/?type=tcp&encryption=none&sni=snapp.ir&fp=chrome&security=reality&pbk=mXoYA71X3faWTOW2FF0-oCrvLcfP1VHo9T44awgiKBk&sid=f8d21b62b1#[🇬🇧]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.102:6697#[🇺🇸]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SkxpZEhNTVY1bVdGT2YzbWpxZDBB@194.87.45.189:443#🇪🇸 Испания
 trojan://xxoo@138.197.5.103:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#[🇺🇸]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmWWJ5dUVCVXBvTkRKWkltV2plSkQy@81.19.141.45:443#[🇩🇪]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@131.145.95.220:443#[🇬🇧]t.me/MoftConfig
