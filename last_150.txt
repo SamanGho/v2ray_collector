@@ -1,3 +1,4 @@
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=Telegram-%40#[🇨🇦]t.me/MoftConfig
 vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@104.18.14.19:8880?type=ws&host=0108.9ro3grfw.workers.dev&path=/#[🇨🇦]t.me/MoftConfig
 trojan://telegram-id-privatevpns@18.153.216.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://e8c5e684-019f-4b79-f741-401008b3a56d@151.101.194.219:80?type=ws&host=foffmelo.com#[🇺🇸]t.me/MoftConfig
@@ -98,7 +99,6 @@ vless://9322430d-84fd-4fdf-808d-5c146fcde700@tgju.org:8080?path=%2F%3Fed%3D2048f
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@194.127.173.201:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#[🇳🇱]t.me/ConfigsHub
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@49.166.202.100:30065?security=tls&sni=photosair.ir&type=ws&host=photosair.ir#[🏁]t.me/ConfigsHub
 vless://a0f19a1d-442f-406a-ac0b-1baa62eb6139@37.27.201.121:59193?type=tcp&security=reality&pbk=zIS85vJSMqaqhKb5ZJmCS1YGG48iMcp_hWtRifsaMFo&fp=chrome&sni=yahoo.com&sid=5119e5&spx=%2F#[🇫🇮]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1ExWQ==@194.124.250.4:8388#[🇳🇱]t.me/ConfigsHub
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.85:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#[🇩🇪]t.me/ConfigsHub
 vless://61a86474-7ab7-4fe1-f56a-09b41223781e@104.17.148.22:2096?security=tls&sni=TKN.filmekade.ru&fp=chrome&type=ws&path=/telegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01?ed%3D2048flow%3D-udp443&host=TKN.filmekade.ru&packetEncoding=xudp&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.34.159:443?security=tls&sni=e6422f63-7b49-4b50-b862-9f38.2031.pp.ua&type=ws&host=e6422f63-7b49-4b50-b862-9f38.2031.pp.ua&path=%2Fok1UBnf7txQ8YJFJxz&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
