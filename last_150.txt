@@ -1,3 +1,4 @@
+vless://718939b3-d7a5-475b-9719-e4cdbc6eb825@209.97.160.19:443?security=tls&sni=aka.ms&type=tcp&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#[🏁]t.me/ConfigsHub
 trojan://Aimer@duke.ns.cloudflare.com:443?allowInsecure=0&sni=epccu.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.126.7.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.126.7.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
@@ -172,7 +173,6 @@ vless://fa149110-3364-4b5b-b3b2-c703452fe1c0@151.101.66.133:80?type=ws&host=Elen
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjNjODNlNy05YjUzLTQ1OTctOTQyYS1iM2YzZjI5NjlmYjQ@free.2weradf.xyz:36731#[🏁]t.me/ConfigsHub
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.152.2:2087?security=tls&sni=Tp350WdTiD.yAzAhRa1.InFo&type=ws&host=Tp350WdTiD.yAzAhRa1.InFo&path=/#[🇨🇦]t.me/ConfigsHub
 vless://64985b00-7f6f-44b4-9cd6-f95829abee0a@104.233.210.12:48007?security=tls&flow=xtls-rprx-vision-udp443&sni=yahoo.com&fp=chrome#[🇺🇸]t.me/ConfigsHub
-vless://0a6f34c4-39a7-4a27-914c-9d9ec9b57a89@www.speedtest.net:8880?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=vihypercloud.academigroup.ir.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://caf769de-8857-4666-af09-683a6ac06b8a@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 vless://78956f2a-5650-4ac1-b5e5-c86491768443@92.112.22.115:10649?security=reality&encryption=none&pbk=N3OhMYHjw0MGH7X93-6lec9iOMQHRUr-Uz-cGzQ32jQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.iij.ad.jp#[🏁]t.me/ConfigsHub
 vless://2e7b1501-74a0-4f74-be84-559625aa3100@mass4.459.pp.ua:33117?security=reality&encryption=none&pbk=Uu1ZW6SsALHqdsTBDaSB0EyLfG4jXxJhPWnu9A1VqiE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=86e10730d0e5a3#[🇩🇪]t.me/ConfigsHub
