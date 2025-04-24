@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MTZmYjIwMC1kOTY4LTQ1MmQtYjFiZC0wYzAzZTcxZGMyNzI@free.2apzhfa.xyz:31245#[🏁]t.me/ConfigsHub
 vless://718939b3-d7a5-475b-9719-e4cdbc6eb825@209.97.160.19:443?security=tls&sni=aka.ms&type=tcp&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#[🏁]t.me/ConfigsHub
 trojan://Aimer@duke.ns.cloudflare.com:443?allowInsecure=0&sni=epccu.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.126.7.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
@@ -105,7 +106,6 @@ vless://ac8dd652-959e-42b6-aa86-5bd33a7a9edc@syd5.vpntype.dev:443?security=tls&e
 vless://422899ac-7bfb-441a-89c2-5b9eee312790@64.227.126.15:21337?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&host=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🇩🇪]t.me/MoftConfig
 vless://40678926-ab70-43ad-89b7-0a274e3af4d9@193.111.125.82:443?security=reality&sni=stackoverflow.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=Hng90MObJ5OBtIrfrf6U02WIx36R9srHLBwRsj1r7Dw&sid=05a6d4aa5e314637&alpn=h2#[🇹🇷]t.me/ConfigsHub
 vless://40678926-ab70-43ad-89b7-0a274e3af4d9@193.111.125.82:443?security=reality&sni=stackoverflow.com&type=grpc&serviceName=yZ1aB2cC3dD4eE5f6gH7iJ8kL9mNOoP&fp=chrome&pbk=Hng90MObJ5OBtIrfrf6U02WIx36R9srHLBwRsj1r7Dw&sid=05a6d4aa5e314637&alpn=h2#[🇹🇷]t.me/ConfigsHub
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2F&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@185.146.173.16:2052?path=%2FTM-%40AZARBAYJAB1&security=&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#[🇸🇪]t.me/ConfigsHub
 vless://87ff28ad-4669-433f-d97d-10950a4f36ca@162.19.212.19:19356?security=&encryption=none&type=grpc&serviceName=DarkTeam_VPN#[🇩🇪]t.me/ConfigsHub
 vless://f2ae3601-2e63-48ae-efa2-6dcb1c7ea70c@206.206.80.77:53533?security=reality&encryption=none&pbk=Qt4CixeKjXXvyeC1HcqFpapqNFnaCZ6EDaY3ZzTF0Q8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com#[🇺🇸]t.me/ConfigsHub
