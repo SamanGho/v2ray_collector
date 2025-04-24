@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@18.153.216.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://e8c5e684-019f-4b79-f741-401008b3a56d@151.101.194.219:80?type=ws&host=foffmelo.com#[🇺🇸]t.me/MoftConfig
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202504182189466-8od2bG05Pm.download.microsoft.com#[🏁]t.me/MoftConfig
 vless://e8c5e684-019f-4b79-f741-401008b3a56d@151.101.194.219:80?type=ws&host=foffmelo.com#[🇺🇸]t.me/ConfigsHub
@@ -245,6 +246,5 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.7.203:59483?mode=gun&securi
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.7.203:59483?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.155.6:59483?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.65.65.195:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇺🇸]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Y2U4MTc3NGY0ODk0ZjVh@51.161.80.68:47789#⚜️Telegram:@IP_CF
 vless://Parsashonam-227@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇳🇱]t.me/ConfigsHub
 vless://Parsashonam-227@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
