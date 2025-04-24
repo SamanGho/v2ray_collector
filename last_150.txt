@@ -1,3 +1,5 @@
+vless://1a50ebe0-2a29-4a46-ad16-906614733213@http.alirezaoshjelalbcsom.ir:2086?path=%2Fwww.adsl.tci.ir%3Fed%3D1024&security=none&encryption=none&host=aljywww.speedtest.net.%E7%9C%9F%E7%9A%84www.digikala.com.%E6%88%91%E7%9C%9F.%E7%9A%84%E7%9C%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E7%88%B1%E7%9A%84%E5%BE%88%E7%88%B1%E5%BE%88join.www.speedtest.net.ovh.Powerfullserver.de.venora.xyzfyl.uyflutufa.gozaroshloreshin.ira.cfnmthod.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.28.108.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.28.108.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.236.157.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://52c9faa5-9396-484e-8c8d-66576c1ef772@194.182.79.65:40359?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/ConfigsHub
@@ -121,7 +123,6 @@ vless://40678926-ab70-43ad-89b7-0a274e3af4d9@193.111.125.82:443?security=reality
 vless://40678926-ab70-43ad-89b7-0a274e3af4d9@193.111.125.82:443?security=reality&sni=stackoverflow.com&type=grpc&serviceName=yZ1aB2cC3dD4eE5f6gH7iJ8kL9mNOoP&fp=chrome&pbk=Hng90MObJ5OBtIrfrf6U02WIx36R9srHLBwRsj1r7Dw&sid=05a6d4aa5e314637&alpn=h2#[🇹🇷]t.me/ConfigsHub
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2F&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@185.146.173.16:2052?path=%2FTM-%40AZARBAYJAB1&security=&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#[🇸🇪]t.me/ConfigsHub
-vless://af8e7760-4993-4393-9db7-e84f05a06d21@104.18.20.20:443?path=%2Fpq%2Fus6&security=tls&encryption=none&host=us6.globals-download.com&fp=chrome&type=ws&sni=us6.globals-download.com#[🇨🇦]t.me/ConfigsHub
 vless://87ff28ad-4669-433f-d97d-10950a4f36ca@162.19.212.19:19356?security=&encryption=none&type=grpc&serviceName=DarkTeam_VPN#[🇩🇪]t.me/ConfigsHub
 vless://f2ae3601-2e63-48ae-efa2-6dcb1c7ea70c@206.206.80.77:53533?security=reality&encryption=none&pbk=Qt4CixeKjXXvyeC1HcqFpapqNFnaCZ6EDaY3ZzTF0Q8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTYz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWI0N2I5YS03N2ZjLTQzY2QtODdlYS05ZGZhMDAzZmEwMGU@free.2weradf.xyz:36213#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTk0Mzk5OS1jMjczLTRlYWItYmMwNy00MDU5MjM3ODZlY2Q@free.2apzhfa.xyz:31677#[🏁]t.me/ConfigsHub
 vless://43589def-fa09-47e3-b44e-7f6e069f470d@194.147.35.138:55799?security=reality&flow=xtls-rprx-vision&sni=iranhost.com&type=tcp&fp=chrome&pbk=LBvEFKpH7REwityPTJqYPhEJ7MaIqcuIRL01VPzcpAs&sid=a82b#[🇬🇧]t.me/ConfigsHub
-vless://5f1915cb-9849-4f0c-b203-722b9272b2c7@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
