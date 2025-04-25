@@ -1,3 +1,5 @@
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTIwLjE5OC43MS4yMTQiLCJwb3J0IjoiNDIzNzUiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+vless://422899ac-7bfb-441a-89c2-5b9eee312790@64.227.126.15:21337?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&host=%2FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🇩🇪]t.me/ConfigsHub
 vless://ef9dcc45-fa18-4ad5-8235-ab7cc93adb18@downloadha.com.iraniantim.ir:80?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=website.amin-app.ir&type=ws#[🇳🇱]t.me/MoftConfig
 trojan://15f5ff0e-1837-4de6-8675-47819d7135e4@sla.cn.964e995b760.gogodns.xin:27001?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
 vless://ef9dcc45-fa18-4ad5-8235-ab7cc93adb18@website.amin-app.ir:2082?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&type=httpupgrade#[🇨🇦]t.me/MoftConfig
@@ -243,8 +245,6 @@ vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@111.47.212.213:35853?security=tls&f
 trojan://Aimer@199.34.228.50:2053?allowInsecure=0&sni=epccs.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-privatevpns@52.47.123.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@111.47.212.213:45883?security=tls&flow=xtls-rprx-vision-udp443&sni=www.nvidia.com&fp=chrome#[🏁]t.me/MoftConfig
-trojan://telegram-id-vlessconfig@63.178.38.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
-trojan://telegram-id-directvpn@63.178.38.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-vlessconfig@63.178.38.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
 trojan://Aimer@159.54.173.8:443?allowInsecure=0&sni=epccs.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-directvpn@63.178.38.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
