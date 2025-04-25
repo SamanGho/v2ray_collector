@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@15.237.163.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
 vless://ef9dcc45-fa18-4ad5-8235-ab7cc93adb18@website.amin-app.ir:8880/?type=ws&encryption=none&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
 trojan://28bdfb42-f7ae-4a1f-9c85-dbc7f6b6cc95@45.146.232.170:43590/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/MoftConfig
 vless://a194feb6-2e80-4526-a808-23417ca1feec@54.37.7.94:443/?type=tcp&encryption=none&sni=snapp.ir&fp=chrome&security=reality&pbk=mXoYA71X3faWTOW2FF0-oCrvLcfP1VHo9T44awgiKBk&sid=f8d21b62b1#[🇬🇧]t.me/MoftConfig
@@ -238,7 +239,6 @@ vless://ab8daaac-7488-419d-938b-d51a720072b0@104.234.196.208:443?mode=gun&securi
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@199.34.228.185:443?path=sinavm-sinavm%2F%3Fed&security=tls&encryption=none&host=d5.medicaltreatment.ir&type=ws&sni=d5.medicaltreatment.ir#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-directvpn@63.32.155.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmI4MThjZDg0YTBkMGU1@103.215.218.54:18096#[🇹🇷]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@74.177.179.122:443#[🇬🇧]t.me/ConfigsHub
 vless://6c5d8c35-ae8a-4d67-aa55-3eeebba06aa3@151.101.4.20:443?path=%2F%40aklisvpn%40aklisvpn%40aklisvpn%40aklisvpn%40aklisvpn%40aklisvpn&security=tls&encryption=none&host=aklisvpn.com&fp=chrome&type=ws&sni=map.google.com#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.96:8091#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-privatevpns@63.32.155.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
