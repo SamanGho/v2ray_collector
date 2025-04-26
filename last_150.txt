@@ -1,3 +1,4 @@
+vless://87ff28ad-4669-433f-d97d-10950a4f36ca@162.19.212.19:19356?security=&encryption=none&type=grpc&serviceName=DarkTeam_VPN#[🇩🇪]t.me/ConfigsHub
 vless://f2ae3601-2e63-48ae-efa2-6dcb1c7ea70c@206.206.80.77:53533?security=reality&encryption=none&pbk=Qt4CixeKjXXvyeC1HcqFpapqNFnaCZ6EDaY3ZzTF0Q8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://9322430d-84fd-4fdf-808d-5c146fcde700@tgju.org:8080?path=%2F%3Fed%3D2048flow%3D-udp443&security=&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -201,7 +202,6 @@ vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@111.47.212.213:45883?security=tls&f
 trojan://telegram-id-vlessconfig@63.178.38.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
 trojan://Aimer@159.54.173.8:443?allowInsecure=0&sni=epccs.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-directvpn@63.178.38.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vless://ab8daaac-7488-419d-938b-d51a720072b0@104.234.196.208:443?mode=gun&security=none&encryption=none&authority=JOKERRVPNJoin_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=443vless#[🇳🇱]t.me/ConfigsHub
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@199.34.228.185:443?path=sinavm-sinavm%2F%3Fed&security=tls&encryption=none&host=d5.medicaltreatment.ir&type=ws&sni=d5.medicaltreatment.ir#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-directvpn@63.32.155.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmI4MThjZDg0YTBkMGU1@103.215.218.54:18096#[🇹🇷]t.me/MoftConfig
