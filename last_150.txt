@@ -1,3 +1,4 @@
+vless://dea36d49-e38b-4517-8da2-885710723143@www.speedtest.net:2086?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.f2.isvpy.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://46efb52d-7869-4525-b122-7a933507524e@www.speedtest.net:80?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.s.isvpython.online.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.78.80.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.78.80.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
@@ -243,7 +244,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@199.34.228.65:2096?security=tls&sni
 vless://9abc41f8-ffd7-406e-8296-35e0f0496eee@91.107.158.90:29685?security=reality&sni=yahoo.com&type=grpc&fp=chrome&pbk=Ws0Bbou_txQJWcd1fGsdyRgVjwCyN0Tx0f95-QcHY18&sid=8f9c09cd#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YzNlNmQ1Ni04ZjgxLTQzNWQtYmI3Yy1jZTJkYzFmOGFkZWU@free.2apzhfa.xyz:31213#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCZ3I2WUJIRW5wZnQ@178.22.31.239:443/?outline=1#[🏁]t.me/ConfigsHub
-vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMjM4IiwiYWlkIjowLCJob3N0Ijoia2FwZWxsZW5nLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImthcGVsbGVuZy5jb20ifQ==
 vless://208c1387-bcb5-4d9b-81e1-a3fbfcde8704@nethrrikfdolsedpp.wizardsell.ir:8443?security=reality&encryption=none&pbk=1LgtSU3eNuW3zj-fGvWzECU1LJk2wawINSu8q4tZlBg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.whatsapp.com#[🇳🇱]t.me/ConfigsHub
 vless://3ba4559e-7703-4354-ab33-be9d3ed5e637@clientproo.xyz:443?security=&encryption=none&headerType=&type=tcp#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE@185.39.207.60:443/?outline=1#[🏁]t.me/ConfigsHub
