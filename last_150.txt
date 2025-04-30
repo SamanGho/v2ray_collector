@@ -1,3 +1,4 @@
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.206.182:443/?type=tcp&encryption=none&security=tls&sni=147135004002.sec20org.com&fp=chrome#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443/?type=ws&encryption=none&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560flow%3D-udp443flow%3D-udp443&security=tls&sni=ipsychO.SUEx12.Ir&fp=randomized#[🇨🇦]t.me/ConfigsHub
 vless://b28d4b3f-ea20-408a-a02e-8921c778b356@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://a809b43e-a4b0-4506-af78-e4985da4a0f1@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/ConfigsHub
@@ -244,7 +245,6 @@ vless://c20edc65-9a39-4045-8f96-65a7ae5ab035@45.131.4.5:8080?security=none&type=
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.149.154:59483?type=grpc&security=reality&encryption=none&flow=&sni=&fp=&pbk=&sid=&spx=&alpn=h2#👉🆔@MoftConfig📡🇺🇸®️United States©️Santa Clara🅿️ping:154.9ms
 trojan://telegram-id-directvpn@18.203.133.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 trojan://tXsBdKfoe9@104.25.145.188:2083?type=ws&path=%2FVPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM%3Fed%3D2048&host=cpuhot.boshrachoice.ir.&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=cpuhot.boshrachoice.ir.#[🇨🇦]t.me/ConfigsHub
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:8443?path=%2F&security=tls&encryption=none&host=YqDaWy48R5.mAkEfOrLeSs.InFo&type=ws&sni=YqDaWy48R5.mAkEfOrLeSs.InFo#[🇨🇦]t.me/ConfigsHub
 vless://bb09bef7-99ba-41e1-9073-4222d0d93211@104.21.69.44:8443?security=tls&sni=be1.vlessvh.site&type=ws&host=be1.vlessvh.site&path=%2Fvless&fp=random&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.62:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=LhCgBjGr29.vElTrIxS.OrG&fp=chrome&type=ws&sni=LhCgBjGr29.vElTrIxS.OrG#[🏁]t.me/ConfigsHub
 vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=%2F%3Fed&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#[🇨🇦]t.me/ConfigsHub
