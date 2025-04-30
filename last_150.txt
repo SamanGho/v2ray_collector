@@ -1,3 +1,10 @@
+vless://0418e285-27d6-47e6-bf94-15dacb255064@huffingtonpost.es:80?encryption=none&security=none&type=tcp&headerType=none#[🇳🇱]t.me/MoftConfig
+vless://9df596dc-cfda-4ca1-8f29-cdb9e0b1f4b2@194.182.79.11:33900?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/MoftConfig
+vless://76aef603-4f69-4632-a5ac-be046f9de50b@194.182.79.114:26392?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/MoftConfig
+trojan://Aimer@108.165.152.55:2096/?type=ws&host=epcca.ambercc.filegear-sg.me&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
+vless://5f23e481-c607-45e1-8fdd-15e6b5c7529b@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.18.3.26:2083/?type=ws&encryption=none&host=ex.sue.x10.mx&path=%2F&security=tls&sni=ex.sue.x10.mx&fp=chrome#[🇨🇦]t.me/ConfigsHub
+vless://0418e285-27d6-47e6-bf94-15dacb255064@hajlab.ucdavis.edu:80?encryption=none&security=none&type=tcp&headerType=none#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-privatevpns@51.44.93.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
 ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@45.89.52.66:9050#[🇹🇷]t.me/MoftConfig
 trojan://2fa1279f-a0c1-4bb0-b5c2-42c787e5cfad@125.94.45.119:27102?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
@@ -241,10 +248,3 @@ vless://7c8a67d9-86e8-4488-beb0-846b59570e78@104.19.54.50:8080?path=%2F%40Moft_V
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.8.211.137:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=UoIrHqRs.cAfUnEaR.InFo&fp=chrome&type=ws&sni=UoIrHqRs.cAfUnEaR.InFo#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:8.41ms
 vless://d46688a0-5dec-489e-cb6b-5b3547c340df@104.17.147.22:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:23.52ms
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.12.30.195:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=UoIrHqRs.cAfUnEaR.InFo&fp=chrome&type=ws&sni=UoIrHqRs.cAfUnEaR.InFo#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.45ms
-vless://4123fa97-6f8b-4d59-99ef-e29e55f41d04@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
-trojan://utF6JLQd2x@141.227.128.69:1935?sni=x1es-ovh.devefun.net&allowInsecure=1&type=tcp&path=&host=x1es-ovh.devefun.net#[🏁]t.me/MoftConfig
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@45.89.52.66:9042#[🇹🇷]t.me/MoftConfig
-trojan://pqlnPNu423@57.129.89.172:1935?sni=x1-germany-ovh-v2.devefun.net&allowInsecure=1&type=tcp&path=&host=x1-germany-ovh-v2.devefun.net#[🇩🇪]t.me/MoftConfig
-vless://0423c5e6-f6e6-44dd-8d36-deb353462dd6@64.227.77.203:443?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/MoftConfig
-vless://0423c5e6-f6e6-44dd-8d36-deb353462dd6@64.227.77.203:443?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
-trojan://klZqKyxq0H@57.128.165.173:1935?sni=x1-england-ovh-v2.devefun.net&allowInsecure=1&type=tcp&path=&host=x1-england-ovh-v2.devefun.net#[🇬🇧]t.me/MoftConfig
