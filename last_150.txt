@@ -1,4 +1,3 @@
-vless://bedd9f06-f222-4c99-a00f-65e3667931ce@151.101.66.219:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.212.115:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.65.14:59483?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://99a4ba37-9d67-4e46-8057-a6bce2185396@104.17.147.22:2052?path=%2F%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&security=none&encryption=none&host=www.spEedtest.net.snApfoodsupPort.onlIne.&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +247,4 @@ vless://cf55d3fd-ca31-4c47-8927-721c035b6bf5@api.acveo.ir:8080/?type=httpupgrade
 vless://846ff6ba-eb3d-4edf-a18b-05fa814bf5cb@212.86.94.182:57350?type=ws&path=%2F&host=telewebion.com&security=none#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZGZjMTYwZmZkNjEyYzc1QDEwMC40Mi4xODIuMjE6MTkxMzE=#⚜️Telegram:@IP_CF
 vmess://eyJhZGQiOiJiZGEwM2FiNS1zdjZoczAtdDIxcnl6LTFyazB1LmhrLnA1cHYuY29tIiwiYWlkIjoyLCJob3N0IjoiYmRhMDNhYjUtc3Y2aHMwLXQyMXJ5ei0xcmswdS5oay5wNXB2LmNvbSIsImlkIjoiYWU0MDM2NzYtMWY3Mi0xMWVmLTk4ZGYtZjIzYzkxY2ZiYmM5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSJ9
+vless://a386111f-8f84-4647-a370-ea24048d6afd@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
