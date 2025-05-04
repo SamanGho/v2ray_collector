@@ -1,3 +1,6 @@
+trojan://Aimer@167.68.4.131:8443/?type=ws&host=epcca.ambercc.filegear-sg.me&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.16.1:80/?type=ws&encryption=none&host=masaleini.mahsaamini.dpdns.org&path=%2FTM%40AZAFBAYJAB1#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiI1LjE4MC4zMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZjI2ZjJmYi05ZDJhLTQ5YjYtODUyNy04MmU4YWJhM2E5YTkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4NTk4IiwicHMiOiJb8J+HrPCfh6dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 trojan://Aimer@103.116.7.235:443/?type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095/?type=ws&encryption=none&host=5-55sfjslf.ifenxiang.cfd&path=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@5.182.84.9:2087/?type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
@@ -243,8 +246,5 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.89.137.44:59483?security=auto&t
 vless://dc28d2e9-e0cb-45ba-a8aa-309ef2b15860@WwW.speedtest.NeT:8443?path=%2F%3Fed%3D1048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=cpuhot.boshrachoice.ir.&fp=chrome&type=ws&sni=cpuhot.boshrachoice.ir.#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://e850a1aa-49fe-4449-88b2-ec44b1021b81@www.speedtest.net:2053?type=ws&path=%2FTelegram-NetPie%3Fed%3D512&host=netpie.ddns-ip.net&security=tls&fp=chrome&alpn=&sni=netpie.ddns-ip.net#[🇨🇦]t.me/ConfigsHub
-vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?path=%2FTelegram-%40V2ray_Alpha&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#⚜️Telegram:@IP_CF
-vless://dc600ece-5581-4da8-9f06-d37f1aea29aa@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@159.246.55.230:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#[🇺🇸]t.me/MoftConfig
 vless://26ad6098-1015-4cd5-bac0-a3fbcc3cb729@www.zula.ir:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://26ad6098-1015-4cd5-bac0-a3fbcc3cb729@www.zula.ir:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#[🇨🇦]t.me/MoftConfig
