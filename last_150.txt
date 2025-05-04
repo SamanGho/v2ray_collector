@@ -1,3 +1,4 @@
+trojan://Aimer@167.68.4.131:8443/?type=ws&host=epcca.ambercc.filegear-sg.me&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.16.1:80/?type=ws&encryption=none&host=masaleini.mahsaamini.dpdns.org&path=%2FTM%40AZAFBAYJAB1#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiI1LjE4MC4zMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZjI2ZjJmYi05ZDJhLTQ5YjYtODUyNy04MmU4YWJhM2E5YTkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4NTk4IiwicHMiOiJb8J+HrPCfh6dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 trojan://Aimer@103.116.7.235:443/?type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
@@ -236,7 +237,6 @@ vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&security
 vless://28426f81-16a3-4943-9620-6687a4903a4f@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://493e0106-c226-4e37-9093-507f824833f3@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://doogrlsuwa@45.150.174.77:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=doogrlsuwa-4515017477-direct.rahavard365.co#[🇩🇪]t.me/MoftConfig
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.103:8090#[🇺🇸]t.me/ConfigsHub
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.131.6.160:443/?type=ws&encryption=none&host=CxNiMjJz.cAfUnEaR.InFo&path=%2F&security=tls&sni=CxNiMjJz.cAfUnEaR.InFo&fp=chrome#[🏁]t.me/ConfigsHub
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443/?type=ws&encryption=none&host=d1.medicaldream.ir&path=%2F&security=tls&sni=d1.medicaldream.ir&fp=chrome#[🇨🇦]t.me/ConfigsHub
 trojan://bf4604d3-39e5-4760-aa7a-b78100cae482@45.146.232.171:46927/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
