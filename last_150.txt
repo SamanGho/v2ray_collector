@@ -1,3 +1,5 @@
+vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.136:443?sni=vx.bgm2024.dpdns.org&type=ws&allowInsecure=1#👉🆔@MoftConfig📡🇦🇹®️Austria©️Vienna (Leopoldstadt)🅿️ping:8.36ms
+vless://55520747-311e-4015-83ce-be46e2060ce3@104.19.48.236:443?sni=vx.bgm2024.dpdns.org&type=ws&allowInsecure=1#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:14.8ms
 trojan://telegram-id-vlessconfig@18.175.98.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:33.11ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@4.158.120.34:443#[🇬🇧]t.me/ConfigsHub
 vless://3f789164-ca20-4041-89c0-bc553819970c@45.150.174.86:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main West)🅿️ping:26.48ms
@@ -147,7 +149,6 @@ vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@95.217.22.47:2087?mode=gun&security
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.31.24:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome&type=ws&sni=QtRkJtLt27.pRiMeXaD.OrG#[🇬🇧]t.me/ConfigsHub
 vless://a3a56e48-49c6-40b4-b088-7762063237eb@188.245.32.66:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
 vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&security=tls&encryption=none&host=de02.abvpn.ru&type=ws&sni=de02.abvpn.ru#[🇩🇪]t.me/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v1.vetdomok.shop#[🇺🇸]t.me/ConfigsHub
 vless://3dd846db-2349-40d5-9c56-f945dc06bd46@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/MoftConfig
 trojan://7445c93f-f1f5-4ce1-9ae0-af2cfcaa721d@183.240.116.235:27201?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
 vless://fa0ebd45-fadc-4f0e-b191-ccf73f5aefb4@104.21.32.1:443?security=tls&sni=1sdfgh.huangdi2025.dpdns.org&type=grpc&serviceName=hD9Bsvo2iAiipgXlTZJJFN&fp=chrome&alpn=h2#[🇨🇦]t.me/ConfigsHub
@@ -233,7 +234,6 @@ trojan://Aimer@104.234.239.235:2087/?type=ws&host=epccf.ambercc.filegear-sg.me&p
 vless://6965e558-73a4-4808-a778-67e8a82d15aa@162.159.153.28:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=1.659118019.uk&type=ws&sni=1.659118019.uk#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#[🇬🇧]t.me/MoftConfig
 vless://1fd2fe1c-c27d-44c3-b4bd-59839964ba82@151.101.64.155:80?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=&encryption=none&host=JOINBEDE-VPNCUSTOMIZE.IR&type=ws#[🇨🇦]t.me/MoftConfig
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#[🇨🇦]t.me/ConfigsHub
 vless://5ec824f3-5654-4a0f-80ea-b2358b237fb2@45.8.146.106:22401/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=d0zfqttEW4hAh2zoXdtb9JJh53fsv5vlyKbu5MeCChM&sid=fc1d#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.29:2376#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@45.134.21.8:2053/?type=ws&host=epcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epcch.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
