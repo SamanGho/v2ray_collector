@@ -1,3 +1,5 @@
+vless://4629295b-ca20-4c6a-8c70-87ffe3ca2272@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.&encryption=none#[🇨🇦]t.me/MoftConfig
+vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80?type=ws&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev#[🇨🇦]t.me/ConfigsHub
 vless://65154f47-8596-46cd-8406-d18f4b406faf@194.182.79.119:17958?security=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://14e51f2d-be1d-43c6-a7bf-565d9f22d90f@huffingtonpost.es:80?mode=auto&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=biyatovistavdoray.com&type=xhttp#[🇳🇱]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTFkZjQ4Mi0zMzRmLTQyNWYtOGI3My0wOTE0YzY5MDc5OGE@free.2weradf.xyz:36441#[🏁]t.me/MoftConfig
@@ -246,5 +248,3 @@ vless://d4bc5118-7158-4755-ad3b-b0b54072bdbb@104.21.32.1:8080?security=none&type
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMzguMTUwLjEyLjE4OCIsInBvcnQiOiI1MjUxMSIsInR5cGUiOiJub25lIiwiaWQiOiIzNDJiYWNmZC0yYjhmLTNmNDktYTE2ZS00MzlkYjViMGI5ZDUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC81NjRkZmEyMFwvIiwiaG9zdCI6ImFmbHp6dWwubWVpcXVhbmtvbmdqaWFuLmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://06bb8df6-35d5-472f-9ee1-b67ac6bf4215@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 vless://d0ae5853-9c36-4f00-8c84-4d35c7775895@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
-vless://d40d2de3-e389-4bdd-8f8b-1d1de97ca664@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
-vless://629fc5ad-153e-41aa-b398-175e3c00867f@91.92.40.78:2070/?type=tcp&security=none#[🇸🇪]t.me/MoftConfig
