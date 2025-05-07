@@ -1,3 +1,4 @@
+vless://bffceece-a818-45d2-ad04-eb819eec8f78@217.182.93.104:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#[🇫🇷]t.me/MoftConfig
 trojan://telegram-id-directvpn@99.80.179.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://e872a768-33c9-4b5a-b04a-aabce97fb1ef@64.227.77.203:443?security=none&encryption=none&host=Join_Bade_Channel%40JOKERRVPN&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.120:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#[🇺🇸]t.me/ConfigsHub
@@ -131,7 +132,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvRlhWWGxHNnY0TmhHTXl4alFxUVFn@193.124.46.196
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.190:8880?mode=gun&security=&encryption=none&type=grpc#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.6ms
 vless://4c6f333d-27ee-48db-9f2f-a0282d3905a5@151.101.64.155:80?security=none&type=ws&host=irancell.net.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.79ms
 vless://dc28d2e9-e0cb-45ba-a8aa-309ef2b15860@WwW.speedtest.NeT:8443?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=cpuhot.boshrachoice.ir.&fp=chrome&type=ws&sni=cpuhot.boshrachoice.ir.#[🇨🇦]t.me/ConfigsHub
-vless://Parsashonam-232@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.99.110.57:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZWNhYmNhNS01ZWY5LTQ2N2QtYTkwZi00MTYxOTliZjJhMGQ@free.2apzhfa.xyz:31677#[🏁]t.me/ConfigsHub
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.60.166.119:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b&alpn=h2#[🇸🇪]t.me/ConfigsHub
