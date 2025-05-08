@@ -1,6 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#[🇬🇧]t.me/MoftConfig
-vless://1fd2fe1c-c27d-44c3-b4bd-59839964ba82@151.101.64.155:80?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=&encryption=none&host=JOINBEDE-VPNCUSTOMIZE.IR&type=ws#[🇨🇦]t.me/MoftConfig
-vless://5ec824f3-5654-4a0f-80ea-b2358b237fb2@45.8.146.106:22401/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=d0zfqttEW4hAh2zoXdtb9JJh53fsv5vlyKbu5MeCChM&sid=fc1d#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.29:2376#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@45.134.21.8:2053/?type=ws&host=epcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epcch.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
 vless://1fd2fe1c-c27d-44c3-b4bd-59839964ba82@www.zula.ir:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#[🇨🇦]t.me/MoftConfig
@@ -248,3 +245,6 @@ vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?security=tls&sni=d
 vless://bafee052-dd5e-45af-a627-c3734c4e359e@5.75.196.237:13065?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://bafee052-dd5e-45af-a627-c3734c4e359e@5.75.196.237:13065?security=none&type=tcp&packetEncoding=xudp&encryption=none#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.206.33:443#[🇬🇧]t.me/ConfigsHub
+vless://af178269-a7b0-4e3b-836e-b07b33b99672@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://3b809f88-10e0-4ee6-8cee-ff8eec4472dd@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://17f3d97f-f895-4b3a-a9ae-1a8c6f44af94@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeedeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
