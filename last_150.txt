@@ -1,3 +1,10 @@
+vless://a8a424c8-0da6-44ee-ac8f-fa45e17ff2a1@37.27.191.27:1522?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇫🇮]t.me/ConfigsHub
+vless://de537efd-4d7c-4f3c-aea5-19d3f36c7b1b@104.16.12.247:2053?path=%2F&security=tls&encryption=none&host=txmt.conetcdata.dpdns.org&fp=chrome&type=ws&sni=txmt.conetcdata.dpdns.org#[🇨🇦]t.me/ConfigsHub
+vless://be21e25f-5919-4e6b-b443-bfa45273de5d@211.213.102.88:10014?security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560flow%3D-udp443flow%3D-udp443&security=tls&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:56.34ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:72.46ms
+trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:71.45ms
+vless://d32738d3-45c8-43d7-9507-a28e498e193c@91.107.180.49:443?security=reality&encryption=none&pbk=Q2ouEB49GN--g86H491QLk7hHicoqwaioScO6zMXoEE&headerType=none&fp=chrome&spx=%2FJOKERRVPNCopy-az-chahnnel-JOKERRVPN&type=tcp&sni=www.cdn77.com&sid=70#[🇩🇪]t.me/ConfigsHub
 vless://dd1e77b6-5131-5854-8232-d3f7bcbe0e95@85.209.194.2:2052?path=%2Fvless&security=none&encryption=none&host=sPeedtest2.sbs.ca.vless.sitespeedtest.net&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Beauharnois🅿️ping:103.87ms
 vless://f3b7552c-d4f6-43c9-b87b-2990c3063a6b@172.67.204.84:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:91.06ms
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@176.105.253.98:443?path=%2F%3Fed&security=tls&encryption=none&host=edcch.ambercc.filegear-sg.me&type=ws&sni=edcch.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇵🇱®️Poland©️Olsztyn🅿️ping:81.5ms
@@ -236,15 +243,8 @@ vless://17671c71-5b52-4d56-8973-cde46fdd107f@Karaj-Website.acveo.ir:443/?type=gr
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.24.195:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.37.228:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&type=ws&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
-vless://e9a9b636-6a60-4ee2-ac61-00dc284f3856@104.16.225.110:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@66.81.247.95:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@90.165.204.7:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%0%2F%3Fed%3D2560#[🏁]t.me/MoftConfig
 vless://e9a9b636-6a60-4ee2-ac61-00dc284f3856@104.16.225.110:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@90.165.204.7:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%0%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@130.162.163.216:443?security=tls&flow=xtls-rprx-vision-udp443&sni=buylite.tv.apple.com&fp=ios&allowInsecure=0#[🇬🇧]t.me/ConfigsHub
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@66.81.247.95:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&allowInsecure=1#[🇺🇸]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjZlYTk2MzQzMDg3ODM5QDIxNy43Ny4yLjIzODoyNTIyNg==#⚜️Telegram:@IP_CF
-vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@130.162.163.216:443?security=tls&flow=xtls-rprx-vision-udp443&sni=buylite.tv.apple.com&fp=ios&allowInsecure=0#[🇬🇧]t.me/MoftConfig
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.74.75:8880?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.74.75:8880?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&allowInsecure=0#[🇺🇸]t.me/MoftConfig
-vless://c37f4aa9-2ecc-42a7-b1db-e07700cef16e@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
