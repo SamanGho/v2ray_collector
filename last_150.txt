@@ -1,3 +1,4 @@
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.37.228:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?security=none&type=ws&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@66.81.247.95:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://e9a9b636-6a60-4ee2-ac61-00dc284f3856@104.16.225.110:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
@@ -237,7 +238,6 @@ vless://Parsashonam-232@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed
 vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&host=de02.abvpn.ru&path=/websocket&security=tls&sni=de02.abvpn.ru#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:30.08ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?type=grpc&mode=gun&security=none#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:35.78ms
 vless://d4324490-9d8f-4424-9a4d-a5178ebfbeca@104.16.213.210:443?path=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI&security=tls&encryption=none&host=cf-wuxianll.xixi.icu&type=ws&sni=cf-wuxianll.xixi.icu#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.2ms
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?encryption=none&security=tls&sni=de02.abvpn.ru&type=ws&host=de02.abvpn.ru&path=%2Fwebsocket#[🇩🇪]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?encryption=none&security=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://588f094b-431b-422c-b80b-007945037072@5.182.86.128:443?encryption=none&security=tls&sni=nl07.abvpn.ru&type=ws&host=nl07.abvpn.ru&path=%2Fwebsocket#[🇳🇱]t.me/ConfigsHub
 vless://84eb40ea-9d92-4a06-855b-3349d0c380cc@95.216.172.10:8080?encryption=none&security=reality&sni=yahoo.com&fp=random&pbk=LEwl7S957x83EN-pbXo2Pd3Okr4199XhobuxGGzQKmY&sid=0c&type=tcp&headerType=none#[🇫🇮]t.me/ConfigsHub
