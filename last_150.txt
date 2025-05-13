@@ -1,3 +1,4 @@
+vless://4b79f34b-e9be-4431-be68-3844a62be2f2@212.80.10.22:316?security=none&type=tcp&path=%2F&headerType=http#[🇮🇷]t.me/MoftConfig
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.152.2:2087?security=tls&sni=Tp421GmVp1.MoLaNaMaMaLi1.InFo&type=ws&host=Tp421GmVp1.MoLaNaMaMaLi1.InFo&path=/&alpn=h2http/1.1#[🇨🇦]t.me/ConfigsHub
 vless://4b79f34b-e9be-4431-be68-3844a62be2f2@212.80.10.22:316?security=none&type=tcp&path=%2F&headerType=http#[🇮🇷]t.me/ConfigsHub
 vless://63caf374-ac61-48dd-b4d8-2814b2943d32@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
@@ -182,7 +183,6 @@ vless://ef13d0cd-ee08-46e8-8994-4834df9837b5@128.140.113.136:37828?path=%2Fshahi
 trojan://telegram-id-directvpn@54.93.66.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://09017df7-ddb8-4c21-9e95-f4be1f36daf5@Shiraz-Website.acveo.ir:443?mode=gun&security=reality&encryption=none&pbk=pWvBPhxqJjzAUrKKHI9rQtokKAHGtSLHZ_wrl-ArERg&fp=qq&spx=%2F&type=grpc&serviceName=MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&sni=www.cdn77.com&sid=76#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.93.66.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vless://de370689-142f-45c5-b99e-3f5f956ee0a8@direct-uk.bitnetsmart.pro:9035?mode=gun&security=reality&encryption=none&pbk=9j_bc1qKJYkR2V1sGbt_fxTdImlKpd4Y9n2OVQn-lGY&fp=chrome&type=grpc&serviceName=BITNET&sni=wwww.refersion.com&sid=93ddf2d2c5d8c56b#[🇬🇧]t.me/ConfigsHub
 vless://SAVTEAMtv7@WWW.SPEEDTEST.NET:80?path=/@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam%3Fed%3D80&security=none&alpn=http%2F1.1&encryption=none&host=SAVTEAM-JOIN.SAVTEAM3.ip-Ddns.Com.&fp=chrome&type=httpupgrade&sni=live.989bull.com#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.237.238.243:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.115.97:443#[🇬🇧]t.me/ConfigsHub
