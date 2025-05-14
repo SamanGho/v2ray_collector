@@ -1,3 +1,4 @@
+vless://33f8c4f4-2515-4798-9ea0-15f2030ef4d8@104.21.5.179:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=bia-zod-falcunargo.545c437f13.workers.Dev&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.8.211.230:443?security=tls&sni=CxNiMjJz.cAfUnEaR.InFo&type=ws&host=CxNiMjJz.cAfUnEaR.InFo&path=/#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:10.61ms
 vless://7b0f240f-db1f-4660-b7f5-65612612769f@157.180.75.119:8080?mode=auto&path=%2Fcephalon&security=reality&encryption=none&pbk=6evIKHcL0ZpiQwQcmajz1PlIaS1DdLKFn-mEQGBbFU8&host=tgju.org&fp=chrome&spx=%2FJoin_Bade_Channel%40JOKERRVPN&type=xhttp&sni=tgju.org&sid=5586#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:17.05ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880?security=none&sni=pqh27v8.nature27.shop&type=grpc&host=pqh27v8.nature27.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:108.83ms
@@ -170,7 +171,6 @@ vless://759918a1-e0bf-47ad-80fb-3b331f83a59b@37.27.212.52:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇱🇹®️Lithuania©️Vilnius🅿️ping:106.08ms
 vless://6965e558-73a4-4808-a778-67e8a82d15aa@162.159.153.28:2083?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=1.659118019.uk&type=ws&sni=1.659118019.uk#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.75ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:104.64ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638825998487466587.prague-drc-dcraae.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.42.32:59483?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Santa Clara🅿️ping:154.35ms
 vless://e12c6b99-f242-4c43-8411-edb7b333c79a@page.fra-shop.ir:28495?security=reality&encryption=none&pbk=wIoY1J6RAbUkFMLu9mENmgOSerWCd7oucJ-_kfCfbHw&host=%2FJoin_Bade_Channel%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FJoin_Bade_Channel%40JOKERRVPN&type=tcp&sni=www.fra-shop.ir&sid=4365d0c5ae1b#[🇩🇪]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880?security=none&sni=pqf1v8.fomula1race.shop&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:104.66ms
