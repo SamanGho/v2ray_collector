@@ -1,9 +1,3 @@
-trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@172.67.172.91:443?security=tls&sni=Ty.457.pP.uA&type=ws&host=ty.457.pp.ua&path=%2FmZr1mA5hub7QHHkQBzYO&fp=chrome&alpn=http%2F1.1#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:50.72ms
-vless://53977df3-b981-41df-8533-563ed495d004@ns.cloudflare.com:2052?path=%2FGoodLuck%3Fed%3D2560&security=none&encryption=none&host=Turkiye.serrjioo.ir&type=httpupgrade#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.32ms
-vless://5130522b-1ca5-4435-bf18-ac5b5b3bde56@cloudgetservice.mcloudservice.site:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&type=ws&sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:20.34ms
-vless://9e6cee2f-9b41-4589-b920-a474ed572dba@p8n5b65s8931.contigolibre.com:33274?path=%2F%40drakvpn&security=none&encryption=none&type=ws#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:33.66ms
-vless://de370689-142f-45c5-b99e-3f5f956ee0a8@direct-uk.bitnetsmart.pro:9035?mode=gun&security=reality&encryption=none&pbk=9j_bc1qKJYkR2V1sGbt_fxTdImlKpd4Y9n2OVQn-lGY&fp=chrome&type=grpc&serviceName=BITNET&sni=wwww.refersion.com&sid=93ddf2d2c5d8c56b#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Erith🅿️ping:159.6ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560%2F%3FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:40.28ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.8:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:105.95ms
 vless://759918a1-e0bf-47ad-80fb-3b331f83a59b@37.27.212.52:8880?mode=gun&security=none&encryption=none&authority=%2FJoin_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=%40cephalon_ai_bot#[🇫🇮]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇱🇹®️Lithuania©️Vilnius🅿️ping:106.08ms
@@ -248,3 +242,9 @@ vless://b12624a6-25d0-484d-8725-3eca4544d522@49.13.237.7:1520?security=none&type
 vless://b12624a6-25d0-484d-8725-3eca4544d522@157.180.41.190:1520?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇫🇮]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYTYxYjZiZi0xZTQ1LTRhZjctOTg2OC02Y2JkMDk0YWY1NWE@free.2weradf.xyz:36371#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYTYxYjZiZi0xZTQ1LTRhZjctOTg2OC02Y2JkMDk0YWY1NWE@free.2weradf.xyz:36741#[🏁]t.me/MoftConfig
+trojan://408e7148-df67-11ed-8e13-f23c91cfbbc9@18c36079-swb8g0-swwhoz-1me9w.cu.plebai.net:15229?allowInsecure=1&sni=18c36079-swb8g0-swwhoz-1me9w.cu.plebai.net#[🏁]t.me/MoftConfig
+vless://4f2b9193-ab76-401f-a254-10982ac2881a@5.10.245.75:443?sni=hax-eu.lzj520hxw.dpdns.org&type=ws&host=hax-eu.lzj520hxw.dpdns.org#[🏁]t.me/MoftConfig
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?allowInsecure=0&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.254%3A443#[🇬🇧]t.me/MoftConfig
+vless://b12624a6-25d0-484d-8725-3eca4544d522@188.245.120.39:1520?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇩🇪]t.me/MoftConfig
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.159:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#[🏁]t.me/MoftConfig
+vless://0a96afbe-cf02-476e-8216-1823afea313c@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
