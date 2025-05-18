@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.37:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:268.62ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.202:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:89.7ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.162:8880?security=none&sni=pqh34v8.bloger34art.shop&type=grpc&host=pqh34v8.bloger34art.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:98.18ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2FTelegram%40V2ray_Alpha&security=&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:16.39ms
@@ -238,7 +239,6 @@ vless://V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encrypti
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b5f4@188.114.97.1:443?path=%2FE4FqomT5e0mKm2nh%2FMTU5LjY5LjE0LjEzOA&security=tls&alpn=http%2F1.1&encryption=none&host=myphotograpicpicture.ir&fp=randomized&type=ws&sni=MYPhoTOgrapICPictURe.IR#[🇨🇦]t.me/MoftConfig
 vless://V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#[🇩🇪]t.me/ConfigsHub
 vless://166e6f53-96a9-4aa4-aaa5-102cc4926381@5.61.37.215:443?security=reality&encryption=none&pbk=RtKJhmCu3KoDNminpbyQN4jRKgSgWzFEreZ2EcXFhzw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=docker.com#[🇩🇪]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QXZ1bDI5cG81Y25yNFZOVGFTNHNo@104.192.227.162:443#[🇺🇸]t.me/ConfigsHub
 vless://18f06d6d-2e8d-4549-b3a4-cf1bc345348e@ru.maviks.eu:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#[🇷🇺]t.me/MoftConfig
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b5f4@188.114.97.1:443?path=%2FE4FqomT5e0mKm2nh%2FMTU5LjY5LjE0LjEzOA&security=tls&alpn=http%2F1.1&encryption=none&host=myphotograpicpicture.ir&fp=randomized&type=ws&sni=MYPhoTOgrapICPictURe.IR#[🇨🇦]t.me/ConfigsHub
 vless://34ec142b-eaae-4ff1-944f-c07c0b8081fe@sf1.tabrizopt.ru:56624?mode=auto&path=%2Fnewgame%3Fed%3D2048&security=none&encryption=none&host=amirzaplus.com&type=xhttp#[🇫🇷]t.me/ConfigsHub
