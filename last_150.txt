@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@13.38.246.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:39.34ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:98.6ms
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.37:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:268.62ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.202:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:89.7ms
@@ -239,7 +240,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.26.108.247:443#[�
 vless://V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#[🇩🇪]t.me/MoftConfig
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b5f4@188.114.97.1:443?path=%2FE4FqomT5e0mKm2nh%2FMTU5LjY5LjE0LjEzOA&security=tls&alpn=http%2F1.1&encryption=none&host=myphotograpicpicture.ir&fp=randomized&type=ws&sni=MYPhoTOgrapICPictURe.IR#[🇨🇦]t.me/MoftConfig
 vless://V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#[🇩🇪]t.me/ConfigsHub
-vless://%56%32%52%41%58%58@195.201.112.179:6666?mode=gun&type=grpc&serviceName=%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58#⚜️Telegram:@IP_CF
 vless://166e6f53-96a9-4aa4-aaa5-102cc4926381@5.61.37.215:443?security=reality&encryption=none&pbk=RtKJhmCu3KoDNminpbyQN4jRKgSgWzFEreZ2EcXFhzw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=docker.com#[🇩🇪]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QXZ1bDI5cG81Y25yNFZOVGFTNHNo@104.192.227.162:443#[🇺🇸]t.me/ConfigsHub
 vless://18f06d6d-2e8d-4549-b3a4-cf1bc345348e@ru.maviks.eu:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#[🇷🇺]t.me/MoftConfig
