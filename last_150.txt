@@ -1,10 +1,3 @@
-vless://4fb8b890-f2d7-4add-87e9-075e510fe39e@151.101.130.133:80?security=none&type=xhttp&host=VPNTV20_TOP.COM#[🇨🇦]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NzQwZGNjOS1iYzczLTQzMzQtOTU2OS1iNjg1YzYwMDQzNmQ@free.2weradf.xyz:36111#[🏁]t.me/MoftConfig
-vless://887ae596-c3c4-4c26-96bc-951bd3590944@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
-vless://b12624a6-25d0-484d-8725-3eca4544d522@49.13.237.7:1519?type=tcp&host=testspeed-foreign.tci.ir&headerType=http#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:34.25ms
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=UjIvMdYn5.ZuMuT.InFo&type=ws&sni=UjIvMdYn5.ZuMuT.InFo#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.86ms
-vless://7f93e196-1b2f-4a42-8051-5815554c05db@54.145.53.77:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#[🇺🇸]t.me/MoftConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:21.13ms
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=TySpSgQg.rIcKtMoUsE.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=TySpSgQg.rIcKtMoUsE.InFo&path=%2F#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.86ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?security=none&sni=pqf1v5.fomula1race.shop&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.2ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=none&sni=pqh33v1.cinema33.shop&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.66ms
@@ -248,3 +241,10 @@ vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@162.159.195.45:443?security=tls&sni
 trojan://telegram-id-privatevpns@3.76.52.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.76.52.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://522af137-d625-4974-ae1e-911a980e3844@ns.cloudflare.com:2052?path=%2FGoodLuck%3Fed%3D2560&security=none&encryption=none&host=Spain.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+trojan://Aimer@154.197.64.164:2053?allowInsecure=0&sni=epccv.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+vless://f518c131-2ce2-47a2-8a2b-33da420d9a83@151.101.2.219:80?security=none&type=xhttp&host=jointo_vistav2ray.ir&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480#[🇺🇸]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTgzLjIzNy44NC41MyIsInBvcnQiOiI1NTAwMiIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+trojan://Aimer@162.120.94.23:2087?allowInsecure=0&sni=epccv.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@104.21.84.58:443?path=%2FbdtuD5eD7Q29WxRG8DqNAB&security=tls&alpn=http%2F1.1&host=xxxcddde.iran2035.dpdns.org&fp=chrome&type=ws&sni=XXXcddDe.IRaN2035.dpdNs.orG#[🇨🇦]t.me/ConfigsHub
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.85.150:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#[🇷🇺]t.me/ConfigsHub
+vless://9c682edf-7e17-41d6-83e1-d7f6996a9542@104.18.3.57:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vip1.yomato7390.workers.Dev&type=ws&sni=vip1.yomato7390.workers.Dev#[🇨🇦]t.me/ConfigsHub
