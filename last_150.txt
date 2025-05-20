@@ -1,3 +1,5 @@
+vless://887ae596-c3c4-4c26-96bc-951bd3590944@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+vless://b12624a6-25d0-484d-8725-3eca4544d522@49.13.237.7:1519?type=tcp&host=testspeed-foreign.tci.ir&headerType=http#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:34.25ms
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=UjIvMdYn5.ZuMuT.InFo&type=ws&sni=UjIvMdYn5.ZuMuT.InFo#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.86ms
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@54.145.53.77:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#[🇺🇸]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:21.13ms
@@ -246,5 +248,3 @@ vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@162.159.195.45:443?security=tls&sni
 trojan://telegram-id-privatevpns@3.76.52.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.76.52.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://522af137-d625-4974-ae1e-911a980e3844@ns.cloudflare.com:2052?path=%2FGoodLuck%3Fed%3D2560&security=none&encryption=none&host=Spain.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.76.52.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.52.178:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
