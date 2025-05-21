@@ -1,4 +1,3 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.242.252:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
 vless://24c0fb29-3b8b-4d6d-8faa-a61dd7fac643@iranserver.com:2052?type=ws&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&host=wWw.SpeedtesT.net.mAzMaznet.store.&security=none#[🇨🇦]t.me/ConfigsHub
 vless://24c0fb29-3b8b-4d6d-8faa-a61dd7fac643@iranserver.com:2052?type=ws&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&host=wWw.SpeedtesT.net.mAzMaznet.store.&security=none#[🇨🇦]t.me/MoftConfig
 vless://35069c14-6c3b-428c-89b1-ebe9779631b8@ns7.esfahansiman.com:2030?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&sni=refersion.com&sid=7fe29733#[🇬🇧]t.me/MoftConfig
@@ -248,3 +247,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphY2QwZmFmOC1iOWQ1LTQwYjgtYjczMS03Nzk3MThjNTA
 trojan://Aimer@damien.ns.cloudflare.com:443?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphY2QwZmFmOC1iOWQ1LTQwYjgtYjczMS03Nzk3MThjNTA2MmM@free.2weradf.xyz:36211#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTMzYzFkMC0wM2M0LTQ2MzUtYTA2ZS0zNmQwZGIwN2Y5YWQ@free.2apzhfa.xyz:31677#[🏁]t.me/ConfigsHub
+vless://363fef65-27b3-4ef1-b7f3-21a2953aff68@104.19.54.50:8080?path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net.&type=ws#[🇨🇦]t.me/ConfigsHub
