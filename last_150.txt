@@ -1,3 +1,4 @@
+vless://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.161.104:2095?encryption=none&security=none&type=ws&headertype=none&host=testdvpnhub69.95f425b718.workers.dev&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#👉🆔@MoftConfig📡🇷🇺®️Russia©️Obruchevo🅿️ping:28.14ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTWlKS2VoNHlNdW1meVlWdmpxMExS@45.150.32.13:38707#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:33.22ms
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:3389#[🇺🇸]t.me/ConfigsHub
@@ -126,7 +127,6 @@ trojan://czaOZA3OxRYDl4u0RxT7D62FyNI3aC98ZCDDRnDax6zECS5I35wSqSKTXYAy3Nw3eXYaO@1
 vless://8d77300a-0a55-44de-8be8-5c52be2ee905@185.2.15.238:8443?path=%2F&security=none&encryption=none&type=ws#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran🅿️ping:121.31ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NmZiZDlkMS1lNWNjLTRhYzctOGU2MC0zODBlMGMwMTIzNjY@free.2apzhfa.xyz:31471#[🏁]t.me/ConfigsHub
 trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&headerType=none&type=tcp&sni=x1-sweden-ovh-v2.devefun.net#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:28.22ms
-trojan://czaOZA3OxRYDl4u0RxT7D62FyNI3aC98ZCDDRnDax6zECS5I35wSqSKTXYAy3Nw3eXYaO@154.17.11.217:28331?allowInsecure=1&sni=cutting.homeofbrave.net#[🇺🇸]t.me/ConfigsHub
 vless://02aa01e3-7f27-4e47-82e2-27c0b41bda9a@194.182.79.113:26468?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇿®️Czechia©️Prague🅿️ping:58.7ms
 trojan://RlzoEILU@36.156.102.123:50723?allowInsecure=1&sni=36.156.102.123#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:61.47ms
