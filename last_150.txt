@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@3.76.52.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://522af137-d625-4974-ae1e-911a980e3844@ns.cloudflare.com:2052?path=%2FGoodLuck%3Fed%3D2560&security=none&encryption=none&host=Spain.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@154.197.64.164:2053?allowInsecure=0&sni=epccv.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://f518c131-2ce2-47a2-8a2b-33da420d9a83@151.101.2.219:80?security=none&type=xhttp&host=jointo_vistav2ray.ir&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480#[🇺🇸]t.me/ConfigsHub
@@ -245,6 +246,5 @@ vless://0fd50bfd-08b2-4a7c-8def-6ce54215deaa@hajlab.ucdavis.edu:80?security=&typ
 vless://ae898862-81aa-4abe-96c3-d4b91cb24e0a@104.26.1.117:2052?path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&security=none&encryption=none&host=wWw.SpeedtesT.net.mAzMaznet.store.&type=ws#[🇨🇦]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206RU5ZR09ORFU5NFVXMUc2WA%3D%3D@8tv68qhq.slashdevslashnetslashtun.net:15010#[🏁]t.me/MoftConfig
 trojan://Ng35283528@gozargah5.cloudflare3-80.hosting-ip.com:443?path=%2F%3Fed&security=tls&host=c2.validbv3528.eu.org&type=ws&sni=c2.validbv3528.eu.org#[🇨🇦]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@18.179.37.79:2377#⚜️Telegram:@IP_CF
 vless://0fd50bfd-08b2-4a7c-8def-6ce54215deaa@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeedeeeeee.ir&encryption=none#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#[🇮🇳]t.me/MoftConfig
