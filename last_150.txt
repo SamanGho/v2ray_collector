@@ -1,3 +1,15 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.56ms
+trojan://pqlnPNu423@57.129.89.172:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-ovh-v2.devefun.net#👉🆔@MoftConfig📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:35.03ms
+vless://ec3ad054-a2c1-4330-bd79-0ad89a205d7a@188.245.206.53:1598?security=none&encryption=none&host=stackoverflow.com&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.93.47:6379#👉🆔@MoftConfig📡🇺🇸®️United States©️Ashburn🅿️ping:110.41ms
+ss://YWVzLTI1Ni1nY206YTg2OWJhN2UtZTQ2Yy00NmJmLTlkMGEtMmE0ZGRlY2MwNjI3@129.159.49.207:7705#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#👉🆔@MoftConfig📡🇵🇱®️Poland©️Kolonia Opacz🅿️ping:84.75ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWQwMGY0Ny02NjQ1LTRjMTItOGM3Yi1lZGQ5ZmNjMTM1ZTI%3D@hinetiw0k.yooddns.stream:26900#👉🆔@MoftConfig📡🇹🇼®️Taiwan©️Taipei🅿️ping:255.41ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:95.22ms
+vless://53bbefc3-dfa1-4581-9001-51a5c0ebb3a5@194.182.79.147:35628?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇿®️Czechia©️Prague🅿️ping:48.52ms
+vless://ec3ad054-a2c1-4330-bd79-0ad89a205d7a@188.245.206.53:1598?security=none&encryption=none&host=stackoverflow.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.57ms
+ss://YWVzLTI1Ni1nY206YTg2OWJhN2UtZTQ2Yy00NmJmLTlkMGEtMmE0ZGRlY2MwNjI3@129.159.49.207:7705#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.154:8080#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔@MoftConfig📡🇨🇦®️Canada©️Beauharnois🅿️ping:149.97ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.38ms
@@ -206,22 +218,14 @@ vless://3f4c41ce-9bf2-4e16-a3ea-5903d3433af3@tel5.vpntype.dev:443?security=tls&e
 vless://234e0880-c603-4c90-9702-3bd148245d14@zula.ir:8443?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=vip.donghi.ir&fp=chrome&type=ws&sni=vip.donghi.ir#[🇨🇦]t.me/MoftConfig
 vless://1407bf51-7108-4a4b-ba2c-0690d589d22e@103.253.43.210:443?security=tls&flow=xtls-rprx-vision&sni=hon5.vpntype.dev&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#[🏁]t.me/MoftConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.185.205.62:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.185.205.62:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 ss://YWVzLTI1Ni1nY206NkJENFRaNVcxUzhPV0FVOA@91.148.134.106:20005#[🏁]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206RzVLQlJaUUVFUEFEWjQ1Wg@129.232.133.62:20015#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206Q1k5R085RTFJWFJIQ0hWMA@23.185.248.12:17002#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206Qzg4TlBLWUdTUllJTkpQWQ@109.104.154.131:20000#[🇳🇱]t.me/MoftConfig
-vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@38.225.100.135:43000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.hkust.edu.hk&fp=ios&security=reality&pbk=ORXZoe3pY5Cu4_E_VZ0Uqnb6aVfpqidC30-B8AfUpys&sid=eb0325a469&packetEncoding=xudp#[🏁]t.me/ConfigsHub
-vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@38.225.102.22:43000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.hkust.edu.hk&fp=chrome&security=reality&pbk=qaSqX50p-DEVvEuhkD2fbqCdPWqrazciiznb0wXxJiU&sid=ceea394c&packetEncoding=xudp#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WFFJNDI2QVJYUExCNkNGSw@31.40.212.221:20006#[🏁]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206T0Y3M1pJV09ZS0xZSFdGTw@185.47.254.177:20007#[🏁]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206RVRIVllJNDlVRThWUjZRVw@37.143.128.125:20012#[🏁]t.me/ConfigsHub
-vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@38.225.101.82:43000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.hkust.edu.hk&fp=edge&security=reality&pbk=rMfhtOgMGfc1eZXxx7vxBC1RzSH3MJ5MAaZOE-Vx2WU&sid=c28eecde4a&packetEncoding=xudp#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@18.185.205.62:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 ss://YWVzLTI1Ni1nY206SkRRQThXT0VJSkdOWDAyNw@185.237.185.77:20036#[🏁]t.me/MoftConfig
-ss://YWVzLTI1Ni1nY206WlBWUFlQUklGOFNYUU9JMA@46.16.129.217:20022#[🏁]t.me/ConfigsHub
-vless://2ff8e538-3109-4c13-a89a-4a7df6866a3a@www.speedtest.net:2095/?type=httpupgrade&encryption=none&host=4.frsee.ir&path=%2F#[🇨🇦]t.me/ConfigsHub
-vless://telegram-id-ArV2ray7@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#WS6-All+%7C+%40ArV2ray
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.180.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206TVJDM09WQ0RLOUQ3RUw5MA@185.90.61.157:20034#[🏁]t.me/MoftConfig
 vless://telegram-id-ArV2ray@193.46.81.83:3567?mode=gun&security=reality&encryption=none&pbk=_5Hw5RRcDyCnW7H3Ubmp9UnqNiQUaKfB5rPTDqI_kAA&fp=chrome&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&sni=maps.google.com&sid=c14b9292de5a8d6f#👉🆔@MoftConfig📡🇩🇪®️Germany©️Kriftel🅿️ping:27.44ms
@@ -229,7 +233,6 @@ ss://YWVzLTI1Ni1nY206WFFJNDI2QVJYUExCNkNGSw@31.40.212.221:20006#[🏁]t.me/Confi
 vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@216.230.233.49:25536/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apps.apple.com&fp=chrome&security=reality&pbk=ydfJ-qHuqDCqmGnFbRwzqYT7gA9mWoh0gtYvMzt8OmI&sid=fc3d&packetEncoding=xudp#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206TVAzWFlaVTA2OE8yN1FJRA@103.75.119.144:20021#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206NkJENFRaNVcxUzhPV0FVOA@91.148.134.106:20005#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206OTJTQ0IxVFc2VFNSREs4Rw@185.192.124.41:20013#[🏁]t.me/ConfigsHub
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096/?type=ws&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s15.yozpalangserver.ir&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s15.yozpalangserver.ir#[🇨🇦]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206QzA4TzlNSURLWEM3Q1k4Sw@185.47.253.144:20010#[🏁]t.me/MoftConfig
 vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@103.15.91.138:21488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apps.apple.com&fp=firefox&security=reality&pbk=rM7kZRAClXiLTHC-vG9PDQujq3alpb3S5-V-1GiIGGM&sid=120330eb7b&packetEncoding=xudp#[🏁]t.me/ConfigsHub
@@ -239,12 +242,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&security=n
 vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@104.152.210.36:25536/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apps.apple.com&fp=chrome&security=reality&pbk=t4dzgL6Q-l6Y8d-Z0FSEvtAygZFDQqg0FPHn7Qxg90M&sid=c40fa703ffa3d3b8&packetEncoding=xudp#[🇨🇦]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206NEkwVExYTUNKUkdKSEhCSA@185.186.78.220:20035#[🇸🇪]t.me/MoftConfig
 vless://88562dae-822c-487d-87ea-7bdb0eeba32a@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
-vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@38.225.102.31:43000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.hkust.edu.hk&fp=ios&security=reality&pbk=uqShUD8Z-3FH3StSBpj9sQrLSOkyGD_AkIgSEuWMwVI&sid=8c6d66793d191a&packetEncoding=xudp#[🏁]t.me/ConfigsHub
 vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@69.30.232.19:25536/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apps.apple.com&fp=chrome&security=reality&pbk=GO9XfLa_vlZBDC_mdRo4bkrb1BBOpTkbTrlEvRKFrWE&sid=81f9&packetEncoding=xudp#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206RDBFV1AyOFZOVzVQQkFZUw@185.255.123.183:20016#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WEpTTUJNVk1JTFA4SUpQRQ@185.126.237.58:20027#[🏁]t.me/MoftConfig
-vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@38.225.102.231:43000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.hkust.edu.hk&fp=chrome&security=reality&pbk=M022yb1IeTFbwAOoc5CLV9AJGQL2gCDHPmoREhiIfiA&sid=8244cc000e&packetEncoding=xudp#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206M0VDTk42SzFKUjZZUUkzQw@147.78.2.35:20020#[🏁]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206T0Y3M1pJV09ZS0xZSFdGTw@185.47.254.177:20007#[🏁]t.me/ConfigsHub
-vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@38.225.101.77:43000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.hkust.edu.hk&fp=safari&security=reality&pbk=fpW2C8i9N9DM6kVILbCOhxxCgRUhZikdM8sGT1Nb8iw&sid=9cb783&packetEncoding=xudp#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WDRMSlFZTTFVWDJHQkExUA@185.123.100.140:20024#[🇹🇷]t.me/MoftConfig
