@@ -1,3 +1,12 @@
+vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.12.101:2052?path=%2FTelegram-%40V2ary_Alpha&security=none&encryption=none&host=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&type=ws#[🇨🇦]t.me/MoftConfig
+trojan://xxoo@138.197.5.103:443?encryption=none&security=tls&sni=telewebion.com&type=raw&headertype=none#[🇺🇸]t.me/MoftConfig
+trojan://xxoo@138.197.5.103:443?encryption=none&security=tls&sni=telewebion.com&type=raw&headertype=none#[🇺🇸]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.188.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
+vless://af50bdbf-1715-a461-cbb4-ebbea9ed338c@146.19.143.150:4768?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yandex.com&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#👉🆔@MoftConfig📡🇪🇪®️Estonia©️Tallinn🅿️ping:14.09ms
+vless://2b0f62d4-a851-4243-881f-cdaccd378b8e@itsfree.v2rayzone.xyz:443?security=tls&encryption=none&headerType=none&type=tcp&sni=m.zoom.us#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:316.03ms
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.pronetwork.com&type=ws#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2N0F3VnVJSk9aSXFCdGNQR1hXS2VI@62.210.88.22:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:62.85ms
+vless://3eeb6e39-bd2a-4245-9bb4-ea6e66d9d56e@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeedeeeeee.ir&encryption=none#[🇺🇸]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTWlKS2VoNHlNdW1meVlWdmpxMExS@45.150.32.13:38707#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:32.85ms
 trojan://0da8651e-e1f6-11ec-bd7c-f23c913c8d2b@a828e0b8-swo740-tcinla-hrtf.cu.plebai.net:15229?allowInsecure=0&sni=a828e0b8-swo740-tcinla-hrtf.cu.plebai.net#[🏁]t.me/ConfigsHub
 vless://2b0f62d4-a851-4243-881f-cdaccd378b8e@itsfree.v2rayzone.xyz:443?security=tls&encryption=none&headerType=none&type=tcp&sni=aka.ms#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore (Downtown Core)🅿️ping:316.03ms
@@ -232,19 +241,10 @@ vless://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?path=%2FpBo4JI9ey6
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?mode=stream-one&path=%2Fkavir%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=tls&alpn=h2&encryption=none&host=89.144.35.100&fp=firefox&type=xhttp&sni=kavir.lnmarketplace.net#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiJpcC5zYiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2RuLjNpYXBwcy5jb20iLCJpZCI6ImNmYThjMzZjLTk2NTItNDg0YS04OWUxLTM0ZGNjOThmYWFjMyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcz9lZFx1MDAzZCNURUxFR1JBTS1NQVJBTUJBU0hJX01BUkFNQkFTSEk/ZWRcdTAwM2Q1MTIiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwiaWQiOiJjZmE4YzM2Yy05NjUyLTQ4NGEtODllMS0zNGRjYzk4ZmFhYzMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3M/ZWRcdTAwM2QjVEVMRUdSQU0tTUFSQU1CQVNISV9NQVJBTUJBU0hJP2VkXHUwMDNkNTEyIiwicG9ydCI6IjQ0MyIsInBzIjoiQG1lbGlfcHJveHl52LPYsdmI2LHYp9uM4oCM2KjbjNi02KrYsSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@ufc.ru:80?path=%2FVPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE%3Fed&security=none&encryption=none&host=Channel-VPNCUSTOMIZE.ir&type=ws#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@88.210.36.107:2377#[🇺🇸]t.me/MoftConfig
 trojan://Aimer@162.159.142.25:443?sni=epccf.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@175.199.169.221:50003?sni=epccx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@61.216.165.233:2377#[🏁]t.me/MoftConfig
-trojan://Aimer@175.199.169.221:50003?sni=epccx.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
-trojan://Aimer@162.159.142.25:443?sni=epccf.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@88.210.36.107:2377#[🇺🇸]t.me/ConfigsHub
 trojan://bpb-trojan@168.138.185.234:443?sni=skwygx.top#[🏁]t.me/ConfigsHub
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.197:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#[🇫🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@61.216.165.233:2377#[🏁]t.me/ConfigsHub
 trojan://Aimer@162.159.133.8:443?sni=epcch.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
-vless://2ec77e68-99e5-2322-f5c1-7add941b0e7a@server2.cofegraphic.ir:2050?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzQyZWVhYi1kOTU1LTRjMjktOGIxMi0yYzEzYmI0YjgyMGE=@free.2weradf.xyz:36311#[🏁]t.me/MoftConfig
-trojan://bpb-trojan@168.138.185.234:443?sni=skwygx.top#[🏁]t.me/MoftConfig
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.197:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#[🇫🇷]t.me/MoftConfig
-trojan://Aimer@162.159.133.8:443?sni=epcch.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
