@@ -1,3 +1,7 @@
+trojan://telegram-id-v2rayvpnchannel@13.49.13.19:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/MoftConfig
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.175:8880/?type=ws&encryption=none&host=sg.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#[🏁]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.254.140.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.209.171:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://7b95ca8d-e533-4fce-9240-5771dc8c7d73@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.10:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#[🇬🇧]t.me/ConfigsHub
 trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.205.22:443/?type=ws&host=1ssdddffffhhhjjjj.20220420.pp.ua&path=%2FOYzPAeaZdXUq2d6J3gc4aj&security=tls&sni=1SSdDdFfffHhHJJJJ.20220420.Pp.uA&fp=chrome#[🇨🇦]t.me/ConfigsHub
@@ -232,13 +236,9 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.180.20:8880?allowInsecure=0&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.46:8880?security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.187.34:443?security=tls&encryption=none&headerType=&fp=chrome&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/ConfigsHub
 vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=&encryption=none&headerType=&type=tcp#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@15.237.207.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@13.36.113.249:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s22.afaghnegwork.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s22.afaghnegwork.ir&fp=#⚜️Telegram:@IP_CF
 vless://2b619c86-0173-4779-b1db-91bd18e3a618@95.38.38.226:27000?security=&encryption=none&host=mcistar.ir.divarcdn.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://924d7a43-260a-45ec-a8f7-785a0e6cfcbc@speedtest.net:80?mode=auto&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.207.107:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.178:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://71b0a2f6-77eb-457c-b060-13de21b976c9@140.248.75.255:443?path=%2FTelegram-NetPie&security=tls&encryption=none&host=netpie.com&type=ws&sni=netpie.com#[🇩🇪]t.me/ConfigsHub
 vless://934b4530-efb7-42cb-9f4f-f7d7b0963f7c@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=irancell.net.&type=ws#[🇨🇦]t.me/ConfigsHub
