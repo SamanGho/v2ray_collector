@@ -1,8 +1,3 @@
-trojan://telegram-id-v2rayvpnchannel@13.49.13.19:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/MoftConfig
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.175:8880/?type=ws&encryption=none&host=sg.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#[🏁]t.me/MoftConfig
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.254.140.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.209.171:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
-vless://7b95ca8d-e533-4fce-9240-5771dc8c7d73@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.10:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#[🇬🇧]t.me/ConfigsHub
 trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.205.22:443/?type=ws&host=1ssdddffffhhhjjjj.20220420.pp.ua&path=%2FOYzPAeaZdXUq2d6J3gc4aj&security=tls&sni=1SSdDdFfffHhHJJJJ.20220420.Pp.uA&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880/?type=grpc&encryption=none#[🏁]t.me/ConfigsHub
@@ -248,3 +243,8 @@ vless://6ba6c3ee-3324-4649-a58c-2a5241944bdf@193.186.32.190:2020?security=&encry
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇺🇸]t.me/ConfigsHub
 vless://2b619c86-0173-4779-b1db-91bd18e3a618@95.38.38.226:23000?security=&encryption=none&host=mcistar.ir.divarcdn.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://abb2d75f-e5f1-4db8-98f6-048dfb0eed94@109.172.55.23:443?security=reality&encryption=none&pbk=OzfC9K0wCrfVT_PpIUGfDFTTxiCetmx7gG6E4RARNw0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=7409f4913a0eba93#[🇫🇷]t.me/ConfigsHub
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.pronetwork.com#[🇨🇦]t.me/ConfigsHub
+vless://c23462c4-986a-402e-80f8-dce5e1e893c0@d.nl.cdn.maviks.eu:443?path=%2FMaGLM25tSikPTFr75Q0Yri&security=tls&encryption=none&host=cdn.maviks.eu&fp=chrome&type=httpupgrade&sni=cdn.maviks.eu#[🇬🇧]t.me/ConfigsHub
+vless://ce13ba27-6ef1-4eb0-8aa5-b7215ea71848@185.143.233.120:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cloud.sappcode.ir&fp=chrome&type=ws&sni=mydigipay.com#[🇮🇷]t.me/ConfigsHub
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.pronetwork.com#[🇨🇦]t.me/ConfigsHub
+vless://c23462c4-986a-402e-80f8-dce5e1e893c0@e.nl.cdn.maviks.eu:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&security=tls&encryption=none&host=cdn-nodes.maviks.eu&fp=chrome&type=ws&sni=cdn-nodes.maviks.eu#[🇬🇧]t.me/ConfigsHub
