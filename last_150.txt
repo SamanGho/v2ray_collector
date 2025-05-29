@@ -1,3 +1,5 @@
+vless://9d9e217d-2b32-46eb-8a69-9735f5e1f92e@finland.my-iranparspack.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#[🇫🇮]t.me/ConfigsHub
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.115:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#[🇺🇸]t.me/MoftConfig
 vless://af0ae7d4-088a-57be-8d59-e8d02e4514fe@sitespeedtest.zaf.v2vless.site:2052?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#👉🆔@MoftConfig📡🇿🇦®️South Africa©️Randburg (Blackheath)🅿️ping:194.01ms
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed&security=none&encryption=none&host=moradqoli.com&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.63ms
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.115:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#[🇺🇸]t.me/ConfigsHub
@@ -246,5 +248,3 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.3:443?path=%2Fproxyip%3Dz
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?type=tcp&security=tls&sni=147135010072.sec21org.com#👉🆔@MoftConfig📡🇺🇸®️United States©️Reston🅿️ping:143.89ms
 trojan://telegram-id-privatevpns@18.159.76.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.159.76.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTk4LjI1MS44My4yMDgiLCJwb3J0IjoiNDUyOTEiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiJsdC5meGxjbi5jb20iLCJ0bHMiOiIifQ==
-trojan://telegram-id-directvpn@18.159.76.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
