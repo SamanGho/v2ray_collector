@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:41.12ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:46.09ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:20.51ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:20.39ms
@@ -247,4 +248,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.100:80?path=%2FTelegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.193.126:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.80.111.58:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#[🇩🇪]t.me/ConfigsHub
 vless://4cc56b53-a6fe-4ff7-af6e-689437a44738@151.101.64.155:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Mard.asabani.coM&type=ws#[🇺🇸]t.me/MoftConfig
-vless://TELEGRAM-NUFiLTER@151.101.64.155:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=moradqoli.com&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws2
