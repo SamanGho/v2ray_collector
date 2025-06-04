@@ -1,3 +1,5 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@195.85.23.254:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%40vpnAndroid2#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.46.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#[🇬🇧]t.me/ConfigsHub
 vless://eb1920ff-d816-4ca1-b832-4683cddebaa6@37.32.42.22:443?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#[🇮🇷]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.189.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://840dc994-d232-4b71-b133-4f36a874c867@p9.punchline.ir:29570?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=lOuhgB0K7paehmJFBxd0GxSY2Ax00niQGkpH3-8jKz4&sid=37&spx=%2F&type=xhttp&path=%2Fv2raybluecrystal&mode=auto#[🇩🇪]t.me/ConfigsHub
@@ -137,8 +139,6 @@ vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.232.46.60:443/?type=grpc&encryp
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.232.46.60:2052/?type=tcp&encryption=none&sni=eur-lex.europa.eu&fp=safari&security=reality&pbk=VVIPXWtsu7HkbeK0NY61tokbWW1zFnrSYgTfTXgGoyU&sid=8237c6af6ef93c35#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.124.226.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.124.226.161:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=cache-giver-wife.stark-industries.solutions#[🇳🇱]t.me/ConfigsHub
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#[🇳🇱]t.me/ConfigsHub
 vless://Parsashonam-249@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.6ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.75:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#👉🆔@MoftConfig📡🇷🇺®️Russia©️Moscow🅿️ping:8.45ms
 vless://f9cbd671-3828-4ce5-b485-f7654a8a7cfd@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/Telegram—VPNCUSTOMIZE%3Fed2048#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:10.97ms
