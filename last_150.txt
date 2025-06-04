@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔@MoftConfig📡🇨🇦®️Canada©️Pointe-Claire🅿️ping:105.88ms
 vless://bfab9a68-5545-5270-bfdd-c9a5476ca066@84.235.237.246:33001?security=reality&encryption=none&pbk=lCw-J-VD2RWK0khO3ySjqdsfSV2qnVx8y91WV8AKMkw&headerType=none&fp=chrome&type=tcp&sni=fr.zran.top#👉🆔@MoftConfig📡🇫🇷®️France©️Marseille🅿️ping:43.2ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@95.174.71.98:2377?plugin=simple-obfs%3Bobfs%3Dtls%3Bobfs-host%3D(TG%20%40WangCai2)4fa101a%3A48723#👉🆔@MoftConfig📡🇺🇸®️United States©️Los Angeles🅿️ping:195.2ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.39:2377?plugin=simple-obfs%3Bobfs%3Dtls%3Bobfs-host%3D(TG%20%40WangCai2)4fa101a%3A48723#👉🆔@MoftConfig📡🇹🇼®️Taiwan©️Taipei🅿️ping:301.03ms
@@ -247,4 +248,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.75:8880/?type=ws&encryp
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir#👉🆔@MoftConfig📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:8.57ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.107.152:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:8.08ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.10:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.62ms
-vless://a26931ad-d6ae-467d-b170-f11644b432e3@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
