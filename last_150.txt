@@ -1,3 +1,4 @@
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=&encryption=none&headerType=none&type=tcp#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:178.7ms
 trojan://telegram-id-directvpn@18.153.129.97:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVdZNU16STJZMlEzTkRNNU9UTTVNdz09Ok1XSTVPVGxoT1dNdFlUaGlOeTAwTXc9PQ%3D%3D@tianmao-zz.legeth.xyz:26102#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVdZNU16STJZMlEzTkRNNU9UTTVNdz09Ok1XSTVPVGxoT1dNdFlUaGlOeTAwTXc9PQ%3D%3D@tianmao-zz.legeth.xyz:26103#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD3
@@ -129,7 +130,6 @@ vless://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v01.vxlimir.com:1370?security=reali
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️New Barnet🅿️ping:57.54ms
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?type=tcp&security=tls&sni=147135010072.sec21org.com#👉🆔@MoftConfig📡🇺🇸®️United States©️Reston🅿️ping:140.81ms
 vless://CHIK_181509@77.91.76.14:443?security=reality&encryption=none&pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:35.04ms
-vless://05d83460-c34e-4d1a-9bae-40f60e77cd95@tci.ir.cloud.us.systemgamingirani.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#[🇺🇸]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:104.38ms
 vless://CHIK_881548@us1.chik-chirik.xyz:443?security=reality&encryption=none&pbk=wsuNVssCC7Wh0VH_CpY3Th8z1brS70MpoqkgWmSdAk4&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#👉🆔@MoftConfig📡🇺🇸®️United States©️Miami🅿️ping:152.12ms
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.184.137.206:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
