@@ -1,3 +1,5 @@
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.72ms
+vless://a90e3756-d330-4597-bcc3-ab7905741e52@86.104.72.211:32401?type=tcp&security=reality&fp=chrome&sni=dl.google.com&pbk=8RJPuc5C7fcVe5LSQ0olGnhiqFL8LX-0pnLMrEHD1Bs&sid=7fb7a1507826c540&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:102.7ms
 ss://YWVzLTI1Ni1nY206ZDdhMTVmN2E0YzgwNmEzMw%3D%3D@195.133.5.176:3018#👉🆔@MoftConfig📡🇷🇺®️Russia©️Moscow🅿️ping:30.23ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.128:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.21ms
 ss://YWVzLTI1Ni1nY206ZDdhMTVmN2E0YzgwNmEzMw%3D%3D@195.133.5.176:3018#[🇷🇺]t.me/ConfigsHub
@@ -243,8 +245,6 @@ vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2087?path=%2FyqIThx8
 vless://d53da42f-d4b7-4d80-a9ca-cecf3beaa79a@91.107.152.130:443?mode=auto&path=%2F%40iNeronix&security=reality&encryption=none&pbk=kxj-EhIXEgwh66gBVOf3shmmwuMqKgsd0mUJNUN8Gw8&fp=chrome&spx=%2F&type=xhttp&sni=speedtest.net&sid=d62385a8#[🇩🇪]t.me/ConfigsHub
 vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇺🇸]t.me/ConfigsHub
 trojan://0588@175.203.30.93:50000?allowInsecure=1&sni=888.uskm.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@15.237.225.174:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#[🇫🇷]t.me/ConfigsHub
 vless://7bda027c-cbc8-488f-864f-cfb415cd8d77@157.173.127.227:443?security=reality&encryption=none&pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&headerType=&fp=chrome&type=tcp&sni=analytics.google.com&sid=40e3350da285#[🇩🇪]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.9:443#⚜️Telegram:@IP_CF
 vless://4dc10699-ff48-4688-b7e3-675249f307c3@5.253.41.42:30488?security=reality&encryption=none&pbk=oAZiftXfDm4Kue2Zle0lB9QQXEFPRyd24Vf7useQRyY&headerType=&fp=chrome&type=tcp&sni=dl.google.com&sid=a7#[🏁]t.me/ConfigsHub
