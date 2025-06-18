@@ -1,3 +1,7 @@
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@140.238.212.95:443?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed&security=tls&encryption=none&type=ws&sni=steep.skyfigure.top#👉🆔@MoftConfig📡🇨🇭®️Switzerland©️Oberengstringen🅿️ping:31.7ms
+trojan://telegram-id-privatevpns@3.126.104.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://dd3d18b9-28df-4680-a79e-e1c0c8d5496d@bless.network:443?encryption=none&security=tls&sni=azarandooz.prospective.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=azarandooz.prospective.workers.dev&path=%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot#[🇨🇦]t.me/MoftConfig
+vless://dd3d18b9-28df-4680-a79e-e1c0c8d5496d@bless.network:443?encryption=none&security=tls&sni=azarandooz.prospective.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=azarandooz.prospective.workers.dev&path=%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot%2F%40AzarAndoozVPNbot#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.126.104.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
 trojan://telegram-id-directvpn@3.126.104.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
 trojan://telegram-id-directvpn@3.126.104.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
@@ -228,12 +232,8 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.224:80?type=ws&host=digita
 vless://baadfec3-75bd-4df0-ad6b-2ecdfdfe9d52@104.21.42.56:80?security=none&type=ws&host=worker-super-shape-975b.1011da65bb0ac5.workers.Dev&path=%2FTELEGRAM-GH_V2RAYNG%2F%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.3ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#[🇨🇦]t.me/MoftConfig
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.4ms
-vless://51626927-72ad-43f4-9b14-e9550161f2dc@askasnasd.arcanpayer.com:1952?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#⚜️Telegram:@IP_CF
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.21:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:266.08ms
-vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&type=grpc&serviceName=&sni=pqh23v2.hiddendom.shop#[🇨🇦]t.me/MoftConfig
 vless://650cfa66-60d2-4f10-804a-9df41182030b@2.188.233.135:36380?encryption=none&security=none&type=ws&path=%2F#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tabriz (Nowbar)🅿️ping:117.52ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.8.60:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.36.179:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.24.247.217:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.87ms
 vless://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@5.159.49.238:42539?encryption=none&security=none&type=tcp&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#👉🆔@MoftConfig📡🇮🇷®️Iran©️Bahārestān🅿️ping:189.19ms
