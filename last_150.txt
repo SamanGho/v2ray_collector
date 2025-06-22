@@ -1,3 +1,4 @@
+vless://6486c034-4380-4601-b35b-85ba3a65feb0@151.101.69.22:80?security=none&type=xhttp&host=barayeazadi.sbs#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:153.53ms
 vless://9676816c-ae81-434a-8029-0e1f40bd687d@104.21.32.1:8080?security=none&type=httpupgrade&host=blog.acveo.ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.57ms
 vless://a7c9c017-db10-4d15-b01b-0634db498b57@xcvbnnmklo.00890604.xyz:443/?type=ws&encryption=none&flow=&host=xcvbnnmklo.00890604.xyz&path=%2FxZjr7v1DqrYyamxeTh7sLJtI1&security=tls&sni=xCVbNNMklo.00890604.xyZ&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.58ms
 trojan://a7c9c017-db10-4d15-b01b-0634db498b57@ert5.0890604.xyz:443/?type=ws&host=ert5.0890604.xyz&path=%2FOBmXcXufeTh7sLJtI1&security=tls&sni=ERt5.0890604.XyZ&alpn=http%2F1.1&fp=chrome#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.13ms
@@ -242,7 +243,6 @@ trojan://cd41b9d7-df15-46ad-a778-257b0851525a@35.79.138.31:443?security=tls&sni=
 trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@18.141.142.71:20230?security=tls&sni=421421.xyz#[🏁]t.me/ConfigsHub
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@70.32.1.32:443?security=tls&sni=jp-h1.sshub.xyz&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.93.237:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇬🇧]t.me/ConfigsHub
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjE5LjE1MS4yMC42MiIsInBvcnQiOiI0MjM0NCIsInR5cGUiOiJub25lIiwiaWQiOiI0MzgxYmVhZS00NWE2LTQ0MjEtODU0Ny02NWUzMTJkZDIwNGEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6ImZsYmhocy5kb25nZmFuZ3lpaGFvLnh5eiIsInRscyI6IiJ9
 vless://a99d9961-5950-45b9-aeda-08f76b135374@193.151.130.176:2087?path=%2F&security=&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://8892b656-9390-4f5c-acc0-97a42813e1de@SVN.Nisvn.iR:500?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://73082f7f-a457-4610-a0c1-8bacade70704@151.101.194.165:80?security=none&type=ws&host=rohammmmmvistav2.ir&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#[🇺🇸]t.me/ConfigsHub
