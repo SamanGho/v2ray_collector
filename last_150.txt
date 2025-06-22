@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.47ms
 vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@188.114.98.97:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.85ms
 vless://d8988d53-8fad-457a-bb29-edfd396625cc@arrow.filidi.com.tr:17935?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:109.88ms
 vless://4a919c7f-a75c-48cc-b340-b95db7bad82d@151.101.194.228:80?security=none&type=ws&host=joinshhproxybedeeeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.18ms
@@ -217,7 +218,6 @@ trojan://telegram-id-v2rayvpnchannel@18.169.81.26:22222?security=tls&sni=trojan.
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.17.148.22:443?security=tls&sni=phoTOgrapHIPICTuREai.iR&type=ws&host=photographipictureai.ir&path=%2FPY1b5Aw69EFfvazZ%2FODkuMTY4LjQzLjI4%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://9084b11c-da3f-4c3f-af79-226a119c880d@tn.pingtools.net:2087?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.17.148.22:2053?security=tls&sni=D031tAp7Jq.MySpDmMeTi.CoM&type=grpc&alpn=h2#[🇨🇦]t.me/ConfigsHub
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#[🇬🇧]t.me/ConfigsHub
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@35.181.160.169:8443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#[🇫🇷]t.me/ConfigsHub
 vless://95701d09-280b-478f-9812-ae2947cc1b1e@65.109.179.105:443?security=none&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.128:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#[🇫🇷]t.me/ConfigsHub
