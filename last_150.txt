@@ -1,3 +1,4 @@
+vless://f7d55b42-9c71-4e53-ade3-8932dc0fe950@wolf512.api-tel.xyz:22695?security=none&encryption=none&type=ws#👉🆔@MoftConfig📡🇮🇷®️Iran©️Mashhad🅿️ping:111.12ms
 trojan://telegram-id-directvpn@18.195.228.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.45ms
 vless://31242903-b05f-4795-a845-cb434eb57c03@marzban.panelmarzban.com:4040?security=reality&encryption=none&pbk=GqpLuqbGhZ3N1oIlSMfuLnpKCNZOoK8JWwHPmqSNxgk&headerType=none&fp=firefox&type=tcp&sni=refersion.com#[🇩🇪]t.me/MoftConfig
 vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@104.17.213.241:443?security=tls&sni=is.oldcloud.online&type=ws&host=is.oldcloud.online&path=/#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.4ms
@@ -210,7 +211,6 @@ vless://d5455ee6-6f9b-41d0-9043-ce160bff5e13@biography.com:80?security=none&type
 vless://a6cd3631-4457-48da-bace-76c5e0bfa331@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=Lightning6.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://d86ca3ed-1c63-42b0-bfac-4385e1aeaceb@151.101.3.8:80?path=%2Fdownload&security=&encryption=none&host=haledada.com&type=ws#[🇺🇸]t.me/ConfigsHub
 trojan://96cad374-7573-4463-8804-4665c2c3d932@52.77.220.89:6001?security=tls&sni=tj-hk-2.aikunapp.com&allowInsecure=1#[🏁]t.me/ConfigsHub
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@103.245.228.251:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome&security=&encryption=none&host=cf.d3z.net&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@80.92.204.106:9020#[🇩🇪]t.me/ConfigsHub
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@212.183.88.251:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=&encryption=none&host=cf.d3z.net&type=ws#[🏁]t.me/ConfigsHub
 trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net#[🇨🇦]t.me/ConfigsHub
