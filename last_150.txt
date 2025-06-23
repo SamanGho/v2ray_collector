@@ -1,3 +1,5 @@
+vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@www.wappalyzer.com:80?path=%2FMosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:10.84ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.29:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:270.9ms
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.62.141:80?path=%2FBaRAyeIran%3Fed%3D2560&security=&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.44ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.6ms
 ss://YWVzLTI1Ni1nY206M2ZGYVFnZGJoa1FYQmRmYkFkNGc5K1RCakZQdjd6Q3FISWFBcGFUWm1JUT0@78.153.149.130:48758?type=tcp#👉🆔@MoftConfig📡🇷🇺®️Russia©️Kargat🅿️ping:93.26ms
@@ -215,7 +217,6 @@ vmess://eyJhZGQiOiIxNTEuMTAxLjMuOCIsImFpZCI6IjAiLCJob3N0IjoiYmVmcmVld2l0aHVzLm5l
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?type=ws&host=redfree8mahsang6.redfree8.ir&path=/Telegram@V2ray_Alpha/?ed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://2a21d0a1-fc0f-49e7-b5cf-43a88d6d3d64@premium.vkehi.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=facebook.com#[🏁]t.me/ConfigsHub
 vless://8daf992d-bb72-42db-ba48-7fb1f7605822@nim.france-learns.ir:42535?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQWRRU3d6cXVPWEQycmdSakpnVGRo@158.255.77.34:35390#[🇦🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiJzbmFwcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWdoLnRyYXZlbGFuZC1sZWlzdXJlLmlyIiwiaWQiOiJiOTRiNDFkMy1iMjE4LTQ3N2QtYjk4Ny05ZjgyNWMyODRmYmIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@80.92.204.106:9037#[🇩🇪]t.me/ConfigsHub
 vless://55584555-97d6-429c-8480-abd526fcb437@speedtest.net:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#[🇺🇸]t.me/ConfigsHub
@@ -238,7 +239,6 @@ vless://31e3b863-1c44-4490-bf65-c255d1e51b5b@gcp.free.server1.techsonic.cloud:44
 vless://31e3b863-1c44-4490-bf65-c255d1e51b5b@gcp.free.server1.techsonic.cloud:443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=epcgame.com#[🏁]t.me/ConfigsHub
 vless://31e3b863-1c44-4490-bf65-c255d1e51b5b@gcp.free.server1.techsonic.cloud:443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=telegram.hutch.lk#[🏁]t.me/ConfigsHub
 vless://31e3b863-1c44-4490-bf65-c255d1e51b5b@gcp.free.server1.techsonic.cloud:443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#[🏁]t.me/ConfigsHub
-vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@Mol1.misaghreserve.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Lalami.com&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://31e3b863-1c44-4490-bf65-c255d1e51b5b@gcp.free.server1.techsonic.cloud:443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=aka.ms#[🏁]t.me/ConfigsHub
 vless://31e3b863-1c44-4490-bf65-c255d1e51b5b@gcp.free.server1.techsonic.cloud:443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=netflix.com#[🏁]t.me/ConfigsHub
 vless://af96f65b-91cd-48ec-b813-8dbff6873b25@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=wreraservis.global.ssl.fastly.net&type=xhttp#[🇺🇸]t.me/ConfigsHub
