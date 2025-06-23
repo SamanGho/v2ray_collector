@@ -1,3 +1,4 @@
+vless://6b437afc-62b3-40ba-9112-ee667a783c3d@104.21.64.1:2096?path=%2F6uH6fvM6CfUkj3WG%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=free.bxxxcws.workers.dev&fp=randomized&type=ws&sni=FReE.BxxXcWS.WoRkeRS.DEv#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.31ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.63:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#👉🆔@MoftConfig📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:8.68ms
 trojan://Aimer@167.68.4.7:2053?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇺🇸®️United States©️Eagan🅿️ping:8.16ms
 vless://3b50f120-aaa9-4659-8e45-454aba569815@Speedtest.net:80?mode=auto&path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=&encryption=none&host=jointo_unlimiteddev.ir&type=xhttp#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.47ms
@@ -229,7 +230,6 @@ vless://6bb5f6b6-c886-4c9e-ad98-ab6674d211b1@151.101.3.8:80?mode=auto&path=%2Fv2
 vless://fde86c85-6d4d-420b-bfde-47687763517e@night.dl.darinips.com:443?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=firefox&type=tcp&sni=journalofbigdata.springeropen.com#[🇳🇱]t.me/ConfigsHub
 vless://448d41b1-afec-438b-97bb-3ad8d5032aba@supp.fixip3.top:90?path=%2F&security=&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://cbc043ca-bef6-431b-a182-5ca6446253bb@mech.sharghidustrial.ir:443?path=%2F9GUmETb6BT7sPyZ4Bfz0qA&security=tls&alpn=http%2F1.1&encryption=none&host=mech.sharghidustrial.ir&fp=chrome&type=ws&sni=mech.sharghidustrial.ir#[🇳🇱]t.me/ConfigsHub
-vless://30a02ad5-3fd8-4427-b954-5a093d853e33@sgjndkjgnaledgpsakinpsripkjdbvs.nightwolf.shop:57058?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNWRmMWY5NS1lNWZhLTQ0MDUtYjAzYi02M2E2MjhkZDkyMWU@free.2apzhfa.xyz:31145#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjVhYTU2Mi1kZWRmLTRmNWUtODE1Ny02MDY3MWU4YWViNjc@free.2weradf.xyz:36641#[🏁]t.me/ConfigsHub
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1#[🏁]t.me/ConfigsHub
