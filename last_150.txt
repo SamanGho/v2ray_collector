@@ -1,3 +1,4 @@
+vless://04ded80a-a541-4c92-8183-745cd0f89ae9@151.101.194.228:80?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.60:2095?type=ws&host=redw.pooriam.ir&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://a8fa86e3-03e3-4db9-98b0-fa52a2ba1ff1@172.66.47.94:443?security=tls&sni=jOInMahDisErveR-KMA.PagES.dEV&type=ws&host=joinmahdiserver-kma.pages.dev&fp=chrome&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.210:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#[🇫🇷]t.me/ConfigsHub
@@ -227,7 +228,6 @@ vless://4422063f-2127-4e35-8c69-850731a29450@mehdi1.daltooncloud.ir:80?mode=auto
 vless://c8593b7b-f3b6-4cfb-b87c-8278fd9b5f89@food3.hamrahconfig.com:80?path=%2Fdownload&security=none&encryption=none&host=okhaji.com&type=ws#[🏁]t.me/ConfigsHub
 trojan://X22ZAo5vGF@104.21.112.1:443?security=tls&type=httpupgrade&sni=esna.twn24.ir&path=/36822/?ed=2048&host=esna.twn24.ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.0ms
 vless://3fdf5dbc-d3e8-4ae9-aeef-dd83278ea4af@pq.aws59.yydjc.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&pbk=mnshlVo5tkzYbmEB9xrgmUHwYETnXLAjjlGAssqaDGI&sid=436299c6&type=tcp&headerType=none#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:192.0ms
-vless://65f02728-83d4-4ff5-b74f-f32d8b8dfe12@151.101.3.8:80?path=%2Fwp-admin&security=&encryption=none&host=www.swlamp.com&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#[🏁]t.me/MoftConfig
 vless://3fdf5dbc-d3e8-4ae9-aeef-dd83278ea4af@pq.aws53.yydjc.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=buylite.tv.apple.com&fp=chrome&pbk=0UFjUVBI4nT-rTdQewzCmsYLrs_a4-qTq2ksWpDanXw&sid=c6306490&type=tcp&headerType=none#👉🆔@MoftConfig📡🇯🇵®️Japan©️Shibuya🅿️ping:249.28ms
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UHNXcGN3WDh2cFdDVkZ2M3MyV0VKbUhuZW81ZmhhOVVjb24wcm12T1NpOD06ODk4cUFpbEFOMzJWbkZLUldIaU0wbFJyVHV0MVM2RS9kQmpPUXdsRzBudz0%3D@direct.yangon.ca:8444#👉🆔@MoftConfig📡🇨🇦®️Canada©️Vancouver (South Main)🅿️ping:152.67ms
