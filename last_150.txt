@@ -1,3 +1,4 @@
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1#[🏁]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.116.25:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇩🇪]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.2.165:80?security=none&type=ws&host=Join--VPNCUSTOMIZE---VPNCUSTOMIZE.IR&path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGY1M2RkYi1kMmFkLTQ4MzYtOWNiMC01M2Q3ZDM4MDcwMWQ@free.2weradf.xyz:36173#[🏁]t.me/ConfigsHub
@@ -137,7 +138,6 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#[🏁]t.me/ConfigsHu
 vless://eb2e20d7-23a7-40e8-bc24-4975d79c2b84@speedtest.net:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=TFyour-name.global.ssl.fastly.net&type=xhttp#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.27ms
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?security=none&encryption=none&type=ws&host=mail.ski1plag.ir&path=/?BIA_CHANEL@VpnChangiz#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@154.9.241.61:587?security=tls&type=tcp&sni=agepu.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
-vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=%2F&security=&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@188.164.159.91:2083?sni=agepy.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇨🇿®️Czechia©️Prague🅿️ping:7.92ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#[🇸🇪]t.me/ConfigsHub
 trojan://blue2024@190.93.245.62:443?security=tls&type=tcp&sni=td.promote.icu#[🇨🇷]t.me/ConfigsHub
