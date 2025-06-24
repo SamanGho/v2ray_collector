@@ -1,3 +1,4 @@
+trojan://95b@154.211.8.90:443?security=tls&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org#[🇺🇸]t.me/ConfigsHub
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&host=series-v1.samanehha.co&path=/43xf5zgeApzDAfhOHq#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.7.198:443#[🏁]t.me/ConfigsHub
@@ -240,7 +241,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@FreakConfig.usecharge.
 vless://d4a155e2-9e4b-4173-89e1-2062b89431ae@upload.nobifay.ir:80?path=%2F&security=none&encryption=none&host=a1a1a1a1wsew.com&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206MDVhZTEwMjctNjQxMi04NTRhLTkyYmYtMGZlMmY4MGJjMjlm@90427180822371121690946278334118.international-ixp.com:11310#[🇮🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiJubDIuZnVuZmlsLmxpbmsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTNkMzgyNjEtZmRlZC00ZjVkLTliZTAtNjRhMWIwODVmMzM4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NTk4NSIsInBzIjoiW/Cfh67wn4e3XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-trojan://Aimer@176.124.223.40:2053?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 trojan://mVaHDDWsvC@104.21.43.168:443?path=%2Fports%2F39689&security=tls&host=us-ashburn.wealthpost.ca&type=ws&sni=us-ashburn.wealthpost.ca#[🇨🇦]t.me/ConfigsHub
 vless://901de5a2-328b-4b8f-aed6-3037608cbe65@mega.streamingpower.sbs:7037?security=reality&encryption=none&pbk=arBoDTjjrAY-rPVR4q1wDRtcN5arHKy1cQa2DyQjFTs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=63d7029037ba6624#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2freakconfig.usecharge.ir:443#[🇬🇧]t.me/ConfigsHub
