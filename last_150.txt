@@ -1,3 +1,4 @@
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@212.183.88.251:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=&encryption=none&host=cf.d3z.net&type=ws#[🏁]t.me/ConfigsHub
 trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net#[🇨🇦]t.me/ConfigsHub
 trojan://95b@154.211.8.90:443?security=tls&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org#[🇺🇸]t.me/ConfigsHub
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&host=series-v1.samanehha.co&path=/43xf5zgeApzDAfhOHq#[🇨🇦]t.me/ConfigsHub
@@ -239,7 +240,6 @@ vless://90d7488d-b664-4c28-a5d5-aa2a959c074c@arvancloud.ir.telewebion.com.127.0.
 vless://c7dbb313-ee7c-4536-b59b-4a5717fe5b51@Mori.fastly80.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=speedtest.net.pl&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://23ae96c3-458f-4023-bc9d-be9560606821@tam212oka5.ivy-net.ir:3070?security=&encryption=none&host=parsabr.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@FreakConfig.usecharge.ir:443#[🇬🇧]t.me/ConfigsHub
-vless://d4a155e2-9e4b-4173-89e1-2062b89431ae@upload.nobifay.ir:80?path=%2F&security=none&encryption=none&host=a1a1a1a1wsew.com&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206MDVhZTEwMjctNjQxMi04NTRhLTkyYmYtMGZlMmY4MGJjMjlm@90427180822371121690946278334118.international-ixp.com:11310#[🇮🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiJubDIuZnVuZmlsLmxpbmsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTNkMzgyNjEtZmRlZC00ZjVkLTliZTAtNjRhMWIwODVmMzM4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NTk4NSIsInBzIjoiW/Cfh67wn4e3XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://mVaHDDWsvC@104.21.43.168:443?path=%2Fports%2F39689&security=tls&host=us-ashburn.wealthpost.ca&type=ws&sni=us-ashburn.wealthpost.ca#[🇨🇦]t.me/ConfigsHub
