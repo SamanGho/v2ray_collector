@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.225.115:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇸🇪]t.me/ConfigsHub
 vless://f20bcdc7-1a98-4573-aef5-653a40524c87@104.21.72.167:443?encryption=none&security=tls&sni=esetsecuritylicense.ltlumj.workers.dev&fp=randomized&type=ws&host=esetsecuritylicense.ltlumj.workers.dev&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://b8b2a654-9c48-4373-90b8-e4335d386d8f@151.101.194.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
 vless://737d83d2-368e-430b-8292-7a7f1d38d783@power.dlmoviz.ir:2023?mode=gun&security=none&encryption=none&type=grpc&serviceName=2023vless#[🇦🇪]t.me/ConfigsHub
@@ -240,7 +241,6 @@ trojan://telegram-id-privatevpns@13.50.96.181:22222?allowInsecure=0&sni=trojan.b
 trojan://Aimer@188.164.159.43:2083?sni=agepy.aimercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://Aimer@216.24.57.207:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.187.176.83:1009?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWsyZDQuODkwNjAwMDQueHl6IiwiaWQiOiIzNTBlMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIyMDUzIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoicmFrMmQ0Ljg5MDYwMDA0Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.34:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&fp=randomized&type=ws&sni=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua#[🇫🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiJ2MTEuZWxkZW52cG4ubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNkNWY5ZmMzLTkxNjMtNGNmMi1hYmUyLTQ3ZjIxYTBjZWExMSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE3MDAwIiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://338a9b04-21f6-43a5-8422-bc4ffaee4b37@104.16.53.11:2095?path=%2Fshx%3Fed%3D2560&security=&encryption=none&host=uk00.shxshoping.com&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
