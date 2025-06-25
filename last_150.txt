@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@13.50.96.181:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 trojan://Aimer@188.164.159.43:2083?sni=agepy.aimercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://Aimer@216.24.57.207:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.187.176.83:1009?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
@@ -119,7 +120,6 @@ vless://719e1331-99cf-48af-bb5f-daba02d58c4f@Ip2.yw5jk.org:80?mode=auto&path=%2F
 vless://fea99d38-e028-4178-ad4a-ef5540e5c8ba@104.16.119.133:2053?path=%2FUNwJhS16OCh26qrm%2FdHMuaHBjLnR3%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=mywebpan.114514660.xyz&fp=randomized&type=ws&sni=MYWebpAn.114514660.Xyz#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@220.71.185.223:10093?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://vmRtExJrt6@51.195.255.103:8443?security=tls&sni=uk-03.allhubb.info&alpn=h2,http/1.1&fp=chrome&type=tcp&headerType=none#[🇬🇧]t.me/ConfigsHub
-vless://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@104.21.112.1:443?encryption=none&security=tls&sni=FffgttT.7777128.xYz&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=DB8W1KX5xnNGIhPjOlh6bc7EYs1gl&mode=gun#[🇨🇦]t.me/ConfigsHub
 vless://6d176d12-279c-4df1-804e-118f43732439@151.101.194.228:80?security=none&type=ws&host=joinshhproxybedeeeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
 vless://92283226-915a-4c02-a8c9-02587b372fa4@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=b-sub.com&type=xhttp#[🇺🇸]t.me/ConfigsHub
 vless://1b2f4ba7-dc5f-493a-87c1-3cff25649a3f@91.99.164.57:26870?type=grpc&serviceName=%40sohrab&authority=&mode=multi&security=reality&pbk=W2-RPfpsKs3XdWbfc0Du03P2fVURK1B-uI1fuCKMq0g&fp=firefox&sni=www.varzesh3.com&sid=cbf2bf3a&spx=%2F#[🇩🇪]t.me/ConfigsHub
