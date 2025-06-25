@@ -1,3 +1,4 @@
+vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.187.176.83:1009?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.34:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&fp=randomized&type=ws&sni=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua#[🇫🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiJ2MTEuZWxkZW52cG4ubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNkNWY5ZmMzLTkxNjMtNGNmMi1hYmUyLTQ3ZjIxYTBjZWExMSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE3MDAwIiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://338a9b04-21f6-43a5-8422-bc4ffaee4b37@104.16.53.11:2095?path=%2Fshx%3Fed%3D2560&security=&encryption=none&host=uk00.shxshoping.com&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
@@ -242,7 +243,6 @@ vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40
 vless://c87849e2-becf-4acf-a77b-d15caa00d86f@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=Aeza.net&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://8960c969-eebb-4b5a-b480-4662e51893ca:8080?path=%2F&security=none&encryption=none&host=okamicsajnklssaklsksa212r2322eaw3e2dwml.okatestoka.ir&type=httpupgrade#[🇨🇦]t.me/MoftConfig
 vless://500af27a-e34c-419b-989a-6240f7f394e0@all2.golnar-clod.ir:8880?path=%2F%3Fed%3D80&security=none&encryption=none&host=top.golnar-clod.ir&type=httpupgrade#[🇨🇦]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDelEwSXJrZGQ0V0RVd0JR@admin.c4.havij.co:443#[🇬🇧]t.me/ConfigsHub
 vless://92b05e77-276a-43c9-ae74-3e1cb7bfd99c@holy-queen-f603.qweqweqwehsaby.workers.dev:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=holy-queen-f603.qweqweqwehsaby.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://be05581d-a8f4-42f4-b8ab-7e8f438ec290@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=oFnKGAC26JAs2SXa.xyz&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://e127d8da-1ebd-4239-859f-7a51f9a72356@uk.iranis.art:8080?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
