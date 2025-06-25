@@ -1,3 +1,4 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.34:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&fp=randomized&type=ws&sni=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua#[🇫🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiJ2MTEuZWxkZW52cG4ubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNkNWY5ZmMzLTkxNjMtNGNmMi1hYmUyLTQ3ZjIxYTBjZWExMSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE3MDAwIiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://338a9b04-21f6-43a5-8422-bc4ffaee4b37@104.16.53.11:2095?path=%2Fshx%3Fed%3D2560&security=&encryption=none&host=uk00.shxshoping.com&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://ca234697-1849-4ad2-b673-85a2cc96d986@104.21.64.1:443?security=tls&sni=worker-aged-boat-aa11.jajoyo1612.workers.Dev&type=ws&host=worker-aged-boat-aa11.jajoyo1612.workers.Dev&path=%2F#[🇨🇦]t.me/ConfigsHub
@@ -221,7 +222,6 @@ vless://500af27a-e34c-419b-989a-6240f7f394e0@all2.golnar-clod.ir:8880?path=%2F%3
 ss://YWVzLTEyOC1nY206ZjRjZDBhNTU0ZTlkMDU1OGM1ODE@console.03.aliyun.aq.kunlunaqs.com:45917#[🏁]t.me/MoftConfig
 vless://c87849e2-becf-4acf-a77b-d15caa00d86f@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=Aeza.net&type=ws#[🇺🇸]t.me/MoftConfig
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40V2mamad%2F%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.12ms
-vless://67525da1-a606-4725-98f3-513c13904d9d@h.hafman.lol:11928?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://c023cfb7-08a0-448d-aaa8-18d0ee67dffc@172.64.35.250:443?security=tls&sni=kq7ilv.alligator27.com&type=ws&host=kq7ilv.alligator27.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/MoftConfig
 vless://90bf4f10-aee6-416a-ba27-031101538867@104.18.26.90:443?path=%2Fadmin&security=tls&encryption=none&host=2free2.aparatir.xyz&fp=randomized&type=ws&sni=2free2.aparatir.xyz#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.88ms
 ss://YWVzLTEyOC1nY206M2UyNmE4Y2ZiMDlmZGEyMTliMzY@console.03.aliyun.aq.kunlunaqs.com:45573#[🏁]t.me/ConfigsHub
