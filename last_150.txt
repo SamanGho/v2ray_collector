@@ -1,3 +1,4 @@
+vless://2a21d0a1-fc0f-49e7-b5cf-43a88d6d3d64@premium.vkehi.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=facebook.com#[🏁]t.me/ConfigsHub
 vless://8daf992d-bb72-42db-ba48-7fb1f7605822@nim.france-learns.ir:42535?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiJzbmFwcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWdoLnRyYXZlbGFuZC1sZWlzdXJlLmlyIiwiaWQiOiJiOTRiNDFkMy1iMjE4LTQ3N2QtYjk4Ny05ZjgyNWMyODRmYmIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@80.92.204.106:9037#[🇩🇪]t.me/ConfigsHub
@@ -230,7 +231,6 @@ ss://YWVzLTI1Ni1nY206VFFRR1dHMDI0VzJCRjZSUA==@156.231.104.19:18009#[🏁]t.me/Co
 trojan://Aimer@192.200.160.109:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiJzMS5jb25uZWN0LmxhYmV4LnBybyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNGQ3YzA4OS1iYmM1LTRlZjItODBlZi1hMDk4MmNmMzM3MDgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI1MzUiLCJwcyI6Ilvwn4eu8J+Ht110Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://600eae54-5014-40a2-99f3-215ff340c26d@test.yoyohihi.com:57107?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://Aimer@154.197.64.155:2053?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://0db173cf-d35e-489f-850a-7e33beacc921@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=haamim.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://512c8ed7-13dc-9d8d-039a-d0d47c84a0be@ir.lightning2025.top:699?path=%2Fws%3Fed%3D1024&security=none&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#[🇮🇷]t.me/ConfigsHub
