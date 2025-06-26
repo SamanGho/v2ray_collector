@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206YjhlZjQ2ZmVmYzNjYWMzNg@103.115.18.246:50120#[🏁]t.me/ConfigsHub
 vless://f483373a-3c89-46b5-b2b9-2402bbb5a1a5@151.101.3.8:80?mode=auto&path=%2Ftelegram-mitivpn&security=none&encryption=none&host=shark.global.ssl.fastly.net&type=xhttp#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@47.129.201.221:443#[🏁]t.me/ConfigsHub
 vless://7395770b-84f0-4b1c-b67c-73bcc27b6431@104.17.147.22:80?path=%2F02LwlXufahR82S1t%3Fed%3D2560&security=none&encryption=none&host=s1.s11qq.workers.dev&type=ws#[🇨🇦]t.me/MoftConfig
@@ -242,7 +243,6 @@ trojan://Aimer@154.197.64.98:8443?allowInsecure=0&sni=agepy.aimercc.filegear-sg.
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.19.174.68:443?path=%2F%40Rayan_Config&security=tls&encryption=none&host=rayan-08.leila.dpdns.org&fp=chrome&type=ws&sni=rayan-08.leila.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.45ms
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@173.245.58.217:2087?security=tls&sni=a3.bewface-smart.rest&type=grpc&fp=chrome&alpn=h3,h2,http/1.1#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.3ms
 trojan://Aimer@46.254.92.201:2053?allowInsecure=0&sni=agepy.aimercc.filegear-sg.me#👉🆔@MoftConfig📡🇮🇩®️Indonesia©️Medan🅿️ping:8.36ms
-trojan://Aimer@108.165.152.204:2096?allowInsecure=0&sni=agepy.aimercc.filegear-sg.me#⚜️Telegram:@IP_CF
 vless://5053541f-04b3-40a2-bdf1-1c6b888ed251@subgb.sup-ice.site:7005?security=reality&encryption=none&pbk=GnYdpVL8JcsapZTJ1fgo8i5LJqd4nPV29pjU8ZMDvhY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#[🇩🇪]t.me/ConfigsHub
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.36ms
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2U0ZGS1VVWkJOMVV5V2pWSVIxcFhTQQ@w72tapyb.slashdevslashnetslashtun.net:21003#[🏁]t.me/ConfigsHub
