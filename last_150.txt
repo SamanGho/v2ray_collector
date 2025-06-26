@@ -1,3 +1,4 @@
+trojan://2fec7227-9abe-46f2-af18-78302b836c45@172.67.208.155:443?security=tls&sni=3r.2030.pp.ua&type=ws&host=3r.2030.pp.ua&path=%2FXjTi1NYwi9A2bckpqdDoAgkondVWl&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@162.159.44.78:2096?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:31.06ms
 trojan://Aimer@172.64.33.128:443?sni=agepy.aimercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
@@ -5,7 +6,6 @@ trojan://vpn@109.120.132.80:2025?path=%2F&security=none&host=vkvd127.mycdn.me&ty
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.132.185:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&fp=random&type=ws&sni=entezar.loseyourself.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:7.88ms
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.102:5003#👉🆔@MoftConfig📡🇺🇸®️United States©️Ashburn🅿️ping:117.45ms
 ss://YWVzLTI1Ni1nY206RnRERS9tL3pGR04yL2VkQmk5MWllNFAxQzVKQVRsU001SWVNaVNpejlBcz0%3D@Nigga.Best:9093#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran🅿️ping:83.69ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoicHJvZDAyLWxiMDItY2xvdWQwMS5jeWJlcnNjYWxlci5jb20iLCJwb3J0IjoiMzM2NzgiLCJpZCI6IjU3ZjkzOTU3LTA2NGMtNDQ4Ni1hZDJlLWY0MDZlNmM3ZmJlMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.59ms
 trojan://vpn@109.120.132.80:2025?path=%2F&security=none&host=vkvd127.mycdn.me&type=ws#[🇸🇪]t.me/ConfigsHub
 trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&security=none&type=ws#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:82.83ms
