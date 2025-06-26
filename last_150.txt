@@ -1,3 +1,4 @@
+vless://7692cef8-74bc-a5bc-6e35-0e3a21342820@anim.photoggenic.ir:4283?security=&encryption=none&host=anim.photoggenic.ir&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
 vless://5a04dda8-7759-419d-8b74-9521371e86fd@185.14.160.247:8085/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:111.57ms
 vless://75489a93-feb2-4032-9fbe-b1aed83746f4@146.75.55.82:80?path=%2Fdownload%3Fed%3D2560&security=none&encryption=none&host=ana.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?type=ws&host=redw.pooriam.ir&path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
@@ -241,7 +242,6 @@ vless://b756b31f-b4ee-42f6-ae40-a6bf9e30f42c@k1.fast.hosting-ip.com:80?mode=auto
 vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@172.67.69.238:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.27ms
 vless://8636b38e-2001-48a0-fc27-6706848c5723@185.220.227.87:443?path=%2F&security=none&encryption=none&host=wdf-7fc9613170-sdsd.apps.ir-central1.arvancaas.ir&type=ws#[🇮🇷]t.me/ConfigsHub
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VVVZek56ZEhSMUV3TUZKQlZFTk5Tdw@8tv68qhq.slashdevslashnetslashtun.net:21004#[🏁]t.me/MoftConfig
-trojan://blue2024@104.18.153.27:443?sni=td.promote.icu#[🇨🇦]t.me/ConfigsHub
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=titantablomanahamrah.ir&fp=randomized&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#[🇨🇦]t.me/MoftConfig
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.211.208:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=raw&headertype=none#[🇺🇸]t.me/ConfigsHub
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=%2F&security=tls&encryption=none&host=yx.yushan.dpdns.org&type=ws&sni=yx.yushan.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.06ms
