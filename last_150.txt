@@ -1,3 +1,5 @@
+vless://5a04dda8-7759-419d-8b74-9521371e86fd@185.14.160.247:8085/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:111.57ms
+vless://75489a93-feb2-4032-9fbe-b1aed83746f4@146.75.55.82:80?path=%2Fdownload%3Fed%3D2560&security=none&encryption=none&host=ana.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?type=ws&host=redw.pooriam.ir&path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
 vless://c8210916-ef29-48c0-a8e7-3b86e3c8f068@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=none&encryption=none&host=mmad-fernando.global.ssl.fastly.net&type=xhttp#[🇩🇪]t.me/MoftConfig
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UHNXcGN3WDh2cFdDVkZ2M3MyV0VKbUhuZW81ZmhhOVVjb24wcm12T1NpOD06ODk4cUFpbEFOMzJWbkZLUldIaU0wbFJyVHV0MVM2RS9kQmpPUXdsRzBudz0%3D@direct.yangon.ca:8444#👉🆔@MoftConfig📡🇨🇦®️Canada©️Vancouver (South Main)🅿️ping:153.5ms
@@ -214,7 +216,6 @@ vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D25
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2U0ZGS1VVWkJOMVV5V2pWSVIxcFhTQQ@w72tapyb.slashdevslashnetslashtun.net:21003#[🏁]t.me/ConfigsHub
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.5ms
 vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@blog.zanbori.ir:24989?encryption=none&security=none&type=tcp&headerType=http&host=exo.ir#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran (District 7)🅿️ping:108.05ms
-trojan://Aimer@188.164.159.45:8443?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 ss://YWVzLTI1Ni1nY206YWUyOWYzMmFhNDcx@121.127.231.200:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dhkxwv1-5.dsjsapi.com%3Bpath%3D%2Fevoeqcpitmgg%3Bmux%3Dmux%3D4%3B%3B#👉🆔@MoftConfig📡🇭🇰®️Hong Kong©️Hung Hom🅿️ping:298.85ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MjAwYzYzNC1kMzFkLTQ0OGMtYWQwMS1iNDFiOWQzMjAzNDM@free.2apzhfa.xyz:31671#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MjAwYzYzNC1kMzFkLTQ0OGMtYWQwMS1iNDFiOWQzMjAzNDM@free.2apzhfa.xyz:31671#[🏁]t.me/ConfigsHub
@@ -223,7 +224,6 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.32.1:80?security=none&type=w
 vless://95d42931-5fcc-4886-82a6-594c671a3286@146.75.94.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=hormozvpnnnnnnnnnnn.global.ssl.fastly.net&path=/&fp=chrome&alpn=h3,h2,http/1.1#👉🆔@MoftConfig📡🇺🇸®️United States©️Los Angeles🅿️ping:169.04ms
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.1.74:443?path=%2F%40Rayan_Config&security=tls&encryption=none&host=rayan-09.parastoo.dpdns.org&type=ws&sni=rayan-09.parastoo.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.09ms
 ss://YWVzLTI1Ni1nY206WkRHQzBRMkUxMTJVQUpPNg@156.245.190.23:15014#[🏁]t.me/ConfigsHub
-trojan://ccabbaa-acab-abca-dcba-cbcccbabaaab@127.0.0.1:8080?security=tls&type=tcp#⚜️Telegram:@IP_CF
 vless://63a75dc9-90a0-41d1-ef32-c9a974b2508d@de4.zeusnetwork.shop:16957?security=&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://vip@104.26.4.57:443?security=tls&headerType=none&type=tcp&sni=heihu880.pages.dev#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.88ms
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=titantablomanahamrah.ir&fp=randomized&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#[🇨🇦]t.me/ConfigsHub
