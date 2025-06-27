@@ -1,9 +1,3 @@
-vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.148.22:443?encryption=none&security=tls&sni=hOZori.iR&alpn=http%2F1.1&fp=randomized&type=ws&host=hozori.ir&path=%2FTelegram%40V2ray_Alpha#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.2ms
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=random&type=ws&sni=barayeiran.nastaranh.dpdns.org#[🇨🇦]t.me/ConfigsHub
-vless://6513d3a4-55da-49e4-ae4b-acc30e8118d7@Arx.fast.hosting-ip.com:80?type=xhttp&path=%2Fed%3F%3D2048&host=Lyour-name.global.ssl.fastly.net&mode=auto&security=none#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.53ms
-vless://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://33de8a6b-e3bc-4263-9cdd-fd676816c875@77.221.140.134:44481?security=none&encryption=none&host=stackoverflow.com&headerType=http&type=tcp#[🇸🇪]t.me/ConfigsHub
-trojan://Aimer@154.197.64.189:2087?allowInsecure=0&sni=agepy.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇺🇸®️United States©️Washington D.C.🅿️ping:8.1ms
 vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@108.162.193.110:443?security=tls&sni=agedy.ambercc.filegear-sg.me&type=ws&host=agedy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.29ms
 trojan://Aimer@154.197.64.98:8443?allowInsecure=0&sni=agepy.aimercc.filegear-sg.me#👉🆔@MoftConfig📡🇺🇸®️United States©️Washington D.C.🅿️ping:9.68ms
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.19.174.68:443?path=%2F%40Rayan_Config&security=tls&encryption=none&host=rayan-08.leila.dpdns.org&fp=chrome&type=ws&sni=rayan-08.leila.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.45ms
@@ -248,3 +242,9 @@ vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.194.241:80?security=none&sni
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.189.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@213.241.198.59:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
 trojan://Aimer@5.182.84.52:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.14:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://db0d625a-4d40-487e-bb20-48d0e6419df1@srv6.numberonedrshabi.top:2082?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
+trojan://Aimer@104.25.252.184:8443/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+vless://296be7dc-bfe6-441d-ba04-c441bdb9d7fd@151.101.3.8:80?path=%2F%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn&security=none&encryption=none&host=aklisturkey.org&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://cb8ba2f8-9541-419e-bf21-795111e5f551@byte.te1450.ir:8880?path=%2F2048&security=none&encryption=none&host=Www.soft98.ir.snap.ir.Www.Abantether.ir.te1450.ir&type=httpupgrade#[🇺🇸]t.me/ConfigsHub
