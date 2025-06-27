@@ -1,3 +1,6 @@
+vless://9bb4ba78-01da-463d-8cd6-5efac4c28534@LIGHTNING6.12speedtest.store:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=Lightning.com&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.36ms
+vless://cb8a927b-8957-489f-c7e3-16e3880804c6@188.245.223.128:2087?security=tls&sni=panel.ablezula.ir&type=tcp&fp=random&alpn=h2#[🇩🇪]t.me/ConfigsHub
+vless://12b436f1-a946-43c6-83ca-43b332edfae7@151.101.3.8:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=saymyname.ir.global.prod.fastly.net&type=xhttp#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.58ms
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.16.137.145:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.42ms
 ss://YWVzLTI1Ni1nY206UHFKYzg5YkVKbllKLTNtRmV0a1pSUQ%3D%3D@212.109.197.85:20#[🇷🇺]t.me/ConfigsHub
 vless://6513d3a4-55da-49e4-ae4b-acc30e8118d7@Arx.fast.hosting-ip.com:80?type=xhttp&path=%2Fed%3F%3D2048&host=Lyour-name.global.ssl.fastly.net&mode=auto&security=none#[🇺🇸]t.me/ConfigsHub
@@ -216,7 +219,6 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@25.129.197.254:8880?path=%2F&securi
 vless://6219d428-646f-4af9-ce11-14eb0de1f1bf@104.17.148.22:8880?host=KhodeAlfred.tehran-gamee.ir&path=%2FFreeConfig&security=none&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN111@69.48.218.10:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#[🇺🇸]t.me/MoftConfig
 vless://79de80ca-ce7d-4bf5-9bab-0f95e8562bfd@hub.twixspace.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=m9jpnh0VwRVeEH5w9L_ZjDjdb5UaVFWKL6heM5_8tSU&sid=4038bf2c107d2e38&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
-trojan://Aimer@188.164.159.174:2053?allowInsecure=0&sni=agept.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 vless://35949c07-cca2-435d-b6b9-b244d2ea39a4@german1trial.vpn-instagram.com:443?path=%2F&security=tls&encryption=none&fp=firefox&type=ws&sni=german1trial.vpn-instagram.com#[🇨🇦]t.me/MoftConfig
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.142:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram#👉🆔@MoftConfig📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:7.83ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@hk.fastsoonlink.com:40000#[🏁]t.me/ConfigsHub
@@ -226,7 +228,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.8.211.239:80?security=none&type=
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@172.67.116.211:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a1.ghormehsabzi.dpdns.org.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.25ms
 trojan://Aimer@185.119.117.146:8443?allowInsecure=0&sni=agept.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@hk.fastsoonlink.com:40000#👉🆔@MoftConfig📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:195.76ms
-trojan://Aimer@104.129.166.131:8443?sni=agept.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://NISHIKUITAN111@69.48.218.10:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#[🇺🇸]t.me/ConfigsHub
 vless://f3f09bd1-b42b-4c40-a773-ee5ae8614444@all1.hajhesam.biz.id:443?path=%2Fws%3Fed%3D2056&security=tls&alpn=http%2F1.1&encryption=none&host=de222.hajhesam.biz.id&fp=randomized&type=ws&sni=de222.hajhesam.biz.id#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@54.82.118.192:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/MoftConfig
@@ -242,7 +243,6 @@ trojan://Aimer@104.129.166.131:8443?sni=agept.ambercc.filegear-sg.me#[🏁]t.me/
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.38ms
 trojan://Aimer@162.159.45.156:8443?allowInsecure=0&sni=agepu.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.198.173.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#👉🆔@MoftConfig📡🇮🇳®️India©️New Delhi🅿️ping:8.02ms
-trojan://0000000@3.168.86.35:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#⚜️Telegram:@IP_CF
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?encryption=none&security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=%2FVb2kRpQSrEqsUKCX%3Fed%3D2560#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.56ms
 trojan://Aimer@104.129.166.131:8443?sni=agept.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇭🇰®️Hong Kong©️Kwai Chung🅿️ping:8.24ms
 trojan://bpb-trojan@185.238.228.6:443?security=tls&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv#[🇬🇧]t.me/MoftConfig
