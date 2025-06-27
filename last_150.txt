@@ -1,3 +1,4 @@
+vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=titantablomanahamrah.ir&fp=randomized&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#[🇨🇦]t.me/MoftConfig
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.211.208:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=raw&headertype=none#[🇺🇸]t.me/ConfigsHub
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=%2F&security=tls&encryption=none&host=yx.yushan.dpdns.org&type=ws&sni=yx.yushan.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.06ms
 vless://feaf65c1-8404-40ec-8bf7-eb3c1de16329@81.30.108.92:1280?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Isfahan (Sepāhān Shahr)🅿️ping:116.54ms
@@ -151,7 +152,6 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@14.102.228.254:8880?path=%2F&securi
 trojan://bpb-trojan@172.67.70.92:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.14:8880?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048&security=&encryption=none&host=tw.laoyoutiao.link&type=ws#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Stretford🅿️ping:8.02ms
-vless://a9f40576-6321-491f-bb4a-7d8a762eea27@185.235.197.174:80?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.245.228.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇦🇲®️Armenia©️Yerevan🅿️ping:8.25ms
 vless://cf8c791e-9d0b-4e90-aaf6-41ac62468416@104.21.26.17:443?path=%2FdtBdvnoJO8180gomOew3d&security=tls&alpn=http%2F1.1&encryption=none&host=iiiiiiiiiiiio.459.pp.ua&type=ws&sni=IiIIIiiIIIiiO.459.pp.uA#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.55ms
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@66.235.200.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️Jacksonville (Deerwood)🅿️ping:8.03ms
