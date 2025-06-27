@@ -1,3 +1,6 @@
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.211.208:443?encryption=none&security=tls&sni=147135001195.sec22org.com&type=raw&headertype=none#[🇺🇸]t.me/ConfigsHub
+vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?path=%2F&security=tls&encryption=none&host=yx.yushan.dpdns.org&type=ws&sni=yx.yushan.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.06ms
+vless://feaf65c1-8404-40ec-8bf7-eb3c1de16329@81.30.108.92:1280?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Isfahan (Sepāhān Shahr)🅿️ping:116.54ms
 vless://461b0991-d24b-42dc-87c2-c505cf1a01f4@199.232.214.172:80?mode=auto&path=%2Fauthentic_channel%3Fed%3D2560&security=none&encryption=none&host=ownercolin.com&type=xhttp#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.18ms
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@www.speedtest.net:443?path=%2FJHVdDlmFTThrY7WI%2FNjIuMy4xMi4xODU&security=tls&alpn=http%2F1.1&encryption=none&host=titantablomanahamrah.ir&fp=randomized&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.73ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.21ms
@@ -238,13 +241,10 @@ vless://902fac1b-24c6-4557-8143-8fc72e552554@62.60.206.100:8080?security=none&en
 trojan://Aimer@121.132.58.142:12452?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s13.Server11Net.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s13.Server11Net.ir&fp=#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@8.212.44.95:443?allowInsecure=0&sni=agepy.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.196.135:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-vless://a3414279-e59b-4f84-b0fe-aa6d5f4282b6@172.67.71.48:8080/?type=ws&encryption=none&host=q5.19KAla.co&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.17.119.85:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://52a44898-e5f7-4876-9c99-80babc1c782a@173.245.58.100:2052?security=none&type=httpupgrade&host=1.dreshghi.ir.ferialmostofi.c-om.padaco.ir.arashnasiri.com.shafashiraz.ir.honartandis.com.shouba.ir.iran-dental.com.sardkhoone.com.mohammadsalehpour.ir.abadgan.com.arvijpub.com.chmctruck.com.gandom-yar.ir&path=%2FGoodLuck%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.38.63:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.208.49:80?path=%2FTelegram%40V2ray_Alpha%3Fed%3D2580&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.36.196.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@172.67.69.238:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.193.31.212:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.36.196.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
