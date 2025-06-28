@@ -1,3 +1,4 @@
+vless://5dead573-8b28-45a9-be86-f09f7f6839e3@87.236.38.73:2053?flow=&headerType=http&host=bmi.ir&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:112.02ms
 vless://a85136b1-1a76-481d-aef8-4bdc1f3d4773@tam212oka5.ivy-net.ir:3070?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://45f7be0f-0e95-4884-bb16-f71b9ce9e032@89.44.242.226:2000?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:106.85ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.34.200.48:443#[🇺🇸]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://f6232313-e4bc-4861-834d-85fd98ba642a@speedtest.net:80?mode=auto&path=%2F
 vless://329d8863-42ce-4015-b9b9-8417499cc174@cleanv2itech1.freesdns.info:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=m1.freesdns.info.&fp=chrome&type=ws&sni=m1.freesdns.info.#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#[🇹🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#[🇬🇧]t.me/ConfigsHub
