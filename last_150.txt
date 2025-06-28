@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@16.171.72.48:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.11ms
 vless://a5b02134-d838-4c8f-ad42-cc6905264e4b@marzban56.boshrachoice.ir:8443?type=tcp&headerType=http&host=www.speedtest.net&security=none#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#[🇬🇧]t.me/ConfigsHub
@@ -244,7 +245,6 @@ vless://d539282c-bf6f-4865-88f7-ab33f9f1ec20@104.26.14.85:80?security=none&type=
 vless://1f5056ca-fb4c-4b51-a31e-891083588351@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@162.159.44.236:443?sni=agepw.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#[🇨🇦]t.me/ConfigsHub
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#⚜️Telegram:@IP_CF
 vless://e3d2213e-1ff5-4edc-9f9a-b5b0d48026c5@135.181.201.193:80?mode=auto&path=%2Fgcghhjv&security=reality&encryption=none&pbk=c6K8tEOEZkvNzWhUVbYY4HbDdyoT4onpUaoLATA9_n8&host=fnreact.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=59#[🇫🇮]t.me/ConfigsHub
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=cbfe#[🇫🇮]t.me/ConfigsHub
 vless://12c67119-d240-4c0b-9704-33db37020455@188.227.84.128:8443?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇳🇱]t.me/ConfigsHub
