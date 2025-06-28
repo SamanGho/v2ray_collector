@@ -1,3 +1,5 @@
+vless://a85136b1-1a76-481d-aef8-4bdc1f3d4773@tam212oka5.ivy-net.ir:3070?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://45f7be0f-0e95-4884-bb16-f71b9ce9e032@89.44.242.226:2000?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:106.85ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.34.200.48:443#[🇺🇸]t.me/ConfigsHub
 vless://ca2185ed-e671-47dd-99be-bd14d18f13d8@f2.snnap.org:80?mode=auto&path=%2F&security=none&encryption=none&host=miladhospital8.com&type=xhttp#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:8.07ms
 vless://b5e0289d-1bb7-4c5b-f850-016298066cf8@185.215.228.100:8080?flow=&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Ahvāz (District 1)🅿️ping:97.47ms
@@ -237,9 +239,7 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.67.215.254:8880?sni=Telegram-cha
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.64:80?security=none&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#[🇺🇸]t.me/ConfigsHub
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443/?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@77.221.158.149:3311?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.69.218.69:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.218.69:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.205:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=de1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=de1.blackismyfavorite.ir#[🇸🇪]t.me/ConfigsHub
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?path=%2F00026cc2&security=&encryption=none&type=ws#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.69.218.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
