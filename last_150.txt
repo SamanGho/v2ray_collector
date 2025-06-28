@@ -1,3 +1,4 @@
+trojan://X22ZAo5vGF@104.21.112.1:443?security=tls&type=httpupgrade&sni=esna.twn24.ir&path=/36822/?ed=2048&host=esna.twn24.ir#[🇨🇦]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.104.245:80?path=%2FTelegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#👉🆔@MoftConfig📡🇷🇺®️Russia©️Kaliningrad🅿️ping:8.52ms
 vless://d543c043-0d65-4335-a276-644b1c3d1a0d@151.101.3.8:80?mode=auto&path=%2Fdsvwgerg%3Fed%3D2560&security=none&encryption=none&host=nimafatkyyour-name.global.ssl.fastly.net&type=xhttp#[🇺🇸]t.me/ConfigsHub
 vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.95:8880?type=ws&host=0221.enedrehd.workers.dev&path=%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇨🇾®️Cyprus©️Káto Lakatámeia🅿️ping:8.05ms
@@ -238,7 +239,6 @@ vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=%2F%3Fed%3D25
 vless://e3d2213e-1ff5-4edc-9f9a-b5b0d48026c5@135.181.201.193:80?mode=auto&path=%2Fgcghhjv&security=reality&encryption=none&pbk=c6K8tEOEZkvNzWhUVbYY4HbDdyoT4onpUaoLATA9_n8&host=fnreact.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=59#[🇫🇮]t.me/ConfigsHub
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=cbfe#[🇫🇮]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNTRnQVNaaHRocmZoRGVVVXlIUjd4TUtFcGM4Y2xwNVFDcFdZcnd2a3lRPQ%3D%3D@167.172.95.249:30655#[🏁]t.me/ConfigsHub
-trojan://Aimer@104.234.239.235:2087?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 trojan://s42%26umY%28K5n*csP4@104.21.96.1:8443?allowInsecure=0&sni=JOInMAHDiseRVer-EEu.pAGEs.dEv&ws=1&wspath=%2FtrOagy9SuM2cDpqUqO%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.191.23:443?security=tls&sni=147135010072.sec21org.com&type=tcp&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?security=reality&encryption=none&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&headerType=&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f2#[🇩🇪]t.me/ConfigsHub
