@@ -1,3 +1,8 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:30.5ms
+vless://6c227b79-e458-489f-929a-b62bfcf6ae05@161.35.145.185:8080?security=reality&encryption=none&pbk=rSn2i8Us1y47-kSVBx_h-WQ2axKWM3DkdG6MWn171lk&headerType=none&fp=chrome&spx=%2Fb70&type=tcp&sid=b704436534f7e3cc#[🇳🇱]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206MTdKMjRHQkRHTFRVSERGMw@156.231.104.21:18011#[🏁]t.me/ConfigsHub
+vless://a3414279-e59b-4f84-b0fe-aa6d5f4282b6@172.67.71.48:8080?path=%2F&security=none&encryption=none&host=q5.19KAla.co&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.16ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.162.230.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Southport🅿️ping:8.17ms
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Ahvāz (District 1)🅿️ping:283.97ms
 ss://YWVzLTI1Ni1nY206MTdKMjRHQkRHTFRVSERGMw@156.231.104.21:18011#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:247.29ms
 vmess://eyJhZGQiOiIxODUuMjAxLjQ5LjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYW5hcC1pbmZyYS5jb20iLCJpZCI6ImZmZWNlMmE5LTAyOTYtNDZhOS04ZGI4LTc0MmQyOWQyNDBmZiIsIm5ldCI6IndzIiwicGF0aCI6Ilwvc3RhdGljXC9jc3NcL2pxdWVyeVwvSkZ4UGFtSk1OQ1ltWlZ4eklrdEdZQzVyUVQwdVdTOTJYQ3M3S2wxalppa3hUVGhRUkNvbEZudHNKREo0RXpRb01qRUZHRmdWYjFzMGJCdE9FMUYyWlFvVyIsInBvcnQiOiI0ODA4NiIsInBzIjoiW/Cfh67wn4e3XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
@@ -236,15 +241,10 @@ vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?security=realit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVEJrWW1Gaw==@95.164.68.37:8388#[🇩🇪]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&alpn=h2&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc&sni=pqh23v4.hiddendom.shop#[🇨🇦]t.me/ConfigsHub
 vless://52ddd2b7-d2da-4169-b11d-b51679c01eb0@91.99.140.98:2090?mode=gun&security=reality&encryption=none&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#[🇩🇪]t.me/ConfigsHub
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.16.1:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=@bypass_filter%2F%3Fed%3D100&fp=chrome#[🇨🇦]t.me/ConfigsHub
-vless://77371595-b7aa-472a-9d61-e9731861af07@2.189.84.219:8443/?security=none&encryption=none&host=head.shecanMarket.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://Aimer@192.200.160.169:2096?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@108.162.195.199:443?sni=ngepo.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
-vless://1afc6dc5-17d5-4f75-b0cd-4480a819a07c@speedtest1.daltoon.site:2086?path=%2F%3Fed%3D8880&security=none&encryption=none&host=iran9-tv3-speedtest.sport-daltoon.ir.&type=httpupgrade#[🇺🇸]t.me/ConfigsHub
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@104.24.135.83:80/?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=delam.ahaysiahzangi.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://c27e0180-7b4a-49ba-a862-a62f5e2bc17d@94.182.142.16:2020/?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://4342b5a9-ccc2-46fa-8e12-f9ba36259d3b@64.44.158.121:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=c3skAokcLEgTyB4A2qEidFSBNvvlJB6AUSH1RAvUc2s&host=pouria.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=journalofbigdata.springeropen.com&sid=9fd097cb4d#[🇺🇸]t.me/ConfigsHub
-vless://268df26e-91c6-4e19-e4bd-d7b0af6ebad6@94.182.92.108:440/?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@S1.LoadBalance.LAT:9090?mode=gun&security=reality&encryption=none&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=t.me/entryNET&sni=refersion.com&sid=e17185329455b179#[🇩🇪]t.me/ConfigsHub
 vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@S1.LoadBalance.LAT:9090?mode=gun&security=reality&encryption=none&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#[🇩🇪]t.me/ConfigsHub
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.80.1:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=@bypass_filter%2F%3Fed%3D100&fp=chrome#[🇨🇦]t.me/ConfigsHub
