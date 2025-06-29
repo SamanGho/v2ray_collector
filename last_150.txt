@@ -1,23 +1,3 @@
-trojan://Mojtaba-shieldheart@104.24.28.219:2083?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#⚜️Telegram:@IP_CF
-vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.194.241:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=delam.ahaysiahzangi.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.38ms
-vless://81191cda-0982-4cbd-8d60-2ef076e08d17@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nice-try-worker-inc.weredex932.workers.dev&type=ws&sni=nice-try-worker-inc.weredex932.workers.dev#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:7.99ms
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@154.85.99.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️Washington D.C.🅿️ping:7.52ms
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@160.79.104.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:8.39ms
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@213.109.205.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇷🇺®️Russia©️Zelenograd (Zelenogradskiy administrativnyy okrug)🅿️ping:8.37ms
-trojan://Aimer@45.86.229.28:443?allowInsecure=1&sni=agepy.aimercc.filegear-sg.me#⚜️Telegram:@IP_CF
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@14.102.228.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇨🇿®️Czechia©️Prague🅿️ping:8.5ms
-trojan://bpb-trojan@172.67.70.92:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
-vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.14:8880?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048&security=&encryption=none&host=tw.laoyoutiao.link&type=ws#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Stretford🅿️ping:8.02ms
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.245.228.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇦🇲®️Armenia©️Yerevan🅿️ping:8.25ms
-vless://cf8c791e-9d0b-4e90-aaf6-41ac62468416@104.21.26.17:443?path=%2FdtBdvnoJO8180gomOew3d&security=tls&alpn=http%2F1.1&encryption=none&host=iiiiiiiiiiiio.459.pp.ua&type=ws&sni=IiIIIiiIIIiiO.459.pp.uA#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.55ms
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@66.235.200.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️Jacksonville (Deerwood)🅿️ping:8.03ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDLzZNTnZnNDN6RWRubWo2eks1TUFyQUxUZnpoRVRSRDNOekxOVCtJTDk4PQ==@157.180.127.73:23819#[🇫🇮]t.me/ConfigsHub
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.67.215.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇷🇺®️Russia©️Novosibirsk🅿️ping:8.3ms
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@92.53.191.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.23ms
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@92.243.75.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:8.41ms
-trojan://bpb-trojan@172.67.70.92:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.37.48.92:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@25.129.197.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.07ms
 vless://6219d428-646f-4af9-ce11-14eb0de1f1bf@104.17.148.22:8880?host=KhodeAlfred.tehran-gamee.ir&path=%2FFreeConfig&security=none&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +228,23 @@ vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@komaki.sibrayane.store:2051?securit
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiJ0cmEuZ2FtZXMtc2hvcC1pLXIuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoYWJlcjcuY29tIiwiaWQiOiJkODE4M2U0Yi04ZjllLTQ5N2ItOGNkNy1hOTBlNjRlZjc0ZTgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3R1cmtleSIsInBvcnQiOiIyNzk0IiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@fr.fastsoonlink.com:40034#[🇫🇷]t.me/ConfigsHub
+vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.18:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.17:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.20:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.16:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.19:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.14:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@151.101.3.8:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=tsvCY5W4AP61qVbo.net&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.16:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.13:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.19:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.14:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.20:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.21:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.15:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.22:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.21:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.18:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.17:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.15:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
