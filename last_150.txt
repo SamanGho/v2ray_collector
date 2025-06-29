@@ -1,3 +1,4 @@
+vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40Filter_breaker%2F%3Fed%3D2560&security=&encryption=none&host=agolna.mahsaamini.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#[🇨🇦]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@176.124.223.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2F#👉🆔@MoftConfig📡🇨🇳®️China©️Lanzhou (Chengguan District, Lanzhou)🅿️ping:8.44ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@hk.fastsoonlink.com:40000#[🏁]t.me/MoftConfig
@@ -92,7 +93,6 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.48.75:6679#[🇺🇸]t.me/Conf
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.109:443?security=tls&sni=147135001196.sec22org.com&type=tcp&fp=chrome#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGUFV2T0l3cm9kSGV0@185.191.127.213:65003#[🇳🇱]t.me/ConfigsHub
 vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.91:443?encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&sid=&type=tcp#[🇷🇺]t.me/ConfigsHub
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@154.218.15.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳&allowInsecure=0#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?security=none&type=grpc#[🇬🇧]t.me/ConfigsHub
