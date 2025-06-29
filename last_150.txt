@@ -1,3 +1,4 @@
+trojan://Bw5Mz7QkVp@149.28.72.122:443?security=tls&type=tcp&sni=z-v2-080560.kailib.com#👉🆔@MoftConfig📡🇺🇸®️United States©️Los Angeles🅿️ping:166.56ms
 vless://838e226d-c328-4107-af74-88a071869d59@38.180.105.106:80?mode=auto&path=%2Ffgvb&security=reality&encryption=none&pbk=jv-iGCfpmBqc85L6LIL5fVP9Tx6-I_SKDCQYaXF9Sj4&host=kapelamkon.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=a506e8582e#[🇹🇷]t.me/ConfigsHub
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@104.129.165.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳&allowInsecure=0#👉🆔@MoftConfig📡🇺🇸®️United States©️Wilmington🅿️ping:7.9ms
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.206.230:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
@@ -179,7 +180,6 @@ vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?path=%2F00026cc
 trojan://telegram-id-privatevpns@3.69.218.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://f6232313-e4bc-4861-834d-85fd98ba642a@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=bahbahbahvpn.ir&type=xhttp#[🇺🇸]t.me/ConfigsHub
 vless://329d8863-42ce-4015-b9b9-8417499cc174@cleanv2itech1.freesdns.info:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=m1.freesdns.info.&fp=chrome&type=ws&sni=m1.freesdns.info.#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#[🇹🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://84b1e959-cf9a-4ff7-9429-0a14ebe73a3c@all1.blackkwolff.com:9435?security=none&encryption=none&host=docker.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://e3dde187-4637-479f-8e9f-5334a5137600@150.241.78.248:25756?type=grpc&serviceName=%2Ftelegram-%40BLUEV2rayng%3Fed%3D2560&authority=&security=reality&pbk=fW8iWfpd6Y99JrEOorXhz3lgGBjQm5g7vHcuWkcnnwg&fp=chrome&sni=www.tgju.org&sid=c4&spx=%2F#[🇸🇪]t.me/ConfigsHub
