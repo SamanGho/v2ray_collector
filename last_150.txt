@@ -1,3 +1,4 @@
+vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=delam.ahaysiahzangi.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.01ms
 vless://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@ddcvvbhyu78.852224.dpdns.org:443?path=%2FDB8W1KX5xnNGIhMum8sDKRwvFCJq&security=tls&encryption=none&host=ddcvvbhyu78.852224.dpdns.org&type=ws&sni=DDCvVbhyu78.852224.DpDns.ORG#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.14ms
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.24.163.153:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=tannaz.juveitaly.dpdns.org&type=ws&sni=tannaz.juveitaly.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.52ms
 vmess://eyJhZGQiOiJ3V1d3d1dXdzIuNDQ0NjUyLlhZeiIsImFpZCI6IjAiLCJob3N0Ijoid3d3d3d3d3cyLjQ0NDY1Mi54eXoiLCJpZCI6ImNkZWM5ZDU3LTY2MWQtNDU2YS1iYmYyLWI0YzM4ZTljNjcxMSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -231,7 +232,6 @@ ss://YWVzLTI1Ni1nY206TldJNFlqVTVaRFpoTlROalpqY3daREprWVdOa05qQmlPRFppWWpoag%3D%3
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2376#[🏁]t.me/ConfigsHub
 vless://b775ec56-b44d-473a-9e8e-99ef575d832a@104.21.16.1:80?encryption=none&security=none&type=ws&host=young-silence-6861.sjsbdjansbdjksb.workers.dev#[🇨🇦]t.me/ConfigsHub
 vless://37c3a602-2be6-4ca5-8c55-477496d7bbad@h.rezazx785.sbs:38869?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443/?type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID&security=tls&sni=CVFgTrE4.222560.XyZ&alpn=http%2F1.1&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@154.197.75.13:8880/?type=ws&encryption=none&flow=&host=c.82313369.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇩🇪]t.me/ConfigsHub
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@77.105.163.13:8880/?type=ws&encryption=none&flow=&host=c.82313369.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2051/?encryption=none&flow=&host=snapp.taxi&type=tcp&headerType=http#[🇮🇷]t.me/ConfigsHub
