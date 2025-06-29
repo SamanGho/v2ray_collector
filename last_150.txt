@@ -1,3 +1,5 @@
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.198.173.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#👉🆔@MoftConfig📡🇮🇳®️India©️New Delhi🅿️ping:8.02ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?encryption=none&security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=%2FVb2kRpQSrEqsUKCX%3Fed%3D2560#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.56ms
 trojan://Aimer@104.129.166.131:8443?sni=agept.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇭🇰®️Hong Kong©️Kwai Chung🅿️ping:8.24ms
 trojan://bpb-trojan@185.238.228.6:443?security=tls&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv#[🇬🇧]t.me/MoftConfig
 trojan://Aimer@188.164.159.174:2053?allowInsecure=0&sni=agept.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇨🇿®️Czechia©️Prague🅿️ping:8.01ms
@@ -165,7 +167,6 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.95.24:443?path=%2F%3Fed%3D25
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.55:8880?path=%2F%3Fed%3D2560&security=&encryption=none&host=bitget1.asdasd.click&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://5780b892-81e7-4149-b1e8-6e635ee80a3a@162.159.44.250:443?security=tls&sni=xhwcz2.alligator27.com&type=ws&host=xhwcz2.alligator27.com&path=%2Fwss&alpn=http%2F1.1#[🇺🇸]t.me/ConfigsHub
 vless://9a243490-11c6-4a9f-8bdf-c5e3e2fe0c70@162.159.38.232:443?security=tls&sni=teopzh.iranlosangles.com&type=ws&host=teopzh.iranlosangles.com&path=/wss&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
-trojan://blue2024@104.21.14.176:443?security=tls&type=ws&sni=tc.promote.icu&path=/?ed&host=tc.promote.icu#[🇨🇦]t.me/ConfigsHub
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@52.192.207.194:443?security=tls&sni=in01.trojanyyds.xyz&type=tcp&allowInsecure=1#[🏁]t.me/ConfigsHub
 vless://5157c5d7-a06f-4e4a-8af0-3ab662510b71@site.help.moaidownloader.info:7022?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&sid=#[🇩🇪]t.me/ConfigsHub
@@ -245,6 +246,5 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?encryption=none&s
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://9e7c46c9-8f9b-4114-8360-20edde6c0abb@188.121.106.189:2000?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@jp005.421421.xyz:20230?security=tls&sni=421421.xyz#[🏁]t.me/ConfigsHub
-vless://109105db-e58b-481c-b00f-2725335324a5@www.speedtest.net:2096?type=httpupgrade&path=%2Fmiraji.ir%2Ff16%3Fed%3D2053&host=dash.miraji.ir&security=tls&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=fix.miraji.ir#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.155.189.0:22222?security=tls&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://2c91ee36-27e7-445b-b384-641455585141@test.fast.hosting-ip.com:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048&host=Looping2shop.com&mode=auto&security=none#[🇺🇸]t.me/ConfigsHub
