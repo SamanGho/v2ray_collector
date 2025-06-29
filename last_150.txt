@@ -1,3 +1,5 @@
+vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.194.241:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=delam.ahaysiahzangi.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.38ms
+vless://81191cda-0982-4cbd-8d60-2ef076e08d17@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nice-try-worker-inc.weredex932.workers.dev&type=ws&sni=nice-try-worker-inc.weredex932.workers.dev#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:7.99ms
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@154.85.99.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️Washington D.C.🅿️ping:7.52ms
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@160.79.104.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:8.39ms
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@213.109.205.254:8880?path=%2F&security=&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇷🇺®️Russia©️Zelenograd (Zelenogradskiy administrativnyy okrug)🅿️ping:8.37ms
@@ -244,7 +246,5 @@ trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.77.246.83:443?security=tls&typ
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@komaki.sibrayane.store:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://7736666c-e849-4817-eded-8f180f38b195@asia6.novahomedesigntips.com:6677?security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiJ0cmEuZ2FtZXMtc2hvcC1pLXIuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoYWJlcjcuY29tIiwiaWQiOiJkODE4M2U0Yi04ZjllLTQ5N2ItOGNkNy1hOTBlNjRlZjc0ZTgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3R1cmtleSIsInBvcnQiOiIyNzk0IiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vless://12cf1ef1-4ae7-43a8-a1e0-30c2b6526183@151.101.3.8:80?path=%2Fdownload%3Fed%3D2560&security=none&encryption=none&host=urldl.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@fr.fastsoonlink.com:40034#[🇫🇷]t.me/ConfigsHub
