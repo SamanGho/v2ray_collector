@@ -1,3 +1,6 @@
+trojan://Aimer@104.129.166.131:8443?sni=agept.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇭🇰®️Hong Kong©️Kwai Chung🅿️ping:8.24ms
+trojan://bpb-trojan@185.238.228.6:443?security=tls&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv#[🇬🇧]t.me/MoftConfig
+trojan://Aimer@188.164.159.174:2053?allowInsecure=0&sni=agept.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇨🇿®️Czechia©️Prague🅿️ping:8.01ms
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40Filter_breaker%2F%3Fed%3D2560&security=&encryption=none&host=agolna.mahsaamini.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:7.91ms
 trojan://Aimer@167.68.4.199:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://bpb-trojan@104.18.107.117:443/?type=tcp&security=tls&sni=bpb.my79801.com#[🇨🇦]t.me/ConfigsHub
@@ -193,7 +196,6 @@ vless://be0f78a4-1a32-46c8-ad91-9949d1fbd759@172.66.46.246:443/?type=ws&encrypti
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@1750926563683.tencentapp.cn:2096/?type=ws&encryption=none&flow=&host=1750926570965.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&path=%2F%3Fed%3D2048&security=tls&sni=1750926570965.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&fp=randomized#[🇫🇷]t.me/ConfigsHub
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.77.246.83:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#[🏁]t.me/ConfigsHub
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@komaki.sibrayane.store:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiJ0cmEuZ2FtZXMtc2hvcC1pLXIuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoYWJlcjcuY29tIiwiaWQiOiJkODE4M2U0Yi04ZjllLTQ5N2ItOGNkNy1hOTBlNjRlZjc0ZTgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3R1cmtleSIsInBvcnQiOiIyNzk0IiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@fr.fastsoonlink.com:40034#[🇫🇷]t.me/ConfigsHub
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.18:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
@@ -233,7 +235,6 @@ vless://b96416ac-60f9-4136-9eac-9f55ae9960b0@tr2.hosmci.com:8880?security=none&s
 vless://961a174e-f775-4d59-cc81-96169f4cfb19@151.101.2.133:443?security=tls&sni=live.989bull.com&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&fp=chrome&alpn=h2%2Chttp%2F1.1#[🇺🇸]t.me/ConfigsHub
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.38.63:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?type=tcp&headerType=http&host=zula.ir&security=none#[🇩🇪]t.me/ConfigsHub
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#[🇳🇱]t.me/ConfigsHub
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443?security=tls&sni=45.32.28.232&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#[🇳🇱]t.me/ConfigsHub
@@ -246,5 +247,4 @@ vless://9e7c46c9-8f9b-4114-8360-20edde6c0abb@188.121.106.189:2000?security=none&
 trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@jp005.421421.xyz:20230?security=tls&sni=421421.xyz#[🏁]t.me/ConfigsHub
 vless://109105db-e58b-481c-b00f-2725335324a5@www.speedtest.net:2096?type=httpupgrade&path=%2Fmiraji.ir%2Ff16%3Fed%3D2053&host=dash.miraji.ir&security=tls&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=fix.miraji.ir#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.155.189.0:22222?security=tls&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDcuNzQuNDMuMTgyIiwicG9ydCI6IjQ3NjI4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6ImY4ZDA1YmY4LWJjNGQtNDU5OS05YTNhLThkY2U5YzIyMzgxNSIsInNuaSI6IiJ9
 vless://2c91ee36-27e7-445b-b384-641455585141@test.fast.hosting-ip.com:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048&host=Looping2shop.com&mode=auto&security=none#[🇺🇸]t.me/ConfigsHub
