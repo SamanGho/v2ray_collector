@@ -1,3 +1,4 @@
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#[🇨🇦]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@176.124.223.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2F#👉🆔@MoftConfig📡🇨🇳®️China©️Lanzhou (Chengguan District, Lanzhou)🅿️ping:8.44ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@hk.fastsoonlink.com:40000#[🏁]t.me/MoftConfig
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.21.78.206:2096?security=tls&sni=FReedOM.pANoToSu.StorE&type=ws&host=freedom.panotosu.store&path=/vRpve4WyyyBMiVSu/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D?ed%3D2560&fp=randomized&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
@@ -229,7 +230,6 @@ vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.17:443?encryption=none&
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.15:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
 trojan://blue2024@104.18.121.158:443?security=tls&type=tcp&sni=td.promote.icu#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#[🇬🇧]t.me/ConfigsHub
-vless://4f83c530-ae0f-4ecf-92ea-34cd6fa2bb41@tnl2.lalash.ir:58519?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&security=none&type=grpc&authority=%2FBIA_TELEGRAM@MARAMBASHI_MARAMBASHI&mode=gun#[🇫🇷]t.me/ConfigsHub
 vless://b4e1ef40-2f81-4f5c-a4f6-99929119f03a@test.abdulkhanioffline.pw:36306?type=tcp&security=none&headerType=http&path=/&host=cafebazaar.snapp.ir#[🇮🇷]t.me/ConfigsHub
 vless://a7339e02-6c85-497a-909b-c4bcf216e7c2@zula.ir:8880?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=&encryption=none&host=digikala2.speedtest.fastfood.mAghzkAdehtuRky.cOm.TR&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
