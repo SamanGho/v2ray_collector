@@ -1,3 +1,4 @@
+vless://ba26f084-9124-4524-add4-53fcfb928161@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=fc7a526a7e61ba3b#[🇩🇪]t.me/ConfigsHub
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?encryption=none&security=none&sni=kssepa.sabzipolobamahi.dpdns.org&fp=random&type=ws&host=kssepa.sabzipolobamahi.dpdns.org&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://ecfa8e99-f3b2-47e0-9920-06c667f21e73@91.99.150.159:3184?encryption=none&security=reality&sni=chess.com&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&type=grpc&authority=&serviceName=chessgame&mode=gun#[🇩🇪]t.me/ConfigsHub
 trojan://Aimer@213.241.198.56:2083?allowInsecure=1&sni=agept.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
@@ -240,7 +241,6 @@ vless://602df253-3202-4928-af79-ab1a40e52ae6@151.101.2.165:80?security=none&type
 vless://568dbffe-95a6-459c-84cd-a49b0cd2a5a3@230920393.f-sub.com:3799?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.16.76.167:80?path=%2F%3Fed%3D2560&security=&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-trojan://Aimer@160.79.105.133:8443/?type=tcp&security=tls&sni=epccc.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://62237966-b2c6-4bf9-a269-3717e1773c99@38.180.105.218:9091?security=&encryption=none&host=tgju.org&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub
 trojan://Aimer@154.211.8.240:443/?type=tcp&security=tls&sni=epccf.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=Fast.com&headerType=http&fp=chrome&type=tcp#[🇮🇷]t.me/ConfigsHub
