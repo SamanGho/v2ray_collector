@@ -1,3 +1,5 @@
+vless://7db53b99-b560-4d25-9b6d-b9bc2ee81398@185.143.235.201:2087?path=%2F&security=tls&encryption=none&host=vip9.nikatel.store&type=ws&sni=vip9.nikatel.store#[🇮🇷]t.me/ConfigsHub
+trojan://Bw5Mz7QkVp@45.76.60.234:443?security=tls&type=tcp&sni=z-v2-074418.kailib.com#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiJkZS12MnJheS5mcmVldm1lc3MuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDg3MDA4OTgtNWZhMS00Y2VlLTk0OTgtNDQ0N2NkNDkxZDdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDgzIiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImRlLXYycmF5LmZyZWV2bWVzcy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ss://YWVzLTI1Ni1nY206RzJMQzFCUTQ4U1hTQktaWA==@185.126.239.231:20002#[🇷🇺]t.me/ConfigsHub
 vless://77371595-b7aa-472a-9d61-e9731861af07@217.60.236.215:8443?security=&encryption=none&host=head.shecanMarket.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
@@ -164,7 +166,6 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@192.0.63.13:8880/?type=ws&encryptio
 vless://be0f78a4-1a32-46c8-ad91-9949d1fbd759@172.66.46.246:443/?type=ws&encryption=none&flow=&host=test-cnx.pages.dev&path=%2FSxfwcp252YkHoPFb%3Fed%3D2560&security=tls&sni=TeSt-CnX.pAGes.dEv&alpn=http%2F1.1&fp=randomized#[🇨🇦]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@1750926563683.tencentapp.cn:2096/?type=ws&encryption=none&flow=&host=1750926570965.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&path=%2F%3Fed%3D2048&security=tls&sni=1750926570965.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&fp=randomized#[🇫🇷]t.me/ConfigsHub
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.77.246.83:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#[🏁]t.me/ConfigsHub
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@komaki.sibrayane.store:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiJ0cmEuZ2FtZXMtc2hvcC1pLXIuc2JzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoYWJlcjcuY29tIiwiaWQiOiJkODE4M2U0Yi04ZjllLTQ5N2ItOGNkNy1hOTBlNjRlZjc0ZTgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3R1cmtleSIsInBvcnQiOiIyNzk0IiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@fr.fastsoonlink.com:40034#[🇫🇷]t.me/ConfigsHub
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.18:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
@@ -245,6 +246,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.105.164:22222?security=tls&sn
 vless://50f958da-7292-48e5-ba2a-99ffed01b415@bokolafas.attarisamadi.ir:65001?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=fggerlad.gerald81.dpdns.org&fp=random&type=ws&sni=fggerlad.gerald81.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://c943eaf7-70c6-45f1-bd3a-71360eedf16b@151.101.3.8:80?path=%2Fcontainers%2Ffi&security=&encryption=none&host=IiSXpIm2VoNT.de&type=ws#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.37.59.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=4476a3#[🇹🇷]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6cWF3c3p4YzEyMw@13.250.20.204:443#[🏁]t.me/ConfigsHub
