@@ -1,3 +1,8 @@
+vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?security=reality&encryption=none&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&headerType=&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f2#[🇩🇪]t.me/ConfigsHub
+vless://1b1b3941-df06-4495-91cf-acb61818ee36@94.182.136.46:6565?type=tcp&headerType=none&security=none#[🇮🇷]t.me/ConfigsHub
+vless://038fb6c4-f19c-49e3-b501-023d15246b17@linkesube.rafaservice.ir:2087?path=%2Fed%3D4096&security=tls&alpn=h2&encryption=none&host=vdera.bestode.ir&fp=chrome&type=ws&sni=vdera.bestode.ir#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206MEhMS1dYVTJNVjVLR0VYNA==@156.245.190.22:15013#[🏁]t.me/ConfigsHub
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443/?security=none&encryption=none&host=zula.ir%2F%3FBya_telegram_%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVEJrWW1Gaw==@95.164.68.37:8388#[🇩🇪]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&alpn=h2&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc&sni=pqh23v4.hiddendom.shop#[🇨🇦]t.me/ConfigsHub
 vless://52ddd2b7-d2da-4169-b11d-b51679c01eb0@91.99.140.98:2090?mode=gun&security=reality&encryption=none&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#[🇩🇪]t.me/ConfigsHub
@@ -214,7 +219,6 @@ trojan://65086520307764900@43.202.207.140:443?#[🏁]t.me/ConfigsHub
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.101.86:80?encryption=none&security=none&type=ws&host=br.presskiwi.dpdns.org&path=%2FBaRAyeIran%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&fp=random&type=ws&sni=fggerlad.gerald81.dpdns.org#[🇨🇦]t.me/MoftConfig
 vless://Parsashonam-270@104.17.147.22:2086?path=%2F---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam%3Fed%3D2048&security=none&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#[🇨🇦]t.me/MoftConfig
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.10.252:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://28b16814-0429-4295-b5b4-5c5ffd5ec119@151.101.129.57:80?security=none&type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#[🇺🇸]t.me/MoftConfig
 trojan://Bw5Mz7QkVp@199.247.27.91:443?security=tls&type=tcp&sni=z-v2-078331.kailib.com#[🇳🇱]t.me/MoftConfig
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
@@ -226,21 +230,17 @@ vless://944ef446-ecc1-4535-9eaa-055b2fe802b0@57.128.164.132:2053?security=realit
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN#[🇩🇪]t.me/ConfigsHub
 vless://6552bee8-c9de-4358-a932-6934b1b4b099@188.245.240.163:2000?security=none&type=grpc&serviceName=%2F%40TLS\_v2ray-------%40TLS\_v2ray-------%40TLS\_v2ray-------%40TLS\_v2ray-------%40TLS\_v2ray-------%40TLS\_v2ray-------%40TLS\_v2ray#[🇩🇪]t.me/MoftConfig
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN#[🇩🇪]t.me/ConfigsHub
-trojan://Bw5Mz7QkVp@45.32.137.6:443?security=tls&type=tcp&sni=z-v2-082509.kailib.com#⚜️Telegram:@IP_CF
 trojan://Bw5Mz7QkVp@149.28.110.226:443?security=tls&type=tcp&sni=z-v2-077057.kailib.com#[🇺🇸]t.me/MoftConfig
-trojan://telegram-id-directvpn@18.193.10.252:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://011c3c13-fbfb-4783-eb12-ce30912321d2@85.9.125.186:16597?encryption=none&security=none&type=tcp&headerType=http#[🇮🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.193.10.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN#[🇩🇪]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.10.252:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
 vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Zilor.ir&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN#[🇩🇪]t.me/ConfigsHub
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN#[🇩🇪]t.me/ConfigsHub
 vless://827c2946-8d39-4fe4-9855-2c014e5383e4@151.101.1.57:80?security=none&type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 trojan://Aimer@220.71.185.223:10093?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&encryption=none&host=account.zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U3lEQUs3Mm9EMmV5U3NhSVFlN0Q5Z1hIdE9kZmlSNy85ZEVoVE9sODBlTT06WWw5Q0prM0lKRjY0RmMxZXNvMG1sc05pcXJOaU9aR2hDRGNpTlZtSVNIRT0%3D@139.162.72.96:22060#⚜️Telegram:@IP_CF
 trojan://Aimer@118.45.113.48:16064?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.21.221:989#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.153.41:443#[🇬🇧]t.me/MoftConfig
