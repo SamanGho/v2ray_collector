@@ -1,3 +1,6 @@
+vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.15:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.22:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
+vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.21:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
 vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.18:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.17:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.15:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
@@ -238,8 +241,6 @@ trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=%2F685uFbiR
 trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=1&sni=agepq.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.50.150.183:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 vless://a26ea133-45e6-48d9-9ff6-a05e08d81724@209.38.186.105:47948?mode=gun&security=reality&encryption=none&pbk=N6bGwHO9Erbwn6CaSfQLGY8Oi3mGxqRXsQuHOBTMBV4&fp=chrome&type=grpc&sni=www.speedtest.net&sid=19d2063459#[🇩🇪]t.me/ConfigsHub
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjE5LjE1MS4yMC42MiIsInBvcnQiOiI0MjMyNCIsInR5cGUiOiJub25lIiwiaWQiOiI0MzgxYmVhZS00NWE2LTQ0MjEtODU0Ny02NWUzMTJkZDIwNGEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6ImUtanBnc3ZtLmRvbmdmYW5neWloYW8ueHl6IiwidGxzIjoiIn0=
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&security=none&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@162.159.38.101:2096?allowInsecure=1&sni=agepq.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.24.31.150:80?path=%2F%3Fed%3D2570&security=&encryption=none&host=lot.sosant.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://21b7ccd3-23e4-49a3-a5f7-dd510c9b06fc@mcc.kangavar20.info:26842?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.135:51615?security=none&e
 vless://bc175272-831b-4f18-917e-7d8a192668e4@162.159.44.250:443?security=tls&sni=2gn3tl.alligator27.com&type=ws&host=2gn3tl.alligator27.com&path=/wss&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.205.175:51615?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://36e23f5a-3816-4c03-a324-47531167e53b@91.99.195.73:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&fp=chrome&type=ws#[🇺🇸]t.me/ConfigsHub
