@@ -1,3 +1,5 @@
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.111:8880?path=%2F%3Fed%3D2560&security=&encryption=none&host=bitget1.asdasd.click&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.216:8880?path=%2F%3Fed%3D2560&security=&encryption=none&host=bitget1.asdasd.click&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.95.24:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=xv.ylks0033.dpdns.org&type=ws&sni=xv.ylks0033.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.55:8880?path=%2F%3Fed%3D2560&security=&encryption=none&host=bitget1.asdasd.click&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://5780b892-81e7-4149-b1e8-6e635ee80a3a@162.159.44.250:443?security=tls&sni=xhwcz2.alligator27.com&type=ws&host=xhwcz2.alligator27.com&path=%2Fwss&alpn=http%2F1.1#[🇺🇸]t.me/ConfigsHub
@@ -108,7 +110,6 @@ vless://d6df6ee1-a37a-42ca-8300-8de01e27d350@test.fast.hosting-ip.com:80?mode=au
 vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=4476a3#[🇹🇷]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.105.164:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇩🇪]t.me/ConfigsHub
 vless://50f958da-7292-48e5-ba2a-99ffed01b415@bokolafas.attarisamadi.ir:65001?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=fggerlad.gerald81.dpdns.org&fp=random&type=ws&sni=fggerlad.gerald81.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://c943eaf7-70c6-45f1-bd3a-71360eedf16b@151.101.3.8:80?path=%2Fcontainers%2Ffi&security=&encryption=none&host=IiSXpIm2VoNT.de&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=4476a3#[🇹🇷]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6cWF3c3p4YzEyMw@13.250.20.204:443#[🏁]t.me/ConfigsHub
@@ -222,7 +223,6 @@ trojan://Aimer@108.162.193.110:443?sni=agepq.ambercc.filegear-sg.me#[🇨🇦]t.
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://a812a015-a65b-4003-ac5f-266e141c6405@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.vegaskala.com.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v13.vxlimir.com:1370/?type=tcp&encryption=none&flow=&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#[🇬🇧]t.me/MoftConfig
-trojan://Aimer@154.19.241.230:10000?sni=ngepo.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 vless://aaafd33e-bda8-47e9-bc33-116ce13c0b27@5.255.120.217:80?mode=auto&path=%2Fpwp&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.67ms
 vless://6c8cc745-8719-48df-8b0d-647134e9823a@151.101.3.8:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=tsvCY5W4AP61qVbo.net&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.18ms
 vless://123e04c-dcc1-4ef8-a246-8fb31aec1f48@81.98.160.151:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇬🇧]t.me/ConfigsHub
