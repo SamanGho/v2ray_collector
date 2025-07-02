@@ -1,3 +1,4 @@
+vless://9d6315f7-f272-4806-97c8-5fdaafad391e@172.67.177.223:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?encryption=none&security=none&type=ws&host=mail.ski1plag.ir&path=%2FTelegram%40Config_Rayegan%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://2a66e7e4-0bc2-4255-9bf0-7428f7258714@91.207.18.223:11904?encryption=none&security=none&type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
 trojan://Aimer@pranab.ns.cloudflare.com:443?allowInsecure=0&sni=agepq.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?security=&encrypti
 trojan://Bw5Mz7QkVp@45.61.136.197:443?security=tls&sni=z-v2-077015.kailib.com&type=tcp&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://ca1bea33-94e1-4f59-a2a6-8546f54a3e1d@185.133.35.118:80?security=none&type=ws&host=Www.speedtest.net.sPeedtest2.sbs.#[🏁]t.me/ConfigsHub
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@54.174.3.234:80?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.36.214.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
