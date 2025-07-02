@@ -1,11 +1,3 @@
-vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.13:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
-vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.19:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
-vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.14:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
-vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.20:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
-vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.21:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
-vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.15:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
-vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.22:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
-vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.21:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
 vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.18:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.17:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.15:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/ConfigsHub
@@ -248,3 +240,11 @@ vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.24.31.150:80?path=%2F%3Fed%3D25
 vless://21b7ccd3-23e4-49a3-a5f7-dd510c9b06fc@mcc.kangavar20.info:26842?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://bc175272-831b-4f18-917e-7d8a192668e4@162.159.44.250:443?security=tls&sni=2gn3tl.alligator27.com&type=ws&host=2gn3tl.alligator27.com&path=/wss&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
 vless://36e23f5a-3816-4c03-a324-47531167e53b@91.99.195.73:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://325f6ec3-5be5-404c-a5b9-d93fd2d2caf1@108.162.194.232:443?security=tls&sni=bnufg2.iranlosangles.com&type=ws&host=bnufg2.iranlosangles.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiJkZTAxLnNoLWNsb3VkZmxhcmUuc2JzIiwiYWlkIjowLCJob3N0IjoiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsImlkIjoiMjg2NGUzMDEtODAyMy00NDMzLWI3MDMtYmRkMWE1MmUwMzc2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoyMDk2LCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImRlMDEuc2gtY2xvdWRmbGFyZS5zYnMifQ==
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.167.229.160:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+vless://737334c9-4494-4268-82ea-103d8cda205f@104.21.69.44:8080?security=none&type=ws&host=chanel.kolacghi.ir.&path=%2F%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C#[🇨🇦]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.112.1:8443?security=tls&sni=hAsTI.FreEAIRlaiNES.COM&type=ws&host=hasTI.freeAirlAineS.COm&path=%2FMTMVPN%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.96.1:2083?security=tls&sni=HaSti.fReEaiRLAinEs.COM&type=ws&host=HaSTI.fREeAirLAineS.COm&path=%2FMTMVPN%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://ce81652d-ac56-44ce-85b2-32ebe5328729@185.161.251.211:1633?security=reality&sni=stackoverflow.com&fp=chrome&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&sid=9bc0a55a5379c0ed#[🇩🇪]t.me/ConfigsHub
