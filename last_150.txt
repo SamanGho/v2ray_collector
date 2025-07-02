@@ -1,3 +1,4 @@
+vless://d26f473f-db91-45b2-8c7e-8f38d294b6b5@172.67.73.163:8080?type=ws&encryption=none&host=e2.Ion7FPGEJ8.zuLAIR.org.&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://3055df14-c714-4a00-a86b-b15c4c099ea5@185.49.105.170:8443?type=grpc&encryption=none&serviceName=lovelive&sni=lovelive-anime.jp&fp=chrome&security=reality&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=6ba85179e30d4fc2#[🇮🇷]t.me/ConfigsHub
 vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?type=ws&encryption=none&host=crolindd.dearcarlotta.cloudns.org&path=%2FTelegram%40V2ray_Alpha%3Dcitlali.shorekeeper.ir&security=tls&sni=crolindd.dearcarlotta.cloudns.org&alpn=http%2F1.1&fp=random#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiIyMTYuMjI3LjE2OC4xNTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NTQxNyIsInBzIjoiW/Cfh7rwn4e4XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
@@ -178,7 +179,6 @@ vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443/?security=tls&alpn
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.128.195:989#[🏁]t.me/ConfigsHub
 vless://e5969002-e633-4565-be42-411e0d59bbfc@141.101.113.76:443?security=tls&sni=MtnIrancellNamavaAparatir.kooH75.Ir&type=ws&host=MtnIrancellNamavaAparatir.kooH75.Ir&path=/Telegram:@metavpnn&fp=chrome&alpn=h2,http/1.1#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.188.254.128:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=chrome&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@154.197.64.252:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615/?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.177.25.243:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
