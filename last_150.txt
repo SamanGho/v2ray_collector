@@ -1,3 +1,4 @@
+vless://b57a8005-df1b-4462-974b-5992d4c815f5@vip1.proxystore11.news:2052?type=xhttp&path=%2Fprx11&host=&mode=auto&security=reality&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&fp=chrome&sni=vultr.com&sid=f8fcb589&spx=%2F#[🇩🇪]t.me/ConfigsHub
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality&sni=dl.google.com&type=tcp&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#[🏁]t.me/ConfigsHub
 vless://b96416ac-60f9-4136-9eac-9f55ae9960b0@tr2.hosmci.com:8880?security=none&seed=Hs5xtwTnIM&encryption=none&headerType=wireguard&type=kcp#[🇹🇷]t.me/ConfigsHub
 vless://961a174e-f775-4d59-cc81-96169f4cfb19@151.101.2.133:443?security=tls&sni=live.989bull.com&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&fp=chrome&alpn=h2%2Chttp%2F1.1#[🇺🇸]t.me/ConfigsHub
@@ -220,7 +221,6 @@ vless://77fe7ce9-837f-4ad3-91a7-49d16b05d190@khiar.sibzamini.online:80?type=xhtt
 trojan://telegram-id-privatevpns@3.78.119.124:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/ConfigsHub
 vless://8c74894a-d465-4e7f-9cd8-bb3f8457b38e@91.107.153.50:14811?security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://6f6946ff-d061-4bc9-9c3c-b927c9bad3cb@hh.somo44.sbs:8080?path=%2Fhhvghhv&security=&encryption=none&host=Hoo.somo44.sbs&type=ws#[🇨🇦]t.me/ConfigsHub
-trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=%2F685uFbiRrgAsHzTP8d&security=tls&alpn=http%2F1.1&host=90.taipei108.dpdns.org&fp=chrome&type=ws&sni=90.tAIpEI108.dpDnS.orG#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=1&sni=agepq.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.50.150.183:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 trojan://Aimer@162.159.38.101:2096?allowInsecure=1&sni=agepq.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
