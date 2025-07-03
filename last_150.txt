@@ -1,3 +1,4 @@
+trojan://Bw5Mz7QkVp@199.247.27.91:443?security=tls&type=tcp&sni=z-v2-078331.kailib.com#[🇳🇱]t.me/MoftConfig
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 trojan://Aimer@192.227.231.56:15392?allowInsecure=0&sni=agepq.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
 vless://28b16814-0429-4295-b5b4-5c5ffd5ec119@151.101.65.57:80?security=none&type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#[🇺🇸]t.me/MoftConfig
@@ -147,7 +148,6 @@ vless://eeba6be8-92ad-48e1-a2e3-07cdeb425359@ping.amirhossein.info:8443/?type=ws
 vmess://eyJhZGQiOiI5MS45OS4xOTEuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZWxld2ViaW9uLmNvbSIsImlkIjoiYWI2NWU2OTQtYzA0NC00NmNmLTgwMmUtMzAxZGM5OTk4YzQxIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDgyNTIiLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.180.35:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=dw.alibichareh.dpdns.org&fp=random&type=ws&sni=dw.alibichareh.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@3.15.219.7:8443?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#[🇺🇸]t.me/ConfigsHub
-vless://f2bb6f82-f343-4455-8ef9-5b0dc438941a@ir4.tunneled.site:5050?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://Aimer@154.21.87.99:443?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://76b3cbba-e6ac-485a-9481-336a0415eab9@198.41.218.111:80?sni=OlD-disk-EFCd.JojAhoF109.WorKerS.DEv&type=ws&path=%2F#[🇺🇸]t.me/ConfigsHub
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@172.64.103.84:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&fp=chrome#[🇺🇸]t.me/ConfigsHub
