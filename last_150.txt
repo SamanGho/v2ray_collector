@@ -1,9 +1,3 @@
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:7012?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#[🇦🇪]t.me/ConfigsHub
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@5.182.46.67:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://9b580363-e1d2-443d-89b4-75836b6c0e4c@18.213.246.134:443?security=reality&sni=api.cloudflare.com&type=xhttp&host=api.cloudflare.com&path=/client&fp=chrome&pbk=GaKaPbKnpd9HXEnDwp_N84e8e-bh4W5Ht1V1JmnUyQw&sid=9d19629262#[🇺🇸]t.me/ConfigsHub
 trojan://4deefa4b-349d-4db8-be3c-d4d61c862718@3.113.30.97:20230?security=tls&sni=421421.xyz#[🏁]t.me/ConfigsHub
@@ -248,3 +242,9 @@ vless://cc1647a8-3bb4-4208-83db-ac60059290e3@mn.co:8080?encryption=none&security
 vless://cc1647a8-3bb4-4208-83db-ac60059290e3@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFUE9ET05JT1MyMDcw@45.142.214.123:8388#[🏁]t.me/ConfigsHub
 vless://25c8e7fd-0eac-4d51-b19a-10785ad39393@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@104.21.14.232:443?encryption=none&security=tls&sni=nuclear.us.kg&type=ws&host=nuclear.us.kg&path=%2Ffree%2F103.101.153.32%3A443#[🇨🇦]t.me/ConfigsHub
+trojan://auto@104.20.18.74:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇺🇸]t.me/ConfigsHub
+vless://353ae6e9-b8b8-41eb-bf45-cd2bcd9adb61@85.198.23.227:1991?encryption=none&security=none&type=tcp&headerType=http&host=bama.ir#[🇮🇷]t.me/ConfigsHub
+vless://fc95f0a9-52a3-4c12-82a9-a43ca2267a18@38.244.137.191:2053?encryption=none&security=reality&sni=sourceforge.net&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&authority=&serviceName=xyz&mode=gun#[🇫🇮]t.me/ConfigsHub
+vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@57.128.165.176:1370?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b&type=tcp&headerType=none#[🇬🇧]t.me/ConfigsHub
+vless://e16df891-f6e8-42ed-af97-302769f78989@188.34.201.88:16072?security=none&type=grpc#[🇩🇪]t.me/ConfigsHub
