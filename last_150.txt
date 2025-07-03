@@ -1,13 +1,3 @@
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://9b580363-e1d2-443d-89b4-75836b6c0e4c@18.213.246.134:443?security=reality&sni=api.cloudflare.com&type=xhttp&host=api.cloudflare.com&path=/client&fp=chrome&pbk=GaKaPbKnpd9HXEnDwp_N84e8e-bh4W5Ht1V1JmnUyQw&sid=9d19629262#[🇺🇸]t.me/ConfigsHub
-trojan://4deefa4b-349d-4db8-be3c-d4d61c862718@3.113.30.97:20230?security=tls&sni=421421.xyz#[🏁]t.me/ConfigsHub
-vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.12.101:2052?sni=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&type=ws&path=%2F#[🇨🇦]t.me/ConfigsHub
-trojan://3763495894587285504@94.177.131.199:443?security=tls&type=tcp&sni=nearby-sheep.goat627.mom#[🏁]t.me/ConfigsHub
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?type=tcp&security=none#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#[🇳🇱]t.me/ConfigsHub
-vless://14bf80f5-4c7f-4bbf-b19b-78568b50892c@irp3.cactustory.site:443?path=%2F&security=tls&encryption=none&host=ir3.cactustory.site&type=ws&sni=ir3.cactustory.site#[🇮🇷]t.me/ConfigsHub
-trojan://65086441068973800@62.112.221.192:443?#[🇬🇧]t.me/ConfigsHub
-trojan://Aimer@103.116.7.103:2083?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.236:443#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1UnVpdlBPVTlqUTRWTWZLaHVlSlhV@138.124.93.193:38500#[🇩🇪]t.me/ConfigsHub
 vless://52d90741-49f1-42eb-be23-214eb1e88085@151.101.3.8:80?security=none&type=ws&headerType=&path=%2Fdownload%3Fed%3D2048&host=haamim.ir#[🇺🇸]t.me/ConfigsHub
@@ -248,3 +238,13 @@ vless://353ae6e9-b8b8-41eb-bf45-cd2bcd9adb61@85.198.23.227:1991?encryption=none&
 vless://fc95f0a9-52a3-4c12-82a9-a43ca2267a18@38.244.137.191:2053?encryption=none&security=reality&sni=sourceforge.net&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&authority=&serviceName=xyz&mode=gun#[🇫🇮]t.me/ConfigsHub
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@57.128.165.176:1370?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b&type=tcp&headerType=none#[🇬🇧]t.me/ConfigsHub
 vless://e16df891-f6e8-42ed-af97-302769f78989@188.34.201.88:16072?security=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+vless://Parsashonam-274@172.66.168.210:2086?type=ws&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&path=/---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam?ed%3D2048#[🇨🇦]t.me/ConfigsHub
+trojan://Aimer@14.36.202.242:50000?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@188.114.97.1:443?path=%2F9Pa8P3zqtOVDLc4Z%2FMTQwLjIzOC4x%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=titantablomanahamrah.ir&fp=randomized&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#[🇨🇦]t.me/ConfigsHub
+vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?path=%2F&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s02.gatesriver.ir&fp=chrome&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s02.gatesriver.ir#[🇨🇦]t.me/ConfigsHub
+vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%3Fed%3D2050&security=tls&alpn=http%2F1.1&encryption=none&host=nb-de.nitter.ir&fp=chrome&type=ws&sni=nitter.ir#[🇳🇱]t.me/ConfigsHub
+vless://0b55ec95-4f77-4c51-89ea-91d96cd149a8@151.101.3.8:80?type=xhttp&mode=auto&host=joindhhprooxy.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#[🇨🇦]t.me/ConfigsHub
+vless://Parsashonam-274@104.17.147.22:2086?type=ws&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&path=/---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam?ed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://Parsashonam-274@188.114.96.0:2086?type=ws&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&path=/---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam?ed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?path=%2F&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir&fp=chrome&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir#[🇨🇦]t.me/ConfigsHub
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2Fed%3D2560&security=none&encryption=none&host=pari.parinaz.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
