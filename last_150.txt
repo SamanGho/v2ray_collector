@@ -1,3 +1,4 @@
+vless://827c2946-8d39-4fe4-9855-2c014e5383e4@151.101.1.57:80?security=none&type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 trojan://Aimer@220.71.185.223:10093?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&encryption=none&host=account.zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
@@ -232,7 +233,6 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&enc
 vless://b3ec1385-e08f-422e-b32a-9d032f80ea01@172.66.47.59:443?security=tls&sni=MahDISERveR-xnr.pAgES.dev&type=ws&host=mahdiserver-xnr.pages.dev&path=%2FrFUTD89NIbVo64GI%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 trojan://blue2024@108.162.195.155:443?security=tls&type=ws&sni=tb.promote.icu&host=tb.promote.icu#[🇨🇦]t.me/ConfigsHub
 vless://a6bc389a-80df-43e4-adbc-e9d6ae018c43@library98.ir:54?encryption=none&security=none&type=ws&path=%2F#[🇮🇷]t.me/ConfigsHub
-trojan://Aimer@220.125.26.232:50000?allowInsecure=0&sni=ngepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 vless://8a8dc45c-648f-4f91-ace1-af564be2a864@www.moon-night.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.pinterest.com&alpn=http%2F1.1&fp=chrome&pbk=3vUR24mjjFpGWH1SXOye4ByKlKzQOEDjCHEH5gSoZFw&sid=0afdc08e9f7d&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?encryption=none&security=tls&sni=nitter.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=nb-de.nitter.ir&path=%2Fhajmi%3Fed%3D2050#[🇳🇱]t.me/ConfigsHub
 vless://9bb69a35-d123-4f8b-9144-ae2052de7586@151.101.2.165:80?security=none&type=ws&host=Copy-Az-Chahnnel-ISVvpn-19.com#[🇨🇦]t.me/ConfigsHub
