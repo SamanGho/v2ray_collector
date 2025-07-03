@@ -1,3 +1,5 @@
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+trojan://Aimer@220.71.185.223:10093?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&encryption=none&host=account.zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
 trojan://Aimer@118.45.113.48:16064?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.21.221:989#[🏁]t.me/MoftConfig
@@ -210,7 +212,6 @@ vless://Parsashonam-274@172.66.168.210:2086?type=ws&host=ws.DafieMikoneTheWeeken
 trojan://Aimer@14.36.202.242:50000?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@188.114.97.1:443?path=%2F9Pa8P3zqtOVDLc4Z%2FMTQwLjIzOC4x%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=titantablomanahamrah.ir&fp=randomized&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#[🇨🇦]t.me/ConfigsHub
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?path=%2F&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s02.gatesriver.ir&fp=chrome&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s02.gatesriver.ir#[🇨🇦]t.me/ConfigsHub
-vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%3Fed%3D2050&security=tls&alpn=http%2F1.1&encryption=none&host=nb-de.nitter.ir&fp=chrome&type=ws&sni=nitter.ir#[🇳🇱]t.me/ConfigsHub
 vless://0b55ec95-4f77-4c51-89ea-91d96cd149a8@151.101.3.8:80?type=xhttp&mode=auto&host=joindhhprooxy.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#[🇨🇦]t.me/ConfigsHub
 vless://Parsashonam-274@104.17.147.22:2086?type=ws&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&path=/---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam?ed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://Parsashonam-274@188.114.96.0:2086?type=ws&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&path=/---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam?ed%3D2048#[🇨🇦]t.me/ConfigsHub
@@ -242,7 +243,6 @@ trojan://telegram-id-v2rayvpnchannel@18.169.234.169:22222?security=tls&sni=troja
 trojan://3774827088566296576@destined-cub.treefrog761.one:443?allowInsecure=0&sni=destined-cub.treefrog761.one#[🇩🇪]t.me/ConfigsHub
 vless://40e6efb1-3aec-4191-8165-2096c8e0440c@142.132.185.23:35537?type=grpc&serviceName=TEL@V2rayNG_SPDNet-TEL--#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@13.87.98.74:443#[🇬🇧]t.me/ConfigsHub
-vless://f272146a-0eef-45bc-a112-c5909f33fdba@104.18.26.90:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=Kk48.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&type=httpupgrade#%40NUFiLTER%20%F0%9F%87%AE%F0%9F%87%B7%F0%9F%9A%80%F0%9F%87%B1%F0%9F%87%BA
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
 trojan://Aimer@211.217.26.23:20256?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://5YauIFGqU5@65.109.180.60:444?type=grpc&security=none#[🇫🇮]t.me/ConfigsHub
