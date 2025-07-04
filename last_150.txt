@@ -1,3 +1,4 @@
+vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v04.vxlimir.com:1370/?type=tcp&encryption=none&flow=&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#[🇬🇧]t.me/MoftConfig
 ss://bm9uZTpjYWJiY2FhLWFhY2ItYWNhYi1jYmFkLWJjY2FhYmJhYmNjYQ==@127.0.0.1:8080#👉🆔@MoftConfig📡🤷‍♀️®️🤷‍♀©️🤷‍♀🅿️ping:0.07ms
 vless://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083/?type=ws&encryption=none&flow=&host=fei.634676.xyz&path=%2F%3Fed%3D2560&security=tls&sni=fei.634676.xyz&alpn=h3&fp=random#[🇨🇦]t.me/MoftConfig
 vless://e71f9e93-064e-4847-b628-f41c6e74e6cb@v16.vxlimir.com:1370/?type=tcp&encryption=none&flow=&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#[🇬🇧]t.me/MoftConfig
@@ -235,7 +236,6 @@ vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80?path=%2F%3Fed%3D256
 trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=&type=tcp&sni=x1-czech-aruba-v2.devefun.org#[🏁]t.me/ConfigsHub
 vless://0aeb5cc9-516d-4040-a9d6-73bd2d05b656@45.77.62.189:2333?security=reality&encryption=none&pbk=B0iyLON-ED76Ok1x3v5oGAvRHvKYyldQL70dAQHeKVk&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=siahkor.com&sid=4649d3#⚜️Telegram:@IP_CF
 vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443/?type=ws&encryption=none&flow=&host=nb-de.nitter.ir&path=%2Fhajmi%3Fed%3D2050&security=tls&sni=nitter.ir&alpn=http%2F1.1&fp=chrome#[🇳🇱]t.me/ConfigsHub
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=&encryption=none&host=zula.ir%2F%3F%40&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 trojan://NISHIKUITAN111@172.67.49.68:443?#⚜️Telegram:@IP_CF
 vless://dd2d397b-b1b8-4995-aab9-7131b5d08e41@151.101.130.133:443?security=tls&sni=live.theworldwidewolf.com&type=ws&host=vistapardisgmae.ir&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&fp=chrome&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.128.190.207:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
