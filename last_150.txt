@@ -1,7 +1,3 @@
-vless://d19e25ed-7a3d-4c09-82d9-b8146062e52b@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#[🇳🇱]t.me/ConfigsHub
-vless://d19e25ed-7a3d-4c09-82d9-b8146062e52b@tgju.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?path=%2FTelegram%40TELEGRAM-MTMVPN%2B%2F%3Fed&security=&encryption=none&host=cs.laoyoutiao.link&type=ws#[🇺🇸]t.me/ConfigsHub
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.14:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://d19e25ed-7a3d-4c09-82d9-b8146062e52b@151.101.3.8:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://c43754f2-343b-402f-a33a-f352ca67c9e2@mn.co:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
 vless://c43754f2-343b-402f-a33a-f352ca67c9e2@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#[🇬🇧]t.me/ConfigsHub
@@ -248,3 +244,7 @@ trojan://Aimer@theo.ns.cloudflare.com:443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hp
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.17.85.22:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@103.116.7.133:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@188.164.159.98:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+vless://f86586c2-3a4c-49c9-83ec-5ae43786d4f7@104.16.182.65:80?path=%2FTelegram&security=&encryption=none&host=dark-bonus-0f2f-ppal03.yapeyef825.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.17.195:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://d643b9ca-57b7-4cd5-84b8-a77f26b6346e@162.159.1.33:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-fg-1.narges.filegear-sg.me&fp=chrome&type=ws&sni=rayan-fg-1.narges.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
