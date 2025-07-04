@@ -1,3 +1,5 @@
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:27103?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
+vless://77fe7ce9-837f-4ad3-91a7-49d16b05d190@khiar.sibzamini.online:80?type=xhttp&path=%2Fxhttp%3Fq%3D7&host=khiarcdn.global.ssl.fastly.net&mode=auto&security=none#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.78.119.124:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/ConfigsHub
 vless://8c74894a-d465-4e7f-9cd8-bb3f8457b38e@91.107.153.50:14811?security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://6f6946ff-d061-4bc9-9c3c-b927c9bad3cb@hh.somo44.sbs:8080?path=%2Fhhvghhv&security=&encryption=none&host=Hoo.somo44.sbs&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -240,11 +242,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@85.210.28.72:443#[🇬
 vless://34b3cbba-e6ac-485a-9481-976a0415eab9@172.67.141.28:443?encryption=none&security=tls&sni=ESEtSeCuriTYliCEnse.nZEWlx.wOrKeRs.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=esEtSecURITYLicEnse.NzeWLx.WorKErs.deV&path=%2FTelegram@V2ray_Alpha%2Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.177.35.173:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.145.208.104:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@63.177.35.173:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://28da8b58-2913-479d-9cde-1e325227b57a@172.64.32.85:443?security=tls&sni=1qsd9h.gamvpn.com&type=ws&path=%2Fwss&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://270515a2-1c50-43fd-8bd1-c45f69ac4aa9@217.182.211.14:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#[🇫🇷]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.87.107.176:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.16.91:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80/?path=%2F%3Fed%3D2560&security=none&encryption=none&host=delam.ahaysiahzangi.dpdns.org&fp=random&type=ws&sni=delam.ahaysiahzangi.dpdns.org#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VkxRenB0a3JvOW14clBCX194OUdubkFaZ2VSNUUtOQ____%3D%3D@185.215.186.65:8388#[🏁]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.35.173:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
