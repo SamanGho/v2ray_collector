@@ -1,7 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#[🇫🇮]t.me/ConfigsHub
-trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:27103?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
-vless://77fe7ce9-837f-4ad3-91a7-49d16b05d190@khiar.sibzamini.online:80?type=xhttp&path=%2Fxhttp%3Fq%3D7&host=khiarcdn.global.ssl.fastly.net&mode=auto&security=none#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@3.78.119.124:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/ConfigsHub
 vless://8c74894a-d465-4e7f-9cd8-bb3f8457b38e@91.107.153.50:14811?security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://6f6946ff-d061-4bc9-9c3c-b927c9bad3cb@hh.somo44.sbs:8080?path=%2Fhhvghhv&security=&encryption=none&host=Hoo.somo44.sbs&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=1&sni=agepq.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +244,7 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.87.107.176:3229?security=none&ty
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.16.91:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80/?path=%2F%3Fed%3D2560&security=none&encryption=none&host=delam.ahaysiahzangi.dpdns.org&fp=random&type=ws&sni=delam.ahaysiahzangi.dpdns.org#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VkxRenB0a3JvOW14clBCX194OUdubkFaZ2VSNUUtOQ____%3D%3D@185.215.186.65:8388#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmb0tlcURPVjlOQ2lETU1XVGlET29R@62.60.216.61:1080#[🇩🇪]t.me/ConfigsHub
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI%3D%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#[🇺🇸]t.me/ConfigsHub
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.107:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2%2Chttp%2F1.1#[🇺🇸]t.me/ConfigsHub
+vless://79e1374d-7f94-4da6-97ad-5ce28a5d393e@188.227.84.54:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=Paai0w6bHcKmaZzm8Sljt8uKydSYX5h1t3G_Y3T-Rm0&sid=f74b9234#[🇳🇱]t.me/ConfigsHub
