@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#[🇫🇮]t.me/ConfigsHub
 trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:27103?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
 vless://77fe7ce9-837f-4ad3-91a7-49d16b05d190@khiar.sibzamini.online:80?type=xhttp&path=%2Fxhttp%3Fq%3D7&host=khiarcdn.global.ssl.fastly.net&mode=auto&security=none#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.78.119.124:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/ConfigsHub
@@ -223,7 +224,6 @@ trojan://Aimer@theo.ns.cloudflare.com:443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hp
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.17.85.22:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@103.116.7.133:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@188.164.159.98:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.17.195:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://d643b9ca-57b7-4cd5-84b8-a77f26b6346e@162.159.1.33:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-fg-1.narges.filegear-sg.me&fp=chrome&type=ws&sni=rayan-fg-1.narges.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 vless://575e55f1-d619-4c65-85fe-e2b757b6477b@151.101.194.165:80?security=none&type=ws&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.#[🇨🇦]t.me/ConfigsHub
