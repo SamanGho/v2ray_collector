@@ -1,3 +1,4 @@
+vless://18f84d91-f432-45e2-962f-ca4f76a44713@104.24.195.216:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=steep-pine-3b0b.facic63646.workers.dev&fp=chrome&type=ws&sni=steep-pine-3b0b.facic63646.workers.dev#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@222.97.9.166:50004?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?path=%2FTelegram%40TELEGRAM-MTMVPN%20%2F%3Fed&security=&encryption=none&host=cs.laoyoutiao.link&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206RzkzN1JQQU5YOTEzWVM1Tw@183.232.239.172:16007#[🏁]t.me/ConfigsHub
@@ -234,7 +235,6 @@ vless://92ad31f1-592d-44af-a639-2ca411e2c55c@151.101.130.219:80?security=none&ty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@85.210.145.34:443#[🇬🇧]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.237.162.57:1006?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 trojan://4732adfa16c6450bbef87264e41332db@104.17.147.22:443?security=tls&type=ws&sni=bangladeshipatri.com&path=6b777a91#[🇨🇦]t.me/ConfigsHub
-vless://3ed3966a-ca0e-4a46-a437-8000836fa495@sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.244.142.179:1006?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.222.159.188:1006?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.219.103.116:1006?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
