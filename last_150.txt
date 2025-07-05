@@ -1,3 +1,4 @@
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@172.64.103.84:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&fp=chrome#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.112.204:443#[🇧🇭]t.me/ConfigsHub
 trojan://Aimer@154.197.64.233:443?sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.153.124.90:989#[🏁]t.me/ConfigsHub
@@ -209,7 +210,6 @@ vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@45.159.148.172:2092?security=none&e
 vless://32c7fbe0-d686-467d-9c60-209618e7ba0a@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.217.56.44:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 trojan://NISHIKUITAN222@173.245.49.110:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#[🇨🇦]t.me/ConfigsHub
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://f46c96e3-6d0d-4099-e2dd-60008bc2ced6@91.99.150.28:443?security=reality&encryption=none&pbk=TTjrKjLxbiUnRW0lTAsCQBVd4x-frmieZk-6GPRzXT8&host=%2F%3FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&sni=eset.com#[🇩🇪]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.86.3.148:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZlYTlmYS02N2UwLTRmZjEtOGFhNS03MTI2MDFmMjkwM2Y@hkg-02.douyucdn.top:28522#[🏁]t.me/ConfigsHub
