@@ -1,3 +1,4 @@
+trojan://Aimer@154.197.64.233:443?sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.153.124.90:989#[🏁]t.me/ConfigsHub
 trojan://5YauIFGqU5@91.107.153.103:444?type=grpc&security=none#[🇩🇪]t.me/ConfigsHub
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
@@ -216,7 +217,6 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@5.10.214.254:8880?type=ws&host=yg.b
 trojan://65086520307764900@18.139.61.105:443?security=tls&sni=dynamic-shrew.shiner427.skin&type=tcp#[🏁]t.me/ConfigsHub
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.12:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://Aimer@118.35.88.114:50000?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.4:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://3ab9cb9a-4ed8-426c-b42d-b3079c89df84@91.99.27.51:2083?security=reality&encryption=none&pbk=AxIOXEujA6HwUz2QZnPM6O8llj2QVaI50lZXGUlibhs&headerType=none&fp=chrome&type=tcp&sni=cdn-download.zula.ir&sid=ea83a8b0#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206RUozR09MUExBQVVYOVdDWQ==@156.231.104.23:18013#[🏁]t.me/ConfigsHub
 vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@45.159.148.172:2092?security=none&encryption=none&host=parsabr.com%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
