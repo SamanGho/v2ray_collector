@@ -1,3 +1,5 @@
+trojan://telegram-id-privatevpns@54.93.187.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://25c8e7fd-0eac-4d51-b19a-10785ad39393@speedtest.net:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://cc1647a8-3bb4-4208-83db-ac60059290e3@151.101.3.8:80?encryption=none&security=none&type=ws&host=melodebot.net&path=%2Fmelo%2Fws%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://cc1647a8-3bb4-4208-83db-ac60059290e3@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGQUxJSUxBUFJPMjA3NA==@aliilapro.ir:8443#[🇨🇦]t.me/ConfigsHub
@@ -244,7 +246,5 @@ vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&enc
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2TkRBNU9ETmtObVF0TkRoaVpTMDBZemxoTFdGaE5EZ3RNMkZoWmpNeE5EWTRNek5s@mdss-jp.04z3susick.download:12012#[🏁]t.me/ConfigsHub
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.254.201:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://96137977-02ad-4796-acb7-7a7b92aae18c@aod.pingshekannew.top:56475?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[🇬🇧]t.me/ConfigsHub
-vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVFZsTXpjeQ==@fr1.opensocks.site:8388#[🇫🇷]t.me/ConfigsHub
