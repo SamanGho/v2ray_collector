@@ -1,3 +1,4 @@
+vless://84617477-57f3-483c-a9e2-f0da965662d0@172.64.32.85:443?security=tls&sni=0bjp2g.gamvpn.com&type=ws&path=%2Fwss#[🇨🇦]t.me/ConfigsHub
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=&encryption=none&host=zula.ir%2F%3FTELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.61:4445?allowInsecure=1&sni=www.baidu.com#[🏁]t.me/ConfigsHub
 vless://5cd2602a-ac2a-4dea-a2c5-0a16b0e2b0d8@speedy.mooo.info:80?mode=auto&path=%2F&security=&encryption=none&host=veneta911.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
@@ -240,7 +241,6 @@ trojan://blue2024@104.16.209.98:443?security=tls&type=ws&sni=td.promote.icu&host
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE5N2NlMi0yYjFjLTQ2NmQtYjg5ZS1hM2NkOTg2NzEyYWM=@free.2weradf.xyz:36175#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE5N2NlMi0yYjFjLTQ2NmQtYjg5ZS1hM2NkOTg2NzEyYWM=@free.2weradf.xyz:36115#[🏁]t.me/ConfigsHub
 vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@45.159.148.172:2092?security=none&encryption=none&host=parsabr.com%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vmess://eyJhZGQiOiJmMjM1NTkyZS1zdjJzZzAtdDc2eDJpLXdqNnYuaGsucDVwdi5jb20iLCJhaWQiOjIsImhvc3QiOiJmMjM1NTkyZS1zdjJzZzAtdDc2eDJpLXdqNnYuaGsucDVwdi5jb20iLCJpZCI6Ijg0N2MwM2IyLTBhOWQtMTFlYi1hOGJmLWYyM2M5MWNmYmJjOSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6ODAsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20ifQ==
 vless://32c7fbe0-d686-467d-9c60-209618e7ba0a@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.217.56.44:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 trojan://NISHIKUITAN222@173.245.49.110:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#[🇨🇦]t.me/ConfigsHub
