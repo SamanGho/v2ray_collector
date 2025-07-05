@@ -1,18 +1,3 @@
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80/?path=%2F%3Fed%3D2560&security=&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://18f84d91-f432-45e2-962f-ca4f76a44713@162.159.195.67:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#[🇨🇦]t.me/ConfigsHub
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://8af70e75-2f80-48d2-80bc-0024918e8eec@151.101.2.216:80?security=none&type=ws&host=6.fidsxss222x.iR&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80#[🇨🇦]t.me/ConfigsHub
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.231:2083/?type=ws&encryption=none&flow=&host=edmk.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edmk.aimercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RzBPRGZOd0NVR1IwS0VmM1ZQUUxo@77.238.229.244:12369#[🇳🇱]t.me/ConfigsHub
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2054/?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@188.114.97.1:443/?type=ws&encryption=none&flow=&host=titantablomanahamrah.ir&path=%2F9Pa8P3zqtOVDLc4Z%2FMTQwLjIzOC4xNTguMjM4%3Fed%3D2560&security=tls&sni=TITanTabLOmaNAHaMRaH.IR&alpn=http%2F1.1&fp=randomized#[🇨🇦]t.me/ConfigsHub
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TmprM01EWTBNekl3TlRFMFpHUXpNQT09Ok5UTTVObUUyTWpndE1HTXpNQzAwTXc9PQ@zz.xn--vpn-3f0h822m.com:8075#[🏁]t.me/ConfigsHub
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80/?type=ws&encryption=none&flow=&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
-vless://3bbdc4fa-63fd-4c30-8ff1-a4e08a8c7f47@chloe.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=hgwbkjp9.musicirans.ir&path=%2Fwss&security=tls&sni=hgwbkjp9.musicirans.ir&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
-vless://7b8b4f65-4acb-467f-88f2-c5c24d44d620@77.110.124.63:25360/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=9_cr-sx-RroefcaUkifm7u6dn4udl7E4aPp_dN8QOig&sid=7d#[🇺🇸]t.me/ConfigsHub
-trojan://rXzh%3B%3FnW1GGKB(K8@104.21.18.192:443?encryption=none&security=tls&sni=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV&type=ws&host=saikoxpubgm.zhkingkurd13.workers.dev&path=%2Ftr4BCdusB84159lWnu#[🇨🇦]t.me/ConfigsHub
-vless://b026c765-2b81-4beb-95d5-dd3b42c059da@104.16.53.11:80/?type=ws&encryption=none&flow=&host=TeNDER-deVICE.onEeaT.Co.&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@155.46.213.177:8880/?type=ws&encryption=none&flow=&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
 vless://9c1db283-1b21-4d04-abeb-91bf18dec777@157.10.53.146:14626?security=reality&flow=xtls-rprx-vision&sni=www.icloud.com&type=tcp&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM#[🏁]t.me/ConfigsHub
 vless://eeba6be8-92ad-48e1-a2e3-07cdeb425359@ping.amirhossein.info:8443/?type=ws&path=%2FTelegram%40@amirw_shop_q%40Vijra_dev%2F%3Fed%3D2560&host=ping.amirhossein.info&security=none#[🇮🇷]t.me/ConfigsHub
@@ -248,3 +233,18 @@ trojan://65086520307764900@18.139.61.105:443?security=tls&sni=dynamic-shrew.shin
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.12:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://Aimer@118.35.88.114:50000?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.4:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://3ab9cb9a-4ed8-426c-b42d-b3079c89df84@91.99.27.51:2083?security=reality&encryption=none&pbk=AxIOXEujA6HwUz2QZnPM6O8llj2QVaI50lZXGUlibhs&headerType=none&fp=chrome&type=tcp&sni=cdn-download.zula.ir&sid=ea83a8b0#[🇩🇪]t.me/ConfigsHub
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.29:53067?allowInsecure=1&sni=www.baidu.com#⚜️Telegram:@IP_CF
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@13.215.50.90:6668?allowInsecure=1&sni=baidu.com#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206RUozR09MUExBQVVYOVdDWQ==@156.231.104.23:18013#[🏁]t.me/ConfigsHub
+vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@45.159.148.172:2092?security=none&encryption=none&host=parsabr.com%2F%3FJOKERRVPNBIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vmess://eyJhZGQiOiI0NS44Mi4yNDYuMTczIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImNmZjcwMDFlLTNhNzQtNDNlOC1iZmQ4LWE3YWY5NjMwYTU4YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjY1MjEiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxNTQiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.32.68:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://Aimer@175.198.255.61:12550?sni=ngepz.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206YWJiZDU4NTctZDRjYS00MWFjLTk2YWMtN2UzYjhhZDRmMGM2@mdss-tw.04z3susick.download:12031#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.29.32.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+trojan://5e9b182a-9262-3244-8381-5aa946697b8d@gy.58n.net:20076?sni=x76.flybar.work#[🏁]t.me/ConfigsHub
+trojan://Aimer@172.66.207.17:2083?sni=ngepz.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
+vless://575e55f1-d619-4c65-85fe-e2b757b6477b@151.101.0.155:80?security=none&type=ws&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.#[🇨🇦]t.me/ConfigsHub
