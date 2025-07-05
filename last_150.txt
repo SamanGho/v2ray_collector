@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.112.204:443#[🇧🇭]t.me/ConfigsHub
 trojan://Aimer@154.197.64.233:443?sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.153.124.90:989#[🏁]t.me/ConfigsHub
 trojan://5YauIFGqU5@91.107.153.103:444?type=grpc&security=none#[🇩🇪]t.me/ConfigsHub
@@ -247,4 +248,3 @@ trojan://Aimer@135.84.74.254:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&sec
 vless://15e99f9a-2aa6-46ff-ab8e-903ae48c3f8c@s6.blueservice.website:8080?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://6bdc18b7-a33f-46ae-a5e3-df7cb21f36b2@91.99.184.231:45103?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇩🇪]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.14.180.79:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-vless://6bdc18b7-a33f-46ae-a5e3-df7cb21f36b2@91.99.184.231:45103?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
