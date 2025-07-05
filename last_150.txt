@@ -1,3 +1,4 @@
+vless://9c1db283-1b21-4d04-abeb-91bf18dec777@157.10.53.146:14626?security=reality&flow=xtls-rprx-vision&sni=www.icloud.com&type=tcp&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM#[🏁]t.me/ConfigsHub
 vless://eeba6be8-92ad-48e1-a2e3-07cdeb425359@ping.amirhossein.info:8443/?type=ws&path=%2FTelegram%40@amirw_shop_q%40Vijra_dev%2F%3Fed%3D2560&host=ping.amirhossein.info&security=none#[🇮🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiI5MS45OS4xOTEuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZWxld2ViaW9uLmNvbSIsImlkIjoiYWI2NWU2OTQtYzA0NC00NmNmLTgwMmUtMzAxZGM5OTk4YzQxIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDgyNTIiLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.180.35:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=dw.alibichareh.dpdns.org&fp=random&type=ws&sni=dw.alibichareh.dpdns.org#[🇨🇦]t.me/ConfigsHub
@@ -201,7 +202,6 @@ vless://79e1374d-7f94-4da6-97ad-5ce28a5d393e@188.227.84.54:8443?security=reality
 vless://fa31c2f2-75e2-4d9a-a60a-a445e8f5c445@193.24.120.249:1717?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.151.58:80?encryption=none&host=havvas.shohreh.dpdns.org&path=%2F%3Fed%3D2560&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@220.90.180.182:50000?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw%3D%3D@80.87.202.124:20#[🇷🇺]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.160:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#[🏁]t.me/ConfigsHub
 vless://215d71a9-0047-4600-9240-7c3b86b62313@46.31.76.3:80?mode=auto&path=%2Fpwpw%2F%3FJOKERRVPNBIA_CHANEL%40vpnserverrr&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2FJOKERRVPN&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#[🇹🇷]t.me/ConfigsHub
 vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=%2F&security=none&encryption=none&host=%2FJOKERRVPNBIA_CHANEL@JOKERRVPN&type=ws#[🇳🇱]t.me/ConfigsHub
