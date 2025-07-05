@@ -1,3 +1,4 @@
+trojan://Aimer@222.97.9.166:50004?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?path=%2FTelegram%40TELEGRAM-MTMVPN%20%2F%3Fed&security=&encryption=none&host=cs.laoyoutiao.link&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206RzkzN1JQQU5YOTEzWVM1Tw@183.232.239.172:16007#[🏁]t.me/ConfigsHub
 vless://96c618d0-9c19-4503-8b41-219a7c742fdc@188.245.243.253:3000?security=reality&sni=www.stackoverflow.com&type=grpc&serviceName=/@NoFilterIRN-@NoFilterIRN-@NoFilterIRN&fp=chrome&pbk=xWTkdCVBi9Dl6rk2NMPK5Ba40PjBO57xh09T_TBJb3M&sid=cc1a4c#[🇩🇪]t.me/ConfigsHub
@@ -232,7 +233,6 @@ trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&typ
 vless://92ad31f1-592d-44af-a639-2ca411e2c55c@151.101.130.219:80?security=none&type=ws&host=irank9wgscajaigwio.net&path=%2Ftelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@85.210.145.34:443#[🇬🇧]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.237.162.57:1006?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@172.67.187.28:443?path=%2Fxa846InEcmjyiKVby2Lp&security=tls&alpn=http%2F1.1&host=dddddddddffff.iran2035.dpdns.org&fp=chrome&type=ws&sni=dddDdDdDDFfFf.iran2035.dPdNS.ORG#⚜️Telegram:@IP_CF
 trojan://4732adfa16c6450bbef87264e41332db@104.17.147.22:443?security=tls&type=ws&sni=bangladeshipatri.com&path=6b777a91#[🇨🇦]t.me/ConfigsHub
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.244.142.179:1006?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
