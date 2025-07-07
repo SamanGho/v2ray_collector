@@ -1,3 +1,5 @@
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.89.156.205:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=/%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=chrome&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206YW10YitDbTNEZWZKL3pkTHRhdnlCOTdIWEZEbGkvNmk4clFVa3RSWmRFcz0____%3D@81.168.119.15:1443#[🇬🇧]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.196.25:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇬🇧]t.me/ConfigsHub
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.242:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#[🇷🇺]t.me/ConfigsHub
@@ -237,7 +239,6 @@ vless://46b06e2c-e5e0-4ad2-ad3e-9f316d7d3065@151.101.194.133:443?security=tls&sn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.217.120.180:2222?security=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.149.87:2222?security=none&type=tcp#[🏁]t.me/ConfigsHub
-trojan://Aimer@130.250.137.63:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#⚜️Telegram:@IP_CF
 vless://e5013a1a-de5d-478b-8961-68721f79e285@104.18.26.90:2096?path=%2Fpvjoniws&security=tls&encryption=none&host=638874929583850409.zagreb-prx-dnraaad.info&type=ws&sni=638874929583850409.zagreb-prx-dnraaad.info#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.27.77:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🏁]t.me/ConfigsHub
 trojan://Aimer@213.109.205.45:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#[🏁]t.me/ConfigsHub
@@ -246,5 +247,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 vless://a36c063d-c6a4-4411-b26d-d9bfda41e636@Bt.salar0938.in:2096?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 trojan://Aimer@112.162.68.10:50004?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#[🏁]t.me/ConfigsHub
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.92.147:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&type=ws#[🏁]t.me/ConfigsHub
-vless://10d3b490-fd71-4459-aa50-190966b3d6e8@all1.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443?path=%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=de3radin.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&fp=firefox&type=ws&sni=de3radin.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com#⚜️Telegram:@IP_CF
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpns%65%72v%65%72%72r&security=none&encryption=none=&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#[🏁]t.me/ConfigsHub
