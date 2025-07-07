@@ -1,3 +1,4 @@
+vless://76bf3c4c-57c6-486d-b964-e0a7cf0882ee@104.18.26.94:443?path=%2F&security=tls&encryption=none&host=esetsecuritylicense.kitonap759.workers.dev&type=ws&sni=esetsecuritylicense.kitonap759.workers.dev#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@theo.ns.cloudflare.com:443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epml.ambercc.filegear-sg.me&type=ws&sni=epml.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.17.85.22:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@103.116.7.133:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
@@ -215,7 +216,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#[🏁]t.me/ConfigsHub
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.26.90:443?path=%2F%3Fed%3D%40Selinc%2F%3FN&security=tls&encryption=none&host=havvas.shohreh.dpdns.org&fp=random&type=ws&sni=havvas.shohreh.dpdns.org#[🏁]t.me/ConfigsHub
 vless://5cfba4ac-105a-452a-ac10-88b1adf784ee@accounting.vinamarketcenter.ir:443?security=reality&encryption=none&pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tgju.org&sid=105e89ba3d2a1c3b#[🏁]t.me/ConfigsHub
-vless://3e032a0f-b397-408e-8cc9-f428634612d9@91.99.123.99:26892?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@4.158.124.20:443#[🏁]t.me/ConfigsHub
 vless://06ba668b-f705-4a3b-b956-a6af0664d036@185.133.35.118:80?security=none&type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?encryption=none&security=none&type=ws&host=sib.sibzamini.dpdns.org&path=%2F#[🏁]t.me/ConfigsHub
