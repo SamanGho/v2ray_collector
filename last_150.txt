@@ -1,3 +1,5 @@
+trojan://Aimer@211.217.26.23:20256?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+trojan://5YauIFGqU5@65.109.180.60:444?type=grpc&security=none#[🇫🇮]t.me/ConfigsHub
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.176.154.96:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 vless://0b55ec95-4f77-4c51-89ea-91d96cd149a8@151.101.3.8:80/?mode=auto&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=none&encryption=none&host=joindhhprooxy.com&type=xhttp#[🇨🇦]t.me/ConfigsHub
@@ -244,7 +246,5 @@ vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2F%3Fed%3D%23
 vless://941d092e-8313-452a-ba21-c9995dcba79d@101reel.com:80?path=%2F%3Fed%3D%23%2FTelegram---MTMVPN%3Fed%3D512&security=none&encryption=none&host=havvas.shohreh.dpdns.org&fp=random&type=ws&sni=havvas.shohreh.dpdns.org#[🇺🇸]t.me/ConfigsHub
 vless://941d092e-8313-452a-ba21-c9995dcba79d@104.25.88.36:80?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=&encryption=none&host=havvas.shohreh.dpdns.org&fp=random&type=ws&sni=havvas.shohreh.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://f4a0d694-91ca-4372-a05e-76e6b4faf080@srv7.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub
-vmess://eyJ2IjoiMiIsInBzIjoiNDRcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJhZGQiOiJucG1qcy5jb20iLCJwb3J0IjoiODA4MCIsImlkIjoieHlta2FsbnJtOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ4eW1rYWxucm04LTE2MTk3MTAyMTg5Lm1hc2hhbGxhaGJldC5jb20iLCJwYXRoIjoiXC9uYXNuZXRcL2NkbiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 trojan://telegram-id-directvpn@13.36.44.43:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
-trojan://Aimer@45.80.209.25:81?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 vmess://eyJhZGQiOiI2ZGU0YjlkNC1zdWs5czAtdDhybzd0LTFleTA3LmhrMy5wNXB2LmNvbSIsImFpZCI6MiwiaG9zdCI6IjZkZTRiOWQ0LXN1azlzMC10OHJvN3QtMWV5MDcuaGszLnA1cHYuY29tIiwiaWQiOiIyMDNkMWQ2NC0zMzEzLTExZWQtYmI3NC1mMjNjOTE2NGNhNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIn0=
