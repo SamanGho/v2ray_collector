@@ -1,4 +1,3 @@
-trojan://Aimer@211.217.26.23:20256?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://5YauIFGqU5@65.109.180.60:444?type=grpc&security=none#[🇫🇮]t.me/ConfigsHub
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.176.154.96:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
@@ -248,3 +247,4 @@ vless://941d092e-8313-452a-ba21-c9995dcba79d@104.25.88.36:80?path=%2F%3Fed%3D%23
 vless://f4a0d694-91ca-4372-a05e-76e6b4faf080@srv7.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.36.44.43:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vmess://eyJhZGQiOiI2ZGU0YjlkNC1zdWs5czAtdDhybzd0LTFleTA3LmhrMy5wNXB2LmNvbSIsImFpZCI6MiwiaG9zdCI6IjZkZTRiOWQ0LXN1azlzMC10OHJvN3QtMWV5MDcuaGszLnA1cHYuY29tIiwiaWQiOiIyMDNkMWQ2NC0zMzEzLTExZWQtYmI3NC1mMjNjOTE2NGNhNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIn0=
+vmess://eyJhZGQiOiJkZGRjY2N2ZmYuNDQ0NDkzNi54eXoiLCJhaWQiOjAsImhvc3QiOiJkZGRjY2N2ZmYuNDQ0NDkzNi54eXoiLCJpZCI6ImY4OThmZmNiLTY0MTctNDM3My05NjQwLTBiNjYwOTFlODIwNiIsIm5ldCI6IndzIiwicGF0aCI6IlwvR25KM2JCeFY5MXVGa1l0dXpYeUo1WE5lSDFSMSIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImRkZGNjY3ZmZi40NDQ0OTM2Lnh5eiJ9
