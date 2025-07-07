@@ -1,21 +1,3 @@
-trojan://zcT0TLmgV1kB@expresstv.sabapardaziran.ir:2087?security=tls&sni=expresstv.sabapardaziran.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=expresstv.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#[🇨🇦]t.me/ConfigsHub
-trojan://Aimer@8.20.125.1:443?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
-trojan://Aimer@35.234.3.153:443?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-trojan://Oq0hBoRNpT5u@tasnim.andishehnegariran.ir:2053?security=tls&sni=tasnim.andishehnegariran.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=tasnim.andishehnegariran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#[🇨🇦]t.me/ConfigsHub
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveU5XSmlORFpsT0Mxa09EQm1MVFJpTkRndE9USTNNaTAzTVRJNVpUZzRNelkyWWpJ@gdgs.tarioblink.me:30003#[🏁]t.me/ConfigsHub
-trojan://Aimer@59.1.59.225:50000?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-trojan://FDjoDODcE0yy@tasnim.andishehnegariran.ir:2053?security=tls&sni=tasnim.andishehnegariran.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=tasnim.andishehnegariran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#[🇨🇦]t.me/ConfigsHub
-vless://3ef92f3c-a8c8-45b0-94aa-1148ff56faa5@151.101.66.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.drlimit.net&path=%2F&fp=chrome#[🇨🇦]t.me/ConfigsHub
-trojan://eyVbcI1L8aXY@expresstv.sabapardaziran.ir:2087?security=tls&sni=expresstv.sabapardaziran.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=expresstv.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#[🇨🇦]t.me/ConfigsHub
-trojan://YLZDiPsc9udy@tasnim.andishehnegariran.ir:2053?security=tls&sni=tasnim.andishehnegariran.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=tasnim.andishehnegariran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#[🇨🇦]t.me/ConfigsHub
-trojan://Aimer@220.125.26.232:50000?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
-trojan://MSfeJPO496KK@tasnim.andishehnegariran.ir:2053?security=tls&sni=tasnim.andishehnegariran.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=tasnim.andishehnegariran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#[🇨🇦]t.me/ConfigsHub
-trojan://Aimer@162.159.39.181:443?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
-vless://7dac78b4-2b09-4255-86b8-20f7882bd478@zula.ir:443?encryption=none&security=tls&sni=lmn1751618402990.lmn17797.info&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=lmn1751618402990.lmn17797.info&path=%2FbaORr4#[🇨🇦]t.me/ConfigsHub
-vless://89780139-39db-4ae9-adc5-00d9da4bb8b3@188.114.98.94:8880?path=%2F%3Fed%3D2560&security=&encryption=none&host=server123.amirjacksonpp.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@172.67.151.188:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ex.sue.x10.mx&fp=chrome&type=ws&sni=ex.sue.x10.mx#[🇨🇦]t.me/ConfigsHub
-trojan://Aimer@arvind.ns.cloudflare.com:443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epml.ambercc.filegear-sg.me&type=ws&sni=epml.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
-trojan://trojan@109.234.211.66:8443?path=%2F&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#[🏁]t.me/ConfigsHub
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.114.48:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=pari.parinazz.dpdns.org&fp=random&type=ws&sni=pari.parinazz.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://76bf3c4c-57c6-486d-b964-e0a7cf0882ee@104.18.26.94:443?path=%2F&security=tls&encryption=none&host=esetsecuritylicense.kitonap759.workers.dev&type=ws&sni=esetsecuritylicense.kitonap759.workers.dev#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@theo.ns.cloudflare.com:443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epml.ambercc.filegear-sg.me&type=ws&sni=epml.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +230,21 @@ vless://b27b3087-1e1f-4511-bf68-e1408f8e70b2@151.101.3.8:80?mode=auto&path=%2F%4
 vless://TELEGRAM-NUFiLTER@104.18.26.90:8080?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&security=none&encryption=none&host=kk25.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&type=ws#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.16.1.9:2222?type=tcp#[🏁]t.me/ConfigsHub
 vless://e57aff2b-cf7d-4fdf-adca-2a464e982f9b@107.170.149.15:443?type=tcp&security=none#[🏁]t.me/ConfigsHub
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.480:443#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.195.157.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.157.38:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.118.99.81:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🏁]t.me/ConfigsHub
+vless://cf8c791e-9d0b-4e90-aaf6-41ac62468416@104.21.26.17:443?path=%2FdtBdvnoJO8180gomOew3d&security=tls&alpn=http%2F1.1&encryption=none&host=iiiiiiiiiiiio.459.pp.ua&fp=chrome&type=ws&sni=IiIIIiiIIIiiO.459.pp.uA#[🏁]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.95.113.137:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🏁]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.149.244.32:2222?security=none&type=tcp#[🏁]t.me/ConfigsHub
+ss://bm9uZTphYWNjYmFiLWFhY2ItYmFjYS1hZGJjLWFjYmNiYmNhYmFhYw==@127.0.0.1:1080#[🏁]t.me/ConfigsHub
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.221.61.174:2222?security=none&type=tcp#[🏁]t.me/ConfigsHub
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&spx=/@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&sid=#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNS4yMDQuMTEuMTkwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVkN2JmOWUzLTQxNWMtNDBmMy1jNjZkLWE1NGVhMGZkODYwZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTUzNjEiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.3050:443#[🏁]t.me/ConfigsHub
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@108.165.216.177:8880/?type=ws&encryption=none&flow=&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495/?type=tcp&encryption=none&flow=&sni=dl.google.com&fp=chrome&security=reality&spx=/@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG—Join-@FREEV2RNG&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.229.229.102:443#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiI0Ny45Mi4xNTIuMTY5IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDAyIiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.219.5.118:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🏁]t.me/ConfigsHub
