@@ -1,3 +1,4 @@
+trojan://zcT0TLmgV1kB@expresstv.sabapardaziran.ir:2087?security=tls&sni=expresstv.sabapardaziran.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=httpupgrade&host=expresstv.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@8.20.125.1:443?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@35.234.3.153:443?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://Oq0hBoRNpT5u@tasnim.andishehnegariran.ir:2053?security=tls&sni=tasnim.andishehnegariran.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=tasnim.andishehnegariran.ir&path=%2F%F0%9F%86%94%40M3HDIO1#[🇨🇦]t.me/ConfigsHub
@@ -225,7 +226,6 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.76.56:4433?security=reality&
 vless://08f7c98e-506c-4aca-a3ab-6fc99d015555@51.79.24.169:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.146.178.10:2222?security=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.116.12.121:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🏁]t.me/ConfigsHub
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#[🏁]t.me/ConfigsHub
 vless://627712cf-d0e1-4545-81fb-241e7fda0284@141.253.124.138:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=b2-9fr2329-6bh.xn--4gq62f52gppi29k.com#[🏁]t.me/ConfigsHub
 vless://012bcb20-421c-434c-8fd0-2c4d564a103e@www.speedtest.net:2096?encryption=none&security=tls&sni=638872445251926601.kish-prx-dnraaaf.info&type=ws&alpn=h3h2&host=638872445251926601.kish-prx-dnraaaf.info&path=/cazskiws#[🏁]t.me/ConfigsHub
 vless://c1139239-dc60-46cd-a2ff-d7a14887b7c5@31.41.35.223:1616?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
