@@ -1,3 +1,4 @@
+trojan://Aimer@45.66.216.162:50000?allowInsecure=0&sni=ngepz.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.212.188.124:443#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.168.25.210:443#[🏁]t.me/ConfigsHub
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
@@ -217,7 +218,6 @@ trojan://VPSHU00R7U@free.starproxivpn.online:52607?security=tls&headerType=none&
 trojan://telegram-id-privatevpns@35.181.219.35:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.93.253.171:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.243.187.181:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.132.196:8443?path=%2FTelegram%40V2ray_Alpha%3D%3Fed%3D2560&security=tls&encryption=none&host=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz&type=ws&sni=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz#[🇨🇦]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.246.25.233:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.145.211.232:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.211.151.80:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
