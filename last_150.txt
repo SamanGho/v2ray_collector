@@ -1,3 +1,4 @@
+vless://941d092e-8313-452a-ba21-c9995dcba79d@104.18.151.58:80?encryption=none&host=havvas.shohreh.dpdns.org&path=%2F%3Fed%3D2560&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@220.90.180.182:50000?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.160:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#[🏁]t.me/ConfigsHub
 vless://215d71a9-0047-4600-9240-7c3b86b62313@46.31.76.3:80?mode=auto&path=%2Fpwpw%2F%3FJOKERRVPNBIA_CHANEL%40vpnserverrr&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2FJOKERRVPN&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#[🇹🇷]t.me/ConfigsHub
@@ -224,7 +225,6 @@ vless://190a3f7c-bf9f-456c-a950-a11cd8ee55b2@xpanel.panelfreedom.com:2090?securi
 vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjYxMCIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 trojan://Aimer@188.164.159.25:2053?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://wb6368@154.211.8.152:2053?allowInsecure=1&sni=hsdgbuys.pages.dev#[🏁]t.me/ConfigsHub
-vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@srv7.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.141.6.232:2222?security=none&type=tcp#[🏁]t.me/ConfigsHub
 trojan://Aimer@218.156.228.198:20202?allowInsecure=0&sni=ngepz.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://Aimer@5.182.84.52:2083?allowInsecure=1&sni=ngepy.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
