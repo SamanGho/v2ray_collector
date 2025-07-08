@@ -1,3 +1,5 @@
+vless://36694a88-1fad-40f5-d449-519b3b6113d5@185.253.7.131:20738?security=&encryption=none&headerType=&type=tcp#[🏁]t.me/ConfigsHub
+vless://5bf60814-fd27-42d1-a4fa-eab7226bd067@162.159.44.157:443?security=tls&sni=lf74ll.mafiaira.store&type=ws&host=lf74ll.mafiaira.store&path=/wss&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
 trojan://f6f037b8-d6f5-4892-9bb5-0f915cac5b3b@107.149.254.26:158?#[🏁]t.me/ConfigsHub
 vless://6bdc18b7-a33f-46ae-a5e3-df7cb21f36b2@91.99.184.231:45103?mode=gun&security=&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 vless://bf2434c2-2200-4c3e-a5dc-6f9aadd4fcd4@91.107.132.67:443?security=tls&sni=dd4.trackid.ir&type=ws&path=%2F&fp=chrome#[🇩🇪]t.me/ConfigsHub
@@ -244,7 +246,5 @@ trojan://telegram-id-privatevpns@35.181.219.35:22222?security=tls&sni=trojan.bur
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.93.253.171:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.243.187.181:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.197.173.247:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
-trojan://telegram-id-directvpn@18.197.173.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.132.196:8443?path=%2FTelegram%40V2ray_Alpha%3D%3Fed%3D2560&security=tls&encryption=none&host=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz&type=ws&sni=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz#[🇨🇦]t.me/ConfigsHub
