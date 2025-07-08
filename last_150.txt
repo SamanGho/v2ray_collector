@@ -1,3 +1,4 @@
+trojan://5e9b182a-9262-3244-8381-5aa946697b8d@gy.58n.net:20076?sni=x76.flybar.work#[🏁]t.me/ConfigsHub
 trojan://Aimer@172.66.207.17:2083?sni=ngepz.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 vless://575e55f1-d619-4c65-85fe-e2b757b6477b@151.101.0.155:80?security=none&type=ws&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.#[🇨🇦]t.me/ConfigsHub
 vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
@@ -235,7 +236,6 @@ vless://09c6831b-5c68-428b-ddc5-ca0424a398b9@151.101.66.219:443?security=tls&sni
 trojan://telegram-id-privatevpns@52.57.71.35:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.236.107.145:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.38.221.138:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
-vless://c92bcb56-2660-4cf9-bf03-d1b41a8e8ba8@www.speedtest.net:8880?path=%2F%3Fed%3D8880&security=none&encryption=none&host=arm1.dollardoon.com&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://67f788f8-c2ca-4fe9-ad36-d6927d84ad06@91.99.127.68:666?encryption=none&security=none&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 vless://c443e676-d800-4150-ad48-39ceb095331f@8f.startrich.site:8441?security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://f1b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2FTelegram---%40FREEV2RNG---Telegram---%40FREEV2RNG---Telegram---%40FREEV2RNG---Telegram---%40FREEV2RNG%3Fed%3D2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
