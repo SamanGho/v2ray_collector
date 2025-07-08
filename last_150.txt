@@ -1,3 +1,5 @@
+vless://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:80?security=none&type=ws&host=zaq11000d.b835a8094d.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:9090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=t.me/entryNET&sni=refersion.com&sid=e17185329455b179#[🇩🇪]t.me/ConfigsHub
 vless://36694a88-1fad-40f5-d449-519b3b6113d5@185.253.7.131:20738?security=&encryption=none&headerType=&type=tcp#[🏁]t.me/ConfigsHub
 vless://5bf60814-fd27-42d1-a4fa-eab7226bd067@162.159.44.157:443?security=tls&sni=lf74ll.mafiaira.store&type=ws&host=lf74ll.mafiaira.store&path=/wss&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
 trojan://f6f037b8-d6f5-4892-9bb5-0f915cac5b3b@107.149.254.26:158?#[🏁]t.me/ConfigsHub
@@ -227,9 +229,7 @@ vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@104.18.32.151:443?path=%2F%3Fed%3D2
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.67.32.101:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.varzesh.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.varzesh.dpdns.org#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.78.2.44:443#[🏁]t.me/ConfigsHub
 vless://d2961a22-e833-4834-bac2-73e69a8b7830@dgrns1.vertalist.ir:7005?security=reality&encryption=none&pbk=BEgwKAxJOC_U3JNvu1psNSkcbSUL9p8g5nMEOtHY4Sc&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=c3537867431956f6#[🇩🇪]t.me/ConfigsHub
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.21.113.154:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
-vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=iranconfig3.tr&type=xhttp#%40NUFiLTER%20%F0%9F%87%B1%F0%9F%87%BA%282%29
 vless://4f128f11-c274-4b23-b4f4-4f0754bf9249@irc.testvp2.sbs:443?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://8b66a6f7-5cd1-4e87-9158-2443b7f26e2c@104.16.198.192:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=2R.x6MJcPuGOU.zulaIr.oRG.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f9@188.114.97.1:443?path=/hdGrwMixBIpEea8I/MTguMTcwLjc3LjE0OA==?ed%3D2560&security=tls&alpn=http/1.1&encryption=none&host=myphotomoments.ir&fp=randomized&type=ws&sni=MypHOtomoments.iR#[🇨🇦]t.me/ConfigsHub
