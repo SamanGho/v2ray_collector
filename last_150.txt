@@ -1,3 +1,5 @@
+trojan://Aimer@172.66.207.17:2083?sni=ngepz.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
+vless://575e55f1-d619-4c65-85fe-e2b757b6477b@151.101.0.155:80?security=none&type=ws&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.#[🇨🇦]t.me/ConfigsHub
 vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://OmqcThZWp1@91.107.163.173:27596?type=tcp&security=none#[🇩🇪]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.146.17:3229?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
@@ -241,8 +243,6 @@ ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.210:443#[🇨🇦]t.me/Configs
 vless://f46c96e3-6d0d-4099-e2dd-60008bc2ced6@91.99.150.28:443/?security=reality&encryption=none&pbk=TTjrKjLxbiUnRW0lTAsCQBVd4x-frmieZk-6GPRzXT8&host=%2F%3FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&sni=eset.com#[🇩🇪]t.me/ConfigsHub
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?encryption=none&security=none&type=ws&host=dw.alibichareh.dpdns.org&path=%2F%3Fed%3D%23%2FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#[🇨🇦]t.me/ConfigsHub
 vless://3d554bba-9c77-499f-9055-1eb42058ed00@99823232.webnama.com.tr:1517?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#[🇬🇧]t.me/ConfigsHub
-trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=trojan.workers.dev&path=/trojan#⚜️Telegram:@IP_CF
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2FTelegram---%40FREEV2RNG---Telegram---%40FREEV2RNG---Telegram---%40FREEV2RNG---Telegram---%40FREEV2RNG%3Fed%3D2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-v2rayvpnchannel@44.194.46.61:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@131.145.34.231:443#[🇬🇧]t.me/ConfigsHub
