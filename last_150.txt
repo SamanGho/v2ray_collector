@@ -1,3 +1,4 @@
+vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:9090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=t.me/entryNET&sni=refersion.com&sid=e17185329455b179#[🇩🇪]t.me/ConfigsHub
 vless://36694a88-1fad-40f5-d449-519b3b6113d5@185.253.7.131:20738?security=&encryption=none&headerType=&type=tcp#[🏁]t.me/ConfigsHub
 vless://5bf60814-fd27-42d1-a4fa-eab7226bd067@162.159.44.157:443?security=tls&sni=lf74ll.mafiaira.store&type=ws&host=lf74ll.mafiaira.store&path=/wss&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
 trojan://f6f037b8-d6f5-4892-9bb5-0f915cac5b3b@107.149.254.26:158?#[🏁]t.me/ConfigsHub
@@ -246,5 +247,4 @@ trojan://telegram-id-privatevpns@35.181.219.35:22222?security=tls&sni=trojan.bur
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.93.253.171:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.243.187.181:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://f051c346-59d1-4cd9-9c8a-3603e535d65c@193.162.129.71:2080?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.132.196:8443?path=%2FTelegram%40V2ray_Alpha%3D%3Fed%3D2560&security=tls&encryption=none&host=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz&type=ws&sni=UuHuHyygESDFGh.uyHjhGVGfcJGUJHbUilbvfdxdXM.xYz#[🇨🇦]t.me/ConfigsHub
