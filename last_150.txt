@@ -1,3 +1,4 @@
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.149.87:2222?security=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://e5013a1a-de5d-478b-8961-68721f79e285@104.18.26.90:2096?path=%2Fpvjoniws&security=tls&encryption=none&host=638874929583850409.zagreb-prx-dnraaad.info&type=ws&sni=638874929583850409.zagreb-prx-dnraaad.info#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.27.77:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🏁]t.me/ConfigsHub
 trojan://Aimer@213.109.205.45:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#[🏁]t.me/ConfigsHub
@@ -229,7 +230,6 @@ ss://bm9uZTphYWNjYWJiLWJjYWEtY2FhYi1hYmNkLWFjY2NiYWJjYWJiYQ==@127.0.0.1:2080#[�
 trojan://Aimer@172.67.65.113:2083?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.135.64.147:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-vless://8f36d89f-2aa7-4616-b43a-088db3945dc0@104.18.26.90:2096?path=%2Fddfkmmws&security=tls&encryption=none&host=638874931195901893.kish-prx-dnraaaf.info&type=ws&sni=638874931195901893.kish-prx-dnraaaf.info#[🇨🇦]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@98.84.33.21:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.119:443?security=tls&sni=147135010103.sec19org.com&type=tcp&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.186.177.54:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
