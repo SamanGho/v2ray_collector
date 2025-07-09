@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWY=@61.130.144.150:2333#[🏁]t.me/ConfigsHub
+trojan://Aimer@167.68.4.223:2096?sni=ngepy.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://26f80b9a-3133-4b6f-d685-425800026430@host1.nikasons.ir:443?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://Aimer@104.19.60.99:2087?sni=ngepx.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206TzZJS1FJUDZMQUowQzBTMA==@156.245.190.23:15014#[🏁]t.me/ConfigsHub
@@ -166,7 +168,6 @@ vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2FTelegram---
 trojan://telegram-id-v2rayvpnchannel@44.194.46.61:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
 vless://c443e676-d800-4150-ad48-39ceb095331f@9f.startrich.site:8441?security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://turboo-server@151.101.3.8:80?encryption=none&security=none&type=tcp&headerType=none#[🇨🇦]t.me/ConfigsHub
-vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 trojan://Aimer@91.217.139.222:587?allowInsecure=0&sni=ngepz.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.23.111.83:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 ss://bm9uZTphY2FiYmNhLWJjYWEtYmFhYy1iZGNhLWNhYWNiYmFjY2JhYg==@127.0.0.1:1080#[🏁]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://dbafa937-f8d3-4585-a266-71a324afd449@31.47.45.97:18811?security=none&enc
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.67.32.101:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.varzesh.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://fedd6574-adfb-40fd-a8d5-b861ddcedf9c@172.64.35.157:443?security=tls&sni=cdw6yz.shieldify.site&type=ws&host=cdw6yz.shieldify.site&path=/wss&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
 vless://d98bfdd5-5824-458f-889f-1b318fe8a945@31.47.45.96:29968?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://011037be-bead-472b-8201-4cdbdab8f2fa@93.113.238.32:225?security=none&encryption=none&host=tci.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
