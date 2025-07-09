@@ -1,3 +1,6 @@
+trojan://Aimer@104.19.60.99:2087?sni=ngepx.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206TzZJS1FJUDZMQUowQzBTMA==@156.245.190.23:15014#[🏁]t.me/ConfigsHub
+trojan://Aimer@219.76.13.180:443?sni=ngepz.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.95:5498#[🇺🇸]t.me/ConfigsHub
 trojan://65abdb1c-1cdf-4630-a32b-8ae566b48c00@uk.fastsoonlink.com:40007?sni=uknode.soon.guru#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.18.30:443#[🇧🇭]t.me/ConfigsHub
@@ -241,10 +244,7 @@ vless://cc6b985d-0362-4129-8763-38564174fb3e@108.165.152.49:443?security=tls&sni
 vless://%65b%61b8%65%65d-707%65-4f0b-91%65d-%6583259d7167d@162.159.129.200:80?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&host=www.spEedtest.net.jariCopEn.fuN.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://d8337e0c-e456-4b8c-b7a6-7f9c8cef7e7f@142.132.227.65:33036?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://dbafa937-f8d3-4585-a266-71a324afd449@31.47.45.97:18811?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#⚜️Telegram:@IP_CF
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGt0LmdvdG9jaGluYXRvd24ubmV0IiwicG9ydCI6IjgwIiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiMzg0ZDFiNDItNjU1Zi0xMWVkLWE4YmYtZjIzYzkxY2ZiYmM5Iiwic25pIjoiIiwiaG9zdCI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwicGF0aCI6IlwvIn0=
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.67.32.101:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.varzesh.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://fedd6574-adfb-40fd-a8d5-b861ddcedf9c@172.64.35.157:443?security=tls&sni=cdw6yz.shieldify.site&type=ws&host=cdw6yz.shieldify.site&path=/wss&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
 vless://d98bfdd5-5824-458f-889f-1b318fe8a945@31.47.45.96:29968?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://%65b%61b8%65%65d-707%65-4f0b-91%65d-%6583259d7167d@162.159.129.200:80?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&host=www.spEedtest.net.jariCopEn.fuN.&type=httpupgrade#⚜️Telegram:@IP_CF
 vless://011037be-bead-472b-8201-4cdbdab8f2fa@93.113.238.32:225?security=none&encryption=none&host=tci.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
