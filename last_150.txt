@@ -1,3 +1,4 @@
+vless://1b4a62eb-6729-4fe1-841f-ecdc7b01510f@135.181.201.193:21791?security=none&encryption=none&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
 vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.97.3:443?path=%2FB7tnDeiaEFHTS0Li&security=tls&encryption=none&host=oRdEr.fortGIFT.ir&fp=randomized&type=ws&sni=oRdEr.fortGIFT.ir#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.169.214.126:443#[🏁]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogInM0LmNuLWRiLnRvcCIsICJwb3J0IjogIjIwNTIiLCAidHlwZSI6ICJhdXRvIiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiMTAwLTEwNi02MC03NC5zNC5jbi1kYi50b3AiLCAidGxzIjogIiJ9
@@ -240,7 +241,6 @@ vless://fbd08096-7cca-4f76-b998-241ec208928c@151.101.129.57:80?security=none&typ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmQ2YzI4OS05Yjg5LTRhY2QtYjc5Yi1kYjUyNWI0MDc3MzQ@ch-01.cloxynode.com:35515#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.241.4.131:443#[🇧🇭]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.137.173.191:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.73:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://908b159e-0fee-4e39-afe3-52d62e4b424e@151.101.8.207:80?encryption=none&security=none&type=xhttp&host=BaRaYEh-AZadiIi.GloBaL.SsL.fAsTly.neT&path=DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS%3Fed%3D2048&mode=packet-up#[🇧🇪]t.me/ConfigsHub
 vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@99823232.webnama.com.tr:1517?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#[🇩🇪]t.me/ConfigsHub
 vless://908b159e-0fee-4e39-afe3-52d62e4b424e@151.101.67.17:80?encryption=none&security=none&type=xhttp&host=BaRaYEh-AZadiIi.GloBaL.SsL.fAsTly.neT&path=DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS%3Fed%3D2048&mode=packet-up#[🇨🇦]t.me/ConfigsHub
