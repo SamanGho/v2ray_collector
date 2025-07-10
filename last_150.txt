@@ -1,3 +1,4 @@
+vless://4f128f11-c274-4b23-b4f4-4f0754bf9249@irc.testvp2.sbs:443?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://8b66a6f7-5cd1-4e87-9158-2443b7f26e2c@104.16.198.192:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=2R.x6MJcPuGOU.zulaIr.oRG.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f9@188.114.97.1:443?path=/hdGrwMixBIpEea8I/MTguMTcwLjc3LjE0OA==?ed%3D2560&security=tls&alpn=http/1.1&encryption=none&host=myphotomoments.ir&fp=randomized&type=ws&sni=MypHOtomoments.iR#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.36.216.49:22222?sni=trojan.burgerip.co.uk&allowInsecure=0#[🇫🇷]t.me/ConfigsHub
@@ -206,7 +207,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.242:80?path=Telegram%F0
 trojan://100b5163-fbb8-425d-9621-44d119555aa4@104.21.75.120:2053?path=%2FtrWCuRIwSn9S6fDZGE%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&security=tls&alpn=http%2F1.1&host=mahsa2.cfform.site&fp=randomized&type=ws&sni=MaHSA2.cffoRm.SitE#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.38:80?path=Telegram%F0%9F%87%AE%F0%9F%87%B7Channel%20id%3A%20%40proxy_daemi66%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#[🇺🇸]t.me/ConfigsHub
 vless://1523920e-b41f-42d9-970e-6f672b56f025@mtn.venzo.com.tr:80?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=&encryption=none&host=www.spEedtest.net.jariCopEn.fuN.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://1523920e-b41f-42d9-970e-6f672b56f025@104.18.26.90:80?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=&encryption=none&host=www.spEedtest.net.jariCopEn.fuN.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.16.178.96:80?sni=sweet-glade-2430-ppal03.xasev15708.workers.dev&type=ws&path=%2FProxyIP#[🇨🇦]t.me/ConfigsHub
