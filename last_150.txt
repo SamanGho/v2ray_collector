@@ -1,3 +1,4 @@
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@18.215.171.121:1212?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#[🇺🇸]t.me/ConfigsHub
 vless://627a4fee-ae9b-8ef9-6e66-a4e128dd2331@104.17.147.22:80?security=none&type=httpupgrade&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaa.xn--g28h.bestgameir2.ir.&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@98.84.52.216:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.188.6.37:443#[🇺🇸]t.me/ConfigsHub
@@ -242,7 +243,6 @@ vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=%2FZ
 trojan://3763495894587285504@settling-terrier.goat627.mom:443?allowInsecure=1&sni=settling-terrier.goat627.mom#[🇩🇪]t.me/ConfigsHub
 vless://483a572d-38a8-4b59-942f-76b0e94e9073@170.114.46.6:80?security=none&type=ws&host=free.darkshadoww.shop&path=%2F#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.113.15:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D%40vpnserverrr_vpnserverrr_vpnserverrr&security=tls&encryption=none=ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann&host=simorgh.hpcode.ir&fp=firefox&type=ws&sni=simorgh.hpcode.ir#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.149.196.130:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2FTelegram%40FarshidHUB2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://0a5da5de-f685-4add-9f76-afce594a3c05@142.132.227.65:8080?type=tcp&security=none#[🇩🇪]t.me/ConfigsHub
