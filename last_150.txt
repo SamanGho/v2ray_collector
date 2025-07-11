@@ -1,3 +1,4 @@
+vless://ccbaaba-baca-baca-cbad-cabbccbaaabc@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.222.189.155:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.152.122.188:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.34.152.209:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
@@ -231,7 +232,6 @@ trojan://3763495894587285504@settling-terrier.goat627.mom:443?allowInsecure=1&sn
 vless://483a572d-38a8-4b59-942f-76b0e94e9073@170.114.46.6:80?security=none&type=ws&host=free.darkshadoww.shop&path=%2F#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.113.15:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.149.196.130:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2FTelegram%40FarshidHUB2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://0a5da5de-f685-4add-9f76-afce594a3c05@142.132.227.65:8080?type=tcp&security=none#[🇩🇪]t.me/ConfigsHub
 trojan://3763495894587285504@52.194.247.45:443?allowInsecure=1&sni=adapting-macaw.goat627.mom#[🏁]t.me/ConfigsHub
 vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?mode=auto&path=%2F&security=none&encryption=none=ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann&host=V2rayNGFreee.global.ssl.fastly.net&type=xhttp#[🇨🇦]t.me/ConfigsHub
