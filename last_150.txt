@@ -1,3 +1,4 @@
+vless://4c1c31aa-7925-407a-b1f2-e2c412b9111a@104.16.1.106:2082?path=%2F%3Fed%3D2052&security=none&encryption=none&host=mrdnzdtnbkwbdfsqoncu.yaSharTeam.com.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.137.140.216:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.222.14.205:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
 vless://c8151eb6-706c-471d-b22c-aa88b3c64582@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=iranconfig3.tr&type=xhttp#[🇨🇦]t.me/ConfigsHub
@@ -231,7 +232,6 @@ vless://5879d109-8c92-448a-801b-3f3989019934@104.18.26.90:443?path=%2FTelegram-X
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.217.72.81:443#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.209.23:80?encryption=none&security=none&type=ws&host=redfree8.pooriashop.ir&path=Telegram@WangCai2%2F%3Fed#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.191.22.179:4433?security=reality&sni=stackoverflow.com&type=raw&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@3.34.143.101:6668?allowInsecure=1&sni=baidu.com#⚜️Telegram:@IP_CF
 vless://cc6b985d-0362-4129-8763-38564174fb3e@5.10.246.80:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&alpn=http/1.1,h2#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.190.72.36:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.145.44.219:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
