@@ -1,3 +1,5 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
+vless://e96adc51-70f2-451d-83c5-77094b9d680f@canine.origamimarketings.com:9999?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=42c0b628ba6a42a9&path=%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292%2F%40proNG1%2F%40parham92929292#[🏁]t.me/ConfigsHub
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@162.159.44.78:2096?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=/?ed#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.242:80?path=Telegram%F0%9F%87%AE%F0%9F%87%B7Channel%20id%3A%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇷🇺]t.me/ConfigsHub
 trojan://100b5163-fbb8-425d-9621-44d119555aa4@104.21.75.120:2053?path=%2FtrWCuRIwSn9S6fDZGE%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&security=tls&alpn=http%2F1.1&host=mahsa2.cfform.site&fp=randomized&type=ws&sni=MaHSA2.cffoRm.SitE#[🇨🇦]t.me/ConfigsHub
@@ -240,11 +242,9 @@ vless://5d7edf75-ec86-4ff0-9b63-5f30b88f1be5@s2.aparat-movies-download.ir:4450?s
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://fabeaf8f-decc-403a-a3a7-b6efd8700373@104.27.127.237:80?path=%2Ftelegram-v2ray_configs_pools%2%3Fed%3D80&security=none&encryption=none&host=kknwe.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://65f1d033-cf8f-42a8-9600-ad363c47e3ff@104.21.43.168:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=s1.sUbUrl.OrG&fp=chrome&type=ws&sni=s1.sUbUrl.OrG#[🇨🇦]t.me/ConfigsHub
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.19.144.212:443?path=%2FTel-%40V2ray_Alpha&security=tls&encryption=none&host=111-aw3.pages.dev&type=ws&sni=111-aw3.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.95:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#[🏁]t.me/ConfigsHub
 vless://75a7bd5d-f7ba-4fe0-9edf-ec603bcda36c@193.242.208.73:2093/?type=tcp&path=%2F&host=Fast.com&headerType=http&security=none#[🇮🇷]t.me/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D%40v2ray_configs_pools&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=firefox&type=ws&sni=simorgh.hpcode.ir#[🏁]t.me/ConfigsHub
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.122.80:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&type=ws&sni=kawaiifreevpn.pages.dev#[🇨🇦]t.me/ConfigsHub
