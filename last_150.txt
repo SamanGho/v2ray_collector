@@ -1,13 +1,3 @@
-vless://6a60fedd-735d-48ae-9a3f-514005ef0852@162.159.44.250:443?security=tls&sni=qzsqf6.alligator27.com&type=ws&host=qzsqf6.alligator27.com&path=/wss&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org&fp=chrome&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://Parsashonam-281@45.131.211.175:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=none&encryption=none&host=FragmentFi.Rubika.cYoU.&type=ws#[🏁]t.me/ConfigsHub
-trojan://Aimer@209.208.227.79:443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.167.78.166:2222?type=tcp#[🇺🇸]t.me/ConfigsHub
-vless://ce43596d-c8f0-4600-b909-4390881ab5e7@193.238.153.91:35755?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.145.53.142:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
-vless://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
-vmess://eyJhZGQiOiJncjEubnNwYXkudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5MzFhMjA1LTNmNWItNDZkNy05ODg5LTg0NmY0YjI4N2RkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzU2MDAiLCJwcyI6Ilvwn4eu8J+Ht110Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://bm9uZTpjY2FiYmFhLWFhYmMtYmNhYS1hYmNkLWJjY2NjYWFiYWJiYQ==@127.0.0.1:8080#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.113.15:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.186.15.180:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMN2Q3WktOVFVEellOcGdIVGdKZlJO@23.177.185.63:49454#[🇺🇸]t.me/ConfigsHub
@@ -248,3 +238,13 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.229.31.128:443?security=reality&
 vless://52395e5e-40db-4c24-c32e-57954697f906@218.33.84.142:26518?encryption=none&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
 vless://d9c40a42-1942-465a-b76d-cad1c0ccfb10@62.212.70.94:2026?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=Q1a6ooyct6J0bZRpJD02S6PLMOl0HaLWT2ECyMAwQgw&sid=e9&spx=%2F-%40v2ray_configs_pools---%40v2ray_configs_pools---%40v2ray_configs_pools---%40v2ray_configs_pools_420&type=tcp&headerType=none#[🇳🇱]t.me/ConfigsHub
 trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=brmahasang.ahaysiahzangi.dpdns.org&fp=random&type=ws&sni=brmahasang.ahaysiahzangi.dpdns.org#[🇨🇦]t.me/ConfigsHub
+vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed%3D2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=randomized&type=ws&sni=NExtfilmtOmovies.sitE#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFiYmNjYWEtYmFhYy1iYWNhLWJhZGMtY2FiY2JhYmJjYWNhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDIwODAsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.24.158.0:2052?encryption=none&security=none&type=ws&host=register.tunnelbreaking.shop&path=%2F#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMGxneHk0bWI1MkNJSjhVVWNFZ3Rz@51.13.182.231:3089#[🏁]t.me/ConfigsHub
+vless://d4af3edf-0a58-492e-b6c8-b3f3238df7c1@51.222.158.243:8443?path=%2Fvless%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=ov-canada3.09vpn.com#[🇨🇦]t.me/ConfigsHub
+vless://TokaVPN--TokaVPN@88.198.200.124:3050?mode=gun&security=reality&encryption=none&pbk=acQCk6WdIC33WE2wIoljrxmzkBoPKIsUUlk1lKbtIEY&fp=chrome&type=grpc&serviceName=23145vless&sni=journalofbigdata.springeropen.com&sid=cd75474e165417fb#[🇩🇪]t.me/ConfigsHub
+vless://d7d7c268-9fc0-4cd6-ae9a-41cf1f30874d@188.245.238.12:443?sni=www.cdn77.com&type=grpc&serviceName=/%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM&fp=chrome&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU#[🇩🇪]t.me/ConfigsHub
+vless://d4af3edf-0a58-492e-b6c8-b3f3238df7c1@51.222.158.243:8443?security=tls&encryption=none&type=ws&path=/vless/&sni=ov-canada3.09vpn.com&fp=chrome#[🇨🇦]t.me/ConfigsHub
+vless://365a8515-0ae3-49f2-96ea-354a76408fc0@mn.co:8080?path=%2Fv2ray_configs_pools&security=none&encryption=none&host=shad.ir.bot.digicyber.click&type=ws#[🇨🇦]t.me/ConfigsHub
