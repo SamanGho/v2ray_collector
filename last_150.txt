@@ -1,3 +1,4 @@
+ss://bm9uZTpjY2FiYmFhLWFhYmMtYmNhYS1hYmNkLWJjY2NjYWFiYWJiYQ==@127.0.0.1:8080#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.113.15:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.186.15.180:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMN2Q3WktOVFVEellOcGdIVGdKZlJO@23.177.185.63:49454#[🇺🇸]t.me/ConfigsHub
@@ -53,7 +54,6 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.143.210.29:2222?security=none&typ
 vless://76bfe82a-746e-4e40-9587-c1876be0a79b@108.162.195.157:443?security=tls&sni=su5naz.alligator27.work&type=ws&host=su5naz.alligator27.work&path=%2Fwss&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.106:443?security=tls&sni=147135001195.sec22org.com&type=tcp#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@3.10.220.71:443#[🇬🇧]t.me/ConfigsHub
-ss://bm9uZTpjY2JhYWFiLWJhYWMtYWFjYi1iZGFjLWFjYmJiY2FhY2NiYQ==@127.0.0.1:1080#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.88.213.231:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFhYmNhY2ItYmNhYS1iY2FhLWFiY2QtY2FjY2NiYmFhYmFiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:31066#[🏁]t.me/ConfigsHub
