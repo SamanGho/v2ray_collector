@@ -1,3 +1,4 @@
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.189.13.124:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.72.248.254:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.43.21.59:443#[🇬🇧]t.me/ConfigsHub
 trojan://3763495894587285504@35.180.240.183:443?allowInsecure=0&sni=honest-cow.goat627.mom#[🇫🇷]t.me/ConfigsHub
@@ -243,7 +244,6 @@ vless://8f27aceb-13ce-4bbe-9847-35049fbb46f4@panel1.zapserver.top:54002?type=tcp
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40Prime_Verse%3Fed&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#[🇨🇦]t.me/ConfigsHub
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsCiAgImFkZCI6ICI2Ni4xNTEuNDAuMTcwIiwKICAicG9ydCI6IDI2MDE4LAogICJpZCI6ICI4ZjVlNGZmNi0zMzJiLTQ4OTctZDQxNS03ODBlOGU0OTBhNzUiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9
 trojan://telegram-id-privatevpns@18.192.94.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vless://4c107845-21a5-44dd-9e82-794c36724b2b@151.101.3.8:80?mode=auto&path=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec%3Fed%3D2560&security=none&encryption=none&host=JoinMdVpnSec.com&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.27.67.133:80?path=%40vpnserverrr&security=&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxNzUwMTU4NzQxLnRlbmNlbnRhcHAuY24iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUxLmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIiwiaWQiOiIyMTFiNzk3Zi0xYjU4LTRkYWQtYWI4Ny01MTA1MWUxNGVlYjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImZyZWUxLmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 trojan://telegram-id-directvpn@18.192.94.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
