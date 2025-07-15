@@ -1,3 +1,4 @@
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.94.111.121:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.211.73.185:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.188.135.184:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.86.239.114:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
@@ -204,7 +205,6 @@ trojan://telegram-id-directvpn@18.156.154.170:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@13.61.130.234:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 vless://telegram-id-Arfilter@www.speedtest.net:80?path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter%3Fed%3D80&security=none&encryption=none&host=www.speedtest.net.a.4.speedtest2029.com.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@pranab.ns.cloudflare.com:443?allowInsecure=0&sni=acepo.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
-vless://878879e6-4f80-4e85-a415-85533b536d13@v16.vxlimir.com:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#[🇬🇧]t.me/ConfigsHub
 vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIwMTciLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#[🇺🇸]t.me/ConfigsHub
 vless://Free_HTTPCustom@free-httpcustomafree-httpcustom-free-httpcustom-free-httpcustom.vip-f.top:80?mode=stream-up&path=%2FFree_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom-Free_HTTPCustom&security=none&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27xPaddingBytes%27%3A%20%27100-1000%27%2C%20%27noGRPCHeader%27%3A%20False%7D&host=cdn.ir&type=xhttp#[🇩🇪]t.me/ConfigsHub
