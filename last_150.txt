@@ -1,3 +1,4 @@
+vless://1FuseVPN----------ProxyPJ@pj.bestirstorei.top:62000?mode=gun&security=reality&encryption=none&authority=%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40FuseVPN------%40FuseVPN------%40FuseVPN------%40FuseVPN------%40FuseVPN------%40FuseVPN------%40FuseVPN------%40FuseVPN------%40FuseVPN------%40FuseVPN&pbk=BiugAGWpcH4kTwIsUDeRh83FPxapxYfLuh4Gpi1Qb3s&fp=chrome&spx=%2F&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=116440bf#[🇩🇪]t.me/ConfigsHub
 vless://cc6b985d-0362-4129-8763-38564174fb3e@92.53.188.102:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#[🇨🇦]t.me/ConfigsHub
 vless://d9fb2834-f864-4ab9-b59a-6a4773ea6a86@10.3.52.144:40688?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://cc6b985d-0362-4129-8763-38564174fb3e@45.153.7.216:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#[🇺🇸]t.me/ConfigsHub
@@ -153,7 +154,6 @@ vless://e02a83a6-16c9-4eaf-d40e-1387028d93a0@Evay.fast.hosting-ip.com:80?mode=au
 vless://74a0ff64-038d-4e18-86e2-3684996bf711@officiallythestateofpalestine.digitall-id.com:8080?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 trojan://Aimer@27.50.48.154:8443?allowInsecure=1&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 vless://8f27aceb-13ce-4bbe-9847-35049fbb46f4@panel1.zapserver.top:54002?type=tcp&security=none#[🇮🇷]t.me/ConfigsHub
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F%40Prime_Verse%3Fed&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#[🇨🇦]t.me/ConfigsHub
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsCiAgImFkZCI6ICI2Ni4xNTEuNDAuMTcwIiwKICAicG9ydCI6IDI2MDE4LAogICJpZCI6ICI4ZjVlNGZmNi0zMzJiLTQ4OTctZDQxNS03ODBlOGU0OTBhNzUiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9
 trojan://telegram-id-privatevpns@18.192.94.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.27.67.133:80?path=%40vpnserverrr&security=&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
