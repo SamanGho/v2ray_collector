@@ -1,3 +1,4 @@
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.211.73.185:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.188.135.184:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.86.239.114:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 ss://bm9uZTpjYWFiYWJjLWFjYmEtYWNhYi1hZGNiLWJiYWNhY2FiYmNjYQ==@127.0.0.1:8080#[🏁]t.me/ConfigsHub
@@ -246,5 +247,4 @@ vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&en
 vless://da9b80c7-b8cf-4d6e-8b18-62f75b1750af@91.107.180.100:443?mode=gun&security=reality&encryption=none&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=%2F&type=grpc&serviceName=%40SobyV2ray&sni=zula.ir&sid=f3#[🇩🇪]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.157.231.252:22222?security=tls&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vless://ef9b115b-3f25-43fe-ae7f-257759442edd@91.99.229.232:50222?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://37e54ad3-1416-42b4-a0d8-633f13f45ac5@masumehkachal.org:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=masumehkachal.org#[🇨🇦]t.me/ConfigsHub
