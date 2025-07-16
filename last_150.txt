@@ -1,3 +1,5 @@
+trojan://babccaa-caab-cbaa-cdba-cbbacababcac@127.0.0.1:2080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
+vless://54b4c039-7be6-448f-b704-820251b079db@pouriacheat.fergalvpnmod.com:2025?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&sid=8d9c20be72b4&spx=%2F&type=grpc&authority=&serviceName=Telegram%20%3A%20%40PouRia_Cheat&mode=gun#[🇩🇪]t.me/ConfigsHub
 vless://100a18b8-bab3-4c42-96ec-6b96691d6a0f@98.84.12.141:443?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=CgiGam2CJMM33Tb7ZEBHt52pztMD7SQ9sqdfDZro-0Y#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@sage.ns.cloudflare.com:443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 trojan://3763495982449565696@faithful-goshawk.goat627.mom:443?allowInsecure=0&sni=faithful-goshawk.goat627.mom#[🇩🇪]t.me/ConfigsHub
@@ -236,14 +238,12 @@ vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.117.204:2086?type=ws&host=01
 trojan://Aimer@206.238.236.219:2083?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 vless://caabacb-abac-bcaa-dabc-abacbbacbacc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://ade3ff1e-2d57-4e21-b6b8-e4bc7720873e@51.20.115.71:8081?security=none&type=tcp&host=xbox.com&headerType=http#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.78.31.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://b668daed-b9c9-4ea1-a9ae-2a7c64872f2b@91.107.253.83:20159?security=reality&sni=yahoo.com&type=xhttp&path=/&fp=chrome&pbk=sb5lAhF66E7l41hh8KsrS2wOgyGz_2wi-FdzRR-Iyyc&sid=cf7150060e#[🇩🇪]t.me/ConfigsHub
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.39.132:2052?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://3c040157-b103-423e-89ac-23c768dea8a7@35.89.173.199:443?security=reality&sni=www.openstreetmap.org&type=tcp&fp=chrome&pbk=HG9t2HhmBcU3u63xzmV227fg0O2ka5BLcKeYA74Lah4&sid=a45eed54009e54de#[🇺🇸]t.me/ConfigsHub
 vless://f4377d11-f27d-4a7a-b083-2f72a8015735@8e8eb039964a47bb80bf.jiramo-boay.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 vless://1ac0ce1f-8a0b-4500-997e-46c0fe08ede9@185.219.114.114:12560?security=tls&sni=rzm3.feeliran.org&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.15.109:80?security=none&type=ws&host=us1.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.31.242:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.224.231:80?security=none&type=ws&host=us1.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇫🇷]t.me/ConfigsHub
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.76.200:2052?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
