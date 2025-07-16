@@ -1,3 +1,4 @@
+vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed%3D2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=randomized&type=ws&sni=NExtfilmtOmovies.sitE#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFiYmNjYWEtYmFhYy1iYWNhLWJhZGMtY2FiY2JhYmJjYWNhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDIwODAsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.24.158.0:2052?encryption=none&security=none&type=ws&host=register.tunnelbreaking.shop&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://d4af3edf-0a58-492e-b6c8-b3f3238df7c1@51.222.158.243:8443?path=%2Fvless%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=ov-canada3.09vpn.com#[🇨🇦]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://bc521039-02ce-465a-91d9-1c6dde78ddf4@gp2.vqpv.top:2052?mode=gun&security
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.18.26.90:443?path=%2FWrQunvc9WRIaU32H%3Fed%3D2560&security=tls&encryption=none&host=getasa.ir&type=ws&sni=gEtaSa.IR#[🇨🇦]t.me/ConfigsHub
 vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@w325.pages.dev:443?path=%2FUzqdLlugYzBpZgQx%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=w325.pages.dev&fp=chrome&type=ws&sni=W325.paGeS.Dev#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://69268d69-4d1a-44fe-9e3a-e3238fe5fcb0@CONFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=serverplus.co&type=xhttp#[🇨🇦]t.me/ConfigsHub
