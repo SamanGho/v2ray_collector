@@ -1,3 +1,5 @@
+vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&sni=tgju.org&fp=firefox&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&sid=e701a013553059ba&type=tcp&packetEncoding=xudp&encryption=none#[🇩🇪]t.me/ConfigsHub
+vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=%2F&type=grpc&serviceName=t.me/entryNET&sni=www.cloudflare.com&sid=8d9c20be72b4#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiJzc2gydGFtaXpraW5kLml2eS1uZXQuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBhcnNhYnIuY29tIiwiaWQiOiIyYjQ1ZTY3Ny0yZjNhLTRiMWItOGFhMS0xNTU1ZjBlYjkzM2UiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL2FwaS9yZWdpc3Rlci9uZXcvbmFtZS9kYXYvcmVzcG9uc2UvY21WMGFYSmxaQ0JvWld4c2J5Qm9iM2NnWVhKbElIbHZkU0IwYUdseklHbHpJRzE1SUc1bGR5Qm9aV0ZrWlhJZ2QiLCJwb3J0IjoiMjAwMCIsInBzIjoiW/Cfh67wn4e3XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://6d510f7b-a8f1-401e-9cbf-953fea916d84@t1.vipfastconnect.site:2299?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://100a18b8-bab3-4c42-96ec-6b96691d6a0f@44.234.20.212:443?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=CgiGam2CJMM33Tb7ZEBHt52pztMD7SQ9sqdfDZro-0Y#[🇺🇸]t.me/ConfigsHub
@@ -237,14 +239,12 @@ vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.202.6:8880?type=ws&host=0118
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.113.85:2052?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://ea286109-d20f-415e-849e-4af20ab04b65@15.204.133.73:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.160.77:80?security=none&type=ws&host=us1.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
-trojan://Aimer@188.164.159.18:443?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://Aimer@108.165.152.93:2083?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://Telegram--TokaVpn--TokaVpn@88.198.200.124:1014/?type=grpc&serviceName=t.me/entryNET&authority=-@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@ToakVpn&security=reality&pbk=IsUUuSm6_lY4Z4w-gkEeFch-V_V84Ik5IWdlzSQ61Wk&fp=chrome&sni=journalofbigdata.springeropen.com&sid=52&spx=%2F#[🇩🇪]t.me/ConfigsHub
 vless://cacbbaa-bcaa-caba-bdac-baccbacabbac@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://f503c72d-485e-4091-9d0c-9ad34d61c914@freeconfig.fergalvpnmod.com:12765?path=%2Ftelegram%40FergalVpnMod&security=&encryption=none&host=cloudflare.com&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.117.204:2086?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
-vless://63d7714a-2ac5-46ac-93be-96cea00300f8@104.24.222.17:80?type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@206.238.236.219:2083?allowInsecure=1&sni=amepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 vless://caabacb-abac-bcaa-dabc-abacbbacbacc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://ade3ff1e-2d57-4e21-b6b8-e4bc7720873e@51.20.115.71:8081?security=none&type=tcp&host=xbox.com&headerType=http#[🇸🇪]t.me/ConfigsHub
