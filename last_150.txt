@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.185.31.212:443#[🇺🇸]t.me/ConfigsHub
 vless://bd4cee0d-0d4c-4392-a698-e35073804d4f@ir2.shopv2citi1.top:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.116.163.211:443?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.17.63.73:443?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
@@ -238,7 +239,6 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.16.148:80?security=none&type
 vless://01c503dd-f808-4e7f-bf07-da2df976efb3@104.17.148.22:2082?security=none&type=httpupgrade&host=yakuasubcha.poqpoq.shop.&path=yakuzaytarmin%3Fed%3D2082#[🇨🇦]t.me/ConfigsHub
 vless://75fde681-ec64-4654-86fa-30732e8e179c@45.131.5.78:443?path=%2Fassets&security=tls&encryption=none&alpn=h3&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#[🏁]t.me/ConfigsHub
 vless://Telegram-TokaVpn-TokaVpn@91.99.184.35:3060?security=reality&encryption=none&type=grpc&sni=journalofbigdata.springeropen.com&sid=87&fp=chrome&pbk=mruN_C8EQxa11ez_NVmtFqf8oLEatFn6OIVtnJPZ_TI&spx=/&serviceName=23145vless#[🇩🇪]t.me/ConfigsHub
-vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:8949?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://75fde681-ec64-4654-86fa-30732e8e179c@45.131.211.211:443?path=%2Fassets&security=tls&encryption=none&alpn=h3&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#[🏁]t.me/ConfigsHub
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=MydigiKala.pAges.dEv&fp=chrome&type=ws&sni=PaGes.deV#[🇨🇦]t.me/ConfigsHub
 vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@01tu.speedgloobalontop.ir:2053?security=none&encryption=none&type=grpc&serviceName=2053vless#[🇹🇷]t.me/ConfigsHub
