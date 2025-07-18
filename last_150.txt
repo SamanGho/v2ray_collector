@@ -1,3 +1,4 @@
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.79.30:80?security=none&type=ws&host=us1.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.42.121:80?security=none&type=ws&host=us1.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.72.50:80?security=none&type=ws&host=us1.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.221.247:80?security=none&type=ws&host=us1.rtacg.com&path=/#[🇨🇦]t.me/ConfigsHub
@@ -246,5 +247,4 @@ vless://9a7f0c6e-cb73-4baf-ad31-ac5f9af851c3@37.152.191.159:8080?security=none&t
 vless://64b56571-1f22-4479-85b5-63aebc28cea0@45.138.24.74:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=daLrAi9S3YY1Dapy8-3Wo_Lt4akOcmJqNhfJjMT5XCU&sid=531b669cdbf7#[🇳🇱]t.me/ConfigsHub
 trojan://b4e8771997c94732acbc9ec4d19c2589@jobscareertoday.com:443?allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://43c1c980-fdd9-420b-a2f4-c0aa7dfccae8@151.101.130.133:443?security=tls&sni=live.theworldwidewolf.com&type=ws&host=vmesskhodam.com&path=%2F@Vmesskhodam%2F%40Vmesskhodam%2F@Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
-vless://007d3ef7-b3cb-4681-917e-c5edeebdbb6c@94.183.158.12:8083?path=%2F&security=&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://baacabc-acab-aacb-adbc-acabbbccbaca@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
