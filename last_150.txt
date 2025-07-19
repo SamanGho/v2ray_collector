@@ -1,3 +1,4 @@
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&security=none&encryption=none=ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann----%40ghalagyann&host=vngsupply.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ%3D%3D@212.192.12.22:30127#[🏁]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwiYWRkIjoidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsInBvcnQiOiI4NDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImYxMDU5OGUyLWM2MDYtNDk0NS1iZmRlLWU1NzMwNzU2YTJkZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InVzMDEuc2gtY2xvdWRmbGFyZS5zYnMiLCJ0bHMiOiJ0bHMifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#[🏁]t.me/ConfigsHub
@@ -242,7 +243,6 @@ trojan://auto@104.20.21.229:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s
 trojan://PU3f7528NtNXnQqb9X263rGSD@195.133.11.229:443?security=tls&type=ws&sni=get.fragmentary.info&path=/socks5tobefree&host=get.fragmentary.info#[🇷🇺]t.me/ConfigsHub
 vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@62.60.156.130:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&encryption=none&host=nl1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=nl1.blackismyfavorite.ir#[🇫🇷]t.me/ConfigsHub
 vless://b5283960-5edb-465b-95a2-3f431b9a9528@irc.testvp2.sbs:443?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[🇨🇦]t.me/ConfigsHub
 vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@185.142.159.100:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&encryption=none&host=fr1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=fr1.blackismyfavorite.ir#[🇮🇷]t.me/ConfigsHub
 vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@185.142.159.100:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&encryption=none&host=no1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=no1.blackismyfavorite.ir#[🇮🇷]t.me/ConfigsHub
 vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@185.16.110.5:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&encryption=none&host=fi1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=fi1.blackismyfavorite.ir#[🇫🇷]t.me/ConfigsHub
