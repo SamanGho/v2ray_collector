@@ -1,3 +1,4 @@
+trojan://79%3A99%3A78%3AD4%3A99%3A31%3AC3%3AAC%3A0B%3A6C%3A11%3A6D%3A5F%3A1B%3AA8%3AA5%3A7F%3A08%3A08%3A28%3A02%3A3C%3AC8%3A95%3A26%3A63%3A9A%3AB0%3A3B%3A18%3A62%3A35@uknode.soon.guru:40006/?type=tcp&security=tls&sni=uknode.soon.guru#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTo5OTo3ODpENDo5OTozMTpDMzpBQzowQjo2QzoxMTo2RDo1RjoxQjpBODpBNTo3RjowODowODoyODowMjozQzpDODo5NToyNjo2Mzo5QTpCMDozQjoxODo2MjozNQ@tur.fastsoonlink.com:40019#[🇹🇷]t.me/ConfigsHub
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.150.115.3:8880/?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#[🏁]t.me/ConfigsHub
 vless://5c9fa74d-c08b-43f6-b1da-f21a6cd287f4@104.17.148.22:80/?type=ws&encryption=none&flow=&host=dizdiz.navidsports.ir.&path=%2F%3Fed%3D80#[🇨🇦]t.me/ConfigsHub
@@ -242,7 +243,6 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.150.152.112:5498#[🇺🇸]t.me/Con
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#[🇬🇧]t.me/ConfigsHub
 vmess://eyJhZGQiOiJ1c2EuYnlwYXNzZXIuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiMDI0NjZkYzAtNGQxMC00YjdlLWI0YjQtMjhkMDk4ODk1Mjg3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.252:5601#[🇺🇸]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.252:6379#[🇺🇸]t.me/ConfigsHub
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.193:443?allowInsecure=0&sni=aba.zhuk.us.kg&type=ws&host=aba.zhuk.us.kg&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.iosecurity=tls#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.44.197.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://NISHIKUITAN111@45.159.216.191:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#[🇩🇪]t.me/ConfigsHub
