@@ -1,6 +1,3 @@
-vless://abacbca-caba-abca-bcda-cccbabaaabbc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
-vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.18.26.90:443/?type=ws&security=tls&path=%2FTel-V2ray_Alpha%3Fed%3D2560&host=getasa.ir&sni=gEtaSa.IR#[🇨🇦]t.me/ConfigsHub
-vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@162.159.9.55:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://d4a49f13-a77a-4783-ac0f-7fdb9ab4deb0@45.142.214.75:443?security=reality&sni=google.com&type=tcp&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#[🏁]t.me/ConfigsHub
 trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?allowInsecure=1&sni=jobsfortheworldtoday.com#[🇺🇸]t.me/ConfigsHub
 vless://6c590c58-0bcd-4b64-a073-c46066080d7e@185.162.229.212:80?flow=&type=ws&host=join-to-Vmessorg.sabadyt.ir&path=%2F#[🇬🇧]t.me/ConfigsHub
@@ -248,3 +245,6 @@ vless://8b262468-6e0d-46bf-b54f-32e6fae5af8b@sn434.nikatel.uno:8080?security=&en
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.198.54:8880?path=%2Fa5B32PZjS8yfkA3C%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=randomized&type=ws&sni=vngsuPPLY.IP-ddNs.coM#[🇨🇦]t.me/ConfigsHub
 vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?path=%2FXRAYVPNHTTPUPGRADE&security=none&encryption=none&host=nl1.blackismyfavorite.ir&type=httpupgrade#[🇫🇷]t.me/ConfigsHub
 vless://Parsashonam-286@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?sni=tw01.trojanyyds.xyz#[🏁]t.me/ConfigsHub
+trojan://blue2024@154.219.5.70:443?allowInsecure=0&sni=ta.promote.icu#[🏁]t.me/ConfigsHub
+vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@ip.ir-sub.fun:80?mode=auto&path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN&security=none&alpn=http%2F1.1&encryption=none&host=sharkrt.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.ssl.fastly.net#[🇨🇦]t.me/ConfigsHub
