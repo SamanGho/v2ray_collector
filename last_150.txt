@@ -1,3 +1,4 @@
+vless://43c1c980-fdd9-420b-a2f4-c0aa7dfccae8@151.101.130.133:443?security=tls&sni=live.theworldwidewolf.com&type=ws&host=vmesskhodam.com&path=%2F@Vmesskhodam%2F%40Vmesskhodam%2F@Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%2F%40Vmesskhodam%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://baacabc-acab-aacb-adbc-acabbbccbaca@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://f5d12bf0-255a-4b0d-bfd2-caf293334c83@dl1-fr-cdn.easy-upload.org:2010?security=none&type=tcp&headerType=&path=&host=skyroom.online#[🇫🇷]t.me/ConfigsHub
 vless://f988794c-cdb2-4842-b604-06e65cf6d040@45.149.12.39:8443?security=tls&sni=societshaia7rysv.aminho3ien.ir&type=grpc&serviceName=👨‍🚀Free👨‍🚀#[🇳🇱]t.me/ConfigsHub
@@ -235,7 +236,6 @@ vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80/?type
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wonderful-degree.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80/?type=ws&encryption=none&flow=&path=%2F#[🇺🇸]t.me/ConfigsHub
-vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.Co.Uk:80?path=%2F&security=none&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.170.160.14:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#[🇬🇧]t.me/ConfigsHub
 vless://37c38568-d2fb-46f4-a107-ca15890f5cdf@em-3.webnama.com.tr:1429/?encryption=none&flow=&host=varzesh3.com&type=tcp&headerType=http#[🇩🇪]t.me/ConfigsHub
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beLoveD-faILure.SeOtOOLsForyOu.Co.uk:80?path=%2F&security=none&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
