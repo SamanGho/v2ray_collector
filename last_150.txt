@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206VFRLOERTTzZNWlJFRUpRMQ@219.135.227.209:17003#[🏁]t.me/ConfigsHub
 vless://Telegram-MsV2ray@www.speedtest.net:80?type=httpupgrade&host=http-fast-de-speedtest.xqfactor.ir.&path=/MsV2ray?ed%3D80&security=none#[🇨🇦]t.me/ConfigsHub
 trojan://bpb-trojan@190.93.246.89:443?allowInsecure=1&sni=zeming13.us.kg#[🇨🇷]t.me/ConfigsHub
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2T1ZWQ05FOUdPRmRhTUZsWVNWQkNSQQ@219.135.227.209:15015#[🏁]t.me/ConfigsHub
@@ -158,7 +159,6 @@ trojan://blue2024@104.18.118.73:443?allowInsecure=0&sni=ta.promote.icu#[🇨🇦
 vmess://eyJhZGQiOiAiMTkyLjc0LjI0Mi4yNDMiLCAiYWlkIjogIjY0IiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInd3dy42MjgxMzIzNC54eXoiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE3MzMwNDczODk3MzQiLCAicG9ydCI6ICIzODAwMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAid3d3LjYyODEzMjM0Lnh5eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIn0=
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.235.157.79:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#[🇺🇸]t.me/ConfigsHub
 trojan://blue2024@104.16.113.194:443?sni=td.promote.icu#[🇨🇦]t.me/ConfigsHub
-trojan://blue2024@104.19.156.145:443?sni=ta.promote.icu#[🇨🇦]t.me/ConfigsHub
 vless://94038e0c-98d2-4117-999b-dca8331005f0@151.101.194.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws%2F%3Fed%3D2052#[🇨🇦]t.me/ConfigsHub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.229.227:8880?path=%2FXWFOoG8NduJFoaxA%3Fed%3D2560&security=&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=randomized&type=ws&sni=vngsUPPLY.ip-dDNS.COM#[🇨🇦]t.me/ConfigsHub
 vless://4ffdc80c-65f3-4684-bdb5-951d27867f40@37.156.45.179:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=@@jet_config-@jet_config-@jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#[🏁]t.me/ConfigsHub
