@@ -1,3 +1,4 @@
+vless://Telegram-MsV2ray@www.speedtest.net:80?type=httpupgrade&host=http-fast-de-speedtest.xqfactor.ir.&path=/MsV2ray?ed%3D80&security=none#[🇨🇦]t.me/ConfigsHub
 trojan://bpb-trojan@190.93.246.89:443?allowInsecure=1&sni=zeming13.us.kg#[🇨🇷]t.me/ConfigsHub
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2T1ZWQ05FOUdPRmRhTUZsWVNWQkNSQQ@219.135.227.209:15015#[🏁]t.me/ConfigsHub
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@77.232.140.162:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#[🇦🇪]t.me/ConfigsHub
@@ -238,7 +239,6 @@ vless://a3c0eead-aab3-42b4-b72e-0d67d3c0bcce@d270391091093100193938819293819w6.s
 vless://8d090a3a-79c4-455a-a9b7-7656626a372c@1750158741.tencentapp.cn:443?path=%2F&security=tls&encryption=none&host=us1.loopycloudcfjiasucdn.pp.ua&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.42.252.95:443#[🇬🇧]t.me/ConfigsHub
 trojan://blue2024@172.67.179.208:443?sni=tb.promote.icu#[🇨🇦]t.me/ConfigsHub
-vless://f954d7c1-e793-45e7-8505-8e95e6170dbb@165.22.76.53:9387?security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://8d090a3a-79c4-455a-a9b7-7656626a372c@1750158741.tencentapp.cn:443?path=%2F&security=tls&encryption=none&host=us2.loopycloudcfjiasucdn.pp.ua&type=ws&sni=us2.loopycloudcfjiasucdn.pp.ua#[🏁]t.me/ConfigsHub
 trojan://NISHIKUITAN111@104.24.10.122:443?#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.111:8090#[🇺🇸]t.me/ConfigsHub
