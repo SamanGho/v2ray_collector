@@ -1,3 +1,4 @@
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4yNi4wLjIzIiwgInBvcnQiOiAiMjA5NSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZjA3NThiZjktNDU0Yi00MzMxLWJiNDUtZTU2ZGQzOTBmNzQzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiYTEuOTg0OTUyLnh5eiIsICJ0bHMiOiAiIn0=
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.13.101:2052?security=none&type=ws&host=grehit.ir.bing.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.netrag.com.px.com.sh017.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.hey0.ip-ddns.com&path=%2F%3Fed%3D1080#[🇨🇦]t.me/ConfigsHub
 trojan://RVO0j8RcC5@65.21.253.157:1000?security=none&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://42f8b774-f998-476d-ada2-2915588c7f45@dl1-fi-cdn.easy-upload.org:2010?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
@@ -159,7 +160,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?mode=gun&security
 trojan://0028109a-37ed-4ded-b858-e566388a904c@52.37.206.154:20230?security=tls&sni=421421.xyz#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#[🏁]t.me/ConfigsHub
 vless://75fde681-ec64-4654-86fa-30732e8e179c@162.159.129.11:443?encryption=none&security=tls&sni=NGINX.NSCl.IR&alpn=h3&type=ws&host=nginx.nscl.ir&path=%2Fassets#[🇨🇦]t.me/ConfigsHub
-trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.224:2052?security=none&type=ws&path=/?ed=2560&host=late-tooth.granzinhannah.workers.dev#[🇨🇦]t.me/ConfigsHub
 vless://0ce9fe26-e4f4-4b68-a127-b6984f3d3bb2@filmnet.filimnet.com:80/?type=xhttp&mode=packet-up&security=none&encryption=none&host=netv2reyng.fastly.proxy.ir&path=%2Fnetv2reyng%2Fcdn%2Fassets%3Fv%3D12%26@netv2reyng#[🇫🇷]t.me/ConfigsHub
 vless://537fd084-1078-4fc6-bec6-dad70fc96297@178.162.244.178:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 trojan://blue2024@104.17.92.164:443?security=tls&type=ws&sni=ha.lii2010.us.kg&path=/?ed&host=ha.lii2010.us.kg#[🇨🇦]t.me/ConfigsHub
