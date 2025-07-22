@@ -1,3 +1,4 @@
+vless://ded015bd-ba4d-4dfb-c3a6-25c572761f39@151.101.194.165:80?security=none&type=ws&host=UNLIMITEDDEV.channel-telegram-1.ir&path=%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480#[🇨🇦]t.me/ConfigsHub
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.172.221:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#[🇺🇸]t.me/ConfigsHub
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.183.184:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#[🇺🇸]t.me/ConfigsHub
 trojan://blue2024@108.162.195.199:443?sni=tc.promote.icu#[🇨🇦]t.me/ConfigsHub
@@ -217,7 +218,6 @@ vmess://ewogICAgImFkZCI6ICI1MjdjYjIuODI3YTRjMzkuc2hvcCIsCiAgICAiYWlkIjogMCwKICAg
 vless://da3671c7-795f-421d-9cdc-9e3a79681852@151.101.3.8:80?mode=auto&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=Ee2Y9w0L9b.SaLaMgOjAi09-2.InFo&type=ws&alpn=h3h2&host=Ee2Y9w0L9b.SaLaMgOjAi09-2.InFo&path=/#[🇨🇦]t.me/ConfigsHub
 vless://1e82ac13-c1e5-4748-afba-61d2693da0b5@65.109.215.10:46700?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?encryption=none&security=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://88903270-dc79-4dc2-9ce8-3c230eca3cf6@45.150.33.157:50810?mode=auto&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=reality&encryption=none&pbk=J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg&fp=chrome&spx=%2F&type=xhttp&sni=zhaket.com&sid=aa60a00122200b76#[🇳🇱]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ%3D%3D@46.17.44.214:50192#[🇷🇺]t.me/ConfigsHub
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
