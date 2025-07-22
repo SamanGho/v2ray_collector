@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiJ1c2EuYnlwYXNzZXIuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiMDI0NjZkYzAtNGQxMC00YjdlLWI0YjQtMjhkMDk4ODk1Mjg3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.252:5601#[🇺🇸]t.me/ConfigsHub
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.193:443?allowInsecure=0&sni=aba.zhuk.us.kg&type=ws&host=aba.zhuk.us.kg&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.iosecurity=tls#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.44.197.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
@@ -214,7 +215,6 @@ vless://83ef6996-0885-48cb-cbb0-96f91157f2cc@193.151.132.234:1001?security=none&
 trojan://blue2024@172.64.131.249:443?allowInsecure=1&sni=ta.promote.icu#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkSzE4cVc4UHNmNXhEYVE4dnRISnRL@91.103.253.151:19057#[🇳🇱]t.me/ConfigsHub
 trojan://NISHIKUITAN111@172.66.42.99:443?#[🇨🇦]t.me/ConfigsHub
-vmess://eyJhZGQiOiI0NS44LjE0Ni4xMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDcwNDAxNmYtNTQzNS00NjU1LWJlNmEtNzcxYTVhYmE1MmMzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiW/Cfh7rwn4e4XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://0EBCBB23-C337-0909-4655-BC85BCDCFC02@damp-cherry-4620.vpnetwork3567.workers.dev:443?path=%2F&security=tls&encryption=none&host=damp-cherry-4620.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=damp-cherry-4620.vpnetwork3567.workers.dev#[🇨🇦]t.me/ConfigsHub
 vless://b376bbd9-9306-496f-8f19-ff438b21c100@172.66.40.99:80?path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://OJ21H15gPh@65.109.209.53:38296?security=none&headerType=&type=tcp#[🇫🇮]t.me/ConfigsHub
