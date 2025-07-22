@@ -1,3 +1,9 @@
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.91.173.159:443#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.69:6679#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.150.152.112:5498#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#[🇬🇧]t.me/ConfigsHub
+vmess://eyJhZGQiOiJ1c2EuYnlwYXNzZXIuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiMDI0NjZkYzAtNGQxMC00YjdlLWI0YjQtMjhkMDk4ODk1Mjg3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.252:5601#[🇺🇸]t.me/ConfigsHub
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.193:443?allowInsecure=0&sni=aba.zhuk.us.kg&type=ws&host=aba.zhuk.us.kg&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.iosecurity=tls#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.44.197.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://NISHIKUITAN111@45.159.216.191:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#[🇩🇪]t.me/ConfigsHub
@@ -65,17 +71,11 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.198.54:8880?path=%2Fa5B32PZj
 vless://Parsashonam-286@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?sni=tw01.trojanyyds.xyz#[🏁]t.me/ConfigsHub
 trojan://blue2024@154.219.5.70:443?allowInsecure=0&sni=ta.promote.icu#[🏁]t.me/ConfigsHub
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?security=tls&encryption=none&type=ws&host=vless8-ekh.pages.dev&path=telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou&sni=vless8-ekh.pages.dev&fp=random&alpn=h3#[🏁]t.me/ConfigsHub
 vless://TELEGRAM-CONFiGLiNE@172.66.40.90:8880?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=ok-by.motorphrotan.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?flow=xtls-rprx-vision&security=reality&encryption=none&type=tcp&host=telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou&path=telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none#[🇺🇸]t.me/ConfigsHub
 trojan://blue2024@104.17.211.109:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4xOC4xMTQuMTAzIiwgInBvcnQiOiAiMjA4MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiZTQuNjkyOTE5OC54eXoiLCAidGxzIjogIiJ9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://6b690c69-7301-44c4-81e8-9d5d7e8263a6@51.38.98.69:443?security=reality&encryption=none&type=tcp&host=telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou&path=telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou&sni=yahoo.com&sid=ecd6615548c2bddb&fp=chrome&pbk=-3sZE2OPDhkNtxufF2YqPmoa5hqVna5zalfJfrUiMm0&headerType=none#[🇩🇪]t.me/ConfigsHub
 vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.186.133:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=mashti.com&path=/?ed%3D2560&fp=chrome&alpn=h2,http/1.1#[🇺🇸]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDQ1Ljg3LjE3NS4zNTo4MDgw#[🏁]t.me/ConfigsHub
 vless://e13334e7-8279-427e-9a0e-4a02c6abea21@wolf558.royalmt.life:52922?type=ws&security=none#[🏁]t.me/ConfigsHub
-vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?security=none&encryption=none&type=tcp&host=telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou&path=telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou&headerType=none#[🏁]t.me/ConfigsHub
 trojan://blue2024@104.21.64.1:443?sni=ta.promote.icu&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4xOC4xMTQuMTkiLCAicG9ydCI6ICIyMDgyIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJlNC42OTI5MTk4Lnh5eiIsICJ0bHMiOiAiIn0=
 vless://d677c858-be32-4424-e83a-bbcd4a6f086a@185.211.59.246:1096?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
