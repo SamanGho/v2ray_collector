@@ -1,3 +1,4 @@
+vless://e13334e7-8279-427e-9a0e-4a02c6abea21@wolf558.royalmt.life:52922?type=ws&security=none#[🏁]t.me/ConfigsHub
 trojan://blue2024@104.21.64.1:443?sni=ta.promote.icu&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4xOC4xMTQuMTkiLCAicG9ydCI6ICIyMDgyIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJlNC42OTI5MTk4Lnh5eiIsICJ0bHMiOiAiIn0=
 vless://d677c858-be32-4424-e83a-bbcd4a6f086a@185.211.59.246:1096?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
@@ -237,7 +238,6 @@ vless://c7ab5176-6dcf-481a-9609-4d3ca94acc3a@surfiran.com:2052?path=%2F%40Maznet
 vless://01666769-86df-494b-8105-8be44fce856e@binex.tv.sedanor.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&host=chess.com&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=%2F%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#[🇨🇷]t.me/ConfigsHub
 vless://55e6242e-73b4-52f1-a714-b1d4f39ff6e2@v-01.artemis-vpn.org:80?type=tcp&headerType=http&path=/@Artemis_Vpn#[🇩🇪]t.me/ConfigsHub
-vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs1.FligHtbEaN24.Com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://8de686ed-4e2e-46c5-b3b0-380a79d4f6fe@170.64.183.81:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=170.64.183.81&encryption=none#[🏁]t.me/ConfigsHub
 vless://585e9c78-6316-47ee-b919-364f146765b4@servers.xvon.in:5000?type=grpc&security=tls&serviceName=&sni=servers.xvon.in#[🇮🇷]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.16.30.102:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
