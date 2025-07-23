@@ -1,8 +1,3 @@
-vless://59aaca9a-5aa7-492f-bb29-7abc6bfbebdb@188.245.54.60:57510?mode=auto&path=%2F&security=reality&encryption=none&pbk=a-CPvNEP2Lo6Gh9RaoBVPa79akbtiz2zY9EtUdmVmUA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=4516#[🇩🇪]t.me/ConfigsHub
-vless://c9479b74-4e23-453c-a7eb-cdae85d0e1b4@104.17.148.22:8080?security=none&type=ws&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.kolsvslp.ir.&path=%2F%3Fed%3D2056#[🇨🇦]t.me/ConfigsHub
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.7:443?security=tls&sni=vbbb.ylks2024.us.kg&type=ws&host=vbbb.ylks2024.us.kg&path=%2Fyoulingkaishi#[🇨🇦]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:3306#[🇺🇸]t.me/ConfigsHub
-vless://1b6d2c37-fe6c-4b13-99dc-24f41b5d5b2d@152.42.184.246:80?security=none&type=ws&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@54.144.186.40:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
 vless://5bdc4429-a059-453a-b033-b0502ad43a44@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=antifilter.io&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://d209cead-c4aa-4d7e-871a-3f0f90f200ca@tg.fast2rayng.sbs:8625?type=xhttp&path=%2F%40Fast2RayNG&host=zula.ir&mode=auto&security=reality&pbk=QMqqKA3T6oF1mP9IctF5EXqk8h3TJKLyh5Q3Yr5gjh4&fp=chrome&sni=www.bing.com&sid=95&spx=%2F#[🇳🇱]t.me/ConfigsHub
@@ -248,3 +243,8 @@ vless://57aeb444-ec88-4693-bb76-95b5c4620b6d@tgju.org:80?encryption=none&securit
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?security=&type=ws&path=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed%3D2560&host=vngsupply.ip-ddns.com&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://66816f2a-4a3e-4697-e24a-9d219589b9e8@203.161.47.109:21901?type=tcp&security=none#[🇺🇸]t.me/ConfigsHub
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@tr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#[🇹🇷]t.me/ConfigsHub
+vless://401374e6-df77-41fb-f638-dad8184f175b@62.72.166.15:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.181.196.98:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.196.98:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.1:8880?security=&type=ws&host=yd.laoyoutiao.link&encryption=none#[🏁]t.me/ConfigsHub
+vless://859bbb48-98ca-4afd-ad28-987c7cd28119@51.75.155.93:8080?type=tcp&path=%2F&host=fast.ir&headerType=http&security=none#[🇳🇱]t.me/ConfigsHub
