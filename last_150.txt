@@ -1,3 +1,4 @@
+vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.186.133:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=mashti.com&path=/?ed%3D2560&fp=chrome&alpn=h2,http/1.1#[🇺🇸]t.me/ConfigsHub
 vless://e13334e7-8279-427e-9a0e-4a02c6abea21@wolf558.royalmt.life:52922?type=ws&security=none#[🏁]t.me/ConfigsHub
 trojan://blue2024@104.21.64.1:443?sni=ta.promote.icu&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4xOC4xMTQuMTkiLCAicG9ydCI6ICIyMDgyIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJlNC42OTI5MTk4Lnh5eiIsICJ0bHMiOiAiIn0=
@@ -131,7 +132,6 @@ vless://83ef6996-0885-48cb-cbb0-96f91157f2cc@193.151.132.234:1001?security=none&
 trojan://blue2024@172.64.131.249:443?allowInsecure=1&sni=ta.promote.icu#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkSzE4cVc4UHNmNXhEYVE4dnRISnRL@91.103.253.151:19057#[🇳🇱]t.me/ConfigsHub
 trojan://NISHIKUITAN111@172.66.42.99:443?#[🇨🇦]t.me/ConfigsHub
-vless://0EBCBB23-C337-0909-4655-BC85BCDCFC02@damp-cherry-4620.vpnetwork3567.workers.dev:443?path=%2F&security=tls&encryption=none&host=damp-cherry-4620.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=damp-cherry-4620.vpnetwork3567.workers.dev#[🇨🇦]t.me/ConfigsHub
 vless://b376bbd9-9306-496f-8f19-ff438b21c100@172.66.40.99:80?path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://OJ21H15gPh@65.109.209.53:38296?security=none&headerType=&type=tcp#[🇫🇮]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2hYR3JrdzdKY3R6bmpyNXluUUpU@194.87.216.218:52571#[🇳🇱]t.me/ConfigsHub
