@@ -1,3 +1,5 @@
+vless://Parsashonam-286@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?sni=tw01.trojanyyds.xyz#[🏁]t.me/ConfigsHub
 trojan://blue2024@154.219.5.70:443?allowInsecure=0&sni=ta.promote.icu#[🏁]t.me/ConfigsHub
 vless://TELEGRAM-CONFiGLiNE@172.66.40.90:8880?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=ok-by.motorphrotan.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 trojan://blue2024@104.17.211.109:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
@@ -245,6 +247,4 @@ vless://01666769-86df-494b-8105-8be44fce856e@binex.tv.sedanor.ir:2053?path=%2Fte
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=%2F%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#[🇨🇷]t.me/ConfigsHub
 vless://55e6242e-73b4-52f1-a714-b1d4f39ff6e2@v-01.artemis-vpn.org:80?type=tcp&headerType=http&path=/@Artemis_Vpn#[🇩🇪]t.me/ConfigsHub
 vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs1.FligHtbEaN24.Com&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://55e6242e-73b4-52f1-a714-b1d4f39ff6e2@v-02.artemis-vpn-tl.org:80?type=tcp&headerType=http&path=/@Artemis_Vpn#[🇮🇷]t.me/ConfigsHub
 vless://8de686ed-4e2e-46c5-b3b0-380a79d4f6fe@170.64.183.81:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=170.64.183.81&encryption=none#[🏁]t.me/ConfigsHub
-vless://55e6242e-73b4-52f1-a714-b1d4f39ff6e2@164.92.179.149:80?type=grpc&mode=gun&serviceName=@Artemis_Vpn#[🇩🇪]t.me/ConfigsHub
