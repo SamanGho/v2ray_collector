@@ -1,3 +1,4 @@
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4xOC4xMTQuMTAzIiwgInBvcnQiOiAiMjA4MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiZTQuNjkyOTE5OC54eXoiLCAidGxzIjogIiJ9
 vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.186.133:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=mashti.com&path=/?ed%3D2560&fp=chrome&alpn=h2,http/1.1#[🇺🇸]t.me/ConfigsHub
 vless://e13334e7-8279-427e-9a0e-4a02c6abea21@wolf558.royalmt.life:52922?type=ws&security=none#[🏁]t.me/ConfigsHub
 trojan://blue2024@104.21.64.1:443?sni=ta.promote.icu&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
@@ -106,7 +107,6 @@ vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?encryption=none&f
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&allowInsecure=1&type=tcp&headerType=none#[🇺🇸]t.me/ConfigsHub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?encryption=none&security=none&type=ws&host=vngsupply.ip-ddns.com&path=%40Confingman%40Confingman%40Confingman#[🇨🇦]t.me/ConfigsHub
 vless://2451a952-fedd-4fa6-9ad7-0d2f5998ae4b@dailyconfigs.resurrection-time.sbs:40735?encryption=none&security=reality&sni=github.com&fp=randomized&pbk=zOCZ24y2Y3T5D1v69NJ15rDUp1WZJOSWHTM1I0hqOTc&sid=10&spx=%2F&type=grpc&authority=Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs&serviceName=Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs-Dailyconfigs%3Fed%3D443&mode=gun#[🇬🇧]t.me/ConfigsHub
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
 vless://3c48608d-4470-4786-95aa-98c1542b4468@15.235.146.5:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=15.235.146.5&path=%2Fws#[🏁]t.me/ConfigsHub
 vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?encryption=none&security=none&type=ws&host=aKmDuHdNrOjhEjGs1.FligHtbEaN24.Com&path=%2F%3Fed#[🇨🇦]t.me/ConfigsHub
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.18.217.64:8080?encryption=none&security=none&type=ws&host=v2ngsupply2.ip-ddns.com&path=%2F#[🇨🇦]t.me/ConfigsHub
