@@ -1,3 +1,4 @@
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.198.54:8880?path=%2Fa5B32PZjS8yfkA3C%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=randomized&type=ws&sni=vngsuPPLY.IP-ddNs.coM#[🇨🇦]t.me/ConfigsHub
 vless://Parsashonam-286@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?sni=tw01.trojanyyds.xyz#[🏁]t.me/ConfigsHub
 trojan://blue2024@154.219.5.70:443?allowInsecure=0&sni=ta.promote.icu#[🏁]t.me/ConfigsHub
@@ -84,7 +85,6 @@ vmess://eyJhZGQiOiI0Ny4yMzkuMTI2LjIyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://d21aa1c0-7f00-4b6f-bf16-fbf0fa9658ea@filmnet.filimnet.com:80/?type=xhttp&mode=packet-up&security=none&encryption=none&host=netv2reyng.fastly.proxy.ir&path=%2Fnetv2reyng%2Fcdn%2Fassets%3Fv%3D12%26@netv2reyng#[🇫🇷]t.me/ConfigsHub
 vless://401d1539-43c1-46be-99c4-a1b189ba3557@xe2-de1cdn1.unlimiteddev.org:4165?security=&encryption=none&host=nimbaha.unlimiteddev.co&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://40ea915d-c8e7-49a3-8f2f-a319cc3d08f8@151.101.3.8:80?mode=auto&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#[🇨🇦]t.me/ConfigsHub
-vless://80172ff8-708e-4a71-aa85-42eea7171ba9@CoNFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=newmethod.com&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://9d650d7b-61ac-4b3f-b017-a937236c448c@91.99.226.71:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://blue2024@104.129.167.128:443?allowInsecure=1&sni=ta.promote.icu#[🏁]t.me/ConfigsHub
 vless://8ab33d56-3288-40fa-9f4f-8e438119941c@adsth27.netpilotserverne22twork.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#[🇺🇸]t.me/ConfigsHub
