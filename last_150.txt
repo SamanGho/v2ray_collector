@@ -1,11 +1,3 @@
-trojan://blue2024@104.16.113.194:443?sni=td.promote.icu#[🇨🇦]t.me/ConfigsHub
-vless://94038e0c-98d2-4117-999b-dca8331005f0@151.101.194.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws%2F%3Fed%3D2052#[🇨🇦]t.me/ConfigsHub
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.229.227:8880?path=%2FXWFOoG8NduJFoaxA%3Fed%3D2560&security=&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=randomized&type=ws&sni=vngsUPPLY.ip-dDNS.COM#[🇨🇦]t.me/ConfigsHub
-vless://4ffdc80c-65f3-4684-bdb5-951d27867f40@37.156.45.179:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=@@jet_config-@jet_config-@jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.53:443#[🇺🇸]t.me/ConfigsHub
-trojan://NISHIKUITAN111@104.20.12.219:443?#[🇨🇦]t.me/ConfigsHub
-vmess://eyJhZGQiOiJhc3dlZG9ua2UuYmx1ZXRvb3RobW91c2UuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNhbnZhLmNvbSIsImlkIjoiODFjMWVmZGYtZDU2Mi00OGFiLWJmNDUtOGVkNzg2ZDI3NDY5IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MSIsInBzIjoiW/Cfh7jwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-trojan://NISHIKUITAN111@104.27.25.157:443?#[🇨🇦]t.me/ConfigsHub
 trojan://blue2024@172.64.167.160:443?sni=ta.promote.icu#[🇺🇸]t.me/ConfigsHub
 vless://baacbca-caab-acba-dabc-cccbbbabaaca@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 trojan://blue2024@162.159.141.145:443?sni=td.promote.icu#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +240,11 @@ vless://709d1512-da43-487c-889d-50b84fa46e6c@91.107.170.231:24070/?type=grpc&ser
 trojan://bpb-trojan@104.17.211.250:443?allowInsecure=1&sni=bpb.my79801.com#[🇨🇦]t.me/ConfigsHub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880/?path=%2F1ycR2zb3KeELWRha%3Fed%3D%23Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://bpb-trojan@104.18.203.219:443?allowInsecure=1&sni=bpb.my79801.com#[🇨🇦]t.me/ConfigsHub
+vless://d4363b0e-8672-43c6-af2a-30824d60e435@91.107.155.155:443?security=&encryption=none&type=grpc&serviceName=%40Silver_v2ray%40Silver_v2ray%40Silver_v2ray%40Silver_v2ray#[🇩🇪]t.me/ConfigsHub
+vless://f7f0f020-3153-41b5-854b-304245d7bd0b@em-1.webnama.com.tr:3799?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#[🏁]t.me/ConfigsHub
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2&security=none&encryption=none&host=vngsupplY.IP-DdnS.com&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206R1dNYjRRcEcrbzJkeUc3UU96aS9sYXpqOHY1RTFvV2lWTC9UM0NMSFU0ST06NUxBU0wwa3pQdHo4VW1KbWVoK1NrekpvL1NQdDRhTkMrN01GbnRjSVc1RT0%3D@80.209.239.158:53755#[🏁]t.me/ConfigsHub
+vless://bddee8f2-784e-47b4-a7a5-65557bf813ff@159.65.24.214:44486?mode=auto&path=%2FV2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_officialV2ray_official----V2ray_official&security=reality&encryption=none&pbk=4Iu8Qa-XePGCSkg0_W_KEUV7bJj7ysmfAYsOJvZsFxM&fp=chrome&spx=%2F&type=xhttp&sni=zhaket.com&sid=1b74288a#[🇬🇧]t.me/ConfigsHub
+vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?flow=&type=httpupgrade&host=cdncloud-direct-public.beraghsa.ir&path=/?ed%3D2052&security=none#[🇨🇦]t.me/ConfigsHub
