@@ -1,3 +1,5 @@
+trojan://blue2024@104.16.113.194:443?sni=td.promote.icu#[🇨🇦]t.me/ConfigsHub
+vless://94038e0c-98d2-4117-999b-dca8331005f0@151.101.194.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws%2F%3Fed%3D2052#[🇨🇦]t.me/ConfigsHub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.229.227:8880?path=%2FXWFOoG8NduJFoaxA%3Fed%3D2560&security=&alpn=http%2F1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=randomized&type=ws&sni=vngsUPPLY.ip-dDNS.COM#[🇨🇦]t.me/ConfigsHub
 vless://4ffdc80c-65f3-4684-bdb5-951d27867f40@37.156.45.179:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=@@jet_config-@jet_config-@jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.53:443#[🇺🇸]t.me/ConfigsHub
@@ -245,6 +247,4 @@ vless://7835948c-ac97-5c9b-ab20-ce5941ff96b5@151.101.2.219:80?security=none&type
 vless://709d1512-da43-487c-889d-50b84fa46e6c@91.107.170.231:24070/?type=grpc&serviceName=@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&authority=&security=reality&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&sni=yahoo.com&sid=93&spx=%2F#[🇩🇪]t.me/ConfigsHub
 trojan://bpb-trojan@104.17.211.250:443?allowInsecure=1&sni=bpb.my79801.com#[🇨🇦]t.me/ConfigsHub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880/?path=%2F1ycR2zb3KeELWRha%3Fed%3D%23Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQ21OdGp1eWN6Z2NLajJzM1AzZUJn@185.140.12.217:1080#[🇩🇪]t.me/ConfigsHub
 trojan://bpb-trojan@104.18.203.219:443?allowInsecure=1&sni=bpb.my79801.com#[🇨🇦]t.me/ConfigsHub
-vless://ccfbd5c8-f3b4-4192-9b4e-42e8ebd78f21@31.47.51.143:50438?type=raw&security=none#[🇮🇷]t.me/ConfigsHub
