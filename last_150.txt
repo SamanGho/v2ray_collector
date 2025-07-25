@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.111:8090#[🇺🇸]t.me/ConfigsHub
 trojan://WOeXShhJpL@172.67.67.64:443?security=tls&type=ws&sni=09jzus.zdzdzd.xyz&path=/juzigongyi&host=09jzus.zdzdzd.xyz#[🇨🇦]t.me/ConfigsHub
 trojan://blue2024@104.19.185.248:443?sni=td.promote.icu#[🇨🇦]t.me/ConfigsHub
 vless://83ef6996-0885-48cb-cbb0-96f91157f2cc@193.151.132.234:1001?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#[🇮🇷]t.me/ConfigsHub
@@ -246,5 +247,4 @@ vless://c4f36507-976b-431a-a10c-583abceb89ea@sakotak.storecoco.online:42072?type
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.92:8880?path=%2F7YVyoVNnbaVzgl6D%3Fed%3D2560&security=&encryption=none&host=vghavi32.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8880?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=&encryption=none&host=mastomosir.motorphrotan.ir.&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://83e1425c-7bf0-4d10-9296-40901f29f35d@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2082?security=none&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
