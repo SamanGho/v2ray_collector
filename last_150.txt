@@ -1,3 +1,4 @@
+trojan://blue2024@172.67.78.96:443?sni=td.promote.icu&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 trojan://bpb-trojan@104.17.116.87:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 vless://cb16bdcc-1bb9-49bd-a59a-5a59fe783b38@188.114.97.2:8080?type=ws&host=suBDl.MAzEDownLOAdEr.LoL&path=%2Fgs#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.39.35.208:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/ConfigsHub
@@ -229,7 +230,6 @@ vless://33586eec-0e06-555d-b0e4-ea4852798b02@v-04.artemis-vpn-tl.org:80?type=tcp
 vless://33586eec-0e06-555d-b0e4-ea4852798b02@v-02.artemis-vpn-tl.org:80?type=tcp&headerType=http&path=/@Artemis_Vpn#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0paakdpTllqUUo1Y2xMd0xjZUNw@h110vpnde.outlinekeys.net:21712#[🇩🇪]t.me/ConfigsHub
 vless://Telegram--SRCVPN@91.107.133.198:3090?mode=gun&security=reality&encryption=none&authority=-%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN---%40SRCVPN&pbk=IBTQswLX4U6WI_tl305r8FKwhZoCka5nW0_idDXLUlo&fp=chrome&spx=%2F&type=grpc&sni=journalofbigdata.springeropen.com&sid=eb91f5c0#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWFFvY2JwSUk2Y01nTnVNSzV4Q2xR@85.208.139.158:25607#[🇩🇪]t.me/ConfigsHub
 vless://2a5db195-0d58-40a5-a4c2-432711b01056@151.101.66.133:443?security=tls&sni=awarasleep.com&type=ws&host=ks.com&path=%2Fws&fp=random&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://Parsashonam-Bot-5@185.146.173.39:8080?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
 vless://a8eeae9f-0170-4d73-9c21-4d868469c6e2@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
