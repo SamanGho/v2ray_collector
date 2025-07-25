@@ -1,3 +1,4 @@
+trojan://NISHIKUITAN111@104.24.10.122:443?#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.111:8090#[🇺🇸]t.me/ConfigsHub
 trojan://WOeXShhJpL@172.67.67.64:443?security=tls&type=ws&sni=09jzus.zdzdzd.xyz&path=/juzigongyi&host=09jzus.zdzdzd.xyz#[🇨🇦]t.me/ConfigsHub
 trojan://blue2024@104.19.185.248:443?sni=td.promote.icu#[🇨🇦]t.me/ConfigsHub
@@ -66,7 +67,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.248:8880/?type=ws&encrypt
 trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@104.21.78.243:443/?type=ws&host=ssssssssddddddddfffffffg.7282728.xyz&path=%2Fxa846InEcmjyiKVby2Lp&security=tls&sni=SSSSsssSDDDdDdddFfffFFFG.7282728.XyZ&alpn=http%2F1.1&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.235.158.171:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#[🇺🇸]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE5NS41OC40OC4yMjAiLCAicG9ydCI6ICI3ODA2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIxYzE3ZjE0Ni1mMzJjLTQxMTQtODhlYi01NmRkNGUxNjA1NzciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.107:8880/?type=ws&encryption=none&flow=&host=sk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2#[🇬🇧]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.5:9101#[🇺🇸]t.me/ConfigsHub
 trojan://NISHIKUITAN111@104.21.26.75:443?#[🇨🇦]t.me/ConfigsHub
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@fonts.net:443/?type=ws&encryption=none&flow=&host=rAyAn-12.LeIlA.DpDnS.OrG&path=%2F%40rayan_config&security=tls&sni=rAyAn-12.LeIlA.DpDnS.OrG#[🇨🇦]t.me/ConfigsHub
