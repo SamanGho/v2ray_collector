@@ -1,3 +1,6 @@
+vless://96095804-6e2b-4ed4-8bd5-49c28cb73679@194.182.79.64:14074?mode=gun&security=reality&encryption=none&pbk=B-hICgbbnIsubfTgqZknMtYp-iY1VndOynbv_iXcEng&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=61#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.169.143.172:443#[🇬🇧]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.1:8880/?type=ws&encryption=none&flow=&host=sk.laoyoutiao.link&path=%2FTelegram#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.44.96.105:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://NISHIKUITAN111@104.25.101.27:443?#[🇨🇦]t.me/ConfigsHub
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443/?type=ws&encryption=none&flow=&host=rAyAn-12.LeIlA.DpDnS.OrG&path=%2F%40rayan_config&security=tls&sni=rAyAn-12.LeIlA.DpDnS.OrG#[🇳🇱]t.me/ConfigsHub
@@ -245,6 +248,3 @@ trojan://tunnel-astrovpn_official_de@de-1.stunnel.cc:8441?path=AstroVPN_Official
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm8@pl-1.stunnel.cc:8444#[🏁]t.me/ConfigsHub
 vless://d1bcd5ee-7bdb-4de9-9aa7-48f54a97390d@uuk5v.tok8888.com:8443?security=reality&encryption=none&pbk=kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com.cn#[🇺🇸]t.me/ConfigsHub
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&security=&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=random&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.70.114:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
-trojan://telegram-id-directvpn@35.157.70.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vless://977e8086-fd41-4362-a51a-8b0c95dfa0df@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
