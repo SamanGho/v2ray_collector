@@ -1,3 +1,5 @@
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@reality-sub.arvancloud.online:44443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=randomized&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&spx=%2F&type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@185.143.232.224:80?encryption=none&security=none&type=ws&host=bama.ir.german.cdnir.org&path=%2Fnews#[🇮🇷]t.me/ConfigsHub
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=%2F&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=%2F#[🇳🇱]t.me/ConfigsHub
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?security=tls&encryption=none&host=vless8-ekh.pages.dev&type=ws&sni=vless8-ekh.pages.dev#[🏁]t.me/ConfigsHub
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?security=tls&encryption=none&host=vless8-ekh.pages.dev&type=ws&sni=v5less8-ekh.pages.dev#[🏁]t.me/ConfigsHub
@@ -53,7 +55,6 @@ vless://bca5e4b5-6a66-4532-8d6f-52c76444200a@62.60.214.174:18525?security=&encry
 vless://57aeb444-ec88-4693-bb76-95b5c4620b6d@tgju.org:80?encryption=none&security=none&type=ws&host=DASHiNg-grade.OnEEaT.CO&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?security=&type=ws&path=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed%3D2560&host=vngsupply.ip-ddns.com&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://66816f2a-4a3e-4697-e24a-9d219589b9e8@203.161.47.109:21901?type=tcp&security=none#[🇺🇸]t.me/ConfigsHub
-vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@tr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#[🇹🇷]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@62.72.166.15:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#[🏁]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.1:8880?security=&type=ws&host=yd.laoyoutiao.link&encryption=none#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4OVhFS2VsZ1B6ZWV5ekw3Z3o1UzhC@h110vpnus.outlinekeys.net:9483#[🇺🇸]t.me/ConfigsHub
@@ -154,7 +155,6 @@ vless://c4f36507-976b-431a-a10c-583abceb89ea@sakotak.storecoco.online:42072?type
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.92:8880?path=%2F7YVyoVNnbaVzgl6D%3Fed%3D2560&security=&encryption=none&host=vghavi32.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8880?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=&encryption=none&host=mastomosir.motorphrotan.ir.&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2082?security=none&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.176.119.129:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://58f72541-e3f3-489f-9258-dd335ca24ba1@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#[🏁]t.me/ConfigsHub
 vless://33586eec-0e06-555d-b0e4-ea4852798b02@v-06.artemis-vpn-tl.org:80?type=tcp&headerType=http&path=/@Artemis_Vpn#[🇮🇷]t.me/ConfigsHub
