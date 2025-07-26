@@ -1,3 +1,4 @@
+trojan://NISHIKUITAN111@104.21.26.75:443?#[🇨🇦]t.me/ConfigsHub
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@fonts.net:443/?type=ws&encryption=none&flow=&host=rAyAn-12.LeIlA.DpDnS.OrG&path=%2F%40rayan_config&security=tls&sni=rAyAn-12.LeIlA.DpDnS.OrG#[🇨🇦]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.230:8880/?type=ws&encryption=none&flow=&host=sk.laoyoutiao.link&path=%2F%5BByEbraSha%5D#[🇬🇧]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.42:8880/?type=ws&encryption=none&flow=&host=sk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#[🇬🇧]t.me/ConfigsHub
@@ -212,7 +213,6 @@ vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=%2Fv2ray_conf
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2F---%40v2ray_configs_pools---%40v2ray_configs_pools---%40v2ray_configs_pools---%40v2ray_configs_pools---%40v2ray_configs_pools&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTo5OTo3ODpENDo5OTozMTpDMzpBQzowQjo2QzoxMTo2RDo1RjoxQjpBODpBNTo3RjowODowODoyODowMjozQzpDODo5NToyNjo2Mzo5QTpCMDozQjoxODo2MjozNQ%3D%3D@tur.fastsoonlink.com:40019#[🇹🇷]t.me/ConfigsHub
 vless://ffeade9e-bbb6-4e18-865a-297a88b1a82e@159.65.20.188:54842?security=reality&type=grpc&headerType=&serviceName=t.me/entryNET&authority=&mode=gun&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=YHM42QLc0uBoE8Bh5u4G_NUCA5S9CXPf6cb80-S-bgA&sid=56e4a920d89b2912#[🇬🇧]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMjNEdENyNlNMZjdPcXhDZm9KY1Js@h110vpnch.outlinekeys.net:4248#[🏁]t.me/ConfigsHub
 vless://2d886b86-0b67-42cb-be4a-5d5480422df7@dns.hosseinjadgall.sbs:443?type=ws&path=%2F%3Fed%3D2048&host=speedtest.net&security=none#[🇺🇸]t.me/ConfigsHub
 vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.75.125:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&alpn=http/1.1,h2#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMTA0LjIzOS43Mi4yNDEiLCAidiI6ICIyIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiMjQ4YmU1MmItMzVkOS0zNGNiLTliNzMtZTEyYjc4YmMxMzAxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIlRHLldhbmdDYWkyLnMyLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4iLCAidGxzIjogIiJ9
