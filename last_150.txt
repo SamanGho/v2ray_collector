@@ -1,3 +1,6 @@
+vless://c32819a3-bb1c-4e15-be00-ffcb657f8323@dl1-de-cdn.easy-upload.org:2010?security=none&encryption=none&host=gharar.ir&headerType=none&type=tcp#[🇨🇦]t.me/ConfigsHub
+vless://1982d00b-a2de-46b3-b6ac-a3c809767db2@104.18.58.47:2087?path=%2FTelegram%40FreeConnection_VPN%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=NeT.rPtMsVmVm.ToP&fp=randomized&type=ws&sni=NeT.RpTmSvMVm.ToP#[🇨🇦]t.me/ConfigsHub
+vless://cbfbc5e3-4b53-4854-931e-c9ac61719636@104.24.0.137:8080?type=httpupgrade&host=in2772.novintecc.ORG.&path=/khkdjhsd?ed%3D2048#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiODI3ZjA3LjRjMzhmMDllLnNob3AiLCAiYWlkIjogMCwgImhvc3QiOiAiaGswNHMuNGMzOGYwOWUuc2hvcCIsICJpZCI6ICI5NTI3OTdiNi0yMWEwLTRlNjYtOTIzOS0zMGVmNWMwZWZjZGYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhcdTAwYWVcdWZlMGZVbml0ZWQgU3RhdGVzXHUwMGE5XHVmZTBmV2FzaGluZ3RvbiBELkMuXHVkODNjXHVkZDdmXHVmZTBmcGluZzo4LjkxbXMifQ==
 vless://bca5e4b5-6a66-4532-8d6f-52c76444200a@62.60.214.174:18525?security=&encryption=none&headerType=&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://57aeb444-ec88-4693-bb76-95b5c4620b6d@tgju.org:80?encryption=none&security=none&type=ws&host=DASHiNg-grade.OnEEaT.CO&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
@@ -181,7 +184,6 @@ vless://45beb77a-9413-4e97-b148-cb219cf4a9b5@cert.gamberonvps.ir:28076?security=
 vless://aaacbcb-acab-acab-abdc-bccaabcabcba@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiNmI3MWYyNjgtc3Y0bjQwLXRkaDl3Ny1haHNiLmhrMy5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAicG9ydCI6IDgwLCAiaWQiOiAiMmU0MmMxZWUtYWFhYS0xMWVjLWJiNzQtZjIzYzkxNjRjYTVkIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.181:443#[🇬🇧]t.me/ConfigsHub
-vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:8710?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiNGMyYzAyYjktc3Yyc2cwLXN2NzVsai0xc3dmOS5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInBvcnQiOiA4MCwgImlkIjogIjJiYjFlZGM4LWZhNWQtMTFlZi05ZGQ5LWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 vmess://eyJhZGQiOiAiZmUzYTk0MzItc3YweHMwLXN5d2toaS0xbzRrdi5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInBvcnQiOiA4MCwgImlkIjogIjg3YjMxYTAyLTE3MmUtMTFlZS1hMTFmLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 vmess://eyJhZGQiOiAiOTdmYjI0YjEtc3YweHMwLXN2eGZxby0xaGZ5dS5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInBvcnQiOiA4MCwgImlkIjogImFiMDE0N2U0LWU2NzMtMTFlZS04MDU4LWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
@@ -243,8 +245,6 @@ vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?type=xhttp&mode=s
 vless://20ed210a-c5e7-4378-bd93-bae4d8580543@ov-germany4.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
 trojan://Z5%2B%21cnPuRr%21%2BX7f%26@188.42.89.96:2096?path=%2Ftrep7IDWJcI0KhhM0u%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=little-darkness-6057.edwardferank0923.workers.dev&fp=randomized&type=ws&sni=lITTle-darKness-6057.eDWARDFERaNK0923.WORKERS.dev#[🇳🇱]t.me/ConfigsHub
 trojan://Aimer@178.128.198.120:8443?sni=ngepz.ambercc.filegear-sg.me#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@54.93.49.62:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&type=ws&packetEncoding=xudp&encryption=none#[🇩🇪]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.93.49.62:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowcWFBeWtNSEVVbUNBMHhMNExaZFI1@147.45.114.160:45651#[🇳🇱]t.me/ConfigsHub
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.136:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=1n.bgm2024.dpdns.org&type=ws&sni=1n.bgm2024.dpdns.org#[🏁]t.me/ConfigsHub
