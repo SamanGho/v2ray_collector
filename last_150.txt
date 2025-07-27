@@ -1,3 +1,4 @@
+vless://76d15fc1-0e3e-4e2f-8a96-371a3faca564@151.101.67.8:80?mode=auto&path=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN&security=none&encryption=none&host=hajimamad.com&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://44418051-6e79-51ec-adeb-cdc594f4ec00@45.88.183.53:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=45.88.183.53&path=%2Fvless#[🇮🇳]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUUnRmVjZydUJwRFJ4QVV5aWpmdHZE@77.105.166.12:8594#[🇫🇷]t.me/ConfigsHub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.222.98:8880?encryption=none&security=none&sni=VngSupply.Ip-DdNS.com&alpn=http%2F1.1&fp=chrome&type=ws&host=vngsupply.ip-ddns.com&path=%2FuLF6HXZ7986oF7Yg%3Fed#[🇨🇦]t.me/ConfigsHub
@@ -195,7 +196,6 @@ trojan://NISHIKUITAN111@104.20.102.167:443?allowInsecure=0#[🇺🇸]t.me/Config
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FS%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://bpb-trojan@172.67.70.92:443?security=tls&sni=zamim340.ggff.net&allowInsecure=1&type=ws&path=/tr?ed%3D2560&host=zamim340.ggff.net#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN111@198.41.223.136:443?allowInsecure=0#[🇨🇦]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&encryption=none&type=grpc#[🇬🇧]t.me/ConfigsHub
 vless://45beb77a-9413-4e97-b148-cb219cf4a9b5@cert.gamberonvps.ir:28076?security=reality&encryption=none&pbk=aFAL9AlapF2P4VEIiGOf4O_E-Z1wryr1AnACoBgpgCg&host=ceRT.GAMbErONvps.ir&headerType=http&fp=chrome&spx=%2FYDswk7qOWTNt5tp&type=tcp&sni=www.zula.ir&sid=5e8fd8#[🇩🇪]t.me/ConfigsHub
 vless://aaacbcb-acab-acab-abdc-bccaabcabcba@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiNmI3MWYyNjgtc3Y0bjQwLXRkaDl3Ny1haHNiLmhrMy5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAicG9ydCI6IDgwLCAiaWQiOiAiMmU0MmMxZWUtYWFhYS0xMWVjLWJiNzQtZjIzYzkxNjRjYTVkIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
