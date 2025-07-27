@@ -1,3 +1,4 @@
+vless://2f6062b4-47a8-4e7e-a45f-890bd05b7964@65.109.208.147:46980?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=cLO22Vq2cIZoIKmLfvbNX5_PQi7G2QGY-XxzMFrGfRY&sid=6d58&spx=%2F&type=grpc&authority=&serviceName=t.me/entryNET&mode=gun#[🇫🇮]t.me/ConfigsHub
 vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc1@104.21.48.1:2083?mode=auto&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D2083%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=tls&alpn=h3&encryption=none&fp=chrome&type=xhttp&sni=cho.chonon.sbs#[🇨🇦]t.me/ConfigsHub
 vless://8938d63f-7dda-43be-9a1e-819adac28297@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smiTs.joOjehtor.it.cOm&fp=chrome&type=ws&host=smiTs.joOjehtor.it.cOm&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://88d6a1c5-d970-4236-88ff-ca0bb28f68cd@kafshu.ir:8080?path=%2F%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet&security=none&encryption=none&host=inFo.laLezaRanegomaNandish.sNap.ir.snapfoodsuppoRt.onlIne.&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -199,7 +200,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=&encrypt
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
 vless://b964fb31-5e68-41d5-8d23-76223ba3a952@essi.blacklike.ir:8443?path=%2F%3Fed%3D2048&security=none&encryption=none&host=skyroom.online&type=ws#[🏁]t.me/ConfigsHub
 vless://0d482f53-d06f-4583-80b2-b12c9072afc6@172.105.135.204:443?mode=stream-one&path=%2F&security=none&encryption=none&type=xhttp#[🇺🇸]t.me/ConfigsHub
-vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&host=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.39:2052?path=%2F&security=none&encryption=none&type=ws#[🇬🇧]t.me/ConfigsHub
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&allowinsecure=0&type=ws&sni=kawaiifreevpn-7ds.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.29:2082?path=%2F&security=none&encryption=none&type=ws#[🇬🇧]t.me/ConfigsHub
