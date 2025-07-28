@@ -1,3 +1,4 @@
+vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?security=reality&encryption=none&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&headerType=none&fp=chrome&spx=%2F%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%3Fed%3D2560&type=tcp&sni=yahoo.com&sid=816473be23c2#[🏁]t.me/ConfigsHub
 vless://e8782408-3369-49ac-b576-7b779485eb1b@cloud11.oniichan.ir:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=cloud11.oniichan.ir#[🇨🇦]t.me/ConfigsHub
 trojan://7778e684-f435-4166-bf9e-0256cb28bf10@15.197.162.184:443/?type=tcp&security=tls&sni=download2hkt.windowsupdate.lol&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 vless://788175d0-e62d-4d36-b5f7-0cc8651df08f@151.101.130.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws%2F%3Fed%3D2052#[🇨🇦]t.me/ConfigsHub
@@ -240,7 +241,6 @@ vless://9e2e9775-3156-471c-8f00-8a8c2d8f1358@www.speedtest.net:2095?path=%2Fhajm
 vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@tgju.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
 vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@www.speedtest.net:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
 vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
-vmess://eyJhZGQiOiIwLjAuMC4wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRjOWM1MDZiLTczZTktNGNiMS05OTUzLTZmNGQ1YzRlZjNiZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTEiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://0632ea63-9024-4b2a-ba21-705c8a55c2a3@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
 vless://0632ea63-9024-4b2a-ba21-705c8a55c2a3@tgju.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
 vless://0632ea63-9024-4b2a-ba21-705c8a55c2a3@chat.deepseek.com:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
