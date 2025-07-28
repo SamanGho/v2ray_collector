@@ -1,3 +1,6 @@
+vless://19b3cbba-e6ac-485a-9481-926a0415eab2@104.21.57.76:443?encryption=none&security=tls&sni=SHriLl-TERM-639b.tAGElIt414.WoRKErS.Dev&fp=chrome&type=ws&path=%2F#[🇨🇦]t.me/ConfigsHub
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.16.1:443?encryption=none&security=tls&sni=bypassfilter.cmyyvat.workers.dev&fp=chrome&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%40bypass_filter%2F%3Fed%3D100#[🇨🇦]t.me/ConfigsHub
+vless://64a125b1-4a57-4a64-bfb2-7dc6866c55bc@50.7.85.221:443?encryption=none&security=tls&sni=kosesher2.nayase6031.workers.dev&fp=chrome&type=ws&host=kosesher2.nayase6031.workers.dev&path=%2F%3Fed%3D2048#[🇩🇪]t.me/ConfigsHub
 vless://80d32ddd-c0ac-4eb6-8a2a-3b27b23f32b4@104.16.132.187:80?encryption=none&security=none&type=ws&host=icy-cherry-b8af-ppal03.givay59005.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://71dce9af-d790-4b38-a1fd-7745e0923bd3@172.67.214.223:443?encryption=none&security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#[🇩🇪]t.me/ConfigsHub
@@ -241,10 +244,7 @@ vless://42808c59-4d9e-46ee-a9c4-33e7c31ce9e3@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://3056458b-913a-4193-b428-cdf22675b3b5@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2Fydgmopws&security=tls&encryption=none&host=638890562127852879.amsterdam-prx-dnraaal.info&type=ws&sni=638890562127852879.amsterdam-prx-dnraaal.info#[🇨🇦]t.me/ConfigsHub
 vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@wolf559.royalmt.life:10065?security=none&encryption=none&type=ws#[🏁]t.me/ConfigsHub
 vless://d5f63b9e-780a-472a-9d1b-e2088087a037@194.182.79.252:37814?mode=gun&security=reality&encryption=none&pbk=rk5UKshtrRPf3achXqaxQgA-7EryZABGx6fSXv35D14&fp=chrome&spx=%2F&type=grpc&serviceName=t.me/entryNET&sni=journalofbigdata.springeropen.com&sid=10a5#[🏁]t.me/ConfigsHub
-vless://c2119039-2558-4225-8b34-187580f7225c@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://c5b0769f-627b-458a-bb57-af0fd476a963@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=&type=grpc&encryption=none#[🇫🇷]t.me/ConfigsHub
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.141:2087?mode=gun&security=tls&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
-vless://ca9c984f-8c42-4fd0-832f-11459e7a6255@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://b289ac66-a5a7-4bd5-9e06-7be68dd99020@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fbexbghws&security=tls&encryption=none&host=638890561652288825.esfahan-prx-dnraaao.info&type=ws&sni=638890561652288825.esfahan-prx-dnraaao.info#[🇨🇦]t.me/ConfigsHub
 vless://9e2e9775-3156-471c-8f00-8a8c2d8f1358@www.speedtest.net:2095?path=%2Fhajmi%3Fed%3D2050&security=none&encryption=none&host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-De.85858599.xYz.&type=ws#[🇨🇦]t.me/ConfigsHub
