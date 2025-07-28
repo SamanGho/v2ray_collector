@@ -1,3 +1,4 @@
+vless://7f4d81cb-5f08-436b-b961-64cd99b1de51@zz1.1010991.xyz:2052/?type=ws&encryption=none&flow=&host=syyn-us2-FMFtdrS3HI.1095830.xyz&packetEncoding=xudp#[🇨🇦]t.me/ConfigsHub
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=chrome&security=reality&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#[🇸🇪]t.me/ConfigsHub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.131.154:8880/?type=ws&encryption=none&flow=&host=vngsupply.ip-ddns.com&path=%2FC5itOz6YmbLanD7F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://655a6618-4d41-46e8-a8e1-9e9f47798985@45.80.230.190:65076?security=reality&encryption=none&pbk=F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw&headerType=none&fp=randomized&spx=%2F&type=tcp&sni=stackoverflow.com&sid=f481#[🏁]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3Dzani.yae
 vless://6dcfa5c4-fc09-48fd-90d7-115f0bcb27bb@194.182.79.231:48785?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=rTUkj6jwNqJ4nE3ZxEOMIjRfkfj7agzEgIo2v6H4n3Q&sid=e965cb63a452&spx=/&type=grpc&serviceName=t.me/entryNET&encryption=none#[🏁]t.me/ConfigsHub
 trojan://vpn@109.120.132.142:2025?encryption=none&security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#[🇸🇪]t.me/ConfigsHub
 vless://815d62b0-6838-424d-97c6-cca58ba97381@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=eDi.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=eDi.SpEeDtEsT2029.CoM#TLS2-ALL%20%7C%20%40ArV2ray
