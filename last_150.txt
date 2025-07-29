@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiAiMTA0LjIzOS43Mi4yNDEiLCAidiI6ICIyIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiMjQ4YmU1MmItMzVkOS0zNGNiLTliNzMtZTEyYjc4YmMxMzAxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIlRHLldhbmdDYWkyLnMyLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4iLCAidGxzIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjkyLjUzLjE5MS4xNzMiLCAicG9ydCI6ICIyMDgyIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiaXAxOC42OTI5MTk4Lnh5eiIsICJ0bHMiOiAiIn0=
 trojan://NISHIKUITAN111@104.24.177.24:443?allowInsecure=0#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN111@104.24.54.196:443?allowInsecure=0#[🇨🇦]t.me/ConfigsHub
@@ -235,7 +236,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%3Dzani.yaem
 vless://30c95522-5915-4eda-ade8-66c011d0f62c@mw.soft98speedtest.ir:2087?host=&path=%2Fscer&security=none&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://30c95522-5915-4eda-ade8-66c011d0f62c@msx.soft98speedtest.ir:2087?host=&path=%2Fscer&security=none&type=ws#[🇬🇧]t.me/ConfigsHub
 vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@65.109.202.24:10925?path=%2F&security=none&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@wolf560.royalmt.life:10925?path=%2F&security=none&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.99.96.248:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
