@@ -1,3 +1,4 @@
+vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129?security=reality&encryption=none&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d70393f0ad1c7552#[🇷🇺]t.me/ConfigsHub
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=%2Flfcinsws&security=tls&encryption=none&type=ws#[🇹🇷]t.me/ConfigsHub
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.68.90:2020?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
@@ -25,7 +26,6 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.165.71.144:2222?security=none&ty
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.146.19:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://Parsashonam-290@185.146.173.39:8880?type=httpupgrade&host=De.Parsashonam.CfD.&path=/Parsashonam-Parsashonam-Parsashonam/?ed%3D2056&security=none#[🇸🇪]t.me/ConfigsHub
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#[🏁]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#[🇬🇧]t.me/ConfigsHub
 vless://20ed210a-c5e7-4378-bd93-bae4d8580543@ov-germany4.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
 trojan://Z5%2B%21cnPuRr%21%2BX7f%26@188.42.89.96:2096?path=%2Ftrep7IDWJcI0KhhM0u%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=little-darkness-6057.edwardferank0923.workers.dev&fp=randomized&type=ws&sni=lITTle-darKness-6057.eDWARDFERaNK0923.WORKERS.dev#[🇳🇱]t.me/ConfigsHub
 trojan://Aimer@178.128.198.120:8443?sni=ngepz.ambercc.filegear-sg.me#[🇩🇪]t.me/ConfigsHub
