@@ -1,3 +1,4 @@
+vless://1e9c7418-f009-4889-91e2-abdabd007cbb@www.speedtest.net:2095?path=%2F&security=none&encryption=none&host=18node.frsee.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&security=&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=random&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#[🇨🇦]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=&encryption=none&type=grpc&sni=pqh25v7.waipdirect.shop#[🏁]t.me/ConfigsHub
@@ -104,7 +105,6 @@ vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?securit
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3Dzani.yaemiko.ggff.net%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[🇨🇦]t.me/ConfigsHub
 vless://6dcfa5c4-fc09-48fd-90d7-115f0bcb27bb@194.182.79.231:48785?security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=rTUkj6jwNqJ4nE3ZxEOMIjRfkfj7agzEgIo2v6H4n3Q&sid=e965cb63a452&spx=/&type=grpc&serviceName=t.me/entryNET&encryption=none#[🏁]t.me/ConfigsHub
 trojan://vpn@109.120.132.142:2025?encryption=none&security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#[🇸🇪]t.me/ConfigsHub
-vless://815d62b0-6838-424d-97c6-cca58ba97381@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://a38f4d99-8726-3484-8341-91eb513e7a3c@gy.58n.net:20130?allowInsecure=0&sni=x130.flybar.work#[🏁]t.me/ConfigsHub
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&host=---TELEGRAM---V2XAY---V2XAY---V2XAY---V2XAY---&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#[🇧🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWW9qZTF0a0ZCbXo0WjBPcHRXcTBn@athe.kimjo.ir:9007#[🇩🇪]t.me/ConfigsHub
