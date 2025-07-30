@@ -1,3 +1,4 @@
+vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?path=%2Fteqalfws&security=tls&encryption=none&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.187:2052?security=&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.41:2052?security=&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
 vless://aa1aac84-6a86-41b9-bd34-1a036e06976f@185.250.181.128:16106?security=reality&encryption=none&pbk=FnkrwrjQqktvwxPvLn7KyWZIq8bUAvVaeCrI_VhAZ34&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3b6239cf6fd84dd3#[🇳🇱]t.me/ConfigsHub
@@ -238,7 +239,6 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@159.112.235.254:8880/?type=ws&encry
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@89.116.250.3:8880/?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#[🏁]t.me/ConfigsHub
 vless://7bcb1c0c-4134-46f2-a010-13f60dab1649@speedtest.net:80?mode=auto&path=%2Fipcf%3Fed%3D2048&security=&encryption=none&host=ukboss.global.ssl.fastly.net&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiIyMTYuMTI4LjE0OS4zMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3M2ViNjQ1Mi0yMWU1LTQyMDUtYmQzNi01OWEyMGE1MjE3YmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Ilvwn4e68J+HuF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://ed5e16c9-ef94-4b34-b95b-4cfc0c4a4b81@5.223.59.155:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
 vless://ed5e16c9-ef94-4b34-b95b-4cfc0c4a4b81@85.133.221.5:8686?security=&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://0d7c7ed3-d23b-4441-a19f-dcd5077bafc4@5.160.144.73:3232?security=&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Rkc3aUNkYU9CVDAxeVc1MEprOVNqRWg0L3Uya1dkdVVVanNkTlRYbnFNST06SFo4T0tWL2txbmtzNUU4SWZRQkt4dmc3RlZleEdzOTJvYlhrTkZqb2pzND0%3D@91.107.146.208:20042#[🇩🇪]t.me/ConfigsHub
