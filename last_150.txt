@@ -1,13 +1,3 @@
-vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?path=%2Fteqalfws&security=tls&encryption=none&type=ws#[🇫🇷]t.me/ConfigsHub
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.187:2052?security=&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.41:2052?security=&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
-vless://aa1aac84-6a86-41b9-bd34-1a036e06976f@185.250.181.128:16106?security=reality&encryption=none&pbk=FnkrwrjQqktvwxPvLn7KyWZIq8bUAvVaeCrI_VhAZ34&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3b6239cf6fd84dd3#[🇳🇱]t.me/ConfigsHub
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@dl1-fi-cdn.easy-upload.org:80?path=%2F&security=&encryption=none&host=dl1-fi-cdn.easy-upload.org&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://27f2ce3b-7488-4078-8887-b9c129bddc3f@86.48.24.154:5900?security=&encryption=none&headerType=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.187.196:8443?path=%2F&security=tls&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
-vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129?security=reality&encryption=none&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d70393f0ad1c7552#[🇷🇺]t.me/ConfigsHub
-vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=%2Flfcinsws&security=tls&encryption=none&type=ws#[🇹🇷]t.me/ConfigsHub
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.68.90:2020?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:8710?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://adfd1c1f-536d-4906-ba2f-50fc577c910d@178.62.52.165:18907?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇬🇧]t.me/ConfigsHub
@@ -248,3 +238,13 @@ vless://f313dfe7-e115-4f9e-b0e4-c4d475e831fc@5.223.59.155:443?security=&encrypti
 vless://9c34c153-3430-4147-9aaa-a8c4b6a37fea@85.133.221.5:8686?security=&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://6133f136-12cd-4eb7-8412-e05b1313cc7f@5.160.144.73:3232?security=&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://6133f136-12cd-4eb7-8412-e05b1313cc7f@85.133.221.5:8686?security=&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.192.89.212:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.190.180:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#[🇫🇮]t.me/ConfigsHub
+vless://87b9318e-60d7-4d3f-907f-e74cb7607b59@hp.mastertunnel.shop:8080?path=%2F&security=&encryption=none&host=refersion.com&type=ws#[🏁]t.me/ConfigsHub
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&encryption=none&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.192.89.212:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:25936?security=none&encryption=none&type=tcp&host=canva.com&path=/&headerType=http#[🇩🇪]t.me/ConfigsHub
+vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?type=xhttp&path=%2Fgftrdd%3Fed%3D2560&host=take4.global.ssl.fastly.net&mode=auto&security=none#[🇨🇦]t.me/ConfigsHub
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@104.248.173.95:443?security=reality&encryption=none&type=xhttp#[🇬🇧]t.me/ConfigsHub
+vless://telegram,ISVvpn@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=eDg.IsVcLoD.cOm&fp=chrome&type=ws&sni=eDg.IsVcLoD.cOm#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBnQDQ1Ljg3LjE3NS4xNTQ6ODA4MA==#[🏁]t.me/ConfigsHub
