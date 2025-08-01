@@ -1,3 +1,4 @@
+trojan://a38f4d99-8726-3484-8341-91eb513e7a3c@gy.58n.net:20130?allowInsecure=0&sni=x130.flybar.work#[🏁]t.me/ConfigsHub
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&host=---TELEGRAM---V2XAY---V2XAY---V2XAY---V2XAY---&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#[🇧🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWW9qZTF0a0ZCbXo0WjBPcHRXcTBn@athe.kimjo.ir:9007#[🇩🇪]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2052?path=%2F%3F---Join-TELEGRAM-V2XAY&security=&encryption=none&type=ws#[🇬🇧]t.me/ConfigsHub
@@ -234,7 +235,6 @@ vmess://eyJhZGQiOiJjcGFuZWwuZXJhZGUzMi5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vless://2a5f722a-7944-42e7-9981-387d612d05d1@v2shop-tr2.bing-net.com:3039?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub
 vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.240.60:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
 vless://ea58dac7-6ca9-448a-aeff-af1ac5070acf@gb01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#[🇬🇧]t.me/ConfigsHub
-vless://dc9a231a-bb20-45a1-9b56-78607c0db0a9@cert.aivpn.online:46643?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.240.58:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.156:443?type=xhttp&mode=stream-one&path=/ad?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#[🏁]t.me/ConfigsHub
 vless://fff06d0f-2b73-4070-a080-655520759009@5.75.203.17:37097?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
