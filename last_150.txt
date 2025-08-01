@@ -1,3 +1,4 @@
+vless://9e2e9775-3156-471c-8f00-8a8c2d8f1358@104.26.6.89:443?path=%2Fhajmi%3Fed%3D2050&security=tls&encryption=none&fp=chrome&type=ws&sni=nb-en.nitter.ir#[🇨🇦]t.me/ConfigsHub
 vless://3cd659ac-a0cf-4b24-f5ff-16d6538a5f71@104.21.112.1:8080?security=&type=ws&path=/@TeleProxyTele----@TeleProxyTele-----@TeleProxyTele----@TeleProxyTele----@TeleProxyTele----@TeleProxyTele----@TeleProxyTele----@TeleProxyTele----@TeleProxyTele----@TeleProxyTele----@TeleProxyTele----@TeleProxyTele?ed%3D2480&host=join-to-unlimiteddev.sabadyt.ir&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.67.91.177:2087/?type=ws&encryption=none&flow=&host=smart.v2plusify.org&path=%2F&security=tls&sni=smart.v2plusify.org&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh24v6.hiddendom.shop&alpn=h2&type=grpc&host=pqh24v6.hiddendom.shop#[🇨🇦]t.me/ConfigsHub
@@ -245,6 +246,5 @@ vless://Parsashonam-Bot-9@185.146.173.39:8080?host=De.Parsashonam.CfD.&type=http
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?mode=auto&path=%2Fds&security=none&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#[🇺🇸]t.me/ConfigsHub
 vless://543bfa2a-9d74-4e5f-a461-9ddf119cc5f8@Www.speedtest.net:2095?path=%2F%40IRAN_V2RAY1...%3Fed%3D2560&security=none&encryption=none&host=Tak.vipmehspd.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
-vless://a972ae73-e222-4f1d-9361-3c3c3380358a@mtun.mtechnet.ir:18080?host=speedtest.net&type=tcp&security=none&encryption=none&headerType=http#[🇮🇷]t.me/ConfigsHub
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@162.120.94.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram#[🇺🇸]t.me/ConfigsHub
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&encryption=none#[🇺🇸]t.me/ConfigsHub
