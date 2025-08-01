@@ -1,3 +1,4 @@
+vless://ea5351df-68ef-4416-a861-33e56ea72343@165.232.82.89:8990?note=Telegram———@NetifyVPN———|Telegram———@NetifyVPN———|Telegram———@NetifyVPN———|Telegram———@NetifyVPN———&security=reality&encryption=none&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=9912311de4630f2d#[🇳🇱]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwMy4xODEuMTY1LjI2IiwgInBvcnQiOiA0OTU5NywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
 vmess://eyJhZGQiOiIxMDQuMTguMTE0LjIiLCJhaWQiOjAsImhvc3QiOiJtMS4xMDY3NzgueHl6IiwiaWQiOiI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLCJuZXQiOiJ3cyIsInBhdGgiOiJnaXRodWIuY29tXC9BbHZpbjk5OTkiLCJwb3J0Ijo4ODgwLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vless://815d62b0-6838-424d-97c6-cca58ba97381@xpanel-ir.panelfreedom.com:2093?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
@@ -233,7 +234,6 @@ vless://fff06d0f-2b73-4070-a080-655520759009@5.75.203.17:37097?security=none&enc
 vless://a396bc99-8614-4452-92e3-3c9f81c54588@45.89.107.235:443/?type=ws&encryption=none&flow=&path=%2Fattzctws&security=tls&allowInsecure=1#[🏁]t.me/ConfigsHub
 vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443/?type=ws&encryption=none&flow=&path=%2Fhqqprlws&security=tls&allowInsecure=1#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.181.208.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server514991469813933273.tas-bazi.com:443?mode=stream-one&path=%2Ffrf&security=none&encryption=none&type=xhttp#[🇫🇮]t.me/ConfigsHub
 vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443/?type=ws&encryption=none&flow=&path=%2Frsrjowws&security=tls&allowInsecure=1#[🇫🇷]t.me/ConfigsHub
 vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@185.138.164.3:2096/?type=ws&encryption=none&flow=&path=%2Ftjkqcpws&security=tls&allowInsecure=1#[🇬🇧]t.me/ConfigsHub
 vless://4bae5fe4-16a9-4c52-9056-3442b0f1b430@185.231.205.179:443/?type=ws&encryption=none&flow=&path=%2Fqurfvfws&security=tls&allowInsecure=1#[🇫🇷]t.me/ConfigsHub
