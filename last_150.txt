@@ -1,3 +1,5 @@
+vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&host=---TELEGRAM---V2XAY---V2XAY---V2XAY---V2XAY---&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#[🇧🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIWW9qZTF0a0ZCbXo0WjBPcHRXcTBn@athe.kimjo.ir:9007#[🇩🇪]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2052?path=%2F%3F---Join-TELEGRAM-V2XAY&security=&encryption=none&type=ws#[🇬🇧]t.me/ConfigsHub
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.17.148.22:8443?path=%2Ftrwidp0ENHXMUNX4bA%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ&security=tls&alpn=http%2F1.1&host=invincible.fafa20.shop&fp=randomized&type=ws&sni=inVinciBLe.fafa20.sHop#[🇨🇦]t.me/ConfigsHub
 vless://joinshotoV2rayNGFreee@151.101.67.8:80?mode=auto&path=%2F&security=none&encryption=none&host=az22.global.ssl.fastly.net&type=xhttp#[🇨🇦]t.me/ConfigsHub
@@ -237,7 +239,6 @@ vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.240.58:443/?type=ws&encrypt
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.156:443?type=xhttp&mode=stream-one&path=/ad?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#[🏁]t.me/ConfigsHub
 vless://fff06d0f-2b73-4070-a080-655520759009@5.75.203.17:37097?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://a396bc99-8614-4452-92e3-3c9f81c54588@45.89.107.235:443/?type=ws&encryption=none&flow=&path=%2Fattzctws&security=tls&allowInsecure=1#[🏁]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.208.153:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443/?type=ws&encryption=none&flow=&path=%2Fhqqprlws&security=tls&allowInsecure=1#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.181.208.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server514991469813933273.tas-bazi.com:443?mode=stream-one&path=%2Ffrf&security=none&encryption=none&type=xhttp#[🇫🇮]t.me/ConfigsHub
@@ -245,6 +246,5 @@ vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443/?type=ws&encrypti
 vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80?type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/vless/&security=none#[🇩🇪]t.me/ConfigsHub
 vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@185.138.164.3:2096/?type=ws&encryption=none&flow=&path=%2Ftjkqcpws&security=tls&allowInsecure=1#[🇬🇧]t.me/ConfigsHub
 vless://4bae5fe4-16a9-4c52-9056-3442b0f1b430@185.231.205.179:443/?type=ws&encryption=none&flow=&path=%2Fqurfvfws&security=tls&allowInsecure=1#[🇫🇷]t.me/ConfigsHub
-trojan://telegram-id-directvpn@35.181.208.153:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206c3RrVlVTdmlHZ3NiYkt4Z3dXMm93Z011aUJGMVJKekdoVkVqUFQ1b3hIUT06Y0JDVmg1cERIeGtuelN1cCtGYWRnUm1pMHI0cXI5Z2lkOWhISGNYT1g3ND0%3D@5.75.203.17:33898#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.181.208.153:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
