@@ -1,3 +1,6 @@
+vless://9379bbd7-96a6-4ea5-8c88-a1a9af932ec0@207.246.67.33:443?type=xhttp&path=%2F&host=&mode=stream-one&security=none#[🇺🇸]t.me/ConfigsHub
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.13.45.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegramU0001F1E8U0001F1F3%20%40WangCai2#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.36.217.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880?security=none&encryption=none&type=ws&host=VngSuPpLY.IP-DdnS.com&path=/#[🇦🇪]t.me/ConfigsHub
 vless://afb48f0d-0b6d-45a2-9ad0-500e30d0c2a0@50.116.26.252:443?mode=stream-one&path=%2F&security=none&encryption=none&type=xhttp#[🇺🇸]t.me/ConfigsHub
 vless://07f1493c-46dd-44ea-82e1-bb9c4a24aed0@rat5002.amrgpt.sbs:5002?security=&encryption=none&headerType=&type=tcp#[🇮🇷]t.me/ConfigsHub
@@ -240,11 +243,8 @@ vless://8938d63f-7dda-43be-9a1e-819adac28297@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://0e85f203-160e-4039-fb31-d62728b7acaa@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=%2Folem%2Fws%3Fed%3D1024#[🇨🇦]t.me/ConfigsHub
 vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&encryption=none&host=vPi.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=vPi.SpEeDtEsT2029.CoM#[🇨🇦]t.me/ConfigsHub
 vless://2a5f722a-7944-42e7-9981-387d612d05d1@v2shop-dubai1.bing-net.com:3038?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#[🇦🇪]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.85.17:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?path=%2Fvless%2F&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#[🏁]t.me/ConfigsHub
 vless://5402dc3b-206e-4ae8-a58d-4fd27a59e142@57.128.198.226:80?path=%2Fvless%2F&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#[🏁]t.me/ConfigsHub
 vless://59923b2e-c0f5-4260-b1fa-7da1d1f1c2ed@kafshu.ir:8080?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=none&encryption=none&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&type=ws#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@52.59.85.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vmess://eyJhZGQiOiJjcGFuZWwuZXJhZGUzMi5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXBsb2FkYm95LmNvbSIsImlkIjoiNzgyNzBlMjgtNzExNi00YjE0LTk1MzMtYTNlMDFjMWQ2ZjJkIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTAwIiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80?path=%2Fvless%2F&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#[🇬🇧]t.me/ConfigsHub
 vless://2a5f722a-7944-42e7-9981-387d612d05d1@v2shop-tr2.bing-net.com:3039?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[🇹🇷]t.me/ConfigsHub
