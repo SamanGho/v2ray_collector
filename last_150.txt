@@ -1,3 +1,4 @@
+vless://4414fd58-952b-4c7e-bb1d-f75f76d1c752@172.233.129.191:443?type=xhttp&path=%2F&host=&mode=stream-one&security=none#[🇺🇸]t.me/ConfigsHub
 vless://9379bbd7-96a6-4ea5-8c88-a1a9af932ec0@207.246.67.33:443?type=xhttp&path=%2F&host=&mode=stream-one&security=none#[🇺🇸]t.me/ConfigsHub
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.13.45.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegramU0001F1E8U0001F1F3%20%40WangCai2#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.36.217.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
@@ -228,7 +229,6 @@ vless://543bfa2a-9d74-4e5f-a461-9ddf119cc5f8@Www.speedtest.net:2095?path=%2F%40I
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@162.120.94.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram#[🇺🇸]t.me/ConfigsHub
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://9c942b13-72da-45e4-bdbe-0598679209c5@www.speedtest.net:80?path=%2F%40CUSTOMIZEROBOT---%40CUSTOMIZEROBOT---%40CUSTOMIZEROBOT---%40CUSTOMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
 vless://a3aff9fa-0e17-4b39-c80d-19fa9c038214@45.131.4.67:2086?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=cdn44.almass22.ir&type=httpupgrade#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkhpaVNjTXRncmk1QUxpTFlNeTV5@94.159.96.245:11902#[🇩🇪]t.me/ConfigsHub
 vless://c2d3226b-6618-496d-bc0f-7b93f492169a@194.182.79.65:43238?mode=gun&security=reality&encryption=none&pbk=XT1LHVlN21T2ml8nULA18Y4REuyaBNF9FM9PPcx89xs&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=e165dc66#[🏁]t.me/ConfigsHub
