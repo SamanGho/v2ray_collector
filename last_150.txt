@@ -1,3 +1,4 @@
+vless://edb4c373-ac92-4430-8f42-94439ca829b9@MAgicaL-fISh.sEOtoolsfOryoU.co.UK:80?path=%2F&security=&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://Telegram-@NetifyVPN-f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World#[🇨🇦]t.me/ConfigsHub
 vless://5fe4abb7-92e6-4390-a17c-fd887f2f1c93@185.251.82.170:2096?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D2048&security=tls&encryption=none&host=www.dollardoon.com&fp=chrome&type=ws&sni=www.dollardoon.com#[🏁]t.me/ConfigsHub
 vless://381a4e2b-9380-431c-94b3-58b529de0aef@doc.leperfume.ir:2323?mode=auto&path=%2FBmarz&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=book.leperfume.ir&type=xhttp#[🇺🇸]t.me/ConfigsHub
@@ -181,7 +182,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?security=tls&sni=
 vless://bcabaac-baac-cbaa-bcda-cacacbbabcab@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://Parsashonam-Bot-10@185.146.173.39:8080?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
 vless://Parsashonam-Bot-9@185.146.173.39:8080?host=De.Parsashonam.CfD.&type=httpupgrade&security=none&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&encryption=none#[🇸🇪]t.me/ConfigsHub
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?mode=auto&path=%2Fds&security=none&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#[🇺🇸]t.me/ConfigsHub
 vless://543bfa2a-9d74-4e5f-a461-9ddf119cc5f8@Www.speedtest.net:2095?path=%2F%40IRAN_V2RAY1...%3Fed%3D2560&security=none&encryption=none&host=Tak.vipmehspd.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@162.120.94.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram#[🇺🇸]t.me/ConfigsHub
