@@ -1,3 +1,4 @@
+vless://435b570a-303b-4010-9a21-48656fa6cdcf@94.131.111.200:8775?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪]t.me/ConfigsHub
 vless://30c95522-5915-4eda-ade8-66c011d0f62c@rezidental.az9x99.ir:2053?security=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://30c95522-5915-4eda-ade8-66c011d0f62c@tunell-rezidental.az9x99.ir:2070?security=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://e580d4d5-c6b8-48d9-8690-cf36de8a5a76@89.150.40.53:2052?security=none&encryption=none&type=ws#[🏁]t.me/ConfigsHub
@@ -90,7 +91,6 @@ vless://e5b7d16e-fa74-400a-9a7f-d8e051670508@91.107.130.44:24070?security=realit
 vless://b111c17d-c8a4-4d4d-a417-fa40a020bcc8@104.18.14.19:2082?encryption=none&security=none&fp=chrome&type=ws&host=24tg.hb01i8h0.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://03633612-cb32-46cc-8f93-7103d1511ade@151.101.3.8:80?security=none&type=ws&host=Mahxraytdep.ir&path=%2F%3Fed%3D80#[🇨🇦]t.me/ConfigsHub
 vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?security=&type=ws&path=/&encryption=none#[🇨🇦]t.me/ConfigsHub
-vless://fa92e9cd-b5be-4e00-8fc4-4543012d1fd0@5.34.214.154:443?security=reality&encryption=none&pbk=RW2LSBmmSe02gQ2e4OGfNmggZbuO4trpafPiNqVEajs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=e0b8e166#[🏁]t.me/ConfigsHub
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwNCiAgImFkZCI6ICJmaW4uaW1nb2QxLnNob3AiLA0KICAicG9ydCI6ICIyNjIyMyIsDQogICJpZCI6ICI2YjU1YmYwOS0yNzg1LTQ3NGMtYWEzMy05MzdlOGMwMDk4OTYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://-%20KINGOFV2RAY%20-@ftp55.basalam.eu:80?mode=auto&security=none&encryption=none&host=kingofspeed.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
 trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls&headerType=none&type=tcp#[🇸🇪]t.me/ConfigsHub
