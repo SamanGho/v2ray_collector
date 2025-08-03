@@ -1,3 +1,5 @@
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@159.112.235.254:8880/?type=ws&encryption=none&flow=&host=yg.bantony199.top&path=%2F#[🇺🇸]t.me/ConfigsHub
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@89.116.250.3:8880/?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#[🏁]t.me/ConfigsHub
 vless://7bcb1c0c-4134-46f2-a010-13f60dab1649@speedtest.net:80?mode=auto&path=%2Fipcf%3Fed%3D2048&security=&encryption=none&host=ukboss.global.ssl.fastly.net&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiIyMTYuMTI4LjE0OS4zMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3M2ViNjQ1Mi0yMWU1LTQyMDUtYmQzNi01OWEyMGE1MjE3YmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Ilvwn4e68J+HuF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://ed5e16c9-ef94-4b34-b95b-4cfc0c4a4b81@85.133.221.5:8686?security=&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
@@ -196,7 +198,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogInY3Lmhl
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.177.48:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#[🇺🇸]t.me/ConfigsHub
 vless://4d70b214-57f8-4ee3-93de-37ca3784fb1f@104.21.57.87:8880?path=%2FIdsidBjx54Ch2LNf%3Fed%3D2560&security=&encryption=none&host=ka7oa-jrzcw10ij-3qh7sbpvg1rie2pw.peige1985.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://32fe6a50-aca7-4841-981d-e01d3c28d061@172.66.40.99:8080?type=ws&path=%2F@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=inFo.laLezaRanegomaNandish.sNap.ir.sNaPtripUppoRt.spaCe.&security=none#[🇨🇦]t.me/ConfigsHub
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=%2F&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80/?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@BeWilDerED-poEM.SEOtooLsfOrYOu.cO.uk:80?path=%2F&security=&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://e1944266-3548-4914-8c94-c5e216fa26a9@filmnet.filimnet.com:80?mode=packet-up&path=%2Fcdn%2Fassets%3Fv%3D12&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#[🏁]t.me/ConfigsHub
@@ -244,7 +245,6 @@ vless://TELEGRAM-CONFiGLiNE@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegr
 trojan://telegram-id-directvpn@13.39.42.248:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://3ec69cd1-fcaf-4599-be9a-5d1cd544c988@190.93.245.232:443?path=%2Fv2%2Fapi&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=kt.hesoyamhd.click&fp=chrome&type=ws&sni=kt.hesoyamhd.click#[🇨🇷]t.me/ConfigsHub
 vless://5916d1b6-a379-40ea-dbdb-5db7ece2df37@85.90.207.130:22523?path=%2F&security=none&encryption=none&type=ws#[🏁]t.me/ConfigsHub
-vless://114b5f3b-19a9-486f-9f72-746352eee43b@172.66.40.99:443?encryption=none&security=tls&sni=2free2.aparatir.xyz&type=ws&host=2free2.aparatir.xyz&path=%2Fadmin#[🇨🇦]t.me/ConfigsHub
 vless://b47cac74-0fe9-4138-a8a0-0a039ae84621@ng.grizzzlyyyy.ir:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@speedtestcustom.com:80?security=none&encryption=none&type=xhttp&path=/rddeserfgg?ed%3D2560&mode=auto#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.39.42.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
