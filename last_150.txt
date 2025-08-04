@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880/?type=grpc&encryption=none&flow=#[🏁]t.me/ConfigsHub
 vless://40bbf4bd-a66a-4a01-9e72-2fd3eff6e875@104.19.118.80:2083?type=ws&path=%2F&host=&security=tls&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1&sni=cdn-zxp.zantrix.shop#[🏁]t.me/ConfigsHub
 vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@204.110.222.104:80?path=%2FTG%40wxgqlfx%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=vxh.wxgqlfx.cn&fp=random&type=ws&sni=vxh.wxgqlfx.cn#[🇺🇸]t.me/ConfigsHub
 vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@5.35.103.233:443?path=%2FTG%40wxgqlfx%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=vxh.wxgqlfx.cn&fp=random&type=ws&sni=vxh.wxgqlfx.cn#[🏁]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@workers.dev:8443?path=%2Fproxyip%3D
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@94.131.111.175:8080?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://e490690c-388b-4d0e-90de-dd6f8e7619a3@v26.gaterserver.ir:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#[🇬🇧]t.me/ConfigsHub
-vless://0eb4ea60-bdd0-46c2-b2a0-fdb3c7a37318@ita01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#[🏁]t.me/ConfigsHub
