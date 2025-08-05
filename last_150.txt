@@ -1,3 +1,4 @@
+vless://Parsashonam-Bot-9@185.146.173.39:8080?host=De.Parsashonam.CfD.&type=httpupgrade&security=none&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&encryption=none#[🇸🇪]t.me/ConfigsHub
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#[🇺🇸]t.me/ConfigsHub
 vless://543bfa2a-9d74-4e5f-a461-9ddf119cc5f8@Www.speedtest.net:2095?path=%2F%40IRAN_V2RAY1...%3Fed%3D2560&security=none&encryption=none&host=Tak.vipmehspd.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@162.120.94.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram#[🇺🇸]t.me/ConfigsHub
@@ -208,7 +209,6 @@ vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?mode=gun&securit
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@workers.dev:8443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[🇨🇦]t.me/ConfigsHub
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@94.131.111.175:8080?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://e490690c-388b-4d0e-90de-dd6f8e7619a3@v26.gaterserver.ir:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#[🇬🇧]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.229.197:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://868ceb7d-6ef1-4bbd-ad39-2e365a7e22c5@00074.mutee.com.tr:4471?security=none&encryption=none&host=Varzesh3.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://bpb-trojan@162.159.153.229:443?security=tls&type=tcp&sni=cf.090227.xyz#[🇨🇦]t.me/ConfigsHub
