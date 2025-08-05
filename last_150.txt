@@ -1,3 +1,5 @@
+vless://ddaf37b4-a481-4f25-877a-4a34445040db@direct2.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#[🇳🇱]t.me/ConfigsHub
+vless://c1328203-0bb8-4aaf-99ea-336747641a04@wolf559.royalmt.life:54868?security=none&encryption=none&type=ws#[🏁]t.me/ConfigsHub
 vless://8fb91845-060d-47aa-a1fd-57f9da91f07b@wolf559.royalmt.life:54869?security=none&encryption=none&type=ws#[🏁]t.me/ConfigsHub
 vless://30e3f3a3-4880-42a5-a938-9a4b264345e5@wolf559.royalmt.life:54870?security=none&encryption=none&type=ws#[🏁]t.me/ConfigsHub
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.142.120.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#[🏁]t.me/ConfigsHub
@@ -244,7 +246,5 @@ vmess://eyJhZGQiOiJzc3Nzc3NzeHh4eC4yMDMyLnBwLnVhIiwiYWlkIjoiMCIsImFscG4iOiIiLCJm
 vless://0f7070cd-c91d-4532-a51f-56da4f0e94be@172.67.150.132:443/?type=ws&encryption=none&flow=&host=3333e.444682.xyz&path=%2FnSABZLQbEUSLppj7jCmY&security=tls&sni=3333e.444682.xyz&alpn=http%2F1.1&allowInsecure=1&fp=chrome&packetEncoding=xudp#[🇨🇦]t.me/ConfigsHub
 vless://02bf189b-a727-4588-fde4-32472acccfd9@forlandh4.pingfastbgir.org:80?security=&encryption=none&host=forlandh4.pingfastbgir.org&type=ws#[🇫🇮]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh28v5.hiddendom.shop&alpn=h2#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.39.245.148:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://afc9d688-520a-46fa-a98d-4511d1198cdd@172.67.131.76:443/?type=ws&encryption=none&flow=&host=eeee3.222767.xyz&path=%2FBla4bwO5lnIT6TyxDFklcPSbclvX&security=tls&sni=EEeE3.222767.xYz&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.245.148:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vmess://eyJhZGQiOiJjdXN0b21lcnMudGVsZS1zaG9wLXRvby5zdHVkaW8iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWFhZTUyZDctYmMxYS00OTc5LWJkNjYtYjZiNDI4MTA3MTczIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMzIwMyIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
