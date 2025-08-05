@@ -1,3 +1,4 @@
+vless://c4868018-ce84-4ce3-af84-81710f67d61f@91.99.212.10:10485?mode=gun&security=reality&encryption=none&pbk=cmLzdXwo-6_Cnc_q2L5xPAyoJjfVDDIAJOZYtx5eQCY&fp=chrome&spx=%2F&type=grpc&sni=zula.ir&sid=0d0e8aa9fd14#[🏁]t.me/ConfigsHub
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#[🇨🇦]t.me/ConfigsHub
 vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:13065?type=ws&security=none#[🏁]t.me/ConfigsHub
@@ -237,7 +238,6 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeir
 vless://Parsashonam-295@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
 ss://4790ea39-1388-48b4-ba75-8e58836aad1e@www.speedtest.net:80?path=%2F%40CUSTOMIZEROBOT---%40CUSTOMIZEROBOT---%40CUSTOMIZEROBOT---%40CUSTOMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHTElDWnZ5dU9oeTlGY0VLampJZjhW@92.118.112.101:9483?note=---Telegram---@NetifyVPN---#[🇺🇸]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@fr.opengate.wiki:2222#[🇫🇷]t.me/ConfigsHub
 vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@212.95.41.20:900?mode=auto&path=%2F&security=reality&encryption=none&pbk=I_6r2_l9eY9wBf3OIV7V-HcNJ4LuwxKM99gXUZaYAzI&host=zula.ir&fp=chrome&spx=%2F&type=xhttp&sni=sourceforge.net&sid=2cc45a0088671249#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@ytreserved.opengate.wiki:2222#[🇷🇺]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.191.125.233:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
