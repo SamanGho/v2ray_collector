@@ -1,3 +1,4 @@
+vless://b0e5da32-8bb4-4e65-94f1-99ddeefeaa5e@ium3uojslvj2shb1yh8zu7etc34vmyfb.z8f5hmu0ue.workers.dev:443?path=%2FXqtZ2JB0WH2bmNOL%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pmlmyazd.pages.dev&fp=randomized&type=ws&sni=PmlMyazd.pagEs.Dev#[🇨🇦]t.me/ConfigsHub
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@repo-mobile.org:2096?path=%2Fproxyip%3Drobin.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=randomized&type=ws&sni=verina.ccantarella.dns-dynamic.net#[🇨🇦]t.me/ConfigsHub
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&encryption=none#[🇬🇧]t.me/ConfigsHub
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#[🇺🇸]t.me/ConfigsHub
@@ -240,7 +241,6 @@ vless://16f7d18c-03b2-4cfa-8e2e-52d6f12c822c@138.68.80.111:443?mode=gun&security
 trojan://NISHIKUITAN111@104.254.140.141:443?allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.10.202:8880?encryption=none&security=none&sni=VNgSupPlY.IP-DDns.Com&alpn=http%2F1.1&fp=randomized&type=ws&host=vngsupply.ip-ddns.com&path=%2FbvxIncLfTcZ5ZVxa%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@101reel.com:443?encryption=none&security=tls&sni=barayeiranmahsang.sabzipolobamahi.dpdns.org&type=ws&host=barayeiranmahsang.sabzipolobamahi.dpdns.org&path=%2F%3Fed%3D2560%2F%3Fchanel@rk_vps@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps#[🇺🇸]t.me/ConfigsHub
-vless://9a533595-a408-4b94-b846-602d62af6857@62.60.246.231:8080?security=none&encryption=none&host=box.ponisha.ir&headerType=http&type=tcp#[🇫🇷]t.me/ConfigsHub
 trojan://bpb-trojan@89.116.46.33:443?allowInsecure=1&sni=bpb.my79801.com#[🇬🇧]t.me/ConfigsHub
 trojan://NISHIKUITAN111@156.225.72.128:443?allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 trojan://bpb-trojan@146.19.21.61:443?allowInsecure=1&sni=bpb.my79801.com#[🇩🇪]t.me/ConfigsHub
