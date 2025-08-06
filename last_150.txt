@@ -1,3 +1,4 @@
+vless://74ae6c80-64da-11f0-b277-1239d0255272@us1.socifiles.com:80?path=%2Fvlws&security=none&encryption=none&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://b58f421c-cde7-4ee1-bad0-bdaea20efa25@31.41.35.88:9090?security=&type=tcp&headerType=http&host=bama.ir&encryption=none#[🇮🇷]t.me/ConfigsHub
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?encryption=none&security=none&type=ws&host=barayeiran-mahsang.gerald81.dpdns.org&path=%2FBarayeiranmahsang%2F----%40-%3Fed%3D2560#[🇳🇱]t.me/ConfigsHub
@@ -229,7 +230,6 @@ vless://c6ccdae7-02a2-454d-89cf-5f479c8696a3@00064.mutee.com.tr:4471?security=no
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.72.33:8880?path=%2F&security=none&encryption=none&type=httpupgrade#[🇩🇪]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:443?path=%2F&security=tls&encryption=none&type=ws#[🇬🇧]t.me/ConfigsHub
 vless://cfcb0479-85f1-4467-914a-459157b696f9@Configline.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=mastokhiar2.com&type=xhttp#[🇨🇦]t.me/ConfigsHub
-vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.188.109:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.81:443?path=%2F&security=tls&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.29:2096?path=%2F&security=tls&encryption=none&type=ws#[🇬🇧]t.me/ConfigsHub
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=%2Ftqjkmwws&security=tls&encryption=none&type=ws#[🇹🇷]t.me/ConfigsHub
