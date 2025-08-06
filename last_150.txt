@@ -1,3 +1,5 @@
+vless://8c5167d8-8520-4c85-9cd5-f0879f67efbb@ir17.drinfoo.com:896?path=%2F&security=tls&encryption=none&type=ws&sni=speedtest.net#[🇮🇷]t.me/ConfigsHub
+vless://ad959c13-7111-4474-8102-5e2b496585fd@5.75.203.17:33217?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://25877dd5-4de8-48e0-9cb6-86515be901b8@fast.dissertationhelpspecialist.com:443/?type=grpc&serviceName=t.me/entryNET&authority=&security=reality&pbk=Q1PDMwa1fT6RUZ2CpNMGns-QFUhmk8vrf2fIS6PaoFU&fp=firefox&sni=tgju.org&sid=44a3ef0168e834&spx=%2Fprofile%2Fgold_17_transfer#[🇳🇱]t.me/ConfigsHub
 vless://b8b674b7-2a3d-483e-9ec6-014720940889@ir18.drinfoo.com:897?path=%2F&security=tls&encryption=none&type=ws&sni=speedtest.net#[🇮🇷]t.me/ConfigsHub
 vless://dc345d78-859d-4791-8a7e-153abaf32680@ir20.drinfoo.com:899?path=%2F&security=tls&encryption=none&type=ws&sni=speedtest.net#[🇮🇷]t.me/ConfigsHub
@@ -237,8 +239,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@main.opengate.
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&headerType=none#[🇨🇦]t.me/ConfigsHub
 vless://5402dc3b-206e-4ae8-a58d-4fd27a59e142@57.128.198.226:80?encryption=none&security=none&type=ws&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&path=%2Fvless%2F#[🏁]t.me/ConfigsHub
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80/?type=ws&encryption=none&flow=&path=%2F#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.75.72.161:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.72.161:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.ndeso.web.id:443?encryption=none&security=tls&sni=freevpn.ndeso.web.id&type=ws&host=freevpn.ndeso.web.id&path=%2FFree-CF-Proxy-AT36#[🇨🇦]t.me/ConfigsHub
 vless://378b8e58-6a23-4fc6-b227-67665a78033d@hajimamadvpn.fast.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=p30download.ir&path=%2F&mode=auto#[🇨🇦]t.me/ConfigsHub
 vless://1b38f1a4-5d20-44a9-a4d3-ca621ebfefbf@[2a03:b0c0:3:f0:0:1:230e:f000]:27270?encryption=none&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=OMYgAO-fEdI3x7diLQDd2-xTkEMNNCeeYDhuweqex0c&sid=ab&spx=%2F&type=grpc&authority=&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#[🏁]t.me/ConfigsHub
