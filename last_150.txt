@@ -1,4 +1,3 @@
-vless://74ae6c80-64da-11f0-b277-1239d0255272@us1.socifiles.com:80?path=%2Fvlws&security=none&encryption=none&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://b58f421c-cde7-4ee1-bad0-bdaea20efa25@31.41.35.88:9090?security=&type=tcp&headerType=http&host=bama.ir&encryption=none#[🇮🇷]t.me/ConfigsHub
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?encryption=none&security=none&type=ws&host=barayeiran-mahsang.gerald81.dpdns.org&path=%2FBarayeiranmahsang%2F----%40-%3Fed%3D2560#[🇳🇱]t.me/ConfigsHub
@@ -248,3 +247,4 @@ vless://9c7b6571-bf05-4072-98c3-fc8bec98551b@0.0.0.einetwork.news:8443?encryptio
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@main.opengate.wiki:2222#[🇫🇮]t.me/ConfigsHub
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&headerType=none#[🇨🇦]t.me/ConfigsHub
 vless://5402dc3b-206e-4ae8-a58d-4fd27a59e142@57.128.198.226:80?encryption=none&security=none&type=ws&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&path=%2Fvless%2F#[🏁]t.me/ConfigsHub
+vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80/?type=ws&encryption=none&flow=&path=%2F#[🇨🇦]t.me/ConfigsHub
