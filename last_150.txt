@@ -1,3 +1,7 @@
+trojan://Aimer@45.194.53.81:2087?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&path=/?ed=2560&host=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+vless://e67025a0-278f-4208-8690-cac092b82306@212.80.20.50:443?security=tls&sni=cs2.pishima.ir&fp=random&type=tcp&encryption=none#[🇮🇷]t.me/ConfigsHub
+vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#[🇷🇺]t.me/ConfigsHub
+vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?path=%2Ftas&security=tls&alpn=h2&encryption=none&host=lamari.tas-bazi.com&fp=firefox&type=xhttp&sni=lamari.tas-bazi.com#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMTAzLjYxLjEzOS4xMzciLCAidiI6ICIyIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInBvcnQiOiAyMDUyMSwgImlkIjogImY4ZDkzY2ZiLTNkNWQtNDQ3Yy1hNjk3LTE2NDk2ZGQ3NDY5NyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip#[🇨🇦]t.me/ConfigsHub
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?encryption=none&security=tls&sni=hetzner-2.access.name.ng&fp=random&type=ws&host=hetzner-2.access.name.ng&path=%2F#[🇨🇦]t.me/ConfigsHub
@@ -217,7 +221,6 @@ vless://d739e19a-312c-40dc-acaa-a90f247bd12c@68.183.216.44:443?path=%2Fws&securi
 vless://JOIN_BDE_JKVPN@www.speedtest.net:80?path=%2FTELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN%3Fed%3D2048&security=none&encryption=none&host=joker.ahang-alpha.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3THQyc3FVdTl3c0E0bEFnUGNYZGpC@95.81.106.102:8443#[🇷🇺]t.me/ConfigsHub
 vless://7627df5b-8101-4230-dd73-47266d588ccd@88.209.249.84:38282?security=&encryption=none&headerType=&type=tcp#[🇹🇷]t.me/ConfigsHub
-vless://afa7ac72-cae2-47a2-992d-e93f36fe065d@e11.maindns.site:32611?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://4b93d39a-d188-4111-aa6c-23fa528cce41@tyu.learningaii.ir:44048?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&host=carlotta.shoorekeeper.cloudns.org&path=/proxyip%3Dzani.yaemiko.ggff.net/?&security=tls&fp=random&sni=carlotta.shoorekeeper.cloudns.org#[🇨🇦]t.me/ConfigsHub
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=telegram%40filter_breaker%2F%3Fed%3D2560&security=&encryption=none&host=www.speedtest.net.zula.ir.cfp1.a2hdhjdxjbxjsjdjd.ddns-ip.net.&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -244,7 +247,4 @@ vless://1f01fda5-6bdc-4c9b-8b52-1b5e174e1f7e@91.224.74.69:25568?path=%2F&securit
 vless://38f30095-6ef6-4b00-aab1-b8deb5f7714c@172.66.40.99:443?encryption=none&security=tls&sni=2free2.aparatir.xyz&type=ws&host=2free2.aparatir.xyz&path=%2Fadmin#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4yNi4wLjc2IiwgInBvcnQiOiAiMjA5NSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiYzMuNjAxNjcyNS54eXoiLCAidGxzIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4xOC4xMTQuNDEiLCAicG9ydCI6ICIyMDg2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJiYzY1ZmFjMi03ZGM3LTQyNmYtYWNkZC0wNzc5YTUwMzViZGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJwMS42MTMwNTUueHl6IiwgInRscyI6ICIifQ==
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---V2xay&type=ws#[🏁]t.me/ConfigsHub
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprSnI1Q1BoajNYcm84a3kwbUhnRUJi@91.201.65.82:8443#[🏁]t.me/ConfigsHub
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[🇨🇦]t.me/ConfigsHub
