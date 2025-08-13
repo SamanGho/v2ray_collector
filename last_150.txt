@@ -1,3 +1,5 @@
+vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@212.95.41.20:900?mode=auto&path=%2F&security=reality&encryption=none&pbk=I_6r2_l9eY9wBf3OIV7V-HcNJ4LuwxKM99gXUZaYAzI&host=zula.ir&fp=chrome&spx=%2F&type=xhttp&sni=sourceforge.net&sid=2cc45a0088671249#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@ytreserved.opengate.wiki:2222#[🇷🇺]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.191.125.233:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
 trojan://3723507166611775488@sensible-ocelot.boa152.lol:443?allowInsecure=0&sni=sensible-ocelot.boa152.lol#[🇩🇪]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.89.252.137:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
@@ -242,8 +244,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:443?path=%2F%3FJoin--
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206SDJxMmhPc3RkVUVheHBNNzJMc3l3eDVlYzVDV2RTd3BOcE0zZDc4Nk5OYz06QldQOFpsSGZ1UmQ3VkswRlVBbHl1S2xwbWFWbEJKbkRVbEY1WlNYem42OD0=@code-luck.online:6010#[🇮🇷]t.me/ConfigsHub
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105%3D443&security=none#[🇨🇦]t.me/ConfigsHub
 vless://0fdda6e9-630f-42f2-89a3-cf85097970b7@www.speedtest.net:8880?path=%2F%40ZedBaz_vpn%40ZedBaz_vpn%40ZedBaz_vpn%40ZedBaz_vpn%3Fed%3D2560&security=none&encryption=none&host=w1.wtezar.site&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
-vless://2c3b3e80-a2ec-459e-b898-206ead4edc9d@46.62.139.162:29752?security=reality&encryption=none&pbk=EXDIPc_-7wSk5LI0JH0fyaN3bc_kIgEe3fu2hIOBtWs&host=%2FJKVPN_TELEGRAM_JOin_JKVPN_JKVPN_JKVPN_JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_TELEGRAM_JOin_JKVPN&type=tcp&sni=www.tgju.org&sid=3dd812#[🇫🇮]t.me/ConfigsHub
-vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&path=%2F%3FTELEGRAM_JOIN_JKVPN_JKVPN_JKVPN_JKVPN&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=uk-09.allhubb.info&fp=randomized&type=xhttp&sni=uk-09.allhubb.info#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiI0NS42Ny4xMzkuMjI1IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJkMzkyODMzMC00MDUwLTQ3ZjYtOWQxYy1kZjFmZDgwMWM1NjgiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjIwMDg2LCJwcyI6Ilvwn4er8J+Ht110Lm1lL0NvbmZpZ3NIdWIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vless://83197cd5-1cfe-43bb-9d52-9bc4aa198ece@vp1.biseda.net:9090?type=tcp&path=%2F&headerType=http&security=none#[🇮🇷]t.me/ConfigsHub
 vless://683eb1fd-5575-4da5-b5f0-953507b11b86@5.75.197.56:2095?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
