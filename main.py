@@ -151,7 +151,7 @@ def main():
 
     telegram_urls = [
         "https://t.me/s/moftconfig",
-        "https://t.me/s/ConfigsHubPlus",
+        "https://t.me/s/ConfigsHub",
         "https://t.me/s/VlessConfig",
         "https://t.me/s/DirectVPN",
         "https://t.me/s/FreeV2rays",
