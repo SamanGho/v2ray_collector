@@ -1,3 +1,4 @@
+vmess://eyAidlvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJhZGQiIDogIjU3LjEyOS4yNC4xMjQiLCAicG9ydCIgOiAiNDQzIiwgImlkIiA6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIiA6ICIwIiwgInNjeSIgOiAiYXV0byIsICJuZXQiIDogIndzIiwgImhvc3QiIDogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAicGF0aCIgOiAiL2xpbmt2d3MiLCAidGxzIiA6ICJ0bHMiIH0=
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@80.92.204.106:9027#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzczA2d2ZWc1JpVkk%3D@83.217.9.210:443#[🇹🇷]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.81.58.168:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh24v3.hiddendom.shop#[🇺🇸]t.me/ConfigsHub
@@ -153,7 +154,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&host=car
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=telegram%40filter_breaker%2F%3Fed%3D2560&security=&encryption=none&host=www.speedtest.net.zula.ir.cfp1.a2hdhjdxjbxjsjdjd.ddns-ip.net.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://202ac83e-9012-4283-8acb-9af2c2a2dfeb@ab.iranlit.ir:1611?security=reality&encryption=none&pbk=3EWvgfHUv-7aKL47dJL1WiIHY43aeWo8QUZRjzCw0RI&headerType=none&fp=chrome&type=tcp&sni=zhaket.com&sid=6f84e8adb893b4bd#[🇩🇪]t.me/ConfigsHub
-vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.68.95:8880?path=%2F&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.115:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=tls&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683?note=--Telegram--NetifyVPN--#[🇹🇷]t.me/ConfigsHub
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&host=carlotta.shoorekeeper.cloudns.org&path=/?ed%3D2560/?JKVPN_BYA_CHANEL_JKVPN&security=tls&fp=randomized&sni=carlotta.shoorekeeper.cloudns.org&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
