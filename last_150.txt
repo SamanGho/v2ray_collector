@@ -1,3 +1,4 @@
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.10.202:8880?encryption=none&security=none&sni=VNgSupPlY.IP-DDns.Com&alpn=http%2F1.1&fp=randomized&type=ws&host=vngsupply.ip-ddns.com&path=%2FbvxIncLfTcZ5ZVxa%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@101reel.com:443?encryption=none&security=tls&sni=barayeiranmahsang.sabzipolobamahi.dpdns.org&type=ws&host=barayeiranmahsang.sabzipolobamahi.dpdns.org&path=%2F%3Fed%3D2560%2F%3Fchanel@rk_vps@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps#[🇺🇸]t.me/ConfigsHub
 trojan://bpb-trojan@89.116.46.33:443?allowInsecure=1&sni=bpb.my79801.com#[🇬🇧]t.me/ConfigsHub
 trojan://NISHIKUITAN111@156.225.72.128:443?allowInsecure=1#[🇺🇸]t.me/ConfigsHub
@@ -223,7 +224,6 @@ vless://83394cf1-0462-4ff2-8024-e16bc8e79f2e@my.iranserver.com:8080?encryption=n
 vless://efd6d128-a67a-46b3-9913-c25b402482f0@german.kalait.com.tr:19632?security=none&encryption=none&host=digiakla.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@104.26.8.156:443?security=tls&encryption=none&host=yx.yushan.dpdns.org&fp=chrome&type=ws&sni=yx.yushan.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://83394cf1-0462-4ff2-8024-e16bc8e79f2e@tgju.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
-vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#[🇬🇧]t.me/ConfigsHub
 vless://83394cf1-0462-4ff2-8024-e16bc8e79f2e@49.12.119.56:2083?encryption=none&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=%2F&type=grpc&authority=ghbi.ir&serviceName=melov2ray&mode=gun#[🇩🇪]t.me/ConfigsHub
 vless://2c1585ce-4d46-46b3-95d0-100f306075a4@tgju.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
 vless://2c1585ce-4d46-46b3-95d0-100f306075a4@mn.co:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
