@@ -1,3 +1,4 @@
+trojan://NISHIKUITAN111@104.254.140.141:443?allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.10.202:8880?encryption=none&security=none&sni=VNgSupPlY.IP-DDns.Com&alpn=http%2F1.1&fp=randomized&type=ws&host=vngsupply.ip-ddns.com&path=%2FbvxIncLfTcZ5ZVxa%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@101reel.com:443?encryption=none&security=tls&sni=barayeiranmahsang.sabzipolobamahi.dpdns.org&type=ws&host=barayeiranmahsang.sabzipolobamahi.dpdns.org&path=%2F%3Fed%3D2560%2F%3Fchanel@rk_vps@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps----@rk_vps#[🇺🇸]t.me/ConfigsHub
 trojan://bpb-trojan@89.116.46.33:443?allowInsecure=1&sni=bpb.my79801.com#[🇬🇧]t.me/ConfigsHub
@@ -246,5 +247,4 @@ vless://f00219c8-f56a-4bd6-b10d-2977b631c83e@165.227.47.123:10111?security=reali
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.122.80:443?encryption=none&security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.217.58:443?security=none&encryption=none&type=xhttp&path=/sef&mode=stream-one#[🇺🇸]t.me/ConfigsHub
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?security=none&encryption=none&type=ws&path=/http#[🇩🇪]t.me/ConfigsHub
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?mode=stream-one&path=%2Fsef&security=none&encryption=none&type=xhttp#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNUEZ6b1dwMmNYY0oyeHJsT0dsZWFm@83.147.216.70:64519#[🇫🇮]t.me/ConfigsHub
