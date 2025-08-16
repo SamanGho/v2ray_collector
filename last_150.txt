@@ -1,7 +1,3 @@
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.110:2096?path=%2F&security=tls&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmY2lhbC1ubA==@nl-1.stunnel.cc:8444#[🇳🇱]t.me/ConfigsHub
-trojan://tunnel-v2ray_configs_pools_offcial-nl@nl-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http%2F1.1&allowInsecure=1&type=tcp&headerType=none&host=nl-1.stunnel.cc#[🇳🇱]t.me/ConfigsHub
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:443?path=%2F&security=tls&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.14:443?path=%2F&security=tls&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://58508233-0ba7-47f8-95a0-3837ab682d45@91.99.18.180:8558?type=tcp&security=none#[🇮🇷]t.me/ConfigsHub
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:8443?path=%2F&security=tls&encryption=none&type=ws#[🇫🇷]t.me/ConfigsHub
@@ -248,3 +244,7 @@ trojan://49699004-a1ba-4621-9744-3d41e98040a9@92.118.190.131:80?security=none&ty
 trojan://telegram-id-privatevpns@63.178.125.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://Parsashonam-299@91.99.16.244:443?mode=auto&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=reality&encryption=none&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&fp=chrome&spx=%2F&type=xhttp&sni=Google.com&sid=61e683d41fdb#[🇩🇪]t.me/ConfigsHub
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-299@185.146.173.39:8880?type=httpupgrade&path=%2F%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D-%50%61%72%73%61%73%68%6F%6E%61%6D%2F%3Fed%3D2056&host=De.%50%61%72%73%61%73%68%6F%6E%61%6D.CfD.&security=none#[🇸🇪]t.me/ConfigsHub
+vless://3b49818a-b6f2-499d-9a22-5742bead0e00@f.paliss.ir:2525?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&type=Tcp&headerType=&path=&host=f.paliss.ir#[🇫🇮]t.me/ConfigsHub
+vless://3b49818a-b6f2-499d-9a22-5742bead0e00@f.paliss.ir:2525?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&security=none&type=Tcp&headerType=&path=&host=f.paliss.ir#[🇫🇮]t.me/ConfigsHub
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.77.107:443?mode=stream-one&path=%2Fsef&security=none&encryption=none&type=xhttp#[🇺🇸]t.me/ConfigsHub
+vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.228.94:443?mode=auto&path=%2Fxhttp&security=none&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
