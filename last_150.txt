@@ -1,3 +1,4 @@
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.224.5.162:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 trojan://aaccbba-baca-abca-dbca-aabcbaaccbbc@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.16.76.167:80/?path=%2F%3Fed%3D2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://598a6cea-dfd2-4e97-9415-4571f742bf18@zzyd6dhd5.pet0er23mh21qq.com:2096?allowInsecure=0&sni=sourceforge.net&fp=chrome&security=tls#[🇩🇪]t.me/ConfigsHub
@@ -137,7 +138,6 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.246.109.191:34045?security=reali
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.105:2222#[🏁]t.me/ConfigsHub
 vless://turboo-server@jone.turbooo-server.com:60123?security=&encryption=none&host=tgju.org&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@104.16.1.106:80?security=&type=ws&path=/?ed%3D2560&host=delam.ahaysiahzangi.dpdns.org&encryption=none#[🇨🇦]t.me/ConfigsHub
-vless://f7f0f020-3153-41b5-854b-304245d7bd0b@all97-vip.f-sub.com:1517?security=&type=tcp&headerType=http&host=varzesh3.com&encryption=none#[🇩🇪]t.me/ConfigsHub
 vless://f9750108-1ddf-41bb-b811-a24593d398dc@www.speedtest.net:80?security=&type=httpupgrade&path=/@Hddify-?ed%3D2048&host=d4.sgdemoffidi-rv.ir.&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://0815223d-7855-42b0-b526-76fa691101ea@ir-netherland.v2shop2.xyz:443?security=&type=tcp&headerType=http&host=www.speedtest.net&encryption=none#[🇮🇷]t.me/ConfigsHub
 vmess://eyJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInBvcnQiOiI1NzE0NyIsImlkIjoiNGEzZmU1NGItODM4My00NWQzLWE1MTctMzAzNTVmYzY5M2Q0IiwidHlwZSI6Im5vbmUiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwiYWRkIjoieDUueHJheXZwbi50b3AiLCJ0bHMiOiJub25lIn0=
