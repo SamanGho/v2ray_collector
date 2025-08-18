@@ -1,3 +1,6 @@
+vless://a951a978-e06a-11ee-95c9-00505603e70d@172.67.73.241:443?security=tls&sni=st-gb-1.brocdn.com&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket#[🇨🇦]t.me/ConfigsHub
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjgiLCAicG9ydCI6ICIyMDk1IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIxOGQ5NjE5MC1jMTBmLTQ0OGYtYTgyYS0yZDM2ZGY1YzNjZGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJjMy42MDE2NzI1Lnh5eiIsICJ0bHMiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjE3IiwgInBvcnQiOiAiMjA4MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiZTQuNjkyOTE5OC54eXoiLCAidGxzIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4yNi4wLjE1MSIsICJwb3J0IjogIjIwOTUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImMzLjYwMTY3MjUueHl6IiwgInRscyI6ICIifQ==
 vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=%2Fsc%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=none&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
@@ -212,7 +215,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4x
 vless://76c8f657-8186-4f40-cf6b-884fb7c632db@snet.shbrad.info:8443?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://dcdffdab-5d5c-44e0-951d-01e5550ce2f6@104.24.196.20:80?security=none&type=ws&host=switzerland.dash.cloudflare.com.www.speedtest.net.sanjesh.org.sadcloud.ir.&path=%2FnekoOo%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4xOC4xMTQuNzkiLCAicG9ydCI6ICIyMDgyIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJlNC42OTI5MTk4Lnh5eiIsICJ0bHMiOiAiIn0=
-vless://17d43328-bbd2-40df-bd45-c94aeb554e89@www.speedtest.net:443?path=%2F%2FJoin---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&alpn=http%2F1.1&encryption=none&host=09sp38aey76eabnpj79orvawf-0ssxts.pages.dev&fp=firefox&type=ws&sni=paGeS.DeV#[🇨🇦]t.me/ConfigsHub
 vless://826f524a-cea1-4e44-9b49-3381d13b7593@172.66.45.9:443?path=%2FgL8gLANdh881Nj22&security=tls&alpn=http%2F1.1&encryption=none&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=randomized&type=ws&sni=fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv#[🇨🇦]t.me/ConfigsHub
 vless://826f524a-cea1-4e44-9b49-3381d13b7593@fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev:443?path=%2FXHPTFMTFoBNv6IV6&security=tls&alpn=http%2F1.1&encryption=none&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=randomized&type=ws&sni=fk31lnDM4W8UJ0yP1dRwlTDTDKo6y-cU.PaGeS.DeV#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMNDhVekRtOHdpTmJkQ3BkWGFmLUdB@germany-sexy.krot.tech:1080#[🇩🇪]t.me/ConfigsHub
@@ -240,11 +242,9 @@ vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.200.119:443?mode=auto&path=
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.93.134.231:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.93.134.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@54.93.134.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTloT05jcDRMbVd1OENrNmhFUE0zNHR0ODlFcUFKNTBrN0ZiUkJkckJieGpYMW4@195.123.213.12:31348#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@54.93.134.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&sid=d70393f0ad1c7552#[🇷🇺]t.me/ConfigsHub
