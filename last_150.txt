@@ -1,7 +1,3 @@
-vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=server12.coin.name.ng&type=ws&sni=server12.coin.name.ng#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@63.178.27.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vless://0fdda6e9-630f-42f2-89a3-cf85097970b7@www.speedtest.net:8880/?type=httpupgrade&path=/@ZedBaz_vpn@ZedBaz_vpn@ZedBaz_vpn@ZedBaz_vpn%3Fed%3D2560&host=w1.wtezar.site&security=none#[🇨🇦]t.me/ConfigsHub
-vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2Fqnbufdws&security=tls&encryption=none&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://3ff672c6-6e12-481a-82be-0b6bf10a4be6@edge-gw-lb.cyberscaler.net:10022?security=reality&encryption=none&pbk=nJhrThyrsiOOgKVKSkxsBwzsWEHqprdF8gejMucJSwQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=cloudflare.com&sid=1b#[🇨🇦]t.me/ConfigsHub
 vless://7340e0d4-9087-40a5-b705-a744689f4ae0@em-1.webnama.com.tr:3799?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
@@ -248,3 +244,7 @@ vless://fa327ab1-e3c8-4cdf-9735-7342d4bbbee3@www.speedtest.net:8080?path=%2F%40S
 vmess://eyJhZGQiOiI5MS45OS4yMjUuMjQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImViYmQwYmJjLTcxYjMtNDdmZC05Y2Y5LTdiNmU2YzZhYTZmZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiOTMiLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 trojan://telegram-id-directvpn@18.197.234.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.197.234.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@108.129.47.84:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpac0dqTlk2ZUNCWWw2emZoRk80Z01p@194.87.45.189:443?note=--Telegram--NetifyVPN--#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.138:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66%20%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+vless://23396778-6b14-4504-819a-7d9149339794@n0.asmdns.net:2082?path=%2F%3Fed%3D2590&security=&encryption=none&host=n10.asmdns.net&type=ws#[🏁]t.me/ConfigsHub
