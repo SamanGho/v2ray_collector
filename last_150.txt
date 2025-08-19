@@ -1,3 +1,4 @@
+trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&type=ws&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=xn----pmcnaac0dkn0rb71nda.pages.dev#[🏁]t.me/ConfigsHub
 vless://8717aec5-a546-4dfa-b97d-399b167a8491@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON%23%3D%2540&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?flow=&path=%2F&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://bc55ee1f-c1d4-4d03-b36b-1482ba586141@94.183.233.98:3801?security=&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
@@ -187,7 +188,6 @@ vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=&encrypt
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.93.134.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@54.93.134.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTloT05jcDRMbVd1OENrNmhFUE0zNHR0ODlFcUFKNTBrN0ZiUkJkckJieGpYMW4@195.123.213.12:31348#[🏁]t.me/ConfigsHub
 vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&sid=d70393f0ad1c7552#[🇷🇺]t.me/ConfigsHub
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGUxdm0uY2RuLTAzLmxpdmUiLCJpZCI6IjZiZjFiMzQyLTJiZjAtNDYwOC1iMjg4LThlZTUxNWUyZDU5NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9AaG9wZXYycmF52IxAaG9wZXYycmF5IiwicG9ydCI6IjgwIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
