@@ -1,7 +1,3 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:2087?security=tls&sni=HASti.FReeAirlAINEs.cOm&type=ws&host=HaSti.fReEaIRlAineS.coM&path=/n9VBBKoNzJpkUcnO?ed%3D2048&fp=chrome#[🇨🇦]t.me/ConfigsHub
-vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#[🇨🇦]t.me/ConfigsHub
-vless://f0e825fb-6aa7-4825-e4ef-9a8e170b3a61@cumhuriyet.com.tr:8080?path=%2F%40unlimiteddev----%40unlimiteddev-----%40unlimiteddev----%40unlimiteddev----%40unlimiteddev----%40unlimiteddev----%40unlimiteddev----%40unlimiteddev----%40unlimitedev----%40unlimitedev----%40unlimiteddev----%40unlimiteddev%3Fed%3D2480&security=none&encryption=none&host=join-to-unlimiteddev.sabadyt.ir&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://31e67aae-2cf0-4dcd-97e2-5840c5b8e9a6@213.21.222.172:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=0a6ba2716a409da6#[🏁]t.me/ConfigsHub
 trojan://dba20dcb635e430fa4d3bfc303a149d2@104.19.171.4:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#[🇨🇦]t.me/ConfigsHub
 vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:443?security=tls&sni=trojanyu.pages.dev&type=ws&host=trojanyu.pages.dev&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&fp=randomized&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#[🇳🇱]t.me/ConfigsHub
@@ -248,3 +244,7 @@ vless://2201f026-64c2-4705-9ecf-7289671d0f09@www.speedtest.net:8080?path=%2F%40E
 trojan://telegram-id-privatevpns@3.77.74.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://2201f026-64c2-4705-9ecf-7289671d0f09@172.66.40.99:8080?path=%2F%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420&security=none&encryption=none&host=s6.inFo.laLezaRanegomaNandish.suB420-mohaMad.online.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://blue2024@104.19.235.40:443?allowInsecure=1&sni=ha.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server514991469813933273.tas-bazi.com:443?mode=stream-one&path=%2Ffrf&security=none&encryption=none&type=xhttp#[🏁]t.me/ConfigsHub
+vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?encryption=none&security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
+vless://0b91b8ed-5fe7-4ebf-aa81-0d1c7d2c0136@91.107.163.43:42370?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://4e21e86a-46f1-4272-bdb3-bac8bc6839ab@91.99.221.5:443?security=reality&encryption=none&pbk=v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=b7859e878ab2fb#[🇩🇪]t.me/ConfigsHub
