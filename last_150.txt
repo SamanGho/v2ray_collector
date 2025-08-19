@@ -1,3 +1,4 @@
+vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2Fqnbufdws&security=tls&encryption=none&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://3ff672c6-6e12-481a-82be-0b6bf10a4be6@edge-gw-lb.cyberscaler.net:10022?security=reality&encryption=none&pbk=nJhrThyrsiOOgKVKSkxsBwzsWEHqprdF8gejMucJSwQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=cloudflare.com&sid=1b#[🇨🇦]t.me/ConfigsHub
 vless://7340e0d4-9087-40a5-b705-a744689f4ae0@em-1.webnama.com.tr:3799?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
@@ -212,7 +213,6 @@ vless://661f6f25-1b51-4782-b2d2-994c6b97c158@91.98.64.81:443?mode=auto&path=%2Fx
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://9f457d41-0704-49f7-bddd-4cb73fbb8ce6@172.105.20.51:443?mode=stream-one&path=%2F&security=none&encryption=none&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.200.119:443?mode=auto&path=%2Fxhttp&security=&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#[🏁]t.me/ConfigsHub
