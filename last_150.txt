@@ -1,3 +1,4 @@
+vless://2c1585ce-4d46-46b3-95d0-100f306075a4@mn.co:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
 vless://83394cf1-0462-4ff2-8024-e16bc8e79f2e@91.107.168.101:2083?encryption=none&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=%2F&type=grpc&authority=ghbi.ir&serviceName=melov2ray&mode=gun#[🇩🇪]t.me/ConfigsHub
 vless://2c1585ce-4d46-46b3-95d0-100f306075a4@49.12.119.56:2083?encryption=none&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=%2F&type=grpc&authority=ghbi.ir&serviceName=melov2ray&mode=gun#[🇩🇪]t.me/ConfigsHub
 vless://2c1585ce-4d46-46b3-95d0-100f306075a4@my.iranserver.com:8080?encryption=none&security=none&type=ws&host=3.channeltur.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
@@ -230,7 +231,6 @@ vless://2d2f3546-50e2-4665-846f-18ee6d2e39be@199.232.208.19:80/?type=xhttp&path=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?note=--Telegram--NetifyVPN--#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?note=--Telegram--@NetifyVPN--#[🇳🇱]t.me/ConfigsHub
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2Fdcgfdfws&security=tls&encryption=none&type=ws#[🇫🇷]t.me/ConfigsHub
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=%2Fawd&security=none&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwiYWRkIjoiMTA0LjE4LjExNC4xMzYiLCJwb3J0IjoiMjA5NSIsInR5cGUiOiJub25lIiwiaWQiOiIxOGQ5NjE5MC1jMTBmLTQ0OGYtYTgyYS0yZDM2ZGY1YzNjZGUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiZ2l0aHViLmNvbVwvQWx2aW45OTk5IiwiaG9zdCI6ImMzLjYwMTY3MjUueHl6IiwidGxzIjoiIn0=
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.142.145.140:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.4.19:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
