@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiIyMDcuMTc0LjI4LjIwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM2ZTNlNzc1LWVhNTYtNGRjZC05NTBiLWMzMjMxMTczNjdmNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6Ilvwn4e68J+HuF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://72609f31-30d5-442d-a40f-23722dd50e4f@sss18019.tas-bazi.com:443?mode=auto&path=%2Fxhttp&security=&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
 vless://turboo-server@91.99.224.53:60123?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://9040640e-12a7-483f-bcf6-737b86b28c94@2.ariyanln.com:1?security=none&encryption=none&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
@@ -240,7 +241,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.65.24:22224?type=ws&security
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@168.100.6.113:8880?encryption=none&security=none&type=ws&host=ex.sue.x10.mx&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2+%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxOUVRblZFNGdhdkk%3D@89.23.108.32:443#[🇩🇪]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.154.214:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#[🏁]t.me/ConfigsHub
-vless://b299af7b-3098-4e8e-b7c4-359fa577b19b@104.16.53.11:8080?path=%2F&security=none&encryption=none&host=xokaminew3aclskmd23eor2enwr.okatestoka.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=%2Fid5%3Fed%3D2560TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#[🇨🇦]t.me/ConfigsHub
 vless://277f230b-638b-47c9-95d5-032f99186283@cf-assets-blog.cyberscaler.net:443?security=reality&encryption=none&pbk=WEf1JX6bG0hGjlSacn2r32T2IZhifBsl2g7qqZoUPAw&headerType=none&fp=chrome&spx=%2Fcdn-cgi%2Ftrace&type=tcp&sni=blog.cloudflare.com&sid=14#[🇩🇪]t.me/ConfigsHub
 vless://26e4ec0d-1be2-47c9-8a47-638af889b421@172.66.40.99:8080?path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D2048&security=none&encryption=none&host=K.mangoap.org&type=ws#[🇨🇦]t.me/ConfigsHub
