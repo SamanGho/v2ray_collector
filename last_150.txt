@@ -1,3 +1,5 @@
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsCiAgImFkZCI6ICJjb2RlLWx1Y2sub25saW5lIiwKICAicG9ydCI6IDQwOTAsCiAgImlkIjogImM5ODU4NDQxLTBkZDUtNDViYy04OTM2LTRmNTRhYTJiZDM5NyIsCiAgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9uZSIKfQ==
+vless://3c918c19-a5bd-4f2c-9b30-03c681c93ddc@172.66.47.140:8443/?type=ws&encryption=none&flow=&host=v2rayminer.pages.dev&path=%2FWwPEDup8yShFB1Wp%2FNzguNDYuNzMuNDk%3D%3Fed%3D2560&security=tls&sni=V2RayMinER.PAGeS.Dev&alpn=http%2F1.1&fp=randomized#[🇨🇦]t.me/ConfigsHub
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#[🇩🇪]t.me/ConfigsHub
 vless://4926adf0-880a-4650-bee5-58250416cb40@103.246.145.244:11802?security=reality&encryption=none&pbk=eu_CdEUxOB3IiXYq-t70TjU3tXwgrJFusHWUmqzFXS4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=2ed15414d2#[🇳🇱]t.me/ConfigsHub
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.33:8080?security=&type=ws&path=/H7v3yMyXj3iUwzuE?ed%3D2560&host=vghavi32.ip-ddns.com&encryption=none#[🇨🇦]t.me/ConfigsHub
@@ -238,9 +240,7 @@ vless://263497fb-9ae2-4f7b-94c6-b0179e480448@172.67.140.54:2096?security=tls&sni
 trojan://Aimer@54.176.205.20:80?allowInsecure=1&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F#[🇺🇸]t.me/ConfigsHub
 vless://45cd4cb9-c026-4ab2-814d-090d51f4a59f@103.231.75.23:443?path=%2Fxsgzobws&security=tls&encryption=none&type=ws#[🇹🇷]t.me/ConfigsHub
 vless://cd557d97-4d74-4f5c-aa0e-4888af59a658@188.114.98.12:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@18.195.47.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=he10.motorbazan.com&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.47.244:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://ccfe74ea-8ad8-4212-817e-7c43afd9184c@65.109.0.223:44823?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.171.248:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#[🇺🇸]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.137.245:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
