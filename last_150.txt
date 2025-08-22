@@ -1,3 +1,5 @@
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.66.162.135:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#[🇨🇦]t.me/ConfigsHub
+vless://4ca95fa5-8967-4bdc-a82d-3a65b44a3818@ava.game.naver.com.servpn.my.id:443?path=%2Fsg4%2F%3FJoin---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=randomized&type=ws&sni=ava.game.naver.com.servpn.my.id#[🇨🇦]t.me/ConfigsHub
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&path=%2Flfcinsws&security=tls&encryption=none&type=ws#[🇹🇷]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.240:8880?mode=gun&security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://9abe19f4-a3ea-4a00-bb52-121c0da7a33a@azizisearch.com:2095?path=%2F&security=none&encryption=none&host=nl.amirconfigpanelllll.com.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
@@ -234,13 +236,11 @@ vless://67a2e5f1-40b9-4b49-9bb6-c3e16ab87a9d@104.18.26.90:8880?path=%2F2048&secu
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.190.153.228:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 trojan://bpb-trojan@japan.com:443?encryption=none&security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.7.18:443?encryption=none&security=tls&sni=albedoalbedochan.violetchaan.ip-ddns.com&alpn=http%2F1.1&fp=random&type=ws&host=albedoalbedochan.violetchaan.ip-ddns.com&path=%2Fjokerrvpn_bia_chanel@jokerrvpn#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@18.199.31.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://6da84139-72e0-4b4b-b105-ca3eb590856d@151.101.66.133:443?security=tls&sni=loceryl.com&type=ws&host=Configt.Dev&path=%2FlW0tvTq4oSbHyKeRM%3Fed%3D2560&fp=firefox&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://99af0dfa-d71c-4a73-aa30-7485f58cc0a1@151.101.3.8:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=welcomtofreeboarders.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://aaacbbc-cbaa-cbaa-acdb-bbcbccaacaba@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.142.83.126:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
 vless://f5940000-f45f-4f83-822b-9c2deaed74b6@194.182.79.64:14072?mode=gun&security=reality&encryption=none&pbk=rBFBT_1w_zGmAu58xZ11pvWfOrf1wmW-LUVKkqwFrTc&fp=chrome&spx=%2F%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%3Fed%3D2560&type=grpc&serviceName=t.me/entryNET&sni=sourceforge.net&sid=29c9b711b2a9fb#[🏁]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.31.178:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTM5M2JjZS05ZjFkLTQyNjMtOThmMC0yN2JmMGY2NDBhNzc@jsyd.yeahfast.com:35632#[🏁]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE5MC45My4yNDYuMTc4IiwgInBvcnQiOiAiMjA4MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImlwMTguNjkyOTE5OC54eXoiLCAidGxzIjogIiJ9
 trojan://ouo@152.70.101.24:16800?allowInsecure=1&sni=tr.koiok.us.kg&type=ws&host=tr.koiok.us.kg&path=//?ed=2560#[🏁]t.me/ConfigsHub
