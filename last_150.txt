@@ -1,6 +1,3 @@
-trojan://telegram-id-directvpn@54.93.134.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTloT05jcDRMbVd1OENrNmhFUE0zNHR0ODlFcUFKNTBrN0ZiUkJkckJieGpYMW4@195.123.213.12:31348#[🏁]t.me/ConfigsHub
-vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&sid=d70393f0ad1c7552#[🇷🇺]t.me/ConfigsHub
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGUxdm0uY2RuLTAzLmxpdmUiLCJpZCI6IjZiZjFiMzQyLTJiZjAtNDYwOC1iMjg4LThlZTUxNWUyZDU5NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9AaG9wZXYycmF52IxAaG9wZXYycmF5IiwicG9ydCI6IjgwIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://0130ffc1-4aa9-4fe2-b04e-d4b1d514d328@junikacip.junika.click:27717?type=grpc#[🇮🇷]t.me/ConfigsHub
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=none&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +245,6 @@ trojan://auto@172.64.35.202:443?security=tls&type=ws&sni=trojanmz.pages.dev&host
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE2Mi4xOS4yNS4yMDciLCAicG9ydCI6ICI0NDUxMyIsICJpZCI6ICI0NTUyYmRiNi1lMDA4LTQzYWMtOTI2ZC1jNmM2YzVhNmZjNzYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICI0OCJ9
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#[🇺🇸]t.me/ConfigsHub
 trojan://auto@108.162.195.202:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#[🇨🇦]t.me/ConfigsHub
+vless://3ceb909a-1a8a-4d47-9593-4226f21b2825@uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev:2053?encryption=none&security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wapin67458.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=vp38.hiddendom.shop#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U%3D@de14.giamping.com:8080#[🇩🇪]t.me/ConfigsHub
