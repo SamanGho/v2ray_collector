@@ -1,3 +1,4 @@
+vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=server13.coin.name.ng&fp=chrome&type=ws&sni=server13.coin.name.ng#[🇨🇦]t.me/ConfigsHub
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=random&type=tcp&sni=analytics.google.com&sid=eab26c4a32#[🇩🇪]t.me/ConfigsHub
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=iphoster-quran-iran-5.coin.name.ng&fp=chrome&type=ws&sni=iphoster-quran-iran-5.coin.name.ng#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiJncjEubnNwYXkudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVhZWIxZmMxLWYwODQtNGZkNC1hMzM3LTc1NjNmNGU0ZThhZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzU2MDAiLCJwcyI6Ilvwn4eu8J+Ht110Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
@@ -238,7 +239,6 @@ vless://73a22963-1825-4a74-b961-45bffdb590ce@62.60.156.102:8080?encryption=none&
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?type=ws&host=007.xingfu.qzz.io&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed%3D512&security=tls&fp=random&sni=007.xingfu.qzz.io#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#[🇫🇮]t.me/ConfigsHub
 vless://b61d30be-c2a9-424e-95ef-100939462cac@172.66.40.99:8080?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=T.ubuntu-linuxmirror.ir&type=ws#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDR0NZUWdLU0huNkRSb2loYzFtUFps@138.197.192.62:443#[🇺🇸]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2052?encryption=none&security=none&type=ws&path=%2F%3F---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#[🇬🇧]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@100.27.132.154:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇺🇸]t.me/ConfigsHub
 vless://003e3cd8-e9ab-447d-ae72-6ddde8e031ba@download.ldop.com:8855?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇷🇺]t.me/ConfigsHub
