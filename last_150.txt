@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.4.19:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://e699e9dc-c1a7-4ab8-a597-bbfae5219fe5@cloud.net0n3.shop:10443?type=xhttp&path=@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3----@Net0n3&host=flask.palletsprojects.com&mode=auto&security=reality&pbk=gUEJWr93w_k1Xr9CLdEl03KzYj4cW7vgJjtWaEm_XWo&fp=chrome&sni=flask.palletsprojects.com&sid=ff9f#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMDQuMjEuMzIuMjQyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ4eHhjZGZydDUuODkwNjA0LmRwZG5zLm9yZyIsImlkIjoiMjg4MTI0ZGEtMGQ2OC00MmY0LTlmNDgtNzBkYzRkY2M1NWE2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9MT3BIbElzc2QwNUhkSEVJdXBNWmVLIiwicG9ydCI6IjgwIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 trojan://Aimer@173.245.59.144:443?sni=ngepz.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
@@ -53,7 +54,6 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.110.159:8880?encryption=none
 trojan://NISHIKUITAN111@159.246.55.202:443?allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?encryption=none&security=tls&sni=rayan-supra.parisa.dpdns.org&type=ws&host=rayan-supra.parisa.dpdns.org&path=%2F%3Fed%3D%23TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI%3D%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 trojan://blue2024@104.16.6.205:443?sni=ha.lii2010.us.kg#[🇨🇦]t.me/ConfigsHub
-vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?encryption=none&security=tls&sni=yx.yushan.dpdns.org&fp=random&type=ws&host=yx.yushan.dpdns.org&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://c0ca9232-7c21-40b6-bd5c-33cc8293e7d8@cdn11.arzland.online:2022?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2095?encryption=none&security=none&type=ws&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 trojan://abbacac-caab-cbaa-bacd-cbabcbabaacc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
