@@ -1,3 +1,4 @@
+vless://0395a16c-cb48-4614-bf19-7bf9ac7aed41@115.190.19.83:29185?security=reality&encryption=none&pbk=Ox0EsEq7UYtFUy24Wg3_84XvN4gl3HhH21eX0nPj4x4&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=689a9a#[🏁]t.me/ConfigsHub
 trojan://MaQNx4WdL0@178.128.138.210:443?mode=auto&path=%2Fa-7135.80sh2025&security=reality&pbk=05tzrWopIy9nHI1FCMnIh5dsgx1IVuCztP3CGAIrKC0&host=www.speedtest.net&fp=chrome&spx=%2FAug19&type=xhttp&sni=google.com&sid=cdd5ff35#[🇳🇱]t.me/ConfigsHub
 vless://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://f716fa40-e997-42d8-b93c-7122c63cc122@osi1.speedx3.info:8880?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
@@ -244,7 +245,6 @@ vless://04a68e50-8c5c-447d-8416-9cc075e78a85@91.99.117.223:443?security=none&enc
 trojan://telegram-id-directvpn@3.19.88.172:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.89:8881#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.47:8882#[🇺🇸]t.me/ConfigsHub
-vless://58a6047f-b46e-4e7a-c7d0-c08b48f3c505@104.17.147.22:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://5d167c53-11ad-4c7c-a7ed-f8325c5d4a79@193.111.76.108:8443?security=none&encryption=none&headerType=none&type=tcp#[🇹🇷]t.me/ConfigsHub
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#[🇨🇦]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shopÂ¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇬🇧]t.me/ConfigsHub
