@@ -1,9 +1,3 @@
-trojan://telegram-id-privatevpns@3.77.74.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vless://2201f026-64c2-4705-9ecf-7289671d0f09@172.66.40.99:8080?path=%2F%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420&security=none&encryption=none&host=s6.inFo.laLezaRanegomaNandish.suB420-mohaMad.online.&type=ws#[🇨🇦]t.me/ConfigsHub
-trojan://blue2024@104.19.235.40:443?allowInsecure=1&sni=ha.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server514991469813933273.tas-bazi.com:443?mode=stream-one&path=%2Ffrf&security=none&encryption=none&type=xhttp#[🏁]t.me/ConfigsHub
-vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?encryption=none&security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
-vless://0b91b8ed-5fe7-4ebf-aa81-0d1c7d2c0136@91.107.163.43:42370?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://4e21e86a-46f1-4272-bdb3-bac8bc6839ab@91.99.221.5:443?security=reality&encryption=none&pbk=v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=b7859e878ab2fb#[🇩🇪]t.me/ConfigsHub
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&path=%2Fdcgfdfws&security=tls&encryption=none&type=ws#[🇫🇷]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#[🏁]t.me/ConfigsHub
@@ -248,3 +242,9 @@ vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@87.107.110.155:4406?encryption=none
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@181.214.1.29:8880?encryption=none&security=none&type=ws&host=hk.laoyoutiao.link&path=%2Ftelegramu0001f1e8u0001f1f3#[🇩🇪]t.me/ConfigsHub
 vless://c5ef3997-da1c-4ed3-91e3-f3253c1aeb48@104.21.112.1:2082?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082Telegram#[🇨🇦]t.me/ConfigsHub
 vless://827545b9-5e1d-4e29-a97f-46b388891f57@50.7.85.220:80?encryption=none&security=none&type=ws&host=hello-world-twilight-lake-386e.yijiled513.workers.dev&path=%2F#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.37.12.70:5003#[🇫🇷]t.me/ConfigsHub
+trojan://Trojan-Hqv2rayNG@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=dontskii.hqv2rayng.xyz&path=%2F#[🇨🇦]t.me/ConfigsHub
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogInIxLnhpbnlvLm1lIiwgInBvcnQiOiA0MDIwMSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxMzg2YmE2LWIwZmUtNDA3MC1iZTY3LWE2Mzg0Y2Y2YmViNSJ9
+trojan://637308bc-fd52-343d-b573-7693835b8e20@103.136.185.27:5535?sni=steampipe.akamaized.net#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.19.196.255:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE2My41My4xOC4xNTQiLCAicG9ydCI6ICIxOTkwMSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOWMyODBiNjEtMDdkOC00MjYzLTgxM2UtNjcwZDNlYWJmNDE2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAieGcuZGFzaHVhaS5jeW91IiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
