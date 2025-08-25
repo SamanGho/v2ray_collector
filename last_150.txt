@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@18.195.47.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://b906d63f-4499-4476-8780-834b27cf9f09@172.66.40.99:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=d.jOin.zEdMoDeOn.oNl.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.195.47.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.238.190.16:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#[🇺🇸]t.me/ConfigsHub
@@ -74,7 +75,6 @@ vless://22ea636c-8e13-4052-b58c-5b03f9e661d9@a-l0.suupermeat.ir:8080?path=%2Fde%
 vless://22ea636c-8e13-4052-b58c-5b03f9e661d9@k-w.ferdowsi-rgb.ir:2095?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.179.185.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.179.185.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vless://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://a6dd00f2-de2a-4c3c-bc0a-0e9818e95dde@104.26.13.31:443?encryption=none&security=tls&sni=GErmaNy-exK.pAGEs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=germany-exk.pages.dev&path=%2Fn2s3PIHTKeFM2XgA%2FMTguMTk4LjE2OC4z%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjk0LjI0Mi4yMzAuMjA2IiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI5YjM4ZDE1Mi02YjEyLTRkZTAtYTIwZC04N2E4YzkwMzRjYzQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiQFJhRmFWMkJvdCIsICJob3N0IjogInpMTWlYQllOQXdzWnFrcG1zZHJiZ3RQUmhUUXVJY3Yucm94aWZhLmlyIiwgInRscyI6ICJ0bHMifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.241.18.70:443#[🇧🇭]t.me/ConfigsHub
