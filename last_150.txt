@@ -1,3 +1,5 @@
+vless://263497fb-9ae2-4f7b-94c6-b0179e480448@172.67.140.54:2096?security=tls&sni=MOon-AZadNet.pagES.DEV&type=ws&host=moon-azadnet.pages.dev&path=%2F3ewruCq0qxGgeI5j%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
+trojan://Aimer@54.176.205.20:80?allowInsecure=1&sni=acepo.ambercc.filegear-sg.me&ws=1&wspath=%2F#[🇺🇸]t.me/ConfigsHub
 vless://45cd4cb9-c026-4ab2-814d-090d51f4a59f@103.231.75.23:443?path=%2Fxsgzobws&security=tls&encryption=none&type=ws#[🇹🇷]t.me/ConfigsHub
 vless://cd557d97-4d74-4f5c-aa0e-4888af59a658@188.114.98.12:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=he10.motorbazan.com&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -244,7 +246,5 @@ vless://ced63688-30a1-50b9-8f3b-b8d3f834abc0@speedtest.net:80?encryption=none&se
 vmess://eyJhZGQiOiAiMTQyLjAuMTM0LjI0NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NTAxNyIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 trojan://telegram-id-privatevpns@3.69.18.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://21e6d7f3-08bd-4dbc-abf5-8012d9838af5@188.114.98.112:80?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.18.215:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
-trojan://telegram-id-directvpn@3.69.18.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@3.69.18.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://fe94c5c0-8534-440d-834b-579e7281cd56@www.speedtest.net:2086?path=%2F%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--&security=none&encryption=none&host=mahan.mmadvip8563.ir&type=ws#[🇨🇦]t.me/ConfigsHub
