@@ -1,3 +1,5 @@
+vless://c928cc14-4bb1-48bd-b4da-69448ec797ba@91.99.216.9:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#[🇩🇪]t.me/ConfigsHub
+trojan://Aimer@188.164.159.98:2083?security=tls&sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=/?ed%3D2560&host=epgb.aimercc.dpdns.org#[🏁]t.me/ConfigsHub
 vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F&security=none&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@94.131.21.174:54075#[🏁]t.me/ConfigsHub
 trojan://Aimer@192.210.207.89:20080?security=tls&sni=epgb.aimercc.dpdns.org&allowInsecure=1&type=ws&path=/?ed%3D2560&host=epgb.aimercc.dpdns.org#[🇺🇸]t.me/ConfigsHub
@@ -245,6 +247,4 @@ vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?encryption=none&
 vmess://eyJhZGQiOiI2Mi42MC4xNTIuMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRiZDliZWVjLTQ1MTktNGE3Yy1iNTliLTFlYTkyNTJlM2Y0ZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIwMDg2IiwicHMiOiJb8J+HuPCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://01e6edb4-245b-4a3f-8617-c288c5d2a4cc@172.66.40.99:2052?path=%2F%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet&security=none&encryption=none&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.29.60.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@52.29.60.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.60.180:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 trojan://telegram-id-directvpn@52.29.60.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
