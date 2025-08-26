@@ -1,7 +1,3 @@
-vless://67a2e5f1-40b9-4b49-9bb6-c3e16ab87a9d@104.18.26.90:8880?path=%2F2048&security=none&encryption=none&host=Www.soft98.ir.snap.ir.Www.Abantether.ir.te1450.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.190.153.228:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-trojan://bpb-trojan@japan.com:443?encryption=none&security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
-vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.7.18:443?encryption=none&security=tls&sni=albedoalbedochan.violetchaan.ip-ddns.com&alpn=http%2F1.1&fp=random&type=ws&host=albedoalbedochan.violetchaan.ip-ddns.com&path=%2Fjokerrvpn_bia_chanel@jokerrvpn#[🇨🇦]t.me/ConfigsHub
 vless://6da84139-72e0-4b4b-b105-ca3eb590856d@151.101.66.133:443?security=tls&sni=loceryl.com&type=ws&host=Configt.Dev&path=%2FlW0tvTq4oSbHyKeRM%3Fed%3D2560&fp=firefox&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://99af0dfa-d71c-4a73-aa30-7485f58cc0a1@151.101.3.8:80?path=ws%2F%3Fed%3D2048&security=none&encryption=none&host=welcomtofreeboarders.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://aaacbbc-cbaa-cbaa-acdb-bbcbccaacaba@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
@@ -248,3 +244,7 @@ vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:44
 vless://35b56ca6-5c90-4fc6-b8be-3384a4156a90@bakrie.ac.id.servpn.my.id:443?encryption=none&security=tls&sni=bakrie.ac.id.servpn.my.id&fp=randomized&type=ws&host=bakrie.ac.id.servpn.my.id&path=%2Fsg3#[🇨🇦]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.198.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F%3Fed#[🇬🇧]t.me/ConfigsHub
 vless://1d8cd08a-6e3e-4365-b554-08a6ae4c1c6c@www.speedtest.net:8080?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://9b6619f7-269d-4ac7-bd9a-3a3e42aface3@essi.blacklike.ir:2052?security=none&encryption=none&type=ws#[🏁]t.me/ConfigsHub
+vless://0f3e3b53-fe0f-402a-bd6d-1c5af0e2fbe5@104.17.207.36:8880?security=none&type=httpupgrade&host=join-daily-configs.broken-dreams.ir&path=%2F#[🇨🇦]t.me/ConfigsHub
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaVlqYzBNV1F5T0MxalpERXhMVFJqWlRndE9EYzVPUzAwTlRrME1EZGlZV05rWlRn@4.api-catssr.catcloud.host:49897#[🇺🇸]t.me/ConfigsHub
+vmess://eyJhZGQiOiAiMTA0LjIxLjE1LjM2IiwgImFpZCI6IDAsICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMifQ==
