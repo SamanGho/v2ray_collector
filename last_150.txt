@@ -1,11 +1,3 @@
-vless://22ea636c-8e13-4052-b58c-5b03f9e661d9@k-w.ferdowsi-rgb.ir:2095?security=none&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@63.179.185.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@63.179.185.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vless://a6dd00f2-de2a-4c3c-bc0a-0e9818e95dde@104.26.13.31:443?encryption=none&security=tls&sni=GErmaNy-exK.pAGEs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=germany-exk.pages.dev&path=%2Fn2s3PIHTKeFM2XgA%2FMTguMTk4LjE2OC4z%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
-vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjk0LjI0Mi4yMzAuMjA2IiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI5YjM4ZDE1Mi02YjEyLTRkZTAtYTIwZC04N2E4YzkwMzRjYzQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiQFJhRmFWMkJvdCIsICJob3N0IjogInpMTWlYQllOQXdzWnFrcG1zZHJiZ3RQUmhUUXVJY3Yucm94aWZhLmlyIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.241.18.70:443#[🇧🇭]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTombG1PaExKdy0w@150.241.95.62:54314#[🏁]t.me/ConfigsHub
-trojan://eyJhZGQiOiJiZS50YXdhcmQub3JnIiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZS50YXdhcmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklSLUBWMnJheV9BbHBoYS0xMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJiZS50YXdhcmQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#[🏁]t.me/ConfigsHub
 trojan://cbacaab-cbaa-baac-badc-bccbcaacbbaa@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FChannel%40ShadowProxy66&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[🇨🇦]t.me/ConfigsHub
 vless://bcaabca-cbaa-baac-cbda-bbccaacbcaba@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
@@ -248,3 +240,11 @@ vless://f037595d-0603-4994-c497-b91196e7a329@Www.Speedtest.net:2095?path=%2Ftele
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?path=%2Fid5%2F%3Fed%3D%23TELEGRAM-%40MTMVPN---TELEGRAM-%40MTMVPN---TELEGRAM-%40MTMVPN---TELEGRAM-%40MTMVPN---TELEGRAM-%40MTMVPN%3Fed%3D512&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#[🇨🇦]t.me/ConfigsHub
 vless://1a691112-bf37-4306-98f6-17a74e1576fa@104.16.1.106:80?path=%2FFASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM%3Fed%3D2048&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://993c636b-19d8-4d20-8961-e8f4b4755df5@80.74.29.212:8443?security=reality&encryption=none&pbk=rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#[🇳🇱]t.me/ConfigsHub
+vless://cd6c18e0-6f1b-49c8-a07c-6ace8aca35c4@104.17.148.22:8880?security=none&type=httpupgrade&host=eg.onedlkimi.lol.&path=%2F%3Fed%3D8880#[🇨🇦]t.me/ConfigsHub
+vless://6c9fa651-7d63-4b88-ab3c-b39d5a8dd440@188.114.98.112:80?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=JOIN---ELiV2-RAY.cloudns.pro.&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://bpb-trojan@172.64.150.145:443?security=tls&type=ws&sni=mindrOOm-5cz.pAgEs.dEV&path=/trC8BM8bTsAF0AnLYL?ed&host=mindrOOm-5cz.pAgEs.dEV#[🇨🇦]t.me/ConfigsHub
+trojan://bpb-trojan@104.25.116.172:443?sni=adagio.us.kg#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@51.20.160.239:22222?sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://98f0c223-cb75-4faa-859e-47110b1f052b@104.21.69.44:2096?security=tls&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&path=/Telegram-@V2ray_Alpha/?ed=2560&host=internet4everieone7.pages.dev#[🇨🇦]t.me/ConfigsHub
+trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.148.22:80?security=none&type=httpupgrade&path=/&host=1i5.diginoshops10.ir#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.179.62.148:443#[🇬🇧]t.me/ConfigsHub
