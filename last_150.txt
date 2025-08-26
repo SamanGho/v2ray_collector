@@ -1,3 +1,10 @@
+trojan://telegram-id-privatevpns@63.179.185.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@63.179.185.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://a6dd00f2-de2a-4c3c-bc0a-0e9818e95dde@104.26.13.31:443?encryption=none&security=tls&sni=GErmaNy-exK.pAGEs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=germany-exk.pages.dev&path=%2Fn2s3PIHTKeFM2XgA%2FMTguMTk4LjE2OC4z%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjk0LjI0Mi4yMzAuMjA2IiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI5YjM4ZDE1Mi02YjEyLTRkZTAtYTIwZC04N2E4YzkwMzRjYzQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiQFJhRmFWMkJvdCIsICJob3N0IjogInpMTWlYQllOQXdzWnFrcG1zZHJiZ3RQUmhUUXVJY3Yucm94aWZhLmlyIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.241.18.70:443#[🇧🇭]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTombG1PaExKdy0w@150.241.95.62:54314#[🏁]t.me/ConfigsHub
+trojan://eyJhZGQiOiJiZS50YXdhcmQub3JnIiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZS50YXdhcmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IklSLUBWMnJheV9BbHBoYS0xMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJiZS50YXdhcmQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#[🏁]t.me/ConfigsHub
 trojan://cbacaab-cbaa-baac-badc-bccbcaacbbaa@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FChannel%40ShadowProxy66&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[🇨🇦]t.me/ConfigsHub
 vless://bcaabca-cbaa-baac-cbda-bbccaacbcaba@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
@@ -225,13 +232,6 @@ trojan://telegram-id-privatevpns@63.178.135.7:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@63.178.135.7:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://410615dc-8a83-e7ca-6d1e-52bddd8d3c23@143.244.56.54:80?mode=auto&path=%2F&security=none&encryption=none&host=fastspeed.b-cdn.net&type=xhttp#[🇫🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3Yk84YWtvUm9NMk0%3D@83.217.9.120:443#[🇹🇷]t.me/ConfigsHub
-vless://Parsashonam-Bot-16@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://mitivpn--@104.21.27.146:443?path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&sni=mex.a5r.ir#[🇨🇦]t.me/ConfigsHub
-vless://mitivpn--@104.18.11.248:80?mode=auto&path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN&security=none&alpn=http%2F1.1&encryption=none&host=nl4.sharkpv.ir&fp=chrome&type=xhttp&sni=nl4.sharkpv.ir#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQVVYzTGdLUlZwdU0%3D@45.151.62.131:443#[🇷🇺]t.me/ConfigsHub
-vless://Parsashonam-Bot-16@[2a01:4f8:1c1a:dc2b::1]:4430?security=reality&encryption=none&pbk=5CE4ZpwvR-EmkymzU3V6yeeTcSTCpIBg473J8-6IFnM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=9aa6af3aa2d41f#[🏁]t.me/ConfigsHub
-vless://033fd5e6-ea16-4cb9-b41d-20417892d2c5@46.62.156.195:25694?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=hetzner-9.cfuk.name.ng&type=ws&sni=hetzner-9.cfuk.name.ng#[🇨🇦]t.me/ConfigsHub
 vless://955654be-e797-432b-9d0d-67baf2efb74c@188.166.150.199:443?path=%2Fws&security=tls&encryption=none&fp=chrome&type=ws&sni=zula.ir#[🇬🇧]t.me/ConfigsHub
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#[🇨🇦]t.me/ConfigsHub
