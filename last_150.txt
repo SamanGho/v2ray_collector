@@ -1,3 +1,6 @@
+vless://8dd46858-12e7-4754-fdb8-489eef2d8425@bmi.raheaiande.ir:1001?security=reality&encryption=none&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&headerType=http&fp=edge&spx=%2F&type=tcp&sni=ea.com&sid=c7bc4d#[🏁]t.me/ConfigsHub
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@162.159.255.149:2087?security=tls&sni=jaegBSEM36.CFD&alpn=h2,http/1.1&type=ws&path=/&host=jaegBSEM36.CFD&encryption=none#[🇺🇸]t.me/ConfigsHub
+vless://c226ac5d-65e9-4379-95c3-fb542bc242d8@172.67.130.204:443?security=tls&sni=HHhhhHhhhhH.777198.xYz&alpn=http/1.1&fp=chrome&type=ws&path=/OjdW89Bpg4ykd4O&host=hhhhhhhhhhh.777198.xyz&encryption=none#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.113.190.198:443#[🏁]t.me/ConfigsHub
 vless://0f4865d9-9405-4703-a282-46e326e6d9e7@BeWilDerED-poEM.SEOtooLsfOrYOu.cO.uk:80?encryption=none&path=/?--@FREEV2RNG--Bia-FREEV2rng--Kanal-@FREEv2RNG--&security=none&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.147.22:8443?security=tls&sni=jjaNGESN.SBS&alpn=h2,http/1.1&type=ws&path=/&host=jjangESN.sbs&encryption=none#[🇨🇦]t.me/ConfigsHub
@@ -243,8 +246,5 @@ vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@172.67.71.187:443?encryption=none&s
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?encryption=none&security=none&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.93.38.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@54.93.38.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vmess://eyJhZGQiOiI0Ni44LjIyNS4xNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTVhZDgyODItMTgyMS00NWZmLWRiOTUtMTMzYTg2YzIzMzdiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODM2NiIsInBzIjoiW/Cfh6vwn4e3XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-trojan://telegram-id-directvpn@54.93.38.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?encryption=none&security=tls&sni=blog.ruangguru.com.servpn.my.id&fp=randomized&type=ws&host=blog.ruangguru.com.servpn.my.id&path=%2Fsg3%3Fed%3D2560%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.93.38.12:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://9e3915d4-e76b-40bf-a64c-0a7060f71cb5@85.133.132.30:55903?encryption=none&security=none&type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
