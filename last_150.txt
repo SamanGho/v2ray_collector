@@ -1,3 +1,4 @@
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE2My41My4xOC4xNTQiLCAicG9ydCI6ICIxOTkwMSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOWMyODBiNjEtMDdkOC00MjYzLTgxM2UtNjcwZDNlYWJmNDE2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAieGcuZGFzaHVhaS5jeW91IiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
 vless://74564508-e2c0-4d35-afc6-7ed6e5edf055@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
 vless://74564508-e2c0-4d35-afc6-7ed6e5edf055@my.iranserver.com:8080?encryption=none&security=none&type=ws&host=3.channeltur.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
 vless://74564508-e2c0-4d35-afc6-7ed6e5edf055@tgju.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
@@ -190,7 +191,6 @@ vless://17003f85-edd9-4c46-9e1d-a3fa2ec85b33@129.212.141.135:27426?mode=auto&pat
 vless://6d497885-c02c-4af3-99dd-8668bbd462a9@151.101.64.155:80?security=none&type=ws&host=api.nhl5.ir&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwiYWRkIjoiNDUuMTU5LjUxLjI4IiwicG9ydCI6IjQ3MTE4IiwidHlwZSI6Im5vbmUiLCJpZCI6ImVhMDM0MTcyLWYzM2QtNGYyYi1hNGE3LWM3MDBjYTc3M2Y3YSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 vless://05f3181c-ae29-480d-bc66-436f8f959005@38.135.122.152:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=cdnjs.com&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@52.29.121.204:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://tr0JXYME5xdoqpxCUAQKbN@193.57.136.223:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ya.ru&pbk=yRZ-w03XW9KvvqdG2UpZJQ0Pt3ZSI9bgPOmEaUjqSRU&sid=8ed73883bc0eb6a8&spx=/#[🇹🇷]t.me/ConfigsHub
 vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.240.59:443?encryption=none&security=tls&type=ws&path=%2F#[🇩🇪]t.me/ConfigsHub
 vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.8.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&headerType=none#[🇷🇺]t.me/ConfigsHub
