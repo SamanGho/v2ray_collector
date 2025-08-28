@@ -1,3 +1,5 @@
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsImhvc3QiOiJ6dWxhLmlyLmV1LTIuaGlodS5uZXQiLCJuZXQiOiJ3cyIsInBvcnQiOiI4MCIsInBhdGgiOiJcL2I4N3IzZDllIiwic2N5IjoiYXV0byIsImlkIjoiM2Q3NmFjNDAtODBjNC0xMWYwLWI0MzItMjA1YzZkNWY1ZDc4In0=
+vless://73a22963-1825-4a74-b961-45bffdb590ce@62.60.156.102:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=digikala.com&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&type=tcp&headerType=none#[🇫🇷]t.me/ConfigsHub
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?type=ws&host=007.xingfu.qzz.io&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed%3D512&security=tls&fp=random&sni=007.xingfu.qzz.io#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#[🇫🇮]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2052?encryption=none&security=none&type=ws&path=%2F%3F---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#[🇬🇧]t.me/ConfigsHub
@@ -243,8 +245,6 @@ vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@108.162.196.197:443?allowInsecure=0
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@141.101.114.126:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
 vless://3cff1332-9020-4a58-8dbf-3ff31bd271a4@104.26.15.16:8080?security=none&type=httpupgrade&host=newi.rskhibotss.ir.&path=%2F%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn%40rskhivpn#[🇨🇦]t.me/ConfigsHub
 vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=%2Fid5%3F%40&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=randomized&type=ws&sni=bakrie.ac.id.servpn.my.id#[🏁]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.223.77:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@198.41.223.199:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.36.223.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://de6462a3-553c-4f87-81fe-88ebd7ebbcf0@151.101.2.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.59.220:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
