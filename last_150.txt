@@ -1,8 +1,3 @@
-trojan://Trojan-Hqv2rayNG@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=dontskii.hqv2rayng.xyz&path=%2F#[🇨🇦]t.me/ConfigsHub
-vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogInIxLnhpbnlvLm1lIiwgInBvcnQiOiA0MDIwMSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxMzg2YmE2LWIwZmUtNDA3MC1iZTY3LWE2Mzg0Y2Y2YmViNSJ9
-trojan://637308bc-fd52-343d-b573-7693835b8e20@103.136.185.27:5535?sni=steampipe.akamaized.net#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@52.19.196.255:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
-vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE2My41My4xOC4xNTQiLCAicG9ydCI6ICIxOTkwMSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOWMyODBiNjEtMDdkOC00MjYzLTgxM2UtNjcwZDNlYWJmNDE2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAieGcuZGFzaHVhaS5jeW91IiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
 vless://74564508-e2c0-4d35-afc6-7ed6e5edf055@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
 vless://74564508-e2c0-4d35-afc6-7ed6e5edf055@my.iranserver.com:8080?encryption=none&security=none&type=ws&host=3.channeltur.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
 vless://74564508-e2c0-4d35-afc6-7ed6e5edf055@tgju.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +243,8 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.81.247.213:8880?encryption=none&
 vless://e5eab6c9-cea6-48e0-aa84-cf5e90bcb5f8@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fxkvxrhws&security=tls&encryption=none&host=638919041659967663.birjand-prx-dnraaby.info&type=ws&sni=638919041659967663.birjand-prx-dnraaby.info#[🇺🇸]t.me/ConfigsHub
 vless://54b4c039-7be6-448f-b704-820251b079db@pouriacheat.fergalvpnmod.com:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&type=grpc&serviceName=t.me/entryNET&sni=www.cloudflare.com&sid=8d9c20be72b4#[🇩🇪]t.me/ConfigsHub
 vless://51f7d088-9ea1-4a15-99a9-e47426741755@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fxsrwobws&security=tls&encryption=none&host=638919041659967261.birjand-prx-dnraaby.info&type=ws&sni=638919041659967261.birjand-prx-dnraaby.info#[🇨🇦]t.me/ConfigsHub
+trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#[🇺🇸]t.me/ConfigsHub
+vless://tr0JXYME5xdoqpxCUAQKbN@193.57.136.223:443?security=reality&encryption=none&pbk=yRZ-w03XW9KvvqdG2UpZJQ0Pt3ZSI9bgPOmEaUjqSRU&host=%2FTELEGRAM_JKVPN_JKVPN_JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM_JKVPN_JKVPN_JKVPN&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=8ed73883bc0eb6a8#[🇹🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHUGtBaWE1b0NuYWxYc1d4MmVGMmtK@91.194.160.151:1235#[🏁]t.me/ConfigsHub
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F%3FTELEGRAM-JKVPN_JKVPN_JKVPN%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=T3wRa98QnG.lIrA9xC7.iNfO&fp=chrome&type=ws&sni=T3wRa98QnG.lIrA9xC7.iNfO#[🇷🇺]t.me/ConfigsHub
+vmess://eyJhZGQiOiI5MS45OS4yLjg2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFmOTk2YzRkLWMxZGItNDg0Ny1iYTMwLTQ2MjU0YzAxMzA1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODg4MCIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
