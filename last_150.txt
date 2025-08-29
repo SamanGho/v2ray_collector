@@ -1,3 +1,5 @@
+vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@141.101.114.235:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
+vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.58:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#[🇨🇷]t.me/ConfigsHub
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@188.114.96.99:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.244.16:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#[🇨🇷]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.153.116:443?security=tls&sni=1-79u.pages.dev&type=ws&host=1-79u.pages.dev&path=%3Fed%3D2851#[🇨🇦]t.me/ConfigsHub
@@ -208,7 +210,6 @@ vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.59.220:443?security=tls&sni
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.221.194:38644?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?security=reality&encryption=none&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mega.io&sid=2c709739f487#[🇷🇺]t.me/ConfigsHub
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@2.58.95.16:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#[🏁]t.me/ConfigsHub
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.239.109.216:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#[🇳🇱]t.me/ConfigsHub
 trojan://ttfang@45.131.4.216:2096?path=%2FTelegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#[🇮🇷]t.me/ConfigsHub
 vless://fb138d7b-adb6-41a2-bf75-2569617b986b@netherlands.marzxox.shop:210?security=reality&type=xhttp&headerType=&path=%2FApi%2FAS&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+750000%2C+%22scMaxConcurrentPosts%22%3A+40%2C+%22scMinPostsIntervalMs%22%3A+20%2C+%22xPaddingBytes%22%3A+%22500-1500%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.jsdelivr.net&fp=firefox&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&sid=#[🇨🇦]t.me/ConfigsHub
 vless://d14bf1cb-311f-4986-b7b5-2b5efb8c3652@172.66.40.99:443?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=hE136.maShkesTan.CoM&fp=firefox&type=ws&sni=hE136.maShkesTan.CoM#[🇨🇦]t.me/ConfigsHub
@@ -237,7 +238,6 @@ vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=%2FFre
 trojan://telegram-id-directvpn@35.180.143.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://056c6ac6-fb9d-463b-9288-d869f28bbb06@46.62.156.195:25694?type=tcp&security=none#[🇫🇮]t.me/ConfigsHub
 vless://056c6ac6-fb9d-463b-9288-d869f28bbb06@46.62.156.195:25694?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
-vless://6c8f15df-cd15-4002-abfd-3902ceffb5b9@Holn.xmonys.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇳🇱]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMzUuMTgxLjEwMi42MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmJpbmcuY29tIiwiaWQiOiIyNDY4MmRkYS00MzE4LTRjZTMtYjM3My1mNmI3MjkxMTNmMTIiLCJuZXQiOiJ3cyIsInBhdGgiOiIyNDY4MmRkYS00MzE4LTRjZTMtYjM3My1mNmI3MjkxMTNmMTItdm0iLCJwb3J0IjoiMjA4MiIsInBzIjoiW/Cfh6vwn4euXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://6c8f15df-cd15-4002-abfd-3902ceffb5b9@alm.hotspoto.news:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://6c8f15df-cd15-4002-abfd-3902ceffb5b9@uk.hotspoto.news:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇺🇸]t.me/ConfigsHub
