@@ -1,3 +1,4 @@
+trojan://auto@104.20.18.239:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.99.209:443?security=tls&sni=BpbpanEL.Ac.CN.EU.oRg&type=ws&host=BpbpanEL.Ac.CN.EU.oRg&path=%2Fp3stxwx49t13atgt%2Fchjvehlpcc5hbgl5dw4uznh4ay5kzwr5bi5pbw%3D%3D%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
 vless://ced63688-30a1-50b9-8f3b-b8d3f834abc0@speedtest.net:80?encryption=none&security=none&type=ws&host=MO-SI-V2.COM&path=%2F#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMTQyLjAuMTM0LjI0NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NTAxNyIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
@@ -246,5 +247,4 @@ vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.16.38.178:80?allowInsecure=0&sn
 vless://6c8f15df-cd15-4002-abfd-3902ceffb5b9@Holn.xmonys.com:625?security=&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇳🇱]t.me/ConfigsHub
 vless://b61ad0a9-dfe2-4cb1-85a1-b58003010d17@185.146.173.39:2052?path=%2Fgoogle&security=&encryption=none&host=SMTP.lemoex.ir&type=ws#[🇸🇪]t.me/ConfigsHub
 vless://b5d99a97-ac4f-4509-9dc1-33d2a9a28148@jquery.com:2052?path=%40Rayan_Config&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-pRo-4.rAyAn-4.cLoUdNs.pRo&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=&encryption=none&authority=%2F%3FJOIN---PLANB_PROXY&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://3821b50f-4389-43d7-b08f-7b9e2861bb95@104.18.3.26:2086?path=%3Fed%3D2048JOIN---PLANB_PROXY&security=&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-pRo-6.rAyAn-6.cLoUdNs.pRo&fp=chrome&type=ws#[🇨🇦]t.me/ConfigsHub
