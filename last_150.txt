@@ -1,3 +1,5 @@
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?type=grpc&mode=gun&security=none#[🇺🇸]t.me/ConfigsHub
+vmess://eyJhZGQiOiJhcmFzdG9vMS5tcnZwbjY5OS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlNvbnkuY29tIiwiaWQiOiIyYmYzZjVkOC1kZTE2LTQ3ZjktOWRiZi0yNjJhMzIyMDExMzAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDU1MyIsInBzIjoiW/Cfh67wn4e3XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://Parsashonam-302@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
 vless://aa2339ea-3867-4dc2-8de8-59a4b1cce37e@172.66.40.99:443?type=ws&host=hE136.maShkesTan.CoM&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed%3D2048&security=tls&fp=firefox&sni=hE136.maShkesTan.CoM&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
 vmess://eyJob3N0IjoiIiwibmV0IjoidGNwIiwicG9ydCI6IjQwODc4IiwidHlwZSI6Im5vbmUiLCJpZCI6ImYzZDQxNjdlLWIxNWUtNGU0Ni04MmU5LTkyODZlZjkzZmRhNyIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInBhdGgiOiIiLCJhZGQiOiI4NS4xOTUuMTAxLjEyMiJ9
@@ -240,11 +242,9 @@ vmess://eyJhZGQiOiAiMTA0LjE5LjU3LjQiLCAidiI6ICIyIiwgInBzIjogW/Cfj4FddC5tZS9Db25m
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.37.153:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇫🇷]t.me/ConfigsHub
 vless://a71ded4e-44cb-441e-a232-cb859f9e6ca3@151.101.64.155:80?security=none&type=ws&host=SPDNET.servip2.ir&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 trojan://auto@172.67.174.21:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@63.179.8.202:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://auto@104.20.22.26:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://694d192c-d8ef-44e8-a128-9a86abed7cd9@146.75.123.82:80?mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#[🇩🇪]t.me/ConfigsHub
 vless://c2c58553-b1e3-494b-954e-4628216cb1ea@172.66.40.99:80?path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&security=none&encryption=none&host=www.speedtest.net.2.jey.cloudns.pro&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.92.72:7307#[🇺🇸]t.me/ConfigsHub
 trojan://NISHIKUITAN222@188.114.96.213:443?#[🇨🇦]t.me/ConfigsHub
 trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.44.109:443?security=tls&type=ws&sni=meti-u9d.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=meti-u9d.pages.dev#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.8.202:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
