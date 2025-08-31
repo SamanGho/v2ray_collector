@@ -1,3 +1,4 @@
+vless://496e91a6-c90c-483d-adb1-133d04d8e725@blog.ruangguru.com.servpn.my.id:443?encryption=none&security=tls&sni=blog.ruangguru.com.servpn.my.id&fp=randomized&type=ws&host=blog.ruangguru.com.servpn.my.id&path=%2Fsg1#[🇨🇦]t.me/ConfigsHub
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.129.197.177:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&fp=chrome&type=ws&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇬🇧]t.me/ConfigsHub
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?encryption=none&security=tls&sni=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&host=app-stg.gopay.co.id.servpn.my.id&path=%2Fsg10#[🇨🇦]t.me/ConfigsHub
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@app-stg.gopay.co.id.servpn.my.id:443?encryption=none&security=tls&sni=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&host=app-stg.gopay.co.id.servpn.my.id&path=%2Fsg3#[🇨🇦]t.me/ConfigsHub
@@ -199,7 +200,6 @@ vless://c2c58553-b1e3-494b-954e-4628216cb1ea@172.66.40.99:80?path=%2FTelegram%40
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.92.72:7307#[🇺🇸]t.me/ConfigsHub
 trojan://NISHIKUITAN222@188.114.96.213:443?#[🇨🇦]t.me/ConfigsHub
 trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.44.109:443?security=tls&type=ws&sni=meti-u9d.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=meti-u9d.pages.dev#[🇨🇦]t.me/ConfigsHub
-vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.223.158:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.113.215:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://1ead7c2a-e102-4f0b-8243-2654008ccac6@62.60.247.164:443?security=reality&sni=tgju.org&fp=chrome&pbk=Q5wQ-CFit2wmpY4ACfqdZI8CClmPn4sfLXXdpW73PS0&sid=d5c5c558ee0132&spx=/&type=grpc&serviceName=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&encryption=none#[🇳🇱]t.me/ConfigsHub
 vless://45ff5b82-c665-4056-94a9-e77afdea2dbc@78.129.155.100:443?security=none&encryption=none&headerType=none&type=tcp#[🇬🇧]t.me/ConfigsHub
