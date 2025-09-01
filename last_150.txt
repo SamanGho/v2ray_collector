@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@63.178.135.7:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://410615dc-8a83-e7ca-6d1e-52bddd8d3c23@143.244.56.54:80?mode=auto&path=%2F&security=none&encryption=none&host=fastspeed.b-cdn.net&type=xhttp#[🇫🇷]t.me/ConfigsHub
 vless://955654be-e797-432b-9d0d-67baf2efb74c@188.166.150.199:443?path=%2Fws&security=tls&encryption=none&fp=chrome&type=ws&sni=zula.ir#[🇬🇧]t.me/ConfigsHub
@@ -100,7 +101,6 @@ vmess://eyAidlvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJhZGQiIDogIjU3LjEyOS4yNC4xMjQiLCAi
 vless://65821e17-c2bc-4641-8a15-fc59e7a6f60f@[2a01:4f8:c013:95f7::1]:50081?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@102.177.189.177:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&fp=chrome&type=ws&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇬🇧]t.me/ConfigsHub
 vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=dl-tr-cdn.upload-center.org&fp=firefox&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#[🏁]t.me/ConfigsHub
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NW9FUHhFQk1Gd08ybitVa0JkeTdCWHRIU1I4VjllRUtQWDVkcmZmV25Hdz06VTJCQVVHQ1JEbERzcCswaTVlejk2cVpBQmN6MUVDQXlkZEhBVUpLNGlGZz0%3D@91.99.210.3:31412?note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇩🇪]t.me/ConfigsHub
 vless://3b397cf8-c161-46d4-f7d0-14735796538c@mci.itbookshop.sbs:443?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@172.67.187.28:443?security=tls&sni=DDdDddDDDdddDT.IRan2035.dPDNS.oRg&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/xeg9Fvgzc4aVkracmjyiKVby2Lp&host=dddddddddddddt.iran2035.dpdns.org&encryption=none#[🇨🇦]t.me/ConfigsHub
