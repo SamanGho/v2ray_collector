@@ -1,11 +1,3 @@
-trojan://bpb-trojan@172.64.150.145:443?security=tls&type=ws&sni=mindrOOm-5cz.pAgEs.dEV&path=/trC8BM8bTsAF0AnLYL?ed&host=mindrOOm-5cz.pAgEs.dEV#[🇨🇦]t.me/ConfigsHub
-trojan://bpb-trojan@104.25.116.172:443?sni=adagio.us.kg#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@51.20.160.239:22222?sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://98f0c223-cb75-4faa-859e-47110b1f052b@104.21.69.44:2096?security=tls&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&path=/Telegram-@V2ray_Alpha/?ed=2560&host=internet4everieone7.pages.dev#[🇨🇦]t.me/ConfigsHub
-trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.148.22:80?security=none&type=httpupgrade&path=/&host=1i5.diginoshops10.ir#[🇨🇦]t.me/ConfigsHub
-vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=aBs.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=aBs.SpEeDtEsT2029.CoM#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.31.58:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-trojan://blue2024@108.162.196.53:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#[🇨🇦]t.me/ConfigsHub
 vless://76bf3c4c-57c6-486d-b964-e0a7cf0882ee@104.18.26.94:443?security=tls&sni=esetsecuritylicense.kitonap759.workers.dev&type=ws&host=esetsecuritylicense.kitonap759.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#[🇨🇦]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@46.254.92.29:8880?encryption=none&security=none&type=ws&host=hk.laoyoutiao.link&path=%2F#[🏁]t.me/ConfigsHub
 trojan://auto@104.20.21.3:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +240,11 @@ vless://4e60aba1-5ea1-4b70-a4ad-705ee0a0e598@104.17.148.22:443?security=tls&sni=
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 trojan://e44b6ab7-c0c1-470a-86bc-bc6ccd5bab52@svip.88de.hongxingdl.vip:18147?allowInsecure=0&sni=mm2.redapricotcloud.com#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.51.88.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJmQDIxNi4xNzMuNzAuMTg3OjU3NDU2#[🏁]t.me/ConfigsHub
+vless://e3ed55e2-65bc-0e40-e5f8-55eed4a230b9@91.107.152.110:443?security=reality&encryption=none&pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zhaket.com&sid=821bbc44dd7a4e15#[🇩🇪]t.me/ConfigsHub
+vmess://eyJleHRyYSI6IiIsInNlcnZpY2VOYW1lIjoibm9uZSIsIm5ldCI6InRjcCIsImFscG4iOiIiLCJ0bHMiOiJub25lIiwicGF0aCI6IlwvIiwiaGVhZGVyVHlwZSI6Imh0dHAiLCJpZCI6IjQzY2YxNGE1LTViODUtNDdlMi1hNGMyLWI1MTRiZWFiNzA1NCIsImhvc3QiOiIiLCJzZWVkIjoiIiwicG9ydCI6IjI1NzQwIiwiZGV2aWNlSUQiOiIiLCJmcmFnbWVudCI6IiIsInYiOiIyIiwiYWRkIjoiMTkyLjMuMjE2LjE4MCIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic25pIjoiIiwiZnAiOiIiLCJtb2RlIjoiIiwiYWlkIjoiMCIsInR5cGUiOiJub25lIn0=
+vmess://eyJmcCI6IiIsIm5ldCI6InRjcCIsInNlZWQiOiIiLCJkZXZpY2VJRCI6IiIsImhvc3QiOiIiLCJmcmFnbWVudCI6IiIsImV4dHJhIjoiIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwibW9kZSI6IiIsInYiOiIyIiwic2VydmljZU5hbWUiOiJub25lIiwidHlwZSI6Im5vbmUiLCJpZCI6IjcyZmViODMzLTQxOTYtNGE3MC1hM2Y1LWFlYjAxMWY3ZDUzNCIsImhlYWRlclR5cGUiOiJub25lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJzbmkiOiIiLCJhZGQiOiI0NS4xMjguNTQuODQiLCJwb3J0IjoiMzczMTMiLCJwYXRoIjoiIn0=
+vless://60d6cc41-74a3-4740-8daa-efbb2556f8ac@46.101.68.119:1418?security=reality&encryption=none&pbk=fjIuPlPwyFpjb4JroIq6iGpM_iU2zyg2OceRuT0hxzA&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=journalofbigdata.springeropen.com&sid=463eeabdea24aa#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDEwNC4xOTIuMjI2LjEwNjo5OTA=#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1QDE2Ny43MS4yMzUuMjM4OjQ3MzQ3#[🏁]t.me/ConfigsHub
+vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?flow=xtls-rprx-vision&security=reality&encryption=none&type=tcp&sni=ru.sfasti.ru&sid=16895459a2c7768d&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none#[🇷🇺]t.me/ConfigsHub
