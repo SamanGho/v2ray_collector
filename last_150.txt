@@ -1,3 +1,4 @@
+vless://6c9fa651-7d63-4b88-ab3c-b39d5a8dd440@188.114.98.112:80?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=JOIN---ELiV2-RAY.cloudns.pro.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://bpb-trojan@172.64.150.145:443?security=tls&type=ws&sni=mindrOOm-5cz.pAgEs.dEV&path=/trC8BM8bTsAF0AnLYL?ed&host=mindrOOm-5cz.pAgEs.dEV#[🇨🇦]t.me/ConfigsHub
 trojan://bpb-trojan@104.25.116.172:443?sni=adagio.us.kg#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.20.160.239:22222?sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
@@ -215,7 +216,6 @@ vmess://eyJhZGQiOiIxOTUuMjExLjk5LjE0MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=none&encryption=none&fp=chrome&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMTEyOTM1MzQ1QnRnVjVQREhWd3c@195.35.113.79:443?note=--Telegram--@NetifyVPN--#[🇳🇱]t.me/ConfigsHub
 vless://Parsashonam-279@104.16.53.11:8080?type=ws&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&host=FragmentFi.Rubika.cYoU.&security=none#[🇨🇦]t.me/ConfigsHub
-vless://fbfcb416-925b-49c0-80c7-b5cc110849df@5.75.199.161:27168?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?path=tar_vpn&security=tls&alpn=http%2F1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN111@104.20.10.135:443?allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAidiI6ICIyIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZcdTAwYWVcdWZlMGZDYW5hZGFcdTAwYTlcdWZlMGZUb3JvbnRvXHVkODNjXHVkZDdmXHVmZTBmcGluZzo5My43N21zIn0=
