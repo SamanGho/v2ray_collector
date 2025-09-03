@@ -1,3 +1,4 @@
+vless://d14bf1cb-311f-4986-b7b5-2b5efb8c3652@172.66.40.99:443?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=hE136.maShkesTan.CoM&fp=firefox&type=ws&sni=hE136.maShkesTan.CoM#[🇨🇦]t.me/ConfigsHub
 vless://f6b74f9a-0ac7-43f0-a4cc-5cee6f1eaf7f@de.gpairnetwork369.de:3020?security=reality&encryption=none&pbk=NVjEaDFrdzaFQHvMt8BPORsLFR3iD8NA31Dpn-1HRFk&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com&sid=ecd8d10c1518fb7b#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206MWI1NjkwMzktNTEzZi00ODljLThjZTktMDJjZTJiOWIwZmI2@south.sf0jm.xyz:49223#[🇺🇸]t.me/ConfigsHub
 vless://e2d6455c-9846-4502-8394-16b8c1c07b68@www.speedtest.net:443?encryption=none&security=tls&sni=GroupYOunES.pAges.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=groupyounes.pages.dev&path=%2F5Iw0TdeAUc5AjloS%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
@@ -238,7 +239,6 @@ vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@obedient-detail.seotoolsforyou.co.u
 vless://35804421-0d60-4dff-acda-6dded7323b1d@91.107.251.143:6745?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://04012041-bf32-4682-916e-bfacd8f911b3@Osi4.speedx3.info:8880?security=none&encryption=none&host=zowe.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934/?type=tcp&encryption=none#[🇳🇱]t.me/ConfigsHub
-trojan://Aimer@108.165.152.202:2083/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org&allowInsecure=1#[🇮🇳]t.me/ConfigsHub
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none#[🇮🇳]t.me/ConfigsHub
 vless://0a30769a-400b-4501-a7f0-47d4eea82ae3@135.125.182.74:38413/?type=tcp&encryption=none#[🇩🇪]t.me/ConfigsHub
 vless://9b546843-a984-4a3d-b91d-c360cd6b3a13@83.147.18.179:443?encryption=none&security=reality&sni=snapp.ir&fp=chrome&pbk=NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4&sid=5bef46444e87&spx=%2F&type=tcp&headerType=http&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com#[🇬🇧]t.me/ConfigsHub
