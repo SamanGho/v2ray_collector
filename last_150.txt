@@ -1,3 +1,4 @@
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.81.247.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
 vless://e5eab6c9-cea6-48e0-aa84-cf5e90bcb5f8@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fxkvxrhws&security=tls&encryption=none&host=638919041659967663.birjand-prx-dnraaby.info&type=ws&sni=638919041659967663.birjand-prx-dnraaby.info#[🇺🇸]t.me/ConfigsHub
 vless://54b4c039-7be6-448f-b704-820251b079db@pouriacheat.fergalvpnmod.com:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&type=grpc&serviceName=t.me/entryNET&sni=www.cloudflare.com&sid=8d9c20be72b4#[🇩🇪]t.me/ConfigsHub
 vless://51f7d088-9ea1-4a15-99a9-e47426741755@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fxsrwobws&security=tls&encryption=none&host=638919041659967261.birjand-prx-dnraaby.info&type=ws&sni=638919041659967261.birjand-prx-dnraaby.info#[🇨🇦]t.me/ConfigsHub
@@ -158,7 +159,6 @@ trojan://abaabcc-abca-acab-bdca-cacbabcbaabc@127.0.0.1:1080?security=tls&type=tc
 vless://3df56fd0-d1b7-4793-b877-acd356d960f3@172.66.44.56:443?security=tls&sni=pages.dev&type=ws&host=aestingdownloadupload.pages.dev&path=%2F%54E%4cE%47R%52M-M%41R%41M%42%41S%48I%2F%3Fed%3D2560&fp=randomized#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206VVJaWVdMTFc1TFFBWVI3WA@36.141.40.92:15010#[🏁]t.me/ConfigsHub
 vless://4e60aba1-5ea1-4b70-a4ad-705ee0a0e598@104.17.148.22:443?security=tls&sni=bIa-dAily-confIgs.paGeS.Dev&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 trojan://e44b6ab7-c0c1-470a-86bc-bc6ccd5bab52@svip.88de.hongxingdl.vip:18147?allowInsecure=0&sni=mm2.redapricotcloud.com#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.51.88.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJmQDIxNi4xNzMuNzAuMTg3OjU3NDU2#[🏁]t.me/ConfigsHub
