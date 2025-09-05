@@ -1,6 +1,3 @@
-vless://ad02ae5c-55a7-4814-a58d-8da260ce7377@www.speedtest.net:80?path=%2F%40CUSTOMIZEROBOT---%40CUSTOMIZEROBOT---%40CUSTOMIZEROBOT---%40CUSTOMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#[🇨🇦]t.me/ConfigsHub
-trojan://NISHIKUITAN111@172.67.145.193:443?allowInsecure=1#[🇨🇦]t.me/ConfigsHub
-vmess://eyJhZGQiOiIyMTIuMTkyLjE1LjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmMTFlMjE3OS01ZDAxLTQwMzQtODc5ZC1lZTAzMTA5YmMzMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIyMDUyMSIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?encryption=none&security=none&sni=vngsupply.ip-ddns.com&type=ws&host=vngsupply.ip-ddns.com&path=%2FJ5ALQOY1R9ONWYCMV2RAYNG_FARS#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://telegram-id-privatevpns@3.74.129.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
@@ -248,3 +245,6 @@ vless://ce4576f1-5b58-4f83-8d19-67eb694bc199@46.17.45.180:37185?type=xhttp&path=
 vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@151.101.192.155:80?security=none&type=ws&host=afc.fi#[🇨🇦]t.me/ConfigsHub
 vless://8dcd0c9f-4393-49e8-aef8-6eee570d1e5b@deu415.unboundaccess.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.screwfix.com#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoWVJoVENaZFFMRXhLNmV3VkhnSiimybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA=@5.188.36.93:31348#[🇹🇷]t.me/ConfigsHub
+vless://ea6ace35-84bc-4614-b68c-7e27f8798068@104.16.1.106:2082?path=%2F%3Fed%3D2052&security=none&encryption=none&host=www.yashar.ip-ddns.com&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://dcbde77d-07b9-4c53-8542-60b6ff019c2d@ca.panelmarzban.com:3041?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.38.160.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
