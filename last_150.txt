@@ -1,3 +1,4 @@
+trojan://auto@172.67.174.21:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://auto@104.20.22.26:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://694d192c-d8ef-44e8-a128-9a86abed7cd9@146.75.123.82:80?mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#[🇩🇪]t.me/ConfigsHub
 vless://c2c58553-b1e3-494b-954e-4628216cb1ea@172.66.40.99:80?path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&security=none&encryption=none&host=www.speedtest.net.2.jey.cloudns.pro&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -243,7 +244,6 @@ ss://bm9uZTpiYWNjYWFiLWJjYWEtYmNhYS1iYWNkLWFjY2NjYmJiYmFhYQ==@127.0.0.1:8080#[�
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.114.99.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#[🇳🇱]t.me/ConfigsHub
 vless://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:36802?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://2049f149-9bae-4527-b60d-30b8dbd6dc60@Tab2.MGpingMG.shop:8880?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.39.240.246:443#[🏁]t.me/ConfigsHub
 trojan://0ff8c310-3191-4071-925e-1f7be8f1f94f@13.215.186.78:8009?sni=n2.sps465ad81.top#[🏁]t.me/ConfigsHub
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwaU5EQm1ZalUyWXkxbU5UTTRMVFJpWmpJdE9UVXhaUzFpTmpRMVpqUTRZams1TXpj@hzhz2.sssyun.xyz:40016#[🏁]t.me/ConfigsHub
