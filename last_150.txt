@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiI0NS42Ny4xMzkuMjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQzOTI4MzMwLTQwNTAtNDdmNi05ZDFjLWRmMWZkODAxYzU2OCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIwMDg2IiwicHMiOiJb8J+Hq/Cfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 trojan://blue2024@141.101.121.90:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://5c22c850-bc84-430f-8cd8-2af2a0bea856@meli.ultimateman.ir:80?security=none&type=xhttp&headerType=&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&host=vezze22dyour-name.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%2C+%22xmux%22%3A+%7B%22maxConcurrency%22%3A+%2216-32%22%2C+%22maxConnections%22%3A+0%2C+%22cMaxReuseTimes%22%3A+%2264-128%22%2C+%22cMaxLifetimeMs%22%3A+0%2C+%22hMaxRequestTimes%22%3A+%22800-900%22%2C+%22hKeepAlivePeriod%22%3A+0%7D%7D#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjA6R3FiY0NmaDM2NWFU@14.18.253.178:8331#[🏁]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://cd2e9541-3fce-4d95-9bec-919d884f911e@speedtest.org:443?path=%2Ftiger&sec
 trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🇺🇸]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#[🏁]t.me/ConfigsHub
 trojan://slch2024@185.251.81.195:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🏁]t.me/ConfigsHub
-trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=%2F188.34.160.97-2053&security=tls&type=ws&sni=aio.proxybox.dpdns.org#[🇨🇦]t.me/ConfigsHub
