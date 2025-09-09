@@ -1,5 +1,3 @@
-trojan://NISHIKUITAN222@190.93.245.44:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#[🇨🇷]t.me/ConfigsHub
-vless://24a8e7fa-23b1-422c-a63a-5bcde4abed11@45.67.32.147:5512?security=reality&flow=xtls-rprx-vision&sni=531111.ms.dzen.ru&type=tcp&fp=chrome&pbk=6d6p-2pUVRW-F1Gx_uMcZwMxAI2CL4F0DfJGvoE4xkc&sid=c5e3#[🇷🇺]t.me/ConfigsHub
 trojan://NISHIKUITAN222@188.114.96.113:443?#[🇨🇦]t.me/ConfigsHub
 trojan://bpb-trojan@104.26.7.62:443?sni=fcspring.ggff.net#[🇨🇦]t.me/ConfigsHub
 ss://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +246,5 @@ vless://7d2321a5-87dd-b0d8-f4b7-957d51d2a8ea@x22221.need9ping.ir:9954?security=r
 vless://7d2321a5-87dd-b0d8-f4b7-957d51d2a8ea@try-global-company.need9ping.ir:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#[🇹🇷]t.me/ConfigsHub
 vless://7d2321a5-87dd-b0d8-f4b7-957d51d2a8ea@FL-Copnmay-55548.need9ping.ir:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#[🏁]t.me/ConfigsHub
 vless://7d2321a5-87dd-b0d8-f4b7-957d51d2a8ea@swd-maxCompany-55648.need9ping.ir:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc@77.83.245.191:443#[🇹🇷]t.me/ConfigsHub
+vmess://eyJhZGQiOiAiMTA0LjIxLjE1LjM2IiwgImFpZCI6IDAsICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHUwMGFlXHVmZTBmQ2FuYWRhXHUwMGE5XHVmZTBmVG9yb250b1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MjguMjFtcyJ9
