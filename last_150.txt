@@ -1,3 +1,5 @@
+vless://bcaabac-acab-aabc-dbca-bbcbbaacaacc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiAiMTA0LjE2LjY4LjM4IiwgImFpZCI6IDAsICJob3N0IjogIjdoc3MtYnV0dGVyZmx5LWQ0YzMuZmlqZXRlbTQzMi53b3JrZXJzLmRldiIsICJpZCI6ICJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FmcmhtczA3LnhmaXhlZGZsb2F0LmNmZC9saW5rd3MiLCAicG9ydCI6IDIwNTIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 vless://c2b6c0b6-28c3-4b2d-ad78-3398276c1ed4@91.99.115.173:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=mEzwGx3LUXPR-sw8RFmlGM_ctzTwPlgq-mxku4wtBnc&fp=chrome&type=grpc&serviceName=t.me/entryNET&sni=snapp.ir&sid=c1#[🇩🇪]t.me/ConfigsHub
 ss://bm9uZTpiYWNjYWFiLWJjYWEtYmNhYS1iYWNkLWFjY2NjYmJiYmFhYQ==@127.0.0.1:8080#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.114.99.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
@@ -234,9 +236,7 @@ vless://602afc10-ee74-4941-b54f-72e5d551ccde@172.66.40.99:80?path=%2F%40Shh_Prox
 vless://54801305-3e0e-4d90-8996-b67065155465@sss92681.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=xhttp#[🇩🇪]t.me/ConfigsHub
 vless://f3528ca9-bd6e-4e0e-c790-d85e75d3ba57@www.speedtest.net:80?security=none&encryption=none&type=ws&host=fin.channel.digicyber.click&path=/olem/ws?ed%3D1024#[🇨🇦]t.me/ConfigsHub
 vless://dde87267-da95-4a6b-9891-0c864a3e9be8@51.38.168.151:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2Fwslinka%3Fed&security=none&encryption=none&host=wWw.SpeEDTeSt.nEt&type=ws#[🇫🇷]t.me/ConfigsHub
-trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?security=tls&sni=aio.proxybox.dpdns.org&fp=chrome&type=ws&path=/188.34.160.97-2053#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMng5b25wZFRxVkZtWXNQV1JGZDMx@178.128.114.43:6365?note=--Telegram--@NetifyVPN--#[🏁]t.me/ConfigsHub
-vless://9e30c25c-2142-4080-8604-738db4650459@46.62.128.241:8443?security=reality&encryption=none&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&headerType=none#[🇫🇮]t.me/ConfigsHub
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&type=ws&sni=ArGodev11222.PaGes.Dev&path=/Telegram@Linkvws?ed=2560&host=argodev11222.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss4782.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=xhttp#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.67.59.182:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
