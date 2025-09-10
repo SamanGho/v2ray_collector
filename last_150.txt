@@ -1,3 +1,5 @@
+trojan://baccaab-bcaa-bcaa-bacd-accccbbbbaaa@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
+trojan://auto@172.64.35.154:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/&host=trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U%3D@us55.giamping.com:8080#[🇺🇸]t.me/ConfigsHub
 vless://002eedd4-0732-4ced-8ebd-ebe1acc45729@wwarden.mhrnet.com:39568?security=reality&encryption=none&pbk=eH2E-oZ8ViZrFsElgF5o8LZPi08XCEQe0YwG-gfwbCc&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=0ff1b59e1b#[🇩🇪]t.me/ConfigsHub
 vless://a59152d5-6421-4719-9e07-460dabe5b608@51.89.118.126:80?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#[🇩🇪]t.me/ConfigsHub
@@ -244,7 +246,5 @@ vmess://eyJ2IjoiMiIsImFkZCI6InRyMS5pcmFuei5tZSIsInBvcnQiOiI0NDMiLCJpZCI6IjExNDVi
 vless://79a4e7dc-bca7-4a7c-903d-4481130a6647@104.17.148.22:80?security=none&type=ws&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 trojan://9a4bc15d-a7d4-4181-9485-405629c36894@185.146.173.115:443?security=tls&type=ws&sni=king-ae1.pages.dev&path=/@Telegram@Linkvws?ed=2560&host=king-ae1.pages.dev#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.48.220.142:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
-vmess://eyJhZGQiOiIxMDcuMTQ5LjEzNC4xNjUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjcwN2NlN2E2LTQ0ODktNGVmMC1hYjczLTliM2EyODQwNWMwOCIsIm5ldCI6IndzIiwicGF0aCI6IlwvYXJraT9lZD0yMDQ4IiwicG9ydCI6NTg1NSwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 trojan://blue2024@162.159.36.104:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.76:80?encryption=none&security=none&type=ws&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%AE%F0%9F%87%B7+@ShadowProxy66%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
-vless://0882a150-746a-4ba7-81b8-7922511894c5@94.141.123.233:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=82c8140feb118043#⚜️Telegram:@IP_CF
