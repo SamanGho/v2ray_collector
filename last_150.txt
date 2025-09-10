@@ -1,3 +1,4 @@
+vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545?security=&encryption=none&host=skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&headerType=none&type=tcp#[🇷🇺]t.me/ConfigsHub
 vless://Parsashonam-306@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3U1FPdk5NaWVpbGZ5S1BCTklaTGpT@78.129.140.11:443#[🇬🇧]t.me/ConfigsHub
 trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@WwW.SpEEdTesT.NeT:80?path=%2F&security=none&encryption=none&host=4h1.diginoshops10.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
@@ -243,7 +244,6 @@ trojan://slch2024@185.59.218.195:2096?path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%
 trojan://ChaNneL-DailY_cOnfIGs@162.159.153.2:2053?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#[🇨🇦]t.me/ConfigsHub
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGNpdlRBU2I4WFdxUkt1YldhejJ3@195.15.243.125:5555#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.95.191:9101#[🇺🇸]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.43.55.115:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiNDYuMzguMTQ3LjEzOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNjRlMDlmNzctZDRhMy00MTM4LTk3OTctMzc4NDI1YWY2ZWVmIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI2MDYwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0ifQ==
 vmess://eyJhZGQiOiIxODUuMTQzLjIzMy4xMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFpcjUuYXJzaS1tYW1hZC5zYnMiLCJpZCI6ImQ3ZjliZDg0LTNkMWQtNGI0YS1kMmI4LTVhZThiNDJlNzZhYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvQXJzYWxhblRhdUJvdCIsInBvcnQiOiIyMDk1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiW/Cfh67wn4e3XXQubWUvQ29uZmlnc0h1YjoidC5tZVwvZW50cnlORVQifQ==
