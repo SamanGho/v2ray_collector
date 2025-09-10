@@ -1,3 +1,5 @@
+trojan://auto@162.159.44.202:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.77.194.77:22222?sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://baccaab-bcaa-bcaa-bacd-accccbbbbaaa@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 trojan://auto@172.64.35.154:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/&host=trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U%3D@us55.giamping.com:8080#[🇺🇸]t.me/ConfigsHub
@@ -241,10 +243,8 @@ vless://a278a08a-a844-4533-b698-38119309d981@36.225.46.219:30002?security=none&f
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE4My4yMzYuNTEuMzYiLCAicG9ydCI6ICI1OTAwMyIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMTkifQ==
 ss://321fffdc-c75b-4c79-93e6-01e280a84a99@www.speedtest.net:8880?path=%2FTELEGRAM_BYA_CHANEL_RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VP#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZDI2MjQ1Yy04MDE5LTM3NDYtYWIyZS01NGExYTBkNTAyYTg@iepl1.forlive.live:50101#[🏁]t.me/ConfigsHub
-vmess://eyJhZGQiOiI0Ni4xMDEuMTUuMjA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE5OGU4NWY1LTJiMTktMjc2NC1kMzFhLWNmMDc1NTAzNTNkMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6697#[🇺🇸]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsImFkZCI6InRyMS5pcmFuei5tZSIsInBvcnQiOiI0NDMiLCJpZCI6IjExNDViOGYxLTcyYjktNGUzYy1hZWRlLTFiODg0ZjU2NTM3ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InRyMS5pcmFuei5tZSIsInRscyI6InRscyIsInBzIjoiXHVkODNkXHVkZDEzIFZNRVNTIHwgQHYycmF5X24gWzIwXVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@212.192.214.159:800#⚜️Telegram:@IP_CF
 vless://79a4e7dc-bca7-4a7c-903d-4481130a6647@104.17.148.22:80?security=none&type=ws&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 trojan://9a4bc15d-a7d4-4181-9485-405629c36894@185.146.173.115:443?security=tls&type=ws&sni=king-ae1.pages.dev&path=/@Telegram@Linkvws?ed=2560&host=king-ae1.pages.dev#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.48.220.142:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
