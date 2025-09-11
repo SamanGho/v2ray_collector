@@ -1,3 +1,4 @@
+vless://2b8ea78b-11fe-40cd-8a96-b988b2abf546@62.133.63.21:4843?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mbp.yimg.com&sid=6ba85179e30d4fc2#[🇹🇷]t.me/ConfigsHub
 trojan://13e26f64-2e0c-4461-92cd-d83294cc18f0@172.67.185.107:443?security=tls&sni=WwwDe.00890604.XyZ&alpn=http/1.1&fp=chrome&type=ws&path=/TDUxZUop9k44oPiit2OdWk0KwirdY&host=wwwde.00890604.xyz&allowInsecure=1#⚜️Telegram:@IP_CF
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeiranmahsang%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&type=ws#[🇳🇱]t.me/ConfigsHub
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@chop-wrist-bud.stark-industries.solutions:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#⚜️Telegram:@IP_CF
@@ -243,7 +244,6 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.97.71:34045?encryption=none&
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=wa.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&headerType=none#[🇷🇺]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?encryption=none&security=tls&sni=pqh31v7.hiddendom.shop&type=grpc#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#[🏁]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#[🇳🇱]t.me/ConfigsHub
 vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@172.67.170.107:443?encryption=none&security=tls&sni=backhaxus.dh04.shop&type=ws&host=backhaxus.dh04.shop&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?encryption=none&security=none&type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
