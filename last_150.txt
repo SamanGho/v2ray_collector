@@ -1,3 +1,4 @@
+vless://174a3caa-5aa0-4eb7-bdd2-d91ae62d91d1@63.141.128.23:8080?path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.237.85.67:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#[🇫🇷]t.me/ConfigsHub
 vless://9ff807b0-c4e3-5f52-b560-0bb48c37cf3f@5.253.41.139:443?path=%2Fvless&security=tls&encryption=none&host=5.253.41.139&fp=chrome&type=ws&sni=zula.ir#[🏁]t.me/ConfigsHub
 vless://aceddbc2-2d33-41c0-8fff-ef32e6b55870@91.99.180.86:443?type=tcp&security=none#[🇩🇪]t.me/ConfigsHub
@@ -244,7 +245,6 @@ vless://5d2eb11f-0138-490d-9781-f9cfb60c1766@EVAY_VPN.fastly80.hosting-ip.com:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.130.20.40:1001?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#[🇳🇱]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@77.221.152.41:2003?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#[🇫🇷]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE0Ny40NS41MS4xNiIsICJwb3J0IjogIjIwOTgiLCAiaWQiOiAiODM4NzYyMjItNjRhNC00OTEyLWFhMTgtYjdkOWQzNDk1OWRlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAiZjQxLm1hcnlhbTE1MDAudG9wIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjEzMyJ9
-vless://e1fd5a63-a979-459c-8f64-6f70cb682e23@185.113.10.132:8650?mode=auto&path=%2F&security=reality&encryption=none&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&fp=chrome&spx=%2F&type=xhttp&sni=cloudflare.com&sid=354b9cbe48#[🇩🇪]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.208.94.35:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.19:8080#[🇳🇱]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@211.107.83.151:11211?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#[🏁]t.me/ConfigsHub
