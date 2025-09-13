@@ -1,3 +1,6 @@
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@dedic.app-browser.org:443?security=tls&encryption=none&headerType=none&fp=random&type=tcp&sni=dedic.app-browser.org#[🇫🇮]t.me/ConfigsHub
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.15:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws#[🇩🇪]t.me/ConfigsHub
+vless://8e4a9e11-177c-47c5-8894-2e5ac0b84ec5@www.speedtest.net:2086?path=%2F%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--&security=none&encryption=none&host=mahan.mmadvip8563.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://49a7ef14-1b13-4aeb-baa3-775ddee2e334@195.42.233.13:443?path=%2Fyohyowws&security=tls&encryption=none&fp=chrome&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?path=%2Fwsv%2F4d89daf8-83c1-497d-af73-0d0033daadd8&security=tls&encryption=none&host=psto.fullmargintraders.com&fp=chrome&type=ws&sni=psto.fullmargintraders.com#[🇨🇦]t.me/ConfigsHub
 vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?path=%2F%3Fed&security=none&encryption=none&host=still-smoke-881e-ppal03.cabit21569.workers.dev&fp=chrome&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -158,8 +161,6 @@ trojan://auto@104.20.18.209:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.116.22:2501?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#[🇹🇷]t.me/ConfigsHub
 vless://ec9406f9-3fc6-442d-b9f6-90c59b64eff2@151.101.194.228:443?security=tls&sni=Zmaoz.Faculty.Ucdavis.Edu&type=ws&host=downloadlynet.ir.&path=%2F%40custom_config%3Fed%3D2560&fp=firefox&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.178.12.119:443#[🇬🇧]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#[🇳🇱]t.me/ConfigsHub
-vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@172.67.170.107:443?encryption=none&security=tls&sni=backhaxus.dh04.shop&type=ws&host=backhaxus.dh04.shop&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss1175.tas-bazi.com:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=stream-one&path=%2Fasd&security=none&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWxwbiI6IiIsImZyYWdtZW50IjoiIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJuZXQiOiJ3cyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJzZWVkIjoiIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwYXRoIjoibGlua3Z3cyIsImFpZCI6IjAiLCJleHRyYSI6IiIsInNuaSI6ImZhcGVuZy5vcmciLCJoZWFkZXJUeXBlIjoiIiwicHMiOiJb8J+HuvCfh7hddC5tZS9Db25maWdzSHViIiwiZGV2aWNlSUQiOiIiLCJtb2RlIjoiIn0=
 trojan://slch2024@188.164.159.87:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🏁]t.me/ConfigsHub
@@ -235,7 +236,6 @@ vless://3df56fd0-d1b7-4793-b877-acd356d960f3@172.66.44.56:443?security=tls&sni=p
 trojan://abbcaac-acba-aabc-cbad-bacbabbcacca@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=chrome&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&sid=4476a3&type=tcp&headerType=none#[🇹🇷]t.me/ConfigsHub
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&type=tcp&sni=rc8.freeguard.org#⚜️Telegram:@IP_CF
-vmess://eyJhZGQiOiI0Ny4yNTEuNzUuMTYyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImYwZDAxMTJhLTk1MzktNDUxMy1hNmRkLTE3MWM5MzYxZWIyMyIsIm5ldCI6IndzIiwicGF0aCI6IlwvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjM2NDkiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 trojan://cabcbaa-acab-aacb-acbd-abbaacabcbcc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://05424a75-9533-470b-a152-55998bb4d94c@151.101.194.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu&type=ws&host=meloch-de.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@108.128.141.24:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
