@@ -1,3 +1,4 @@
+vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=%2Fhxwdnrws&security=tls&encryption=none&fp=chrome&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://8f82acbe-f328-471a-8000-fbea349e6ce0@dedic.app-browser.org:443?security=tls&encryption=none&headerType=none&fp=random&type=tcp&sni=dedic.app-browser.org#[🇫🇮]t.me/ConfigsHub
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.15:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://8e4a9e11-177c-47c5-8894-2e5ac0b84ec5@www.speedtest.net:2086?path=%2F%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--&security=none&encryption=none&host=mahan.mmadvip8563.ir&type=ws#[🇨🇦]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://801ebb93-9fbd-45bf-a2ab-9b403b4850d2@104.21.36.62:443?security=tls&sni=p
 vless://ce4ed91b-9e91-4ac9-aa77-802cc48e5bb2@51.195.43.122:49685?security=tls&sni=de.musicbaaz.ir&type=tcp&host=tc.donya-e-eqtesad.com&path=%2F&headerType=http&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#[🇩🇪]t.me/ConfigsHub
 trojan://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.44.223:443?security=tls&type=ws&sni=cfpage-39t.pages.dev&host=cfpage-39t.pages.dev#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#⚜️Telegram:@IP_CF
-vmess://eyJhZGQiOiI2NC44MS4zOS4xMDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjI5ZjcxODctOTcwNy00N2ZlLTg1ZDItNjViMWJhNjlkZjE2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjAwODYiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
