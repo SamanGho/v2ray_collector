@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc@77.83.245.191:443#[🇹🇷]t.me/ConfigsHub
+vmess://eyJhZGQiOiAiMTA0LjIxLjE1LjM2IiwgImFpZCI6IDAsICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHUwMGFlXHVmZTBmQ2FuYWRhXHUwMGE5XHVmZTBmVG9yb250b1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MjguMjFtcyJ9
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.187.72:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiJpZC1zZXA0dGgud2ltYXguY2MiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImlkLXNlcDR0aC53aW1heC5jYyIsImlkIjoiMTEzYjUzMzktYzQzOC00YWFkLTkwNjYtNjhjNDQ1YTBlMjM4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wcmF5ZXItdGltZXNcL3RvZGF5IiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImlkLXNlcDR0aC53aW1heC5jYyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsCiAgImFkZCI6ICIxNTcuMTgwLjExOS4xNCIsCiAgInBvcnQiOiAyMDI2LAogICJpZCI6ICJlMDAzNjdjOC1kY2M1LTQzYzItYjY3MS04NmY1ZDkwODIyOWUiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9uZSIKfQ==
@@ -241,10 +243,8 @@ vless://ababcac-caab-caba-cbda-caabbabcabcc@127.0.0.1:1080?security=tls&type=tcp
 vless://cababca-acba-bcaa-abcd-ccbbacbaaabc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZFBJckdvUnlJQVA5N2pXd0lrUlNu@142.93.238.172:80#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVVlXOHhhVzNyVTJ0ZThNMTFoNUdI@157.230.113.186:80#[🇩🇪]t.me/ConfigsHub
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=D32.alanHiaHo.Com&type=ws&sni=D32.alanHiaHo.Com#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoN0M5b0E2MVFRa1ZQWXkyU2VicWQ4@165.227.230.19:80#[🇬🇧]t.me/ConfigsHub
 vless://f3be6c78-46cd-4409-8ed3-8d36bef0f86c@195.201.32.169:24199?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://ef7316a9-f531-40f8-9f13-d2f1dcb46e83@142.93.238.52:14045?path=%2F&security=none&encryption=none&type=ws#[🇳🇱]t.me/ConfigsHub
 vless://82ce6fcc-942a-4c7a-985c-8128a131bb7f@167.172.109.92:8880?security=reality&encryption=none&pbk=nbKnrI4dImrabhk5zFFLh-Q3lvdrJr2wmpjE-HfLhn0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=682b#[🇩🇪]t.me/ConfigsHub
 vless://088a750f-69eb-4a57-9e28-4f167793f8da@109.107.185.44:2053?path=%2FFree-VPN-CF-Geo-Project%2FNL25&security=tls&encryption=none&host=joss.krikkrik.tech&fp=randomized&type=ws&sni=joss.krikkrik.tech#[🇳🇱]t.me/ConfigsHub
 vless://308fcfe5-b3ea-4d20-bce0-684332ce43d7@209.38.42.122:2027?type=tcp&security=none#[🇳🇱]t.me/ConfigsHub
