@@ -1,3 +1,5 @@
+vless://20fda433-1864-433b-b3dd-8f119fe4cafd@188.124.64.173:16081?security=tls&sni=happy.mianfeicf.lol&type=ws&host=happy.mianfeicf.lol&path=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+vless://db7fe59f-98ff-4c03-a202-51d024b90bf6@speedtestcustom.com:80?encryption=none&security=none&type=xhttp&host=fotofactory.pk&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://43cf5a35-32ee-43cb-9c5d-7832a0d2534f@151.101.128.155:80?security=none&type=ws&host=Berim3arazekar.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://a278a08a-a844-4533-b698-38119309d981@36.225.46.219:30002?security=none&flow=xtls-rprx-vision&type=tcp#[🏁]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE4My4yMzYuNTEuMzYiLCAicG9ydCI6ICI1OTAwMyIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMTkifQ==
@@ -243,8 +245,6 @@ trojan://NISHIKUITAN111@190.93.244.77:443?#[🇨🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.176.70.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://auto@172.64.35.135:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://cbaabac-aacb-baca-cadb-ccbbbaccabaa@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@63.176.70.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.70.194:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 trojan://auto@104.20.19.105:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.176.70.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?security=tls&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=poORiaReD--PErsePOlIs.PagES.DEv#[🇨🇦]t.me/ConfigsHub
