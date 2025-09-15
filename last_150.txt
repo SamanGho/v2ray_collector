@@ -1,3 +1,5 @@
+vless://e3822343-1491-430d-8d56-cb39456207e4@151.101.194.165:80?security=none&type=ws&host=dac33hibodoberim.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+trojan://slch2024@185.59.218.195:2096?path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🇷🇺]t.me/ConfigsHub
 trojan://ChaNneL-DailY_cOnfIGs@162.159.153.2:2053?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGNpdlRBU2I4WFdxUkt1YldhejJ3@195.15.243.125:5555#[🏁]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.43.55.115:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#[🏁]t.me/ConfigsHub
@@ -245,6 +247,4 @@ trojan://telegram-id-privatevpns@15.237.91.209:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-directvpn@15.237.91.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://5a5d8de5-8fea-4cc7-86f6-f0f92f6d22ce@167.99.92.238:34276?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&type=ws&encryption=none&path=%2F#[🇬🇧]t.me/ConfigsHub
 vless://9ab2c75b-cbec-4f65-9eab-061e7ab07820@78.157.59.164:22256?path=/Zarin4&security=&encryption=none&host=ICcQy.divarcdn.com,WLnWE.snappfood.ir,egBLe.yjc.ir,fDl1g.digikala.com,3X9yY.tic.ir&type=ws¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇮🇷]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.91.209:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-trojan://telegram-id-directvpn@15.237.91.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://c5bcf3fb-eb77-4472-8750-55b56efef262@92.223.2.119:59594?path=%2F&security=&encryption=none&type=ws#[🏁]t.me/ConfigsHub
