@@ -1,3 +1,5 @@
+vless://b7883947-0aba-49f7-952d-1d4581a84cc5@49.12.12.44:8880?encryption=none&security=reality&sni=cp7.cloudflare.com&fp=firefox&pbk=50DMQDSCdZh2lBIYD8tDeYuoe3dT3RYOrjSnvWDXJA8&sid=c8224fdb&spx=%2Fcdn%2Fimage.jpg&type=xhttp&path=%2F&mode=auto#[🇩🇪]t.me/ConfigsHub
+vmess://eyJhZGQiOiAiMTA0LjE2LjYwLjgiLCAiYWlkIjogMCwgImhvc3QiOiAicmFuZ2Utc2hhcGUtYjNmdWVndS5iYW5hbm9rMTgyLndvcmtlcnMuZGV2IiwgImlkIjogIjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaG1zMDIuZnhpYW9taS5zYnMvbGluayIsICJwb3J0IjogODAsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 vless://a3873eb9-0c54-46c4-abbf-ae9f880d3619@162.19.228.119:443?encryption=none&security=tls&sni=de.vpnbase.net&type=ws&path=%2Fssl#[🇩🇪]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.243.51.56:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://Parsashonam-285@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
@@ -241,8 +243,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeFZvb21JeVpmVmZsTzBPa0YwS1JI@89.110.74.148:
 vless://452276f4-fce9-4025-8e5a-adae596eca93@172.67.204.84:8880?security=none&type=httpupgrade&host=join-daily-configs.broken-dreams.ir&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929114454179379.warsaw-drc-tusabq.info:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://e3847ec6-b2fc-4eb2-b919-174d986f882c@poland20.clearorbitllc.com:443?security=reality&encryption=none&pbk=oNYCpjXjcYAV9qSWBt95N9dDUPhc_QnauJZ3kSJVeSQ&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=poland20.clearorbitllc.com&sid=2a22#[🏁]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.233.247:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
-trojan://telegram-id-directvpn@63.179.233.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Wmg4RW91aElMWjRKWkNRZGFYczBj@195.96.156.9:14847#[🇬🇧]t.me/ConfigsHub
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=&encryption=none&host=%2F%3F%40&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://234a4937-5029-4bcd-b32a-1eda5afc14f8@46.62.152.219:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#[🇫🇮]t.me/ConfigsHub
