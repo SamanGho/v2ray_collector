@@ -1,3 +1,4 @@
+vless://a3873eb9-0c54-46c4-abbf-ae9f880d3619@162.19.228.119:443?encryption=none&security=tls&sni=de.vpnbase.net&type=ws&path=%2Fssl#[🇩🇪]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.243.51.56:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://Parsashonam-285@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.119.112.54:2501?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg#[🇳🇱]t.me/ConfigsHub
@@ -149,7 +150,6 @@ trojan://NISHIKUITAN111@190.93.244.77:443?#[🇨🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.176.70.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://auto@172.64.35.135:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://cbaabac-aacb-baca-cadb-ccbbbaccabaa@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
-trojan://auto@104.20.19.105:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.176.70.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?security=tls&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=poORiaReD--PErsePOlIs.PagES.DEv#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxODUuMTI2LjI1NS43OCIsImhvc3QiOiJyZWFsLmdldGFmcmVlbm9kZS5zYnMiLCJzbmkiOiJ6dWxhLmlyIiwiaWQiOiJlY2YwYTA1OS0xNTljLTRmMGYtYmZmYi03NTcyMzMyNzZhMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3NwZWVkdGVzdCIsInBvcnQiOjI5MTk2LCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSIsInNlY3VyaXR5IjoidGxzIiwiYWxsb3dJbnNlY3VyZSI6ZmFsc2UsInNlcnZlck5hbWUiOiJ6dWxhLmlyIiwicGVlciI6Inp1bGEuaXIiLCJmaW5nZXJwcmludCI6ImNocm9tZSJ9
