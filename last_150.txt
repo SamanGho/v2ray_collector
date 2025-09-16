@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiAiMTA0LjE2LjYwLjgiLCAiYWlkIjogMCwgImhvc3QiOiAicmFuZ2Utc2hhcGUtYjNmdWVndS5iYW5hbm9rMTgyLndvcmtlcnMuZGV2IiwgImlkIjogIjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaG1zMDIuZnhpYW9taS5zYnMvbGluayIsICJwb3J0IjogODAsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 vless://a3873eb9-0c54-46c4-abbf-ae9f880d3619@162.19.228.119:443?encryption=none&security=tls&sni=de.vpnbase.net&type=ws&path=%2Fssl#[🇩🇪]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.243.51.56:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://Parsashonam-285@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
@@ -63,7 +64,6 @@ vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.52.242:80/?type=ws&encryptio
 vless://d1c3b3d2-a7da-40b6-a6cb-23619528e130@84.247.145.11:37726/?type=tcp&encryption=none&flow=#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.39.11.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://e4722980-7e71-4676-95a8-ef028d796044@yde3.amiraizo.com:2565?security=&encryption=none&host=avidmehregan.com&headerType=http&type=tcpÂ¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇩🇪]t.me/ConfigsHub
-trojan://0792bb58-36ac-451e-a629-e363e53da93b@172.67.180.67:443?security=tls&type=ws&sni=kafka.eula.cloudns.org&path=/Telegram@V2ray_Alpha/?ed=2048&host=kafka.eula.cloudns.org#[🇨🇦]t.me/ConfigsHub
 vless://dc1c1ba1-b689-443e-9a2f-044defb18ece@142.93.41.226:13932/?type=ws&encryption=none&flow=&path=%2F#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.37.117.144:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://acf0cb41-ac1a-448f-98cf-0b58a9f92b05@167.68.42.255:80/?type=ws&encryption=none&flow=&host=myvps.nilphreakz.me&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
