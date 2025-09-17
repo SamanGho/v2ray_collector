@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@13.39.11.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://e4722980-7e71-4676-95a8-ef028d796044@yde3.amiraizo.com:2565?security=&encryption=none&host=avidmehregan.com&headerType=http&type=tcpÂ¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇩🇪]t.me/ConfigsHub
 vless://dc1c1ba1-b689-443e-9a2f-044defb18ece@142.93.41.226:13932/?type=ws&encryption=none&flow=&path=%2F#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.37.117.144:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
@@ -35,7 +36,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WnI4TWxVWFVpaE5FbmRxSXBqRHhRZFNlcWkzN0ZiZ29
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.93:443?security=tls&sni=lu.ylks.us.kg&type=ws&host=lu.ylks.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#[🇺🇸]t.me/ConfigsHub
 trojan://189ee014-7856-3625-954c-91fb1a122bc6@gy.58n.net:20278?allowInsecure=1&sni=z278.hongkongnode.top#[🏁]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@13.40.168.45:8443?security=tls&sni=lu.kpcloud.eu.org&type=ws&host=lu.kpcloud.eu.org&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#[🇬🇧]t.me/ConfigsHub
-vmess://eyJhZGQiOiAiMTYyLjE1OS4xNTIuMiIsICJhaWQiOiAwLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.79:443?allowInsecure=0&sni=BloOM-cHh.PagEs.dEv&type=ws&host=BloOM-cHh.PagEs.dEv&path=/mtasyzxvkfadcumf?ed=2560security=tlssecurity=tls#[🇨🇦]t.me/ConfigsHub
 vless://a2421e89-eb9b-48a9-aca8-b97e733fc07f@188.245.59.30:11163?security=reality&sni=zula.ir&type=tcp&host=chanel.Telegram.%40JOKERRVPN&fp=chrome&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&sid=f830f6#[🇩🇪]t.me/ConfigsHub
 vless://ababcac-caab-caba-cbda-caabbabcabcc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
