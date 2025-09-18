@@ -1,3 +1,4 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@13.40.168.45:8443?security=tls&sni=lu.kpcloud.eu.org&type=ws&host=lu.kpcloud.eu.org&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#[🇬🇧]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.79:443?allowInsecure=0&sni=BloOM-cHh.PagEs.dEv&type=ws&host=BloOM-cHh.PagEs.dEv&path=/mtasyzxvkfadcumf?ed=2560security=tlssecurity=tls#[🇨🇦]t.me/ConfigsHub
 vless://a2421e89-eb9b-48a9-aca8-b97e733fc07f@188.245.59.30:11163?security=reality&sni=zula.ir&type=tcp&host=chanel.Telegram.%40JOKERRVPN&fp=chrome&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&sid=f830f6#[🇩🇪]t.me/ConfigsHub
 vless://ababcac-caab-caba-cbda-caabbabcabcc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
@@ -98,7 +99,6 @@ vless://b062ed1b-8927-41e2-a0a6-34a4432b51b6@164.138.202.139:10777?encryption=no
 vless://a61a9487-7d9e-4f77-f35a-284acc0c1925@www.speedtest.net:2083?encryption=none&security=tls&sni=khtls.appcity-download.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=khtls.appcity-download.ir&path=%2Ffree#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.79.170.110:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://919526f8-86c8-4f43-b5f7-91eea1368bad@141.227.178.165:25365?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=t.me/entryNETODEON-ZEDMODEON-bia-t.me/entryNETODEON-t.me/entryNETODEON-t.me/entryNETODEON-t.me/entryNETODEON-t.me/entryNETODEON-t.me/entryNETODEON-t.me/entryNETODEON#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@3.79.170.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://1723d24c-55f1-454d-8a61-3129fcb2ed26@95.216.164.138:41980?security=none&encryption=none&headerType=none&type=tcp¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇫🇮]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMDMuOTYuNzMuMTYyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI1M2ZkMjJkLTZjYmUtNDk1My04OTFiLTRjZTMxMDhlZDkzNSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIwMDg2IiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 trojan://cbbacaa-bcaa-caab-dcba-ababcbcccaab@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
