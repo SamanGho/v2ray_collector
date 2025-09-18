@@ -1,3 +1,6 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.79:443?allowInsecure=0&sni=BloOM-cHh.PagEs.dEv&type=ws&host=BloOM-cHh.PagEs.dEv&path=/mtasyzxvkfadcumf?ed=2560security=tlssecurity=tls#[🇨🇦]t.me/ConfigsHub
+vless://a2421e89-eb9b-48a9-aca8-b97e733fc07f@188.245.59.30:11163?security=reality&sni=zula.ir&type=tcp&host=chanel.Telegram.%40JOKERRVPN&fp=chrome&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&sid=f830f6#[🇩🇪]t.me/ConfigsHub
+vless://ababcac-caab-caba-cbda-caabbabcabcc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://cababca-acba-bcaa-abcd-ccbbacbaaabc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZFBJckdvUnlJQVA5N2pXd0lrUlNu@142.93.238.172:80#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVVlXOHhhVzNyVTJ0ZThNMTFoNUdI@157.230.113.186:80#[🇩🇪]t.me/ConfigsHub
@@ -244,7 +247,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusa
 vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&encryption=none&host=tr1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=tr1.blackismyfavorite.ir#[🇮🇷]t.me/ConfigsHub
 vless://6035325d-399a-5148-9126-29cedfd5966a@104.239.87.144:443?security=reality&encryption=none&pbk=Sme97sNqVfXu7kMltKRGfATVNW8vJq9kS-bUaHNVlQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=ca0b125c#[🇹🇷]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwiYWRkIjoiczMuZ2hvc3Rya2Uuc2JzIiwicG9ydCI6ODg4MCwiaWQiOiIyNTI1YTVlNS05OWY2LTQ1YjUtODQzOS1jZmFhMmQzOTU3NjgiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInRscyI6Im5vbmUiLCJwYXRoIjoiQEdob3N0cmF5X05HIiwiYXV0aG9yaXR5IjoiIn0=
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@91.99.212.174:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=xhttp#[🇩🇪]t.me/ConfigsHub
-vless://2fb40048-c812-43ad-ba1a-3e442c92d632@213.165.56.10:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#[🇩🇪]t.me/ConfigsHub
-vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=%2Fdcgfdfws&security=tls&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=ws#[🇫🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxMDEuMzIuNDIuMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2JlNjA5OGUtNjk1ZS00MjM1LWFmMTItYjJjMzQ3MWM5MDdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MDg4IiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
