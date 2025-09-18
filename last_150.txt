@@ -1,3 +1,4 @@
+vless://a2421e89-eb9b-48a9-aca8-b97e733fc07f@188.245.59.30:11163?security=reality&sni=zula.ir&type=tcp&host=chanel.Telegram.%40JOKERRVPN&fp=chrome&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&sid=f830f6#[🇩🇪]t.me/ConfigsHub
 vless://ababcac-caab-caba-cbda-caabbabcabcc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://cababca-acba-bcaa-abcd-ccbbacbaaabc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZFBJckdvUnlJQVA5N2pXd0lrUlNu@142.93.238.172:80#[🇳🇱]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vmess://eyJ2IjoiMiIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwiYWRkIjoiczMuZ2hvc3Ry
 vmess://eyJhZGQiOiIxMDEuMzIuNDIuMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2JlNjA5OGUtNjk1ZS00MjM1LWFmMTItYjJjMzQ3MWM5MDdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MDg4IiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#[🇫🇷]t.me/ConfigsHub
-vless://9a5a1134-4675-41af-8e4e-dab56016f5f7@188.245.126.149:10600?security=none&encryption=none&host=www.xenium.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
