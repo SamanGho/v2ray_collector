@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiAiMTA0LjIxLjU2LjE4NyIsICJhaWQiOiAxLCAiaG9zdCI6ICJyaXRjaGllci5pbmZvIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiA0NDMsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 vless://a1a9906c-f387-4092-b73c-576dc510bad8@91.98.139.130:55873?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.176.127.189:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://auto@162.159.44.169:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#[🇺🇸]t.me/ConfigsHub
@@ -235,7 +236,6 @@ vless://661f6f25-1b51-4782-b2d2-994c6b97c158@91.98.70.156:443?mode=auto&path=%2F
 vless://3d4f244d-4860-4603-9546-184ee632083f@104.21.48.1:2053?path=%2FXJlWBmgB2NGaiV68%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=c6jh01dp783knpd1ygxxwr4d0doe89o1.pages.dev&fp=randomized&type=ws&sni=c6jH01dP783kNPD1yGxXwr4d0doe89O1.pAGEs.dEv#[🇨🇦]t.me/ConfigsHub
 trojan://bcacaab-aacb-acba-dcab-acbacaccbabb@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@112.3.28.12:46002?#[🏁]t.me/ConfigsHub
-vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjQ3Ljg2LjE5LjIyNSIsInBvcnQiOjI2MTI1LCJpZCI6Ijg5MGJlOGNkLThiMzMtNDFjZi1lNjExLTY3NGRkMWNmZjA5OCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6IlwvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&sni=ArGodev11222.PaGes.Dev&type=ws&host=argodev11222.pages.dev&path=%2FTelegram%40%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 trojan://34dea460-bad1-11ed-94f5-1239d0255272@163.172.211.74:443?security=tls&sni=tci.ir&allowInsecure=1&fp=chrome&type=tcp#⚜️Telegram:@IP_CF
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiczMuZ2hvc3Rya2Uuc2JzIiwicG9ydCI6ODg4MCwiaWQiOiI3MTI0Y2MzMC1iNzUxLTQ3YzUtYjg3YS0wMmRiOGM2N2NlNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInRscyI6Im5vbmUiLCJwYXRoIjoiQEdob3N0cmF5X05HIiwiYXV0aG9yaXR5IjoiIn0=
