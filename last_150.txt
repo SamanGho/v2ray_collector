@@ -1,4 +1,3 @@
-vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=&encryption=none&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930316257411243.neyshabur-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.179.233.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeFZvb21JeVpmVmZsTzBPa0YwS1JI@89.110.74.148:46271#[🇳🇱]t.me/ConfigsHub
@@ -248,3 +247,4 @@ trojan://auto@104.19.222.79:443?security=tls&sni=trojanfree-76s.pages.dev&type=w
 vless://2547c092-e3dc-453e-a3e6-fecade8d9b69@seminarsinmcb.faculty.ucdavis.edu:80?mode=auto&path=/&security=&encryption=none&host=xiliunlimited.global.ssl.fastly.net&type=xhttp¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.236.9.113:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.236.9.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://c714c6e5-44ee-42c9-a520-613f2f1edddc@www.speedtest.net:80?encryption=none&security=none&type=ws&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.&path=%2Fali#[🇨🇦]t.me/ConfigsHub
