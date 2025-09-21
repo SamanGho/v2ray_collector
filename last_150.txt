@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeFZvb21JeVpmVmZsTzBPa0YwS1JI@89.110.74.148:46271#[🇳🇱]t.me/ConfigsHub
+vless://452276f4-fce9-4025-8e5a-adae596eca93@172.67.204.84:8880?security=none&type=httpupgrade&host=join-daily-configs.broken-dreams.ir&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929114454179379.warsaw-drc-tusabq.info:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://e3847ec6-b2fc-4eb2-b919-174d986f882c@poland20.clearorbitllc.com:443?security=reality&encryption=none&pbk=oNYCpjXjcYAV9qSWBt95N9dDUPhc_QnauJZ3kSJVeSQ&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=poland20.clearorbitllc.com&sid=2a22#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Wmg4RW91aElMWjRKWkNRZGFYczBj@195.96.156.9:14847#[🇬🇧]t.me/ConfigsHub
@@ -244,7 +246,5 @@ vless://2547c092-e3dc-453e-a3e6-fecade8d9b69@seminarsinmcb.faculty.ucdavis.edu:8
 trojan://telegram-id-directvpn@15.236.9.113:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.236.9.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://c714c6e5-44ee-42c9-a520-613f2f1edddc@www.speedtest.net:80?encryption=none&security=none&type=ws&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.&path=%2Fali#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.184.141:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://e857ff76-71a7-4999-af17-9bc06eff850e@141.227.138.120:24586?mode=gun&security=none&encryption=none&type=grpc&serviceName=t.me/entryNET-bia-t.me/entryNET-t.me/entryNET-t.me/entryNET-t.me/entryNET-ZEDMODEON-ZEDMODEON#[🏁]t.me/ConfigsHub
 vless://b07eb1ae-cffb-495f-9469-0963ada74d0f@141.227.162.200:51222?mode=gun&security=none&encryption=none&type=grpc&serviceName=t.me/entryNET-bia-t.me/entryNET-t.me/entryNET-t.me/entryNET-t.me/entryNET-ZEDMODEON-ZEDMODEON#[🇮🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.65.184.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
