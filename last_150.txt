@@ -1,11 +1,3 @@
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?encryption=none&security=tls&sni=statue.lnmarketplace.net&alpn=h2&type=xhttp&host=statue.lnmarketplace.net&path=%2Fstatue%2F%3FTELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&mode=stream-one#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZ0VVOHFTbHdmNTM%3D@83.217.9.64:443#[🇹🇷]t.me/ConfigsHub
-vless://8250d638-45df-41fa-b06f-160d1cb1de0c@92.118.228.154:443?encryption=none&security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F#[🇺🇸]t.me/ConfigsHub
-vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#[🇩🇪]t.me/ConfigsHub
-vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@172.67.207.26:8080?encryption=none&security=none&fp=chrome&type=ws&host=201.58vtg99l.workers.dev&path=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D#[🇨🇦]t.me/ConfigsHub
-vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80?encryption=none&security=none&fp=chrome&type=ws&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
-vless://1375d9a1-dece-4bbb-8131-29e06afd8ca4@141.227.180.211:25365?encryption=none&security=none&fp=chrome&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#[🏁]t.me/ConfigsHub
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@213.232.123.10:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=SnjXP0GFBVxg3C7sbWUJ5JqKpnlg_BNMXuqoE78YhVE&type=tcp&headerType=none#[🇺🇸]t.me/ConfigsHub
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@77.81.65.10:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=SkPIAkSI8R1LY1hynsZZcxKkPmJKU11DAMncccLEdjI&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 vless://1375d9a1-dece-4bbb-8131-29e06afd8ca4@141.227.180.211:25365?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#[🏁]t.me/ConfigsHub
 vless://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@ir.fxgoldensignals.com:54567?encryption=none&security=none&fp=chrome&type=ws&path=%2F54567%2Fmvfkvk#[🇳🇱]t.me/ConfigsHub
@@ -248,3 +240,11 @@ vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@104.21.15.212:8080?encryption=none&
 vless://75916ff8-2f80-43dc-ba9a-34464e1bd340@m36a.vip784.com:33801?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.ir#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?encryption=none&security=none&type=grpc#[🇳🇱]t.me/ConfigsHub
 vless://19b432ac-43d5-4c66-b20b-c8fbb2c6ca06@alm.hotspoto.news:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.66.65.144:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.89:8000#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUSlo0NHNic0JUbG5TVEVLejJ5UkQx@103.98.215.192:8443?note=--Telegram--NetifyVPN--#[🇨🇦]t.me/ConfigsHub
+vless://2ecdfbf0-90a5-45df-bc57-9988eb001cd7@148.113.138.64:56010?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUSlo0NHNic0JUbG5TVEVLejJ5UkQx@103.98.215.192:8443?note=--Telegram--@NetifyVPN--#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNjQuMTM4LjIwMi4xMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWRjMjc3YjYtZmQ0Mi00ZjUwLTkzNjgtZWZiZWY3NmNhYTQzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTYzOSIsInBzIjoiW/Cfh7nwn4e3XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+trojan://cf13832b-4ca0-4fee-8e85-2b2411104e75@34.222.6.167:20230?security=tls&sni=421421.xyz#[🇺🇸]t.me/ConfigsHub
