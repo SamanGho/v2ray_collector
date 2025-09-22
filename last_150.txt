@@ -1,4 +1,3 @@
-ss://bm9uZTphYWJjYWJjLWJhYWMtY2JhYS1jYWJkLWJjYmFiYWNjY2FhYg==@127.0.0.1:8080#[🏁]t.me/ConfigsHub
 vmess://ewogICAgImFkZCI6ICI0Ny44Ni40Ny4xODYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjlkMTliZjc2LWM2ZmEtNDRkNi05YzAwLTQ2MGViZjg0OTQ5NCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiAzODU0NSwKICAgICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?encryption=none&security=tls&sni=hetzner-4.access.name.ng&fp=chrome&type=ws&host=hetzner-4.access.name.ng&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@69.84.182.87:80?security=none&type=ws&path=%2F#[🇺🇸]t.me/ConfigsHub
@@ -248,3 +247,4 @@ vmess://eyJhZGQiOiAiZ2l0LmJhcnRzbWVkaW5nLm5sIiwgImFpZCI6IDAsICJob3N0IjogInllbGFu
 vless://980cc237-7703-4763-b520-e65048e68116@00074.mutee.com.tr:4471?security=none&encryption=none&host=Varzesh3.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 trojan://Watashi_VPN@104.18.38.122:8443?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&allowInsecure=1#⚜️Telegram:@IP_CF
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80?allowInsecure=1&sni=www.speedtest.net.nl1.78.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&type=ws&host=www.speedtest.net.nl1.78.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&path=/Telegram-Xv2ry2?ed=512fp=chrome#[🇨🇦]t.me/ConfigsHub
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&type=tcp&sni=rc8.freeguard.org&fp=chrome&allowInsecure=1#⚜️Telegram:@IP_CF
