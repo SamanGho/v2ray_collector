@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjE3IiwgImFpZCI6IDAsICJob3N0IjogImd3ZGVmLnNicyIsICJpZCI6ICJiYzg2NDA3OC1kY2YzLTRiZjQtOGRiZi1jYTlmMjAwYjU2YmUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogNDQzLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiZ3dkZWYuc2JzIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjUuMzQuMTc2LjExMSIsICJwb3J0IjogIjU3NjE0IiwgImlkIjogIjRlNTVjZTQwLTlmOGUtNDE3ZC1mOGFlLWFhNmFmOTdhNzA5NyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjEzNyJ9
 vless://cbaabca-baca-abac-bdac-bcaccabaabbc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.181.183.82:22222?sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
@@ -235,7 +236,6 @@ vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://159947aa-7df7-45b6-833b-7b41ec0c7118@91.99.152.252:8080?mode=auto&path=%2F&security=reality&encryption=none&pbk=3kXHQleNv9yocoz-Q7FaSBa1CvtSbyIoHXWVzey6TXw&fp=chrome&spx=%2Ffavicon.ico&type=xhttp&sni=d27.hpcdn.info&sid=44ae6a026b731d71#[🇮🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.69:8880?encryption=none&security=none&fp=chrome&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=&encryption=none&authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://00197191-973a-4b98-b369-05bf0f7c88c6@91.107.133.86:443?security=reality&encryption=none&pbk=HpkseeBLIDHSe_9Kd_PawJ2YJhL--LPlI5r7C1N8bSs&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=firefox&spx=%2FCOPE--AZ--JKVPN---JKVPN&type=tcp&sni=tgju.org&sid=e979a6eb#[🇩🇪]t.me/ConfigsHub
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss76953.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=xhttp#[🇩🇪]t.me/ConfigsHub
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?encryption=none&security=tls&sni=D0dTpVg4Z3.sOlEnTrAa.InFo&alpn=h3%2Ch2&fp=chrome&type=ws&host=D0dTpVg4Z3.sOlEnTrAa.InFo&path=%2F#[🇨🇦]t.me/ConfigsHub
