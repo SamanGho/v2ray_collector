@@ -1,3 +1,5 @@
+vless://2d22be53-0b1e-4714-b79f-dcc025cfc63d@104.24.172.243:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
+vless://474494eb-e8ef-402e-be1c-f9670fcf3f33@hp.mastertunnel.shop:2096?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=Un5haKCXEnekiryaRDLmOHCGEufZfseV6IpdKHnav3M&sid=089604fd79ac01fd&spx=%2F&type=xhttp&host=register.tunnelbreaking.shop&path=%2Fhi&mode=auto#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206ODNmZDZhMjQtNDFjMi00MTU4LWFjMTgtNmZjZjBiODQyNzY0@cdn.node2.lilisi.link:20004#[🏁]t.me/ConfigsHub
 vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=iSo.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg&fp=firefox&type=ws&sni=iSo.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg#[🇨🇦]t.me/ConfigsHub
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@167.68.11.251:8880?encryption=none&security=none&type=ws&host=cf.d3z.net&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3#[🇺🇸]t.me/ConfigsHub
@@ -241,10 +243,8 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?encryption=non
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.20.18.6:443?security=tls&sni=cp.ylks.xyz&type=ws&host=cp.ylks.xyz&path=%2Fblue#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.153.45.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://0c820bc5-4e67-4796-b6cb-6075685e7c75@104.19.20.140:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.45.158:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://ab524e8e-2d41-481b-b5ba-3b58a8e7cd08@172.67.204.84:8080?security=none&type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#[🇨🇦]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.137.242:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇫🇷]t.me/ConfigsHub
-trojan://telegram-id-directvpn@18.153.45.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://NISHIKUITAN222@104.19.11.50:443?allowInsecure=0#[🇨🇦]t.me/ConfigsHub
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN222@162.159.5.129:443?allowInsecure=0#[🇨🇦]t.me/ConfigsHub
