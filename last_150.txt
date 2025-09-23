@@ -1,3 +1,5 @@
+vmess://eyJhZGQiOiAiMTU4LjE4MC45MS4yMDYiLCAiYWlkIjogMCwgImhvc3QiOiAia3IuaHVhZmVpODg4LnNpdGUiLCAiaWQiOiAiZjk5YmZlMDUtZTM1MS00N2RmLWU3NTItYWMwYWFlYTk3NmRjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ2MjcxLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=noneWiFi-%40IRAN_V2RAY1&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
 ss://bm9uZTpiYWFiYWNjLWNhYWItY2FiYS1iZGFjLWJiYmFhY2NjYWFiYw==@127.0.0.1:1080#[🏁]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMTcyLjY3LjE4My4yMjAiLCAiYWlkIjogMCwgImhvc3QiOiAiamFoZmtqaGEuY2ZkIiwgImlkIjogIjk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiA0NDMsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJqYWhma2poYS5jZmQifQ==
@@ -242,9 +244,7 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?encryption=none&s
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937544595891094.madrid-prx-dnraacl.info:8880?encryption=none&security=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://8f0120f1-ba26-e137-5e06-a99b844741aa@84.200.205.232:223?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&sid=e41865e506628f44&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937520064872286.london-prx-dnraacl.info:8880?encryption=none&security=none&type=grpc#[🇳🇱]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.18.69:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://c41bbf90-9369-4d65-8372-e4668bee2738@104.26.6.89:443?path=%2Fcontainers%2Fde&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=am7.amadebash.uk&fp=chrome&type=ws&sni=am7.amadebash.uk#[🇨🇦]t.me/ConfigsHub
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=GfN05.AlANhiAho.coM#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.75.18.69:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=GfN05.AlANhiAho.coM#[🇨🇦]t.me/ConfigsHub
