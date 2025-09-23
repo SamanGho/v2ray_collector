@@ -1,5 +1,3 @@
-trojan://bpb-trojan@104.18.37.111:443?allowInsecure=1&sni=mindrOOm-5cz.pAgEs.dEV&type=ws&host=mindrOOm-5cz.pAgEs.dEV&path=/trC8BM8bTsAF0AnLYL#[🇨🇦]t.me/ConfigsHub
-vmess://eyJhZGQiOiAiMTU4LjE4MC45MS4yMDYiLCAiYWlkIjogMCwgImhvc3QiOiAia3IuaHVhZmVpODg4LnNpdGUiLCAiaWQiOiAiZjk5YmZlMDUtZTM1MS00N2RmLWU3NTItYWMwYWFlYTk3NmRjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ2MjcxLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=noneWiFi-%40IRAN_V2RAY1&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
 ss://bm9uZTpiYWFiYWNjLWNhYWItY2FiYS1iZGFjLWJiYmFhY2NjYWFiYw==@127.0.0.1:1080#[🏁]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇺🇸]t.me/ConfigsHub
@@ -248,3 +246,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937520064872286.london-prx-dnraa
 vless://c41bbf90-9369-4d65-8372-e4668bee2738@104.26.6.89:443?path=%2Fcontainers%2Fde&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=am7.amadebash.uk&fp=chrome&type=ws&sni=am7.amadebash.uk#[🇨🇦]t.me/ConfigsHub
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=GfN05.AlANhiAho.coM#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
+vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?encryption=none&security=none&type=tcp&headerType=none#[🇳🇱]t.me/ConfigsHub
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwNCiAgImFkZCI6ICJzZXJrYXQub3JnIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICItLS0iLA0KICAiaG9zdCI6ICJzZXJrYXQub3JnIiwNCiAgInBhdGgiOiAibGlua3Z3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzZXJrYXQub3JnIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
