@@ -1,3 +1,5 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&sni=ArGodev11222.PaGes.Dev&type=ws&host=argodev11222.pages.dev&path=%2FTelegram%40%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
+vless://cc5cbab8-447c-4614-8adb-c2ca53955f7a@89.46.235.182:443?security=reality&flow=xtls-rprx-vision&sni=pl.ftp.gemera.network&type=tcp&fp=chrome&pbk=r8awrG2mC62aiJzWqGpzFM3T_CrCLR-QvQzheLgvJSg&sid=b8454ca31ff6efe1#[🏁]t.me/ConfigsHub
 vless://3528af1b-878e-407a-b2c0-38643dbb791e@138.68.92.168:443?mode=auto&path=%2Fawd&security=reality&encryption=none&pbk=60vwoYMS62_-PzJunEfDMUNv4zt580Z7L8fCCRcCm0c&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#[🇩🇪]t.me/ConfigsHub
 vless://c7191333-8078-4d65-bc84-ae92ab1eea49@62.60.247.164:443?mode=gun&security=reality&encryption=none&pbk=Q5wQ-CFit2wmpY4ACfqdZI8CClmPn4sfLXXdpW73PS0&fp=chrome&spx=%2F&type=grpc&serviceName=t.me/entryNET&sni=tgju.org&sid=d5c5c558ee0132#[🇳🇱]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.181.179.111:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/ConfigsHub
@@ -242,9 +244,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYlNzbVloWjQySDZEVUxkZXREZ0Ux@159.65.155.229
 vless://d093ae10-a360-4222-8d6e-cbbe59c48b09@167.172.109.92:8880?security=reality&encryption=none&pbk=nbKnrI4dImrabhk5zFFLh-Q3lvdrJr2wmpjE-HfLhn0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=682b#[🇩🇪]t.me/ConfigsHub
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@api.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#[🇫🇮]t.me/ConfigsHub
 vless://5c1b560e-c156-4a0e-b993-6bd60ff413cb@174.138.10.13:8880?security=reality&encryption=none&pbk=fjWLnw_F-caZDrilihJYWWaUCBuDj3gKzJwz0gk8OCU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=cc22c686f9c0#[🇳🇱]t.me/ConfigsHub
-trojan://telegram-id-directvpn@18.159.28.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://5fc531e8-d521-4671-b7b2-f30ae9833d66@146.190.28.213:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision#[🇳🇱]t.me/ConfigsHub
 vless://01996549-6892-dbf0-0453-f700236936bd@159.255.33.66:2053?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#[🇫🇮]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.28.217:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://c00282d7-e8b2-4c93-a5ce-ede6c9fed7fc@51.178.43.237:8880?security=reality&encryption=none&pbk=itoLhMT012I_RtFtF7PjQr0A6cE1uGBZdFtijpMibRE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=415e#[🇫🇷]t.me/ConfigsHub
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=%2Ffqogayws&security=tls&encryption=none&fp=chrome&type=ws#[🇫🇷]t.me/ConfigsHub
