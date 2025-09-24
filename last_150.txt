@@ -1,3 +1,4 @@
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@112.3.28.12:46002?#[🏁]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&sni=ArGodev11222.PaGes.Dev&type=ws&host=argodev11222.pages.dev&path=%2FTelegram%40%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://cc5cbab8-447c-4614-8adb-c2ca53955f7a@89.46.235.182:443?security=reality&flow=xtls-rprx-vision&sni=pl.ftp.gemera.network&type=tcp&fp=chrome&pbk=r8awrG2mC62aiJzWqGpzFM3T_CrCLR-QvQzheLgvJSg&sid=b8454ca31ff6efe1#[🏁]t.me/ConfigsHub
 vless://3528af1b-878e-407a-b2c0-38643dbb791e@138.68.92.168:443?mode=auto&path=%2Fawd&security=reality&encryption=none&pbk=60vwoYMS62_-PzJunEfDMUNv4zt580Z7L8fCCRcCm0c&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#[🇩🇪]t.me/ConfigsHub
@@ -192,7 +193,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937544595891094.madrid-prx-dnraa
 vless://8f0120f1-ba26-e137-5e06-a99b844741aa@84.200.205.232:223?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&sid=e41865e506628f44&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 vless://c41bbf90-9369-4d65-8372-e4668bee2738@104.26.6.89:443?path=%2Fcontainers%2Fde&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=am7.amadebash.uk&fp=chrome&type=ws&sni=am7.amadebash.uk#[🇨🇦]t.me/ConfigsHub
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=GfN05.AlANhiAho.coM#[🇺🇸]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://159947aa-7df7-45b6-833b-7b41ec0c7118@91.99.152.252:8080?mode=auto&path=%2F&security=reality&encryption=none&pbk=3kXHQleNv9yocoz-Q7FaSBa1CvtSbyIoHXWVzey6TXw&fp=chrome&spx=%2Ffavicon.ico&type=xhttp&sni=d27.hpcdn.info&sid=44ae6a026b731d71#[🇮🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.69:8880?encryption=none&security=none&fp=chrome&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://00197191-973a-4b98-b369-05bf0f7c88c6@91.107.133.86:443?security=reality&encryption=none&pbk=HpkseeBLIDHSe_9Kd_PawJ2YJhL--LPlI5r7C1N8bSs&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=firefox&spx=%2FCOPE--AZ--JKVPN---JKVPN&type=tcp&sni=tgju.org&sid=e979a6eb#[🇩🇪]t.me/ConfigsHub
