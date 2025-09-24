@@ -1,3 +1,5 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937544595891094.madrid-prx-dnraacl.info:8880/?type=grpc&encryption=none&flow=#[🇫🇷]t.me/ConfigsHub
+vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://40da1cf7-f3bc-4b2e-95d8-b392a154ee23@159.65.29.233:57864?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#[🇬🇧]t.me/ConfigsHub
 trojan://slch2024@194.59.5.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🏁]t.me/ConfigsHub
 vless://9e79d27d-ea29-440b-ac4f-02153ed948af@195.201.32.169:42671?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
@@ -240,11 +242,9 @@ vless://c00282d7-e8b2-4c93-a5ce-ede6c9fed7fc@51.178.43.237:8880?security=reality
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=%2Ffqogayws&security=tls&encryption=none&fp=chrome&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://aabaccb-acab-acba-adcb-cbabcabcacab@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://adc647b3-4166-42a9-8890-cdb2ea8c9e0e@172.67.73.226:2082?security=none&type=httpupgrade&host=sdfsdurg32-4987sduiovychsliufgi32-4987iyfhoisudhrop32-47i9yfios.vipvipmbl.ir.&path=%2Fwww.speedtest.net-www.speedtest.net-www.speedtest.net%3Fed%3D24695#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.121.146:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?security=tls&sni=bpB-WORKeR-pANel-Bcr.pAGES.Dev&type=ws&host=bpb-worker-panel-bcr.pages.dev&path=%2FXhjgE8gj0V6whv3N%2FdGltZS5pcw%3D%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://a1161d96-6353-475e-a4ff-92948b4590c7@92.38.145.145:80?security=none&type=httpupgrade&host=oipm.org&path=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net#[🇺🇸]t.me/ConfigsHub
 vless://c4ebfc69-f43f-4c7f-a904-c57ecb402b1b@m56a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://c4ce9f87-b7b1-4e49-b06c-f726be2a0f70@151.101.194.228:80?security=none&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN222@103.21.244.22:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
 vless://1a3a9e9a-3db5-4c33-d09f-e863a5f3ec55@104.17.147.22:8880?security=none&type=ws&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@35.181.121.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
