@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNGVlYWE3Yi00M2M2LTQ5ZGMtODAyMC03Mzg5YmJhNGQwMzM@hzhz1.sssyun.xyz:39206#[🏁]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE5Mi43NC4yNDEuMTY2IiwgInBvcnQiOiAiMzgwMDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMDMxMjI2MjUwMTA5IiwgImhvc3QiOiAiIiwgInRscyI6ICJ0bHMifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjg1LjE1OS4yMjkuODgiLCAicG9ydCI6ICI4NDQzIiwgInR5cGUiOiAiZ3VuIiwgImlkIjogImFmZTU3NTU3LWRmMjQtNDNlNS05Y2VhLTVkMmFjYzJjYWQwOCIsICJhaWQiOiAiMCIsICJuZXQiOiAiZ3JwYyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 vmess://ewogICAgImFkZCI6ICJqYW1la2sub3JnIiwKICAgICJhaWQiOiAxLAogICAgImhvc3QiOiAiamFtZWtrLm9yZyIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAibGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImphbWVray5vcmciCn0=
@@ -190,7 +191,6 @@ vless://0792bb58-36ac-451e-a629-e363e53da93b@104.21.18.38:443?security=tls&sni=k
 trojan://NISHIKUITAN222@104.25.229.165:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://cbcaaba-caab-abac-acbd-abbacccbabac@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 trojan://NISHIKUITAN222@198.41.194.151:443?security=tls&sni=il.ylks.xyz&type=ws&host=il.ylks.xyz&path=%2F#[🇨🇦]t.me/ConfigsHub
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#[🇨🇦]t.me/ConfigsHub
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.148.22:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=6389113402676776506.rtxiran.info&fp=chrome&type=ws&sni=6389113402676776506.rtxiran.info#[🇨🇦]t.me/ConfigsHub
 vless://a61a9487-7d9e-4f77-f35a-284acc0c1925@www.speedtest.net:2083?encryption=none&security=tls&sni=khtls.armin-host.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=khtls.armin-host.com&path=%2Ffree#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN222@104.25.252.248:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
