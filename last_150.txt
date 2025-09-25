@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@13.36.216.106:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.159.43:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
 vless://Parsashonam-312@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&host=De.Parsashonam.CfD.&security=none#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.36.216.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
@@ -245,6 +246,5 @@ vless://2062dda9-b7cb-4488-922c-e2e4db9d361a@7x1ir8.de4.bbbbbbbbbbbb9.biz:4264?s
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&headerType=http&type=tcp#[🇬🇧]t.me/ConfigsHub
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.37.11.117:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-vless://telegram-id-ArV2ray@test.fast.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=Mtkirand.com&path=%2F&mode=auto#[🇨🇦]t.me/ConfigsHub
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=CFN06.ALaNHiaHo.COm#[🇨🇦]t.me/ConfigsHub
 vless://f8df7920-65c1-4cab-b00b-8858da406d4f@uaegaming.gojustore.site:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#[🇦🇪]t.me/ConfigsHub
