@@ -1,4 +1,3 @@
-vless://82f0a30c-b098-459b-ae6b-364d7bd8ace3@hield.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws&sid=06c6eb7423f24de5&spx=%2F&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
 vless://19b432ac-43d5-4c66-b20b-c8fbb2c6ca06@uk.hotspoto.news:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://b1116f9a-fa62-4525-8210-18bb782fb98b@91.98.22.20:22933?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#[🇩🇪]t.me/ConfigsHub
 vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@104.21.15.212:8080?encryption=none&security=none&type=ws&host=201.58vtg99l.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +247,4 @@ ss://2b4fbbab-5fe6-42ec-92c0-8ccf62e5e829@151.101.130.228:443?security=tls&sni=h
 ss://eedbf66d-aef3-4e73-b10d-e2083e783a11@83.228.210.39:443#[🏁]t.me/ConfigsHub
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&alpn=h3,h2&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@66.81.247.82:80?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel#[🇺🇸]t.me/ConfigsHub
+vless://169d94bb-e490-41e5-9cb1-5716f3d27d66@103.249.133.79:8443?encryption=none&security=reality&sni=ubuntu.com&fp=chrome&pbk=5BbAOuOXK2QXYEWq-Yy7f2wcbYgq5fKRodJsQ7Mn0lk&sid=858ef705a1&spx=%2F&type=grpc&authority=&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs%3Fed%3D2056&mode=gun#[🇫🇷]t.me/ConfigsHub
