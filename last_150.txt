@@ -1,3 +1,5 @@
+vmess://eyJhZGQiOiJrYW1wb25nLm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2FtcG9uZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoia2FtcG9uZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://26f356ce-ce6e-456a-e18b-d405eb716533@www.speedtest.net:2086?mode=packet-up&path=%2Falaki&security=none&encryption=none&host=khtls2.arxcloud-host.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://a83efd52-7d6b-453d-e22f-7303b759ffd0@www.speedtest.net:2083?alpn=http%2F1.1%2Ch2&fp=chrome&host=&path=%2F&security=tls&sni=khtls2.armin-website.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://a83efd52-7d6b-453d-e22f-7303b759ffd0@www.speedtest.net:2083?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=khtls2.armin-website.com#[🇨🇦]t.me/ConfigsHub
 vmess://ewogICAgImFkZCI6ICIxNTQuMjAxLjgwLjIxNCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZDkyMDJmZGQtNTY3OS00M2E3LWE5MzMtMGQwNzYwNWJhYjNjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDExMTU5LAogICAgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
@@ -227,7 +229,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystri
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#[🇺🇸]t.me/ConfigsHub
 vless://8434234d-f89f-d936-4622-2fa7a4851964@tunnelamin.paneldegemeto.com:6188?path=%2F%3Fed%3D2956&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VFpVbmtoSEMzRFg=@62.60.233.233:443?type=tcp#[🇹🇷]t.me/ConfigsHub
-vmess://eyJhZGQiOiIxNjQuMTM4LjIwMi4xMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDRlMjRmYzAtNWYzYi00NjJiLWJiYTAtOWYxZmRkYmMyMzgyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTYzOSIsInBzIjoiW/Cfh7nwn4e3XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://45d44338-30d2-439c-b765-90cb16f581c9@www.speedtest.net:80?encryption=none&security=none&sni=broad-lake-d615.hegegi9101.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=ws&host=broad-lake-d615.hegegi9101.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN222@104.19.71.183:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN222@104.27.3.126:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
@@ -245,6 +246,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880?mode=gun&securi
 vless://8d9cfb4f-69a7-435f-86d7-79d8e62d72c9@83.147.216.173:8443?mode=gun&security=reality&encryption=none&pbk=etG7kidJiRb4A2LsNbRUJ3HGyrt2yX5YlZGoTgmpSyw&fp=chrome&type=grpc&serviceName=grpc&sni=www.cloudflare.com&sid=e624b964#[🇫🇮]t.me/ConfigsHub
 trojan://trojan@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=azadnet.jahahe5603.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206QUp0VjRWQ0xhVlFVS0dINGcxQURTeXF2ekNBMG1TcE40NmFuMTJaZUlLaHg=@216.132.112.116:34958#[🇺🇸]t.me/ConfigsHub
-vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=www.pdri.blog&fp=firefox&type=ws&sni=www.pdri.blog#[🇨🇦]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.30:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#[🇨🇦]t.me/ConfigsHub
 vless://babacca-aabc-caba-acdb-acccbcabaabb@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
