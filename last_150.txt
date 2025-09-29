@@ -1,3 +1,4 @@
+vless://63007c60-9f4b-4df6-aa01-0d2babe7854c@185.113.10.98:1625?security=reality&encryption=none&pbk=W00lFZIKlJIvB72gsQ_VcnIfojArIGTwpcasNJnuwEE&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=c827e82862a03011#[🇩🇪]t.me/ConfigsHub
 vless://63007c60-9f4b-4df6-aa01-0d2babe7854c@185.231.172.40:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=370dd394052f2386#[🇳🇱]t.me/ConfigsHub
 vless://63007c60-9f4b-4df6-aa01-0d2babe7854c@185.177.238.112:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=370dd394052f2386#[🏁]t.me/ConfigsHub
 vless://63007c60-9f4b-4df6-aa01-0d2babe7854c@185.231.172.39:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=370dd394052f2386#[🇳🇱]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://6463a779-5001-629e-d896-b21ccd661b41@azizisearch.com:2086?path=%2F&secur
 trojan://NISHIKUITAN222@172.64.35.200:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN222@198.41.194.151:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN222@104.24.254.99:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
-vless://5d6722a7-0cb9-4703-8cc3-1b94581f22ba@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=configlinechannel2.com&type=xhttp#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%40configLINE%283%29
