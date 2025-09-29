@@ -1,7 +1,3 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?security=tls&sni=bpB-WORKeR-pANel-Bcr.pAGES.Dev&type=ws&host=bpb-worker-panel-bcr.pages.dev&path=%2FXhjgE8gj0V6whv3N%2FdGltZS5pcw%3D%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
-vless://a1161d96-6353-475e-a4ff-92948b4590c7@92.38.145.145:80?security=none&type=httpupgrade&host=oipm.org&path=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net#[🇺🇸]t.me/ConfigsHub
-vless://c4ebfc69-f43f-4c7f-a904-c57ecb402b1b@m56a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://c4ce9f87-b7b1-4e49-b06c-f726be2a0f70@151.101.194.228:80?security=none&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN222@103.21.244.22:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
 vless://1a3a9e9a-3db5-4c33-d09f-e863a5f3ec55@104.17.147.22:8880?security=none&type=ws&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F#[🇨🇦]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.14.222.248:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
@@ -248,3 +244,7 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?type=ws&host=6Dd1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443?type=tcp#[🇳🇱]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#[🇺🇸]t.me/ConfigsHub
 vless://8434234d-f89f-d936-4622-2fa7a4851964@tunnelamin.paneldegemeto.com:6188?path=%2F%3Fed%3D2956&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VFpVbmtoSEMzRFg=@62.60.233.233:443?type=tcp#[🇹🇷]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNjQuMTM4LjIwMi4xMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDRlMjRmYzAtNWYzYi00NjJiLWJiYTAtOWYxZmRkYmMyMzgyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTYzOSIsInBzIjoiW/Cfh7nwn4e3XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://45d44338-30d2-439c-b765-90cb16f581c9@www.speedtest.net:80?encryption=none&security=none&sni=broad-lake-d615.hegegi9101.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=ws&host=broad-lake-d615.hegegi9101.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://4b2a1974-5aa6-4fa8-9171-a8a18b898c2c@172.66.40.99:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#[🇨🇦]t.me/ConfigsHub
