@@ -1,4 +1,3 @@
-vless://a1161d96-6353-475e-a4ff-92948b4590c7@92.38.145.145:80?security=none&type=httpupgrade&host=oipm.org&path=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net#[🇺🇸]t.me/ConfigsHub
 vless://c4ebfc69-f43f-4c7f-a904-c57ecb402b1b@m56a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://c4ce9f87-b7b1-4e49-b06c-f726be2a0f70@151.101.194.228:80?security=none&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN222@103.21.244.22:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +247,4 @@ vless://c18000ca-af52-46a6-84f3-6e500b53009f@www.speedtest.net:2086?path=%2F%40s
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?type=ws&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&path=/&security=tls&fp=chrome&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO&alpn=h3,h2#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443?type=tcp#[🇳🇱]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#[🇺🇸]t.me/ConfigsHub
+vless://8434234d-f89f-d936-4622-2fa7a4851964@tunnelamin.paneldegemeto.com:6188?path=%2F%3Fed%3D2956&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
