@@ -1,3 +1,4 @@
+ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.199:8880/?type=grpc&encryption=none#[🇺🇸]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880/?type=grpc&encryption=none#[🇳🇱]t.me/ConfigsHub
 vless://ba1fc4fe-c5a5-4ad3-b4e2-f02ecffd992e@141.227.176.48:10227/?type=grpc&encryption=none&flow=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#[🏁]t.me/ConfigsHub
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880/?type=grpc&encryption=none&flow=#[🇺🇸]t.me/ConfigsHub
@@ -246,5 +247,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.230.29:8880?path=%2FTelegram
 vless://7cb258e2-2905-4f7f-94f5-b5b4125eece4@172.66.40.99:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#[🇨🇦]t.me/ConfigsHub
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=nareni.rtxiran.info#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108227.dublin-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇬🇧]t.me/ConfigsHub
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.188:8443?encryption=none&security=tls&type=ws&path=%2F#[🇫🇮]t.me/ConfigsHub
 vless://41dcee5c-775d-4fa9-ba78-a17316ed3b54@45.159.148.84:443?security=&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
