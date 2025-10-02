@@ -1,3 +1,4 @@
+trojan://bf7e1009-1574-44f7-86df-6cbecd338477@pardazeshvpn-tg18.pages.dev:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=pardazeshvpn-tg18.pages.dev&fp=chrome&type=ws&sni=pardazeshvpn-tg18.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://ec94daf9-442f-4a6b-9633-70c90006dfdd@79.127.70.123:2083?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://6e305621-9c57-417a-aed1-95024bc5f6b2@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://d36f457f-17a9-4891-a113-322ec6792917@m24a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🇺🇸]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://8ce5a4b4-903a-4eb7-bc1d-0e9860dc5476@172.64.33.212:443?security=tls&sni=
 vless://40089ccb-cd68-487a-aae0-ac9ca6a64d09@217.195.200.81:443?security=reality&sni=refersion.com&type=grpc&fp=firefox&pbk=kMpNxUml4FpVi20IH1K1JCQnKG49cAp_0Hr9ROzoZFM&sid=01acca2f70929b7a#[🇦🇪]t.me/ConfigsHub
 vless://34cc700f-850f-4161-b5fb-bb71797aef2a@hetz-vl3.danims.sbs:8081?security=none&encryption=none&host=varzesh3.com---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://34cc700f-850f-4161-b5fb-bb71797aef2a@hetz-vl2.danims.sbs:8081?security=none&encryption=none&host=varzesh3.com---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&authority=%2F%3FJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[🇳🇱]t.me/ConfigsHub
