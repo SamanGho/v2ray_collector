@@ -1,3 +1,5 @@
+trojan://NISHIKUITAN222@104.19.71.183:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
+trojan://NISHIKUITAN222@104.27.3.126:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#[🇮🇷]t.me/ConfigsHub
 trojan://NISHIKUITAN222@104.17.166.120:443?allowInsecure=1&ws=1&wspath=%2F#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMTA0LjIxLjYzLjkwIiwgImFpZCI6ICIxIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImIuYmVzYXIuaG9tZXMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAic2N5IjogImF1dG8iLCAic25pIjogImIuYmVzYXIuaG9tZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
@@ -238,8 +240,6 @@ vless://turboo-server@jone1.fast-turbooserver.com:8880?path=%2FTurboo-Server%3Fe
 vmess://ewogICAgImFkZCI6ICIxMDMuNTYuMTE1LjI0MyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOTZkNTM1NTgtZjdhMS00ZWFkLWFkMTEtZTU3YjI3NmIzOTU1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDIyMTg3LAogICAgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vless://turboo-server@jone.fast-turbooserver.com:8443?path=%2FTurboo-Server%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=none&encryption=none&type=ws#[🇸🇪]t.me/ConfigsHub
 vless://6ac3c95e-b172-44bc-86c3-4d507c9d9dd4@109.122.202.73:443?security=reality&alpn=h2&encryption=none&pbk=pbO31C8T53OfUhnw152DBaQ0qRPPcStHth61s5OYdV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=c2490fa43717ff#[🇳🇱]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.94.176:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-trojan://telegram-id-directvpn@35.180.94.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://5c3afc1e-4efc-43fd-a4a6-07a14998efe0@fear.anabelrz.xyz:30634?security=reality&encryption=none&pbk=jh2QjXeD_8SQGE0y5JEm8KqJKz0lZed79F5ugrdynCg&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=844c6e33#[🇹🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYzllYTY1My1iZWNjLTQ0ZjEtOTVmOS0xNjc3M2EwNTE5ZTk@hg02.gnzzrk001.top:12036#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462896620.neyshabur-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
