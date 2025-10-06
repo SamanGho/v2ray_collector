@@ -1,3 +1,5 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880?mode=gun&security=none&encryption=none&authority=%2F%3F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&type=grpc&serviceName=#[🇳🇱]t.me/ConfigsHub
+vless://8d9cfb4f-69a7-435f-86d7-79d8e62d72c9@83.147.216.173:8443?mode=gun&security=reality&encryption=none&pbk=etG7kidJiRb4A2LsNbRUJ3HGyrt2yX5YlZGoTgmpSyw&fp=chrome&type=grpc&serviceName=grpc&sni=www.cloudflare.com&sid=e624b964#[🇫🇮]t.me/ConfigsHub
 trojan://trojan@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=azadnet.jahahe5603.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206QUp0VjRWQ0xhVlFVS0dINGcxQURTeXF2ekNBMG1TcE40NmFuMTJaZUlLaHg=@216.132.112.116:34958#[🇺🇸]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.30:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#[🇨🇦]t.me/ConfigsHub
@@ -246,5 +248,3 @@ trojan://bpb-trojan@172.66.44.203:443?security=tls&type=ws&sni=403b3611-99bC-43b
 trojan://baaccba-acba-aabc-dbca-cbbabcbcaaac@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.158.6.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.158.6.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@35.158.6.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.158.6.79:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
