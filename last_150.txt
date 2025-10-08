@@ -1,3 +1,5 @@
+vless://75c3f12e-bdcd-43e0-a9bb-3f1d95911966@141.227.140.74:33468?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🏁]t.me/ConfigsHub
+vless://3b1c02ea-342a-4e72-d5f9-a041415ae2df@13.51.116.59:57482?security=&encryption=none&headerType=none&type=tcpÂ¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇸🇪]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.239.86.113:2222?security=none&type=tcp#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLS1M0NzYwWlI0MWd2SnJ2d1FuQ28w@45.95.232.236:4248#[🏁]t.me/ConfigsHub
 vless://100a18b8-bab3-4c42-96ec-6b96691d6a0f@44.244.20.193:443?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=CgiGam2CJMM33Tb7ZEBHt52pztMD7SQ9sqdfDZro-0Y#[🇺🇸]t.me/ConfigsHub
@@ -240,11 +242,9 @@ vless://e2cf60eb-2ca9-497c-bbc9-40a02444889b@167.99.248.182:443/?type=xhttp&encr
 vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801/?encryption=none&flow=&host=varzesh3.ir&type=tcp&headerType=http#[🇩🇪]t.me/ConfigsHub
 vless://e2cf60eb-2ca9-497c-bbc9-40a02444889b@159.223.25.10:443/?type=xhttp&encryption=none&flow=&sni=store.steampowered.com&fp=chrome&security=reality&pbk=Vr03964OuKI-e1lQOKeMwmFc1hOpSuLXLGhuUzYkrTI&sid=#[🇩🇪]t.me/ConfigsHub
 vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80/?type=ws&encryption=none&flow=&path=%2Fvless%2F%3Fed#[🏁]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.121.36:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://118c8145-8922-44e9-e885-35173e859748@64.226.85.217:443/?type=xhttp&encryption=none&flow=&sni=store.steampowered.com&fp=chrome&security=reality&pbk=72fN35cLzXeFyWy471g1th6Q9BKyRfXzMYbAGEx3SXs&sid=#[🇩🇪]t.me/ConfigsHub
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443/?type=ws&encryption=none&flow=&path=%2Fjzmdpvws&security=tls&fp=chrome#[🇹🇷]t.me/ConfigsHub
 vless://118c8145-8922-44e9-e885-35173e859748@138.68.97.106:443/?type=xhttp&encryption=none&flow=&sni=store.steampowered.com&fp=chrome&security=reality&pbk=72fN35cLzXeFyWy471g1th6Q9BKyRfXzMYbAGEx3SXs&sid=#[🇩🇪]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880/?type=grpc&encryption=none&flow=#[🇳🇱]t.me/ConfigsHub
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:443/?type=ws&encryption=none&flow=&host=VyFlPo6269.SoLeNtRaA.iNfO&path=%2F&security=tls&sni=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@63.177.121.36:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://dd1436ee-8b67-4d9d-9bc4-6f9029a40328@138.199.199.55:666/?type=tcp&encryption=none&flow=#[🇩🇪]t.me/ConfigsHub
