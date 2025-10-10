@@ -1,3 +1,4 @@
+vless://6ac3c95e-b172-44bc-86c3-4d507c9d9dd4@109.122.202.73:443?security=reality&alpn=h2&encryption=none&pbk=pbO31C8T53OfUhnw152DBaQ0qRPPcStHth61s5OYdV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=c2490fa43717ff#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYzllYTY1My1iZWNjLTQ0ZjEtOTVmOS0xNjc3M2EwNTE5ZTk@hg02.gnzzrk001.top:12036#[🏁]t.me/ConfigsHub
 vless://5cbd735a-b9f4-44a9-9e7a-818853b05ab2@185.197.182.18:23590?mode=auto&path=%2F&security=reality&encryption=none&pbk=uTgCcEmxWXISjCBvsZLBRGASA6ZM0sckmnlTtgqzOgE&fp=chrome&spx=%2F&type=xhttp&sni=cloudflare.com&sid=ea5b1f87#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYzllYTY1My1iZWNjLTQ0ZjEtOTVmOS0xNjc3M2EwNTE5ZTk@fl01.lr9soflhleb.top:31013#[🏁]t.me/ConfigsHub
@@ -246,5 +247,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDIuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.76:8880?mode=gun&security=none&encryption=none&type=grpc#[🇹🇷]t.me/ConfigsHub
 vless://52aae58a-1d54-45a4-9d05-c36d16a6dd12@143.14.189.181:443?security=reality&encryption=none&pbk=Q0aLm5f1x8Sh0jWnBWneusXUWeKTw9d8AcP4oEIkgwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=86#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@ie01.giamping.com:8080#⚜️Telegram:@IP_CF
-trojan://253bc477d4e43c209f2d427272968280@23.227.194.234:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#⚜️Telegram:@IP_CF
 trojan://253bc477d4e43c209f2d427272968280@58.152.53.94:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#⚜️Telegram:@IP_CF
