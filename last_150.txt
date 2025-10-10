@@ -1,3 +1,4 @@
+trojan://bpb-trojan@172.66.44.203:443?security=tls&type=ws&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv&path=/trSo3btsDgOHHUM6Nb&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://baaccba-acba-aabc-dbca-cbbabcbcaaac@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.158.6.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1R1hWWmdYcUI3Um5Ea0J4ZDFSeUl1@91.204.74.95:27335#[🇳🇱]t.me/ConfigsHub
@@ -202,7 +203,6 @@ vless://91c5bb3e-cfe5-419d-d0c2-1eab49a15be9@151.101.3.8:80?mode=auto&path=%2F%4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEa0g3dU83dDkwVXc0RDk1emdaVmRW@89.185.84.185:443#[🇬🇧]t.me/ConfigsHub
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@std1.loadingip.com:443#[🏁]t.me/ConfigsHub
 vless://b9a4b21f-e2db-4dc0-a78c-c6a800805d95@104.17.234.128:443?security=tls&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&fp=randomized&alpn=h2,http/1.1#[🇺🇸]t.me/ConfigsHub
-vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=ws&sni=smart.dark13.info#[🇺🇸]t.me/ConfigsHub
 vless://c3f8db54-f59d-485c-9b9e-a31db1e8d006@netcdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#[🇫🇮]t.me/ConfigsHub
 vless://c3f8db54-f59d-485c-9b9e-a31db1e8d006@netcdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#[🇫🇮]t.me/ConfigsHub
 vless://16cfe52d-7cae-48e8-9ece-f25b8aad7ae9@gem.talashit.com:8282?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
