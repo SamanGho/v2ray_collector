@@ -1,3 +1,4 @@
+vless://436e1ab3-b37a-409d-bafb-57c6e2bf7eaa@in2.zizimax.ir:82?type=xhttp&encryption=none&path=%2Fsasbhjakjdnka&host=in2.global.ssl.fastly.net&mode=auto&security=reality&pbk=-MfDOThNltWis5VDTGFNCP9DCsybTODpPoyC_i1n_GM&fp=chrome&sni=check-host.net&sid=fd&spx=%2F#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.47.54.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.47.54.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://78aea809-7966-424a-b198-f1854732dd8e@141.227.128.139:80?encryption=none&type=grpc&mode=gun&serviceName=t.me/entryNET&security=none#[🏁]t.me/ConfigsHub
@@ -240,7 +241,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE3Mi42
 trojan://tg-dns68@162.159.152.88:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.57.70.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.92.110:5498#[🏁]t.me/ConfigsHub
-vless://b555ed13-5146-44a6-8390-74dee3532a99@62.60.247.164:443?encryption=none&type=grpc&mode=gun&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=tgju.org&pbk=Q5wQ-CFit2wmpY4ACfqdZI8CClmPn4sfLXXdpW73PS0&sid=d5c5c558ee0132&spx=/#[🏁]t.me/ConfigsHub
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#[🏁]t.me/ConfigsHub
 vless://2a105d50-aad3-409f-a234-493c5caecddf@91.99.212.19:13748?type=tcp&encryption=none&path=%2F%40napsternetv20%2FTelegram_Channel&host=www.speedtest.net&headerType=http&security=none#[🏁]t.me/ConfigsHub
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN%3Fed&security=tls&encryption=none&type=ws&sni=azadnet3-9do.pages.dev#[🏁]t.me/ConfigsHub
