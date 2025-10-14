@@ -1,3 +1,5 @@
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443/?type=ws&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&path=%2F&security=tls&sni=D0dTpVg4Z3.sOlEnTrAa.InFo&alpn=h3%2Ch2&fp=chrome#[🇨🇦]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024910159.lisbon-drc-dcrabj.info:8880?mode=gun&security=&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
 vless://b5429b6d-9e04-42e6-a0b8-4bde7db4d41e@side.thedarkforks.com:2096/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&security=reality&pbk=lZrWXYyXQZMkRvegqyOBxslKaB3bOt4F4D_xRURuaz4&sid=64d1dca8560d94f1#[🇩🇪]t.me/ConfigsHub
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096/?type=ws&encryption=none&path=%2F&security=tls&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO&alpn=h3%2Ch2&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://436e1ab3-b37a-409d-bafb-57c6e2bf7eaa@in2.zizimax.ir:82?type=xhttp&encryption=none&path=%2Fsasbhjakjdnka&host=in2.global.ssl.fastly.net&mode=auto&security=reality&pbk=-MfDOThNltWis5VDTGFNCP9DCsybTODpPoyC_i1n_GM&fp=chrome&sni=check-host.net&sid=fd&spx=%2F#[🇩🇪]t.me/ConfigsHub
@@ -210,7 +212,6 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@139.64.165.144:8882#[🏁]t.me/Configs
 vless://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?path=%2F&security=tls&encryption=none&host=medrd.vtpmng.top&type=ws&sni=medrd.vtpmng.top#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#[🏁]t.me/ConfigsHub
 trojan://tg-dns68@162.159.153.13:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#[🏁]t.me/ConfigsHub
-vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&host=--join--ShadowProxy66--&headerType=none&fp=chrome&spx=%2F%40skypro_vpn&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#[🏁]t.me/ConfigsHub
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.26.12.31:2053?security=tls&type=ws&sni=vfarid.xcdi.wOrkERS.DeV&path=trojan-ws/?ed=2048&host=vfarid.xcdi.wOrkERS.DeV#[🏁]t.me/ConfigsHub
 trojan://auto@104.18.12.229:2053?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.61.60.200:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
@@ -243,7 +244,6 @@ vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?note=---Telegram---
 vless://bbcaaca-abac-acab-cdba-baabbaccaccb@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@NL-RAIV2MMR-TELEGRAM-JOIN.up.railway.app:443?mode=auto&path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=firefox&type=xhttp#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#[🏁]t.me/ConfigsHub
-vless://b3f61b2a-26a4-46be-8af3-a7406fe94537@91.99.212.19:13748?type=tcp&encryption=none&path=%2F%40napsternetv20%2FTelegram_Channel&host=www.speedtest.net&headerType=http&security=none#[🏁]t.me/ConfigsHub
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjE3Mi42Ny4xNjguMTA2IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMSIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYi5oYWxvbi5ob21lcyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiYi5oYWxvbi5ob21lcyIsICJhbHBuIjogIiJ9
 trojan://tg-dns68@162.159.152.88:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.57.70.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
