@@ -1,3 +1,4 @@
+vless://2b00a438-d2df-5896-87a0-a55c7fb837a4@151.101.66.219:80?security=none&type=ws&host=JoinBede.ELiV2rAY.net&path=%2F%40ELiV2ray-%40ELiV2ray%3Fed%3D80#[🇨🇦]t.me/ConfigsHub
 trojan://TD7FKA3CZSyRgCeXp60xjaEa3uSzFaS5BOpC2lY3y9cYRA884qZOI3wxlNDneD@enfuego.missionsec.io:443?security=tls&headerType=none&type=tcp&sni=enfuego.missionsec.io#[🇺🇸]t.me/ConfigsHub
 trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?sni=cloudflare.node-ssl.cdn-alibaba.com#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiAia2FtcG9uZy5vcmciLCAiYWlkIjogMSwgImhvc3QiOiAia2FtcG9uZy5vcmciLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAicG9ydCI6IDQ0MywgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImthbXBvbmcub3JnIn0=
@@ -226,7 +227,6 @@ vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=realit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#[🏁]t.me/ConfigsHub
 vless://ee092289-4502-4fd9-8fef-6e2b859d2016@135.125.88.154:33310?mode=gun&security=none&encryption=none&type=grpc&serviceName=t.me/entryNETbia-t.me/entryNETt.me/entryNETt.me/entryNETt.me/entryNETZEDMODEON-ZEDMODEON#[🏁]t.me/ConfigsHub
-vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=uk-09.allhubb.info#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@94.156.250.122:990#[🏁]t.me/ConfigsHub
 trojan://NISHIKUITAN111@185.148.106.44:443?#[🏁]t.me/ConfigsHub
