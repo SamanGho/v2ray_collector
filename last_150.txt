@@ -1,3 +1,4 @@
+vless://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#[🇺🇸]t.me/ConfigsHub
 vless://3fc50324-8470-4889-8fbf-653b96dcc978@record.persianmizban.com:443?path=%2F&security=tls&encryption=none&host=lgoin.persianmizban.com&fp=chrome&type=ws&sni=lgoin.persianmizban.com#[🇺🇸]t.me/ConfigsHub
 vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@de.nitroo-tech.ru:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.188.151.116:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
@@ -182,7 +183,6 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6697#[🏁]t.me/ConfigsH
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?security=tls&encryption=none&type=ws&host=privasi.turah.my.id&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed%3D2048Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&sni=privasi.turah.my.id&fp=chrome#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@139.64.165.144:8882#[🏁]t.me/ConfigsHub
-vless://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?path=%2F&security=tls&encryption=none&host=medrd.vtpmng.top&type=ws&sni=medrd.vtpmng.top#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#[🏁]t.me/ConfigsHub
 trojan://tg-dns68@162.159.153.13:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#[🏁]t.me/ConfigsHub
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.26.12.31:2053?security=tls&type=ws&sni=vfarid.xcdi.wOrkERS.DeV&path=trojan-ws/?ed=2048&host=vfarid.xcdi.wOrkERS.DeV#[🏁]t.me/ConfigsHub
