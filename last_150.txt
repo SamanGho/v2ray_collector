@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@51.44.54.207:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@mtn.zoverv.com:443?security=tls&encryption=none&type=ws&host=nb-fi.parsdl.xyz&path=/hajmi?ed%3D2560/@do_itforyou,@do_itforyou&sni=parsdl.xyz&fp=firefox&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.61.110:7307#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.61.113:2376#[🇺🇸]t.me/ConfigsHub
@@ -207,7 +208,6 @@ vless://51e7067c-f032-45e2-b76e-ef39f0a51744@193.233.19.240:8080?encryption=none
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#[🏁]t.me/ConfigsHub
 vless://f89ce743-ac04-43db-bfad-041ce541ccf5@ergwork.web.unc.edu:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080?note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443?type=tcp#[🏁]t.me/ConfigsHub
 vless://5770b9e6-d3c6-422b-861b-c1e630d89200@151.101.3.8:80?mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#[🏁]t.me/ConfigsHub
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsCiAgImFkZCI6ICI0Ni42Mi4xOTkuMjAiLAogICJwb3J0IjogMTQxNCwKICAiaWQiOiAiYmY2YWE0OGUtYjhhZC00YTMyLTk1MjMtYTdhYTdlNDMwYjk5IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidGxzIjogIm5vbmUiLAogICJ0eXBlIjogIm5vbmUiCn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWaE9jWXZGOHJFZC1lMGpxVUIxWWlR@147.45.143.16:1080#[🏁]t.me/ConfigsHub
