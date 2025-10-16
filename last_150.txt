@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521662009295.budapest-prx-dnraacr.info:8880?mode=gun&security=&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1%23%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#[🇺🇸]t.me/ConfigsHub
 trojan://NISHIKUITAN222@141.101.121.176:443?allowInsecure=1&ws=1&wspath=%2F#[🇫🇷]t.me/ConfigsHub
 vmess://eyJhZGQiOiIzLjExMi40My4xNzUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDVkMWEzYWItMmNhOC00MmIyLThmMjEtNTI3Njk1MjUwMDE3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMzIxMSIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -240,7 +241,6 @@ trojan://telegram-id-directvpn@13.60.135.225:22222?security=tls&type=tcp&sni=tro
 vless://20a91d5e-0005-4b3f-9e2a-1b96934f8a88@pscresearch.faculty.ucdavis.edu:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#[🏁]t.me/ConfigsHub
 vless://cabcaab-acab-acab-dcab-bbabbaaccacc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@18.158.157.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&path=%2Fhttp#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
