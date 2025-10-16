@@ -1,3 +1,5 @@
+vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@mtn.zoverv.com:443?security=tls&encryption=none&type=ws&host=nb-fi.parsdl.xyz&path=/hajmi?ed%3D2560/@do_itforyou,@do_itforyou&sni=parsdl.xyz&fp=firefox&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.61.110:7307#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.61.113:2376#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.44.54.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#[🇬🇧]t.me/ConfigsHub
@@ -237,9 +239,7 @@ vless://0245889d-da1b-4956-85f4-028fd8e4f8f2@america.marzxox.shop:210?security=r
 vless://dbeace35-cdc9-493b-b492-25caceba040c@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES2&security=tls&encryption=none&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#[🏁]t.me/ConfigsHub
 vless://859e3599-42c2-4e7e-8f8e-f96b764db26f@152.228.242.123:27236?encryption=none&security=none&type=grpc&authority=&serviceName=t.me/entryNET&mode=gun#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880?encryption=none&security=none&type=grpc#[🏁]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.223.64:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 trojan://telegram-id-directvpn@15.237.223.64:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@15.237.223.64:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://dbeace35-cdc9-493b-b492-25caceba040c@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES2&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#[🏁]t.me/ConfigsHub
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&path=%2Fstatue%2F%3F%3Fed&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#[🏁]t.me/ConfigsHub
 vless://8d6d33b5-8d0d-41c3-9f3d-9b5aac43d4c9@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FES1&security=tls&encryption=none&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#[🏁]t.me/ConfigsHub
