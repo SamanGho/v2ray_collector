@@ -1,3 +1,4 @@
+vless://9d29999c-8ce4-467e-8c0a-59ef76109505@ba81b4cdbcca.anondns.net:29001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mensura.cdn-apple.com&fp=chrome&security=reality&pbk=htcthWNaaiAyVoF9U8aN4jS75fQpNxcbis9KyPCs70o&sid=b94c#[🏁]t.me/ConfigsHub
 vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@172.67.203.89:443/?type=ws&encryption=none&flow=&host=backus1.dh03.shop&path=%2Fhigate&security=tls&sni=backus1.dh03.shop#[🇨🇦]t.me/ConfigsHub
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@146.103.33.38:443/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&sni=kejiland.freewarp.eu.org#[🇳🇱]t.me/ConfigsHub
 vmess://eyJhZGQiOiI5MS4xMDcuMjU1LjIzNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4M2YwMTc0OS05MTRlLTRkNTYtOThhYS0yZmM1ZTg1NmI2YzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2NjE5IiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -242,7 +243,6 @@ trojan://telegram-id-directvpn@13.60.135.225:22222?security=tls&type=tcp&sni=tro
 vless://20a91d5e-0005-4b3f-9e2a-1b96934f8a88@pscresearch.faculty.ucdavis.edu:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#[🏁]t.me/ConfigsHub
 vless://cabcaab-acab-acab-dcab-bbabbaaccacc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&path=%2Fhttp#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&spx=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🏁]t.me/ConfigsHub
