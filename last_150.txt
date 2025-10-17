@@ -1,8 +1,3 @@
-vless://0cb2f561-99fc-0dd7-a1a4-367b2a917acd@switzerland.marzxo.biz:8094?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#[🏁]t.me/ConfigsHub
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.186.175.170:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@35.157.108.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?security=&sni=barayeiran.mahiozonboroon.qzz.io&fp=random&type=ws&path=/vpn?ed%3D2560&host=barayeiran.mahiozonboroon.qzz.io&encryption=none#[🇺🇸]t.me/ConfigsHub
-vless://8938eb29-feec-4064-97a9-9a3f7bf8d494@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#[🏁]t.me/ConfigsHub
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?flow=&type=ws&host=&path=/?ed&security=tls&sni=azadnet3-9do.pages.dev&fp=chrome&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
 vless://c8cd491b-28b1-4eb5-afcb-ca3b287a335d@64.226.99.65:443?path=%2Fws&security=tls&encryption=none&host=%2Fchanl--Telegram--feri-v2ray-proxy--Telegram--feri-v2ray-proxy--Telegram--feri-v2ray-proxy--Telegram--feri-v2ray-proxy--Telegram--feri-v2ray-proxy%3Fed%3D2560&fp=chrome&type=ws&sni=zula.ir#[🇩🇪]t.me/ConfigsHub
@@ -248,3 +243,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://a7fc5384-cff7-4e71-af32-93734dac864f@193.24.209.127:52289?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.217.224:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@18.185.99.29:25670?encryption=none&security=none&type=tcp&headerType=none#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@35.181.217.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.181.217.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-privatevpns@35.181.217.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
