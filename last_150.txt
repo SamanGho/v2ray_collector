@@ -1,9 +1,3 @@
-trojan://telegram-id-directvpn@63.176.30.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vless://ba171ac9-1885-4f46-a869-5c78427dd60b@pscresearch.faculty.ucdavis.edu:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#[🇫🇷]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#[🇹🇷]t.me/ConfigsHub
-vless://5edcc3f4-92bc-4aa8-a1c4-4e7982cd8be5@My.bickio.xyz:2072?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://22a4d83c-5bc8-4ab0-ba38-90f55c359fc7@46.30.47.7:30992?encryption=none&security=none&type=tcp&headerType=none#[🇳🇱]t.me/ConfigsHub
-vless://820b6d04-16d6-4821-9fc5-ec31abe874a5@ergwork.web.unc.edu:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#[🇫🇷]t.me/ConfigsHub
 vless://bf9b316d-31ac-42ee-b8a5-8dc795118917@192.210.183.136:36678/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swdist.apple.com&fp=chrome&security=reality&pbk=rrGm0NemTtGQ8Vrd2AzB7pSoW_kYtqYvhRxsx_MtwG0&sid=5d20#[🏁]t.me/ConfigsHub
 vless://88e35bbb-8cd2-c309-a1e9-551fb1c17a7f@cc.lightnright.com:443/?type=ws&encryption=none&flow=&host=jnir-cdn.pichondan.com&path=%2F%40JavidnamanIran%2FJavid-SHAH-King-Reza-Pahlavi%2F&security=tls&sni=jnir-cdn.pichondan.com&alpn=http%2F1.1&fp=firefox#[🏁]t.me/ConfigsHub
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#[🏁]t.me/ConfigsHub
@@ -248,3 +242,9 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.212.14:443?security=tls&sni=
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3.11.84.71:443#[🏁]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.196:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.157.95.142:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+vless://a32fdc84-95ef-4073-b415-3743c35080b0@deu-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.95.142:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@us01-xr03.vpnvezdehod.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.157.95.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.157.95.142:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
