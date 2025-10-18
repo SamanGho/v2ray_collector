@@ -1,3 +1,5 @@
+vless://f7df6c83-e527-4bb2-bae1-ea743edaffcd@141.227.132.199:42817/?type=grpc&encryption=none&flow=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&packetEncoding=xudp#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.237.118.240:443#[🏁]t.me/ConfigsHub
 vless://a9f925ce-6497-4978-b219-ec239fdd9316@91.124.209.114:50061?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=kPwMo14VAfSaMm1CpiM4vkJ1l0hdWwPeGm4K4eN1giQ&sid=79&spx=%2F&type=grpc&authority=&serviceName=mohammad&mode=multi#[🏁]t.me/ConfigsHub
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@46.8.52.182:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#[🏁]t.me/ConfigsHub
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@38.180.27.182:5901?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
@@ -228,8 +230,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&enc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3.11.84.71:443#[🏁]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.196:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.157.95.142:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
-vless://a32fdc84-95ef-4073-b415-3743c35080b0@deu-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#[🏁]t.me/ConfigsHub
-vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@us01-xr03.vpnvezdehod.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.157.95.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://a32fdc84-95ef-4073-b415-3743c35080b0@nld-0001-xr.packet-drop-society.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=48720c&spx=%2F&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?encryption=none&security=none&type=grpc#[🏁]t.me/ConfigsHub
