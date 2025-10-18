@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@63.176.30.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://ba171ac9-1885-4f46-a869-5c78427dd60b@pscresearch.faculty.ucdavis.edu:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#[🇹🇷]t.me/ConfigsHub
 vless://5edcc3f4-92bc-4aa8-a1c4-4e7982cd8be5@My.bickio.xyz:2072?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
@@ -243,7 +244,6 @@ vless://5ff24356-dd76-40a6-ab68-78a2c89eadb3@185.113.10.132:8650?encryption=none
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.97.252:443?security=tls&sni=ay.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@154.211.8.18:443?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.168:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.77:443?security=tls&sni=ly.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.212.14:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3.11.84.71:443#[🏁]t.me/ConfigsHub
