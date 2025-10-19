@@ -1,13 +1,3 @@
-vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4xNi42Ny4zOCIsICJwb3J0IjogIjIwODciLCAiaWQiOiAiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIndvcmtlci1iaXR0ZXItbWF0aC0yYWY4LndheG9oYTM2MjEud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enovbGlua3dzIiwgInRscyI6ICJ0bHMiLCAic25pIjogIndvcmtlci1iaXR0ZXItbWF0aC0yYWY4LndheG9oYTM2MjEud29ya2Vycy5kZXYiLCAidGVzdF9uYW1lIjogIjU0In0=
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6697#[🏁]t.me/ConfigsHub
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?security=tls&encryption=none&type=ws&host=privasi.turah.my.id&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed%3D2048Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&sni=privasi.turah.my.id&fp=chrome#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@139.64.165.144:8882#[🏁]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#[🏁]t.me/ConfigsHub
-trojan://tg-dns68@162.159.153.13:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#[🏁]t.me/ConfigsHub
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.26.12.31:2053?security=tls&type=ws&sni=vfarid.xcdi.wOrkERS.DeV&path=trojan-ws/?ed=2048&host=vfarid.xcdi.wOrkERS.DeV#[🏁]t.me/ConfigsHub
-trojan://auto@104.18.12.229:2053?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#[🏁]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@13.61.60.200:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937520064872286.london-prx-dnraacl.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiNTEuNzcuMjAuMTMyIiwgImFpZCI6IDAsICJob3N0IjogImEuYmFyYWRpaGEuY29tIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
@@ -248,3 +238,13 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860213179.lisbon-prx-dnraa
 vless://e258977b-e413-4718-a3af-02d75492c349@108.162.194.154:2087?path=%2Fproxyip%3Dproxyip.fxxk.dedyn.io%3A443&security=tls&encryption=none&host=xxx.xmma.top&type=ws&sni=xxx.xmma.top#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiJqYW1la2sub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqYW1la2sub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImphbWVray5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI0My4yNDYuMTk4LjEzNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMDQwZjE1OS0zNzdkLTRiNjItYWFmNi05OTQ0NjBkM2VlNGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiMTE2ODMiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=chrome&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#[🏁]t.me/ConfigsHub
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@104.254.140.59:2053?path=%2F&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#⚜️Telegram:@IP_CF
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.92.71:443#[🏁]t.me/ConfigsHub
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?encryption=none&security=tls&sni=vless10-9sc.pages.dev&fp=chrome&type=ws&path=%2F#[🏁]t.me/ConfigsHub
+trojan://bpb-trojan@172.66.44.156:2053?security=tls&type=ws&sni=bPB-worker-PANeL1-e4p.paGes.DeV&path=/trn6lSYIYbgvYGra0u/ZGUucmFkaWNhbGx5LnBybw==#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.37.162.182:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
+trojan://aa81d044-0e0a-5b01-a6d7-3981ed218497@www.speedtest.net:2095?security=none&type=ws&path=/&host=at1.vless.Sitespeedtest.net.#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@139.64.165.230:2376#[🏁]t.me/ConfigsHub
