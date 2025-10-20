@@ -1,3 +1,4 @@
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwNCiAgImFkZCI6ICI1Ny4xMjkuMjQuMTMwIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICItLS0iLA0KICAiaG9zdCI6ICJzZXJrYXQub3JnIiwNCiAgInBhdGgiOiAibGlua3Z3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzZXJrYXQub3JnIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#[🏁]t.me/ConfigsHub
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&fp=chrome&type=ws&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40ShadowProxy66%2F#[🏁]t.me/ConfigsHub
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@91.98.86.54:9954?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
@@ -170,7 +171,6 @@ vless://Parsashonam-299@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Pars
 trojan://telegram-id-directvpn@35.180.53.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.180.53.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
-vless://96a91265-3cb5-49c1-b5ad-842082519b2e@164.92.252.121:443?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.121.208.145:25670?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://82b155ff-789c-4b11-b3ca-a1220e5f531d@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#[🏁]t.me/ConfigsHub
 vless://d13059b8-00d6-4cea-8745-d1b07213bf6e@ITALY.TORPROSPEED.IR:223?security=reality&encryption=none&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=c7f175a94bd79f8d#[🏁]t.me/ConfigsHub
