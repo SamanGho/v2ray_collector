@@ -1,3 +1,4 @@
+vmess://eyAidlvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJhZGQiIDogIjM5LjEwNy4xNTUuMTEiLCAicG9ydCIgOiAiMzAzMDIiLCAiaWQiIDogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiIDogIjAiLCAic2N5IiA6ICJhdXRvIiwgIm5ldCIgOiAicmF3IiwgInR5cGUiIDogIm5vbmUiIH0=
 trojan://telegram-id-directvpn@35.181.217.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.181.217.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://e385932f-423d-49de-a2e0-7ac92339ae92@63.141.128.13:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#[🏁]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://6115d238-cad0-437e-bed6-b62a24b397db@104.18.26.90:80/?path=%2Ftelegram-N
 vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@ardagulerturk.gojustore.site:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&type=grpc&serviceName=7034vless&sni=www.telewebion.com&sid=16b6cda7ab793526#[🏁]t.me/ConfigsHub
 vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:8949?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?encryption=none&security=tls&sni=offged.sahandconfig.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=Smxhabwh&mode=gun#[🏁]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
