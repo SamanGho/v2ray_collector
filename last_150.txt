@@ -1,3 +1,4 @@
+vmess://eyAidlvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJhZGQiIDogIjM5LjEwNy4xNTUuMTEiLCAicG9ydCIgOiAiMzAzMDIiLCAiaWQiIDogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiIDogIjAiLCAic2N5IiA6ICJhdXRvIiwgIm5ldCIgOiAicmF3IiwgInR5cGUiIDogIm5vbmUiIH0=
 trojan://telegram-id-directvpn@35.181.217.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.181.217.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://e385932f-423d-49de-a2e0-7ac92339ae92@63.141.128.13:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#[🏁]t.me/ConfigsHub
@@ -239,7 +240,6 @@ vless://91c5bb3e-cfe5-419d-d0c2-1eab49a15be9@151.101.3.8:80?mode=auto&path=%2F%4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.132:8080#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.53:9101#[🏁]t.me/ConfigsHub
 trojan://58176021-8165-48d5-94b1-ad3e96e71e8b@54.255.183.193:20230?security=tls&host=www.alibaba.com&type=ws&sni=www.alibaba.com#[🏁]t.me/ConfigsHub
-vless://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#[🏁]t.me/ConfigsHub
 vless://ef94b591-d750-4de1-bb1d-dc6703d85485@er1.v-sub.site:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://17088e1c-2ec5-41e9-e948-f711d0a2bbee@91.99.179.41:24199?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
