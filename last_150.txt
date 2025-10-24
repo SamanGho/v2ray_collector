@@ -1,3 +1,4 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.196:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.157.95.142:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.157.95.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://a32fdc84-95ef-4073-b415-3743c35080b0@nld-0001-xr.packet-drop-society.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=48720c&spx=%2F&type=tcp&headerType=none#[🏁]t.me/ConfigsHub
@@ -237,7 +238,6 @@ vless://07ae4d3d-49e1-4a84-8e34-54d72fd38c17@172.67.168.193:443?flow=&type=ws&ho
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#[🏁]t.me/ConfigsHub
 vless://16260cd8-1747-466d-844b-fa90b0fcf7cf@135.125.216.154:443?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🏁]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?mode=gun&security=none&encryption=none&authority=%2Fsinavmv_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&type=grpc#[🏁]t.me/ConfigsHub
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.27.62.243:443?path=%2F%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=harmony-427.pages.dev&fp=firefox&type=ws&sni=harmony-427.pages.dev#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958556051243448.kish-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://7c4d2229-fa3a-4628-8abf-0728f13edac1@68.183.209.194:443?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
