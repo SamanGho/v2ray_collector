@@ -1,3 +1,5 @@
+ss://85f2d475-40e9-47f0-987f-2dcb0d289957@151.101.67.8:80?mode=auto&path=%2F%40%48%71%562%72%61%79%4e%47-----%40%48%71%562%72%61%79%4e%47-----%40%48%71%562%72%61%79%4e%47-----%40%48%71%562%72%61%79%4e%47-----%40%48%71%562%72%61%79%4e%47-----%40%48%71%562%72%61%79%4e%47-----%40%48%71%562%72%61%79%4e%47-----%40%48%71%562%72%61%79%4e%47-----%40%48%71%562%72%61%79%4e%47-----%40%48%71%562%72%61%79%4e%47-----%40%48%71%562%72%61%79%4e%47-----%40%48%71%562%72%61%79%4e%47-----%40%48%71%562%72%61%79%4e%47#[🏁]t.me/ConfigsHub
+vless://e1b59df9-249a-4517-8f6d-6d451c1f447d@31.56.197.8:53490?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.179.194.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?encryption=none&security=tls&type=ws&path=%2Fhfwsxtws%3F*VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY*#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxNTguMjU1LjIxMy4xNjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODQ1NDQ1NjItMDkzYS00ZDUwLWZjY2QtNGJiN2RjYTRmMjliIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
@@ -245,6 +247,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogInNnY2Z0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNGE5ODFiYi1iM2IxLTRjZDMtYTUwMi00NzcyNDYyOTQ1ZDk@112.5.37.117:22013#[🏁]t.me/ConfigsHub
 vless://57c71c19-6eb1-466b-e921-d3120fbbbe1a@91.98.152.204:443?mode=auto&path=%2Fd&security=reality&encryption=none&pbk=EmANttVSrBWJM1i1elurg1V0tdutQC2W_Ms_KiH6vU4&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462896164.neyshabur-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.250.5:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-trojan://telegram-id-directvpn@13.39.250.5:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#[🏁]t.me/ConfigsHub
