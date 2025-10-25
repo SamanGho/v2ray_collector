@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@63.179.194.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?encryption=none&security=tls&type=ws&path=%2Fhfwsxtws%3F*VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY*#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxNTguMjU1LjIxMy4xNjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODQ1NDQ1NjItMDkzYS00ZDUwLWZjY2QtNGJiN2RjYTRmMjliIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://Parsashonam-299@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#[🏁]t.me/ConfigsHub
@@ -64,7 +65,6 @@ vless://0fbf867a-812b-4c0b-89cd-01bcf2e4039a@46.32.186.65:8443?encryption=none&f
 vless://284105c3-1f7c-48b9-a5cc-345b534ade5c@151.101.3.8:80?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 trojan://accbaab-caab-baca-bdac-cacbabacabcb@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#[🏁]t.me/ConfigsHub
-vmess://eyJhZGQiOiAiYi5kZXJtYWdhLmhvbWVzIiwgImFpZCI6IDEsICJob3N0IjogImIuZGVybWFnYS5ob21lcyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiYi5kZXJtYWdhLmhvbWVzIn0=
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.93.10:8091#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?encryption=none&type=grpc&mode=gun&security=none#[🏁]t.me/ConfigsHub
