@@ -1,3 +1,4 @@
+vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?encryption=none&security=tls&type=ws&path=%2Fhfwsxtws%3F*VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY*#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxNTguMjU1LjIxMy4xNjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODQ1NDQ1NjItMDkzYS00ZDUwLWZjY2QtNGJiN2RjYTRmMjliIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://Parsashonam-299@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.180.53.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?encryption=none&s
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?encryption=none&security=tls&type=ws&path=%2Fjzmdpvws%3F*VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY*#[🏁]t.me/ConfigsHub
 vless://e80cf746-17a5-997c-fb20-80ab68287903@finland.marzxo.biz:8084?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#[🏁]t.me/ConfigsHub
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#⚜️Telegram:@IP_CF
