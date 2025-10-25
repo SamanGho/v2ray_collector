@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@35.180.53.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.180.53.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.121.208.145:25670?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
@@ -234,7 +235,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&securit
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogImpwY2Z0MDEueHFjLmJlc3QiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImFiZmMzNzg2LWM5ZWYtNDFjMC1hYWY0LWRmN2Y0MGQzZjVjYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiZDJxd21qOTg1bG93dmcuY2xvdWRmcm9udC5uZXQiLCAidGxzIjogInRscyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogInNnY2Z0MDEueHFjLmJlc3QiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjU5Njc4YjFiLTZmNDEtNGUzYy1iMGQ2LTVhN2M4MTlmMzY2YyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiZDF0NHA2MmVvNDI5ZmkuY2xvdWRmcm9udC5uZXQiLCAidGxzIjogInRscyJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNGE5ODFiYi1iM2IxLTRjZDMtYTUwMi00NzcyNDYyOTQ1ZDk@112.5.37.117:22013#[🏁]t.me/ConfigsHub
-vless://57c71c19-6eb1-466b-e921-d3120fbbbe1a@91.98.152.204:443?mode=auto&path=%2Fd&security=reality&encryption=none&pbk=EmANttVSrBWJM1i1elurg1V0tdutQC2W_Ms_KiH6vU4&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#[🏁]t.me/ConfigsHub
 vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?mode=gun&security=none&encryption=none&authority=%2Fsinavm&type=grpc#[🏁]t.me/ConfigsHub
 vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#[🏁]t.me/ConfigsHub
