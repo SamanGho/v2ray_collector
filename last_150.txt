@@ -1,4 +1,3 @@
-vless://d13059b8-00d6-4cea-8745-d1b07213bf6e@ITALY.TORPROSPEED.IR:223?security=reality&encryption=none&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=c7f175a94bd79f8d#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&mode=gun&security=none#[🏁]t.me/ConfigsHub
 vless://c24fbdbe-06f7-8497-73c6-761ebeda92cb@cdn2.bazicore.ir:443?security=reality&encryption=none&pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=821bbc44dd7a4e15#[🏁]t.me/ConfigsHub
 vless://f5d86f1c-3f4f-4ac9-aa03-64bf34750055@104.24.238.232:2053?path=%2F&security=tls&encryption=none&host=v3.ganglink.sbs&type=ws&sni=v3.ganglink.sbs#[🏁]t.me/ConfigsHub
@@ -248,3 +247,4 @@ vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@72.56.73.240:443?security=reality&e
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&fp=randomized&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fhorn_proxy%3Dzani.yaemiko.ggff.net#[🏁]t.me/ConfigsHub
 vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=%2Fvless%2F%3Fed&security=&encryption=none&type=ws#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.86:8880?security=&encryption=none&type=grpc&sni=---%40AZARBAYKAB1---%40AZARBAYJAB1---%40AZARBAYJAB1---%40AZARBAYJAB1---%40AZARBAYJAB1#[🏁]t.me/ConfigsHub
+vless://7168e209-85df-4602-819e-a41560059b74@104.18.24.9:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&path=%2F&security=tls&encryption=none&type=ws&sni=gur-pedar-khamenei.pages.dev#[🏁]t.me/ConfigsHub
