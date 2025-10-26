@@ -1,4 +1,3 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@wetest.xn--vip-ob6fs36j.cloudflare.182682.xyz:443?path=%2Fsnippets%2Fip%3Dtw.tp81.netlib.re%3A81%3Fed%3D2560&security=tls&encryption=none&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&type=ws&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.172.207:443#[🏁]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.19.239:443?security=tls&sni=pPAL03.YoSif-jahriEL.worKERs.Dev&type=ws&host=ppal03.yoSIF-jAhrieL.WoRkeRS.deV&path=%2FpQJrMakybriRTAd8%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🏁]t.me/ConfigsHub
 trojan://blue2024@172.64.35.194:443?sni=ta.promote.icu#[🏁]t.me/ConfigsHub
@@ -248,3 +247,4 @@ trojan://telegram-id-directvpn@35.181.217.168:22223?security=tls&alpn=http/1.1&h
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#[🏁]t.me/ConfigsHub
 vless://d32f3a3e-8da0-4f1d-e8e6-6ec979a76ec6@65.109.179.171:2096?mode=gun&security=reality&encryption=none&pbk=pI3vV0SIBkPkB9kWaGCxQXzDDR_aiIqWAEnHKI9BUkg&fp=chrome&spx=%2F&type=grpc&sni=zula.ir#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiJwYW5lbDEuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM0YmQ5ZWJhLThhZWEtNGQ1ZS1hMmVlLWI1ZGU2NWFjMTRlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDI2ODQiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=amir-ebr.pages.dev&type=ws&sni=amIR-ebR.pAGeS.Dev#[🏁]t.me/ConfigsHub
