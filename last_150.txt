@@ -1,3 +1,5 @@
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.87.30.26:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🏁]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwiYWRkIjoicHViZy5hYyIsInBvcnQiOjIwNTMsImlkIjoiZGU2YzdhOTAtMWRjNy00M2NmLTgyYTEtZjRiZWQzMTg0YTNmIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwdWJnLmFjIiwicGF0aCI6IlwvcHJvZmlsZVwvdGVsZWdyYW1Ac3Nyc3ViIiwiaG9zdCI6ImNkbi1ub2RlLW9zcy05NC5wYW9mdS5kZSJ9
 vless://25414e23-82a0-4441-e8f3-1792a4a0817b@104.17.147.22:8880?security=none&type=ws&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiJsYW1tYWxhbmQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://%40iSeqaro@127.0.0.1:443?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
@@ -242,8 +244,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogImRpci5z
 vless://98f9fb8e-ac0c-4a54-80ff-dcce095d9fbd@104.16.46.27:80?encryption=none&security=none&type=ws&host=cold-snowflake-4912-ppal03.rarenok889.workers.dev&path=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.51.15.205:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@119.59.127.129:990#[🏁]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.65.170.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.170.75:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://0c07016f-6238-4a17-a414-ab0ecd8a8b5e@npmjs.com:80?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ-JOIN---AZADIV2RAYY-----bia-ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ--AZADIV2RAYY---Bia---AZADIV2RAYY&path=%2F%3Fed%3D2560&security=none&encryption=none&host=soft-wave-5d2a.kyng-ayaan.workers.dev&type=ws#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.65.170.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
