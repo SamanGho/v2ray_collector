@@ -1,3 +1,4 @@
+vless://9e728936-8015-41a1-a0ab-80997c084465@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin%3F%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&security=none&encryption=none&host=Gn8656.io&type=ws#[🏁]t.me/ConfigsHub
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.87.30.26:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#[🏁]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwiYWRkIjoicHViZy5hYyIsInBvcnQiOjIwNTMsImlkIjoiZGU2YzdhOTAtMWRjNy00M2NmLTgyYTEtZjRiZWQzMTg0YTNmIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwdWJnLmFjIiwicGF0aCI6IlwvcHJvZmlsZVwvdGVsZWdyYW1Ac3Nyc3ViIiwiaG9zdCI6ImNkbi1ub2RlLW9zcy05NC5wYW9mdS5kZSJ9
 vless://25414e23-82a0-4441-e8f3-1792a4a0817b@104.17.147.22:8880?security=none&type=ws&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F#[🏁]t.me/ConfigsHub
@@ -180,7 +181,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935255461296821.paris-drc-tusabz
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452867164.helsinki-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🏁]t.me/ConfigsHub
 vless://c0dffbb7-183d-48f3-8e51-1049de0e7406@www.speedtest.net:8443?security=tls&encryption=none&host=de4vipys.sevenploos.com&fp=firefox&type=ws&sni=de4vipys.sevenploos.com#[🏁]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970129452669909.budapest-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903725333.malayer-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://21ba4bfa-2ddf-4634-8ca2-f6e75e8ab12c@axe.soyet2j.ir:2053?path=%2Fhomepage%3Fed%3D2560&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#[🏁]t.me/ConfigsHub
