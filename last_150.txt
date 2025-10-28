@@ -1,7 +1,3 @@
-vmess://eyJ2IjoiMiIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwiYWRkIjoicHViZy5hYyIsInBvcnQiOjIwNTMsImlkIjoiOGIwYTU5MmYtMWZlZS00ZGEwLWFkZDYtZjhlMTA4NjExMTY0IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwdWJnLmFjIiwicGF0aCI6IlwvcHJvZmlsZVwvdGVsZWdyYW1Ac3Nyc3ViIiwiaG9zdCI6ImNkbi1ub2RlLW9zcy05NC5wYW9mdS5kZSJ9
-vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YjoidC5tZVwvZW50cnlORVQifQ==
-trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?sni=jobscareerforstudent.com&allowInsecure=0#[🏁]t.me/ConfigsHub
-vless://2b2dac83-7427-4f64-bd72-a6aa6f018359@104.17.148.22:2086?security=none&type=ws&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.ePicMarKet-HtTp.Ir.#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbnhNZmoyb0wyUmFaVFFWZlZkNUVZ@194.87.45.189:443#[🏁]t.me/ConfigsHub
 vless://f5d86f1c-3f4f-4ac9-aa03-64bf34750055@190.93.245.234:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=v3.ganglink.sbs&fp=random&type=ws&sni=v3.ganglink.sbs#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RzMyYmtqajNjZWhYdDJCOGVpamJW@81.90.31.219:443#[🏁]t.me/ConfigsHub
@@ -248,3 +244,7 @@ vmess://eyJhZGQiOiAiMjcuMTI0LjEwLjE0NiIsICJhaWQiOiA2NCwgImhvc3QiOiAid3d3LjYwNDQz
 ss://bm9uZTphYWNiYmFjLWFjYmEtYmNhYS1jYmRhLWNiYWJjYWNjYmFiYQ==@127.0.0.1:1080#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiAiMTcyLjY0LjE2Ny4yOSIsICJhaWQiOiAwLCAiaG9zdCI6ICJpcDE4LjY5MjkxOTgueHl6IiwgImlkIjogIjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAicG9ydCI6IDIwODIsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJpcDE4LjY5MjkxOTgueHl6In0=
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNiYWFjYmEtYWFjYi1iYWFjLWFiZGMtYWNjYWNhYWJiYmNiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJwcyI6IFvwn4+BXXQubWUvQ29uZmlnc0h1YiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+trojan://telegram-id-directvpn@63.177.195.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@63.177.195.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vmess://eyJ0bHMiOiJub25lIiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJpZCI6IjE2NDhiYzkyLWQyMTAtNGQxNy05MTc0LTcxMDIzMWQ1YjIzZSIsInNjeSI6IiIsImFkZCI6ImtzYWRrXC8yMy5rb3Jvc2guc2hvcCIsIm5ldCI6InRjcCIsInBvcnQiOiIyMDYwIn0=
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.195.85:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
