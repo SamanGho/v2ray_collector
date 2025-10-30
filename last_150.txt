@@ -1,3 +1,4 @@
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?encryption=none&security=tls&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO&alpn=h3%2Ch2&fp=chrome&type=ws&path=%2F%3Fed%3D2048MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN#[🏁]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?encryption=none&security=tls&type=ws&path=%2Fjzmdpvws%3F*VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY*#[🏁]t.me/ConfigsHub
 vless://e80cf746-17a5-997c-fb20-80ab68287903@finland.marzxo.biz:8084?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#[🏁]t.me/ConfigsHub
@@ -243,7 +244,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.244:8880?flow=&type=grpc&m
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=TUEAF-58650.phoenixappdatag.uk&fp=chrome&type=ws&sni=TUEAF-58650.phoenixappdatag.uk#[🇨🇦]t.me/ConfigsHub
 vless://f16ed3c7-c9f9-445f-9fa4-140629a22471@46.101.130.142:443?type=xhttp&encryption=none&path=%2Fw5d6&host=&mode=auto&security=reality&pbk=I8HJ0bo7s3HwSl156VTupoqMytoAVJtPqiovF0uA6Dk&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#[🇩🇪]t.me/ConfigsHub
 vless://96494ca5-6dcf-4d33-b94f-5c3485586095@104.16.1.35:8880?encryption=none&security=none&type=ws&host=hamedan.hiven33959.workers.dev&path=%2F%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#⚜️Telegram:@IP_CF
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=RcLZQ-4925.phoenixappdataf.uk&fp=chrome&type=ws&sni=RcLZQ-4925.phoenixappdataf.uk#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiIzNy4yNy4yNDkuOTMiLCJuZXQiOiJ0Y3AiLCJ2IjoiMiIsImFpZCI6IjAiLCJwb3J0IjoiMzAwMDAiLCJzY3kiOiJhdXRvIiwicHMiOiJb8J+Hq/Cfh65ddC5tZS9Db25maWdzSHViIiwiaWQiOiIzMWFmMThjYS0xMjdhLTRiMDQtOWNmYi1jNDYxNmQ2YWRhNjAiLCJ0eXBlIjoibm9uZSJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.15:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#[🇫🇷]t.me/ConfigsHub
