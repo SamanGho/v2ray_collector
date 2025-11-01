@@ -1,3 +1,6 @@
+trojan://Telegram-DailyConfigs@104.18.2.11:2096?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#[🏁]t.me/ConfigsHub
+trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&type=tcp&sni=addyourhost#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.115:8091#[🏁]t.me/ConfigsHub
 trojan://tg-dns68@162.159.153.17:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[🏁]t.me/ConfigsHub
 trojan://aabcbac-aabc-aabc-bcad-aabbbcaaccbc@127.0.0.1:1080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.37.146.156:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
@@ -228,7 +231,6 @@ vless://74c0af7c-8482-4b4e-b067-ea456a80cdb7@at.monkeyisland.life:443?security=r
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.14.245.117:443?security=reality&encryption=none&pbk=z03e7cOIQ4ltkE04ET9LbiLfMpl6RBgxw5VoNfCfxzU&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=eec31d4b#[🇳🇱]t.me/ConfigsHub
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@62.133.62.31:443?security=reality&encryption=none&pbk=wnjYp5OtElhS6c2OPCvxFtC2RkJix44XysERe7htnSE&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a948a59e#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970953252602111.dublin-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@38.244.156.36:443?security=reality&encryption=none&pbk=QcLolUMiP0LHoLPK6Rmo-8oHP1PENs9BRWF6tcByu2E&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=28ba7940#[🇭🇺]t.me/ConfigsHub
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.84.0.57:443?security=reality&encryption=none&pbk=8_J_8yfLVU1f6cHdGR35rnf_Zc4k9C_XMPCdH1qAtmU&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a29977bd#[🇲🇩]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971880245562150.mashhad-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.26:443?security=tls&sni=ar.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
@@ -244,7 +246,5 @@ vless://c77af948-3e74-435f-b5bf-2469cf60cfff@212.134.84.108:443?security=reality
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls&sni=tw02.trojanyyds.xyz#[🇯🇵]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#[🇬🇧]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.26:8880?encryption=none&security=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.163.204:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
-trojan://telegram-id-directvpn@63.180.163.204:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://8b35d07c-95d4-4997-af01-ca88903a8535@104.24.0.5:2083?security=tls&sni=dl3.diiginet.ir&type=ws&host=dl3.diiginet.ir&fp=chrome&alpn=h2#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&authority=JT&fp=chrome&type=grpc#[🇫🇷]t.me/ConfigsHub
