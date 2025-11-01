@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638955452903725333.malayer-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://21ba4bfa-2ddf-4634-8ca2-f6e75e8ab12c@axe.soyet2j.ir:2053?path=%2Fhomepage%3Fed%3D2560&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.181.217.168:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
@@ -227,7 +228,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.26:8880?encryption=none&security=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://8b35d07c-95d4-4997-af01-ca88903a8535@104.24.0.5:2083?security=tls&sni=dl3.diiginet.ir&type=ws&host=dl3.diiginet.ir&fp=chrome&alpn=h2#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&authority=JT&fp=chrome&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#[🇭🇰]t.me/ConfigsHub
 vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?encryption=none&security=tls&sni=m2-1cm.pages.dev&type=ws&path=%2Fognicwivyrkxih6r#[🇨🇦]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://2367e117-0d3e-4b8c-9fd6-0abceb115933@87.248.129.226:8443?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#[🇦🇪]t.me/ConfigsHub
