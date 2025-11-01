@@ -1,3 +1,4 @@
+trojan://Telegram-DailyConfigs@104.18.2.11:2096?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#[🏁]t.me/ConfigsHub
 trojan://8g6SU2R9lh@152.42.255.71:443?security=tls&type=tcp&sni=addyourhost#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.115:8091#[🏁]t.me/ConfigsHub
 trojan://tg-dns68@162.159.153.17:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[🏁]t.me/ConfigsHub
@@ -245,6 +246,5 @@ vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fi
 vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?encryption=none&security=tls&sni=m2-1cm.pages.dev&type=ws&path=%2Fognicwivyrkxih6r#[🇨🇦]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://2367e117-0d3e-4b8c-9fd6-0abceb115933@87.248.129.226:8443?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#[🇦🇪]t.me/ConfigsHub
-vless://82de262c-cd5e-402f-a709-f6979fc7c93e@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=fragrant-star-ebf2.daheg47484.workers.dev&fp=chrome&type=ws&sni=fragrant-star-ebf2.daheg47484.workers.dev#[🇺🇸]t.me/ConfigsHub
 vless://8fa36937-32b6-4a4f-bd64-74164b67895c@axe.soyet2j.ir:2087?path=%2Findex.html%3Fed%3D2560&security=tls&encryption=none&host=latte.gejeh683bm.ir&type=ws&sni=latte.gejeh683bm.ir.#[🇺🇸]t.me/ConfigsHub
 vless://da7010f4-0ac9-48f4-ac5c-a4a561450036@54.36.114.253:25366?mode=gun&security=none&encryption=none&type=grpc&serviceName=t.me/entryNETEDMODEON-t.me/entryNETEDMODEON-t.me/entryNETEDMODEON-bia-t.me/entryNETEDMODEON-t.me/entryNETEDMODEON-t.me/entryNETEDMODEON-t.me/entryNETEDMODEON-t.me/entryNETEDMODEON-t.me/entryNETEDMODEON-t.me/entryNETEDMODEON-t.me/entryNETEDMODEON-t.me/entryNETEDMODEON-t.me/entryNETEDMODEON-t.me/entryNETEDMODEON#[🇩🇪]t.me/ConfigsHub
