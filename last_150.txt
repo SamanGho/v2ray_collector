@@ -1,5 +1,3 @@
-vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@chat.deepseek.com:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🏁]t.me/ConfigsHub
-vless://aabcbca-acab-acba-dbca-cbcaaacacbbb@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
 vless://8bebc39d-2744-4af4-8ffa-fdfdd442cd97@pq706rio.qdr8-tvg9u8bc98b6m2kk52agfme.portalofleg-ends.fun:2057?security=reality&encryption=none&pbk=mfS1cJVYQV4GyjguwcG3KMxucq6JHWIjbzQ7U0Xaz0k&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=pcmag.com&sid=84248f#[🏁]t.me/ConfigsHub
 vless://e5c2e234-333e-48b4-8199-2793a64527bc@89.110.69.173:443?path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=tls&encryption=none&host=s1-c3r.pages.dev&fp=chrome&type=ws&sni=s1-c3r.pages.dev#[🏁]t.me/ConfigsHub
 vless://8a32d26c-b896-41d4-9b98-588e9f15b61d@www.speedtest.net:443?mode=packet-up&path=%2Fstream%3Fed%3D2560&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27xPaddingBytes%27%3A%20%27100-1000%27%2C%20%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMinPostsIntervalMs%22%3A%2030%7D&host=1free.httpcustom.ir&fp=firefox&type=xhttp&sni=1free.httpcustom.ir#[🏁]t.me/ConfigsHub
@@ -248,3 +246,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&sni
 vless://a49454fa-df93-4eab-95d4-561457da9c5a@151.101.194.133:443?security=tls&sni=busbud.com&type=ws&host=shortcoding.com&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443&fp=firefox&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
 vless://2add1972-dcb0-4df6-a45c-e3b78c3a0ca8@5.160.132.124:4060?security=none&type=tcp&host=varzesh3.com&path=/&headerType=http#[🇮🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.188.22.64:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmpwaGMyUXhNak0wTlRZ@137.175.113.215:8388#[🇨🇳]t.me/ConfigsHub
+vless://73c66888-2167-4b25-956e-cc8cd9b32e61@172.67.217.21:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=worker-crimson-cell-50bc.b137baa116f8.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
