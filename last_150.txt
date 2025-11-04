@@ -1,3 +1,5 @@
+vless://dfb01e06-7538-424b-8e83-b24d9760ef55@nl.crynasty.ru:443?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
+vless://Parsashonam-319@185.146.173.39:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=&encryption=none&host=De.Parsashonam.CFD.&type=httpupgrade#[🏁]t.me/ConfigsHub
 vless://918c2342-1bdc-4b60-a268-07271a5e3283@91.107.148.218:14352?encryption=none&security=none&type=tcp&headerType=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET#[🏁]t.me/ConfigsHub
 vless://Parsashonam-319@91.99.179.233:443?type=xhttp&encryption=none&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&host=&mode=auto&security=reality&pbk=LOi-3brURXBaOe83KFpaKZ5A4exl3J9qjeZIIWa8GCQ&fp=chrome&sni=google.com&sid=0a8b4a1ad485&spx=%2F#[🏁]t.me/ConfigsHub
 vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?type=ws&security=tls&path=/cnqazsws#[🏁]t.me/ConfigsHub
@@ -245,6 +247,4 @@ ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=&security=tls&al
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#[🇸🇮]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@78.129.253.9:808#[🇬🇧]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.235:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.126.249:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
-trojan://telegram-id-directvpn@63.180.126.249:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://358edbda-53c3-4fb5-a68d-2faecf95f1bd@209.38.97.113:2096?mode=multi&security=none&encryption=none&authority=%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2&type=grpc#[🇳🇱]t.me/ConfigsHub
