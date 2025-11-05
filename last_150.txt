@@ -1,3 +1,5 @@
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.17.148.22:80?type=ws&host=www.speedtest.net.nl1.70.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&path=/Telegram-V2raNG_DA2?ed%3D512#[🇺🇸]t.me/ConfigsHub
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.219.160:443?security=tls&sni=lv.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096?security=tls&encryption=none&type=ws&sni=vless.muzheng.top#[🇭🇰]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPQ01TT2RNZ0I1M01JWUloaVF6ejFu@89.185.84.185:443#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWjNwSEZVQlh0S0toYVNyTDl6TENz@81.19.141.45:443#[🇩🇪]t.me/ConfigsHub
@@ -33,7 +35,6 @@ vless://dea991b4-696f-4e9e-9761-1e1b31bb02de@172.64.146.66:443?path=%2Fsnippets&
 vless://72982133-27fb-46fc-9061-61113e77e201@188.114.99.93:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=jack.jack-cq.click&fp=chrome&type=ws&sni=jack.jack-cq.click#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970192452850318.helsinki-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852260413.esfahan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971077544306747.oslo-blkaft-aaav.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&path=%2F&security=tls&encryption=none&type=ws&sni=DdLxDxZc3.VeLiNtO.OrG#[🇨🇾]t.me/ConfigsHub
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=TUEAF-58650.phoenixappdatag.uk&fp=chrome&type=ws&sni=TUEAF-58650.phoenixappdatag.uk#[🇨🇦]t.me/ConfigsHub
@@ -247,4 +248,3 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.91.102.30:8882#[🇺🇸]t.me/Confi
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11040#[🇨🇳]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@45.66.134.176:811#[🇬🇧]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@198.57.27.218:5004#[🇨🇦]t.me/ConfigsHub
-vmess://eyJhZGQiOiJjcGFuZWwubmF2YXIxLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIvdGVsZWdyYW0gY2FmZV92cG4yL3RlbGVncmFtIGNhZmVfdnBuMi90ZWxlZ3JhbSBjYWZlX3ZwbjIvdGVsZWdyYW0gY2FmZV92cG4yL3RlbGVncmFtIGNhZmVfdnBuMiIsImlkIjoiMjY0MDJiYzctNzg5NS00ZGQwLWFlNmUtMTUxYTAwYzcxMTQ1IiwibmV0IjoidGNwIiwicGF0aCI6Ii90ZWxlZ3JhbSBjYWZlX3ZwbjIvdGVsZWdyYW0gY2FmZV92cG4yL3RlbGVncmFtIGNhZmVfdnBuMi90ZWxlZ3JhbSBjYWZlX3ZwbjIvdGVsZWdyYW0gY2FmZV92cG4yIiwicG9ydCI6IjEwMCIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
