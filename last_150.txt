@@ -1,4 +1,3 @@
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#[🇺🇸]t.me/ConfigsHub
 vless://053eaa67-99d9-4b1d-b5ef-32c485566cfb@www.speedtest.net:443?security=tls&type=xhttp&headerType=&path=%2F&host=nb-de-7.77777788.xyz&mode=stream-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=77777788.xyz&fp=chrome&alpn=h2&fragment=1-10%2C0-1%2Ctlshello&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://61c3f0da-caff-47c9-91f5-60a131502fd9@gozarfreebot.niniweblog.org:2087?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=0H5WR9mnrd60mwjvw66EEeH5Ay1mx7OEkm59nWF46VI&sid=591e2a3f25c6ed9c&spx=%2F#[🇳🇱]t.me/ConfigsHub
 vless://60c245ce-18c0-429b-9653-1bb5efe105c1@87.248.133.220:23079?security=none&type=splithttp&path=%2F#[🇮🇷]t.me/ConfigsHub
@@ -248,3 +247,4 @@ vless://914dd55d-5d61-4702-8b80-360b7590dc64@151.101.3.8:80?path=/-LiV2ry@LIGHTN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@147.78.1.230:990#[🇲🇽]t.me/ConfigsHub
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?encryption=none&security=tls&sni=rc8.freeguard.org&type=raw&headertype=none#[🇺🇸]t.me/ConfigsHub
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?type=tcp&encryption=none#⚜️Telegram:@IP_CF
+vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&encryption=none#⚜️Telegram:@IP_CF
