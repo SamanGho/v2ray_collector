@@ -1,3 +1,4 @@
+vless://4a558a86-6f4a-4776-a4c5-55e510662095@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.TzZLiMitT.CoM#[🇨🇦]t.me/ConfigsHub
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.17.148.22:80?type=ws&host=www.speedtest.net.nl1.70.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&path=/Telegram-V2raNG_DA2?ed%3D512#[🇺🇸]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.219.160:443?security=tls&sni=lv.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096?security=tls&encryption=none&type=ws&sni=vless.muzheng.top#[🇭🇰]t.me/ConfigsHub
@@ -245,6 +246,5 @@ vless://cb84528f-f033-40bc-9723-2f0ae3e98c0b@am8.amin-1.ir:2082?type=xhttp&encry
 vless://2b29e929-2dc2-4a09-b84b-6c707f15ef5e@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206NjNkN2MxNzUwNmQxZjQ4Yg@203.32.26.157:10912?note=--Telegram--@NetifyVPN--#[🇰🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.76:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://2c165738-3a35-4549-ab59-eb37f7250ded@5.75.194.74:8443?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiI0Ny4yNDMuMjUxLjI0MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZWQ2NTRhMy05N2JiLTRiYTYtYTZjMy1mYWVhNDZiZWZjNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODg0MiIsInBzIjoiW/Cfh63wn4ewXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 trojan://telegram-id-directvpn@63.180.37.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
