@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.69:8880?encryption=none&security=none&type=grpc&authority=%2F%3FBIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&mode=gun#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#[🇮🇸]t.me/ConfigsHub
 vless://3528af1b-878e-407a-b2c0-38643dbb791e@159.65.123.29:443?mode=auto&path=%2Fawd&security=reality&encryption=none&pbk=60vwoYMS62_-PzJunEfDMUNv4zt580Z7L8fCCRcCm0c&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#[🇩🇪]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80?flow=&type=grpc&mode=gun&serviceName=&security=none#[🇺🇸]t.me/ConfigsHub
@@ -149,7 +150,6 @@ vless://4d38178a-468f-4138-83e4-fe75a08e0645@188.245.114.237:1001?security=reali
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.230.128.10:993?security=reality&encryption=none&pbk=uiNUZVDwZTHc3jYpobpZgTzN_2V8Vt8zSVXqANXKUUE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇸🇪]t.me/ConfigsHub
 vless://TELEGRAM-CONFiGLiNE-14@test.fast.hosting-ip.com:80?security=none&encryption=none&headerType=none&type=tcp#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970060570328775.rome-blkaft-aaay.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇫🇷]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.12:8880?encryption=none&security=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://b0729be7-65bc-40a3-9133-f819b80e23f1@81.177.214.179:47311?security=reality&encryption=none&pbk=DchSkBitz58ADRIkJvJj8SJHEtKkIU2NtUFp252RkDc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=a48f757671845135#[🇫🇮]t.me/ConfigsHub
 vless://c824f230-4266-4f91-8231-15973cd28893@151.101.2.165:80?security=none&type=ws&host=Abdarchiejahanam.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.119:443?security=tls&sni=co.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
