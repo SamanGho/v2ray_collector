@@ -1,6 +1,3 @@
-vless://fcec2ee6-c96b-4873-95ba-eced3a2e12c5@168.119.158.122:443?path=/linkws?ed&security=&encryption=none&host=168.119.158.122&type=wsÂ¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇩🇪]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934039606291265.athens-drc-tusacae.info:8880?security=&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?encryption=none&security=tls&sni=azadnet-dbi.pages.dev&fp=random&type=ws&host=azadnet-dbi.pages.dev&path=%2F%3Fed#[🇺🇸]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.24:443?security=tls&sni=cv.ylks.xyz&type=ws&path=%2Fblue#[🇦🇹]t.me/ConfigsHub
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@154.3.37.101:44369?security=tls&sni=edgetunnel.xiaomayi.nyc.mn&type=ws&host=edgetunnel.xiaomayi.nyc.mn&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2048#[🇭🇰]t.me/ConfigsHub
 trojan://bpb-trojan@104.21.7.50:443?allowInsecure=0&sni=403b3611-99bc-43B7-88d7-26ED5d0825A9-3.PagEs.deV&ws=1&wspath=%2FtreXr2VnQe0fT2hPwW%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
@@ -248,3 +245,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.211:8880?mode=gun&security=no
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.119:8880?mode=gun&security=none&encryption=none&type=grpc¬e=@freeOnlineVPN#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.119:8880?mode=gun&security=none&encryption=none&type=grpc¬e=@freeOnlineVPN#[🇫🇷]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.168:8880?mode=gun&security=none&encryption=none&type=grpc¬e=@freeOnlineVPN#[🇫🇮]t.me/ConfigsHub
+vless://eda70929-9846-48d3-abd6-f73ab1cf0dd0@31.57.157.7:29125?security=reality&encryption=none&pbk=fKahzzQNkfnQHUfPMT_WDGMISzYC2FC7E7bL24WK2Aw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=8b#[🇱🇻]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@217.197.161.138:802#[🇸🇬]t.me/ConfigsHub
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&alpn=h2&fp=chrome&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1%23%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#[🇨🇦]t.me/ConfigsHub
