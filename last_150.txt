@@ -1,3 +1,4 @@
+vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2F&security=tls&encryption=none&host=paS-kaLE-AGhA.pageS.deV&fp=chrome&type=ws&sni=paS-kaLE-AGhA.pageS.deV#[🇨🇦]t.me/ConfigsHub
 vless://9ea5a2f5-3a56-4282-919c-4dfee486372e@104.19.150.163:8443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=vless.keepfuck.me#[🇺🇸]t.me/ConfigsHub
 vless://664cb874-5182-4ebb-b3b4-5f430f0152dd@5.75.198.232:443?path=%2Fmqstknocyk&security=tls&encryption=none&host=free-pubg-697.pages.dev&type=ws&sni=free-pubg-697.pages.dev#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphWUV6RVd5cXVIb2I0eTgtWnpKNmF3@170.168.61.141:1080#[🇬🇧]t.me/ConfigsHub
@@ -223,7 +224,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.225:8880/?type=grpc&encr
 vless://02efda19-4437-4d67-ad4f-3ca613dd80b1@kifpool.me:443?encryption=none&security=tls&sni=mdrN.paGes.Dev&fp=chrome&type=ws&host=mdrN.paGes.Dev&path=%2FkuF4zJYa4FBeudGb%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08%3D@57.129.140.88:8388#[🇬🇧]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.92:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.165:8880?mode=gun&security=none&encryption=none&authority=%2F%3F&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.176:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://af4ef9f5-e579-0be8-035d-3dbc8305cc17@czech.marzxo.biz:8094?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#[🇨🇿]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxNjguMTE5Ljk2LjE0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhMmI3MWY0Yy1iODExLTQ4ZTMtYjNkOC00YzVkYTc2NzVjYzIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODAiLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
