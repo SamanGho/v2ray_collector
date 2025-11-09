@@ -1,6 +1,3 @@
-vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://c77af948-3e74-435f-b5bf-2469cf60cfff@212.134.84.108:443?security=reality&encryption=none&pbk=b-eNFWwd6a1LTKon3gGfRugiGC2CpIRdjn8Y557QWSY&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--%40JKVPN&type=tcp&sni=pcmag.com&sid=fd#[🇬🇧]t.me/ConfigsHub
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls&sni=tw02.trojanyyds.xyz#[🇯🇵]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#[🇬🇧]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.26:8880?encryption=none&security=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://8b35d07c-95d4-4997-af01-ca88903a8535@104.24.0.5:2083?security=tls&sni=dl3.diiginet.ir&type=ws&host=dl3.diiginet.ir&fp=chrome&alpn=h2#[🇺🇸]t.me/ConfigsHub
@@ -248,3 +245,6 @@ trojan://telegram-id-directvpn@3.124.61.82:22223?security=tls&alpn=http/1.1&head
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5SnE3WnlFWktha0k3MUdVODI5TEdk@92.118.112.101:9483?note=--Telegram--@NetifyVPN--#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5SnE3WnlFWktha0k3MUdVODI5TEdk@92.118.112.101:9483?note=--Telegram--NetifyVPN--#[🇺🇸]t.me/ConfigsHub
 vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇩🇪]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
+vless://5b5f72ba-b217-469d-a805-9a34021911eb@pl.nnvpn.io:443?security=reality&encryption=none&pbk=GzBxNfzlhGMOR8qYpXMAHJBNL03fcbEPVN2MXc6iC2g&host=V2xay&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f3a8ef9e63946aaa#[🇺🇦]t.me/ConfigsHub
+vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.18.58.254:80?encryption=none&security=none&type=ws&host=barayeiranmahsang.bahareh.dpdns.org&path=%2Fjokerrvpntelegram----@jokerrvpn----@jokerrvpn----@jokerrvpn----@jokerrvpn----@jokerrvpn----@jokerrvpn----@jokerrvpn----@jokerrvpn----@jokerrvpn----@jokerrvpn----@jokerrvpn%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
