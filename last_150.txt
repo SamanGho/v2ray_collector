@@ -1,3 +1,4 @@
+vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://c77af948-3e74-435f-b5bf-2469cf60cfff@212.134.84.108:443?security=reality&encryption=none&pbk=b-eNFWwd6a1LTKon3gGfRugiGC2CpIRdjn8Y557QWSY&headerType=none&fp=firefox&spx=%2FTELEGRAM--CHANEL--JKVPN--%40JKVPN&type=tcp&sni=pcmag.com&sid=fd#[🇬🇧]t.me/ConfigsHub
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls&sni=tw02.trojanyyds.xyz#[🇯🇵]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?encryption=none&security=none&type=grpc#[🇬🇧]t.me/ConfigsHub
@@ -242,7 +243,6 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.68.134.9:8008#[🇺🇸]t.me/Configs
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.69:5500#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@69.50.92.55:8000#[🇺🇸]t.me/ConfigsHub
-vless://2be75101-78cd-4519-9f2c-de286d0815eb@89.106.69.224:19129?security=none&encryption=none&host=n---_T------------T&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.124.61.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.124.61.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5SnE3WnlFWktha0k3MUdVODI5TEdk@92.118.112.101:9483?note=--Telegram--@NetifyVPN--#[🇺🇸]t.me/ConfigsHub
