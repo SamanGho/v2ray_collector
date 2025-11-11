@@ -1,3 +1,5 @@
+vless://62ed223c-61fb-49c0-ad49-50b236aea055@91.98.233.176:10138?security=&encryption=none&type=grpc&serviceName=%2F%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-JOIN-%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-JOIN-%40FAST78_CHANNEL-TEL-%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-JOIN-%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL#[🇩🇪]t.me/ConfigsHub
+vless://ad8a856a-bb63-4433-ab54-40e1efa5d7ed@185.143.234.46:443?security=tls&type=ws&headerType=&path=%2F&host=marz-vip.nikatel.store&sni=marz-vip.nikatel.store&fp=#[🇮🇷]t.me/ConfigsHub
 vless://8de46d32-845e-4f4b-85ce-0ad88a3678ae@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=none&encryption=none&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.store.&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://ff84dbed-bbfb-42d8-b397-b0ec025fb570@nodegcf.azurka.org:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2Fws&security=tls&encryption=none&fp=chrome&type=ws&sni=nodegcf.azurka.org#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiI2Ny4yMDUuMTMyLjIzNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmMzczMjhkNi1lNWEwLTNhZWQtYTgyNS1kZGJhZDE4OTZmN2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwODYiLCJwcyI6Ilvwn4e68J+HuF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
@@ -246,5 +248,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#[🇸🇮]t.me/
 ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@217.30.10.70:9008#[🇵🇱]t.me/ConfigsHub
 trojan://Aimer@104.26.15.138:2053?security=t...&type=tcp#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#[🇵🇱]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.28.235:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
-trojan://telegram-id-directvpn@18.199.28.235:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
