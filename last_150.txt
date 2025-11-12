@@ -1,3 +1,5 @@
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@mvps.net:443?encryption=none&security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#[🇨🇦]t.me/ConfigsHub
+vless://4c266060-28aa-4fd4-8286-86127e16b260@172.234.192.79:2321/?type=tcp&encryption=none&flow=#[🇺🇸]t.me/ConfigsHub
 vless://4d38178a-468f-4138-83e4-fe75a08e0645@188.245.114.237:1001?security=reality&sni=The-Ashegh.org&type=tcp&fp=firefox&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik#[🇩🇪]t.me/ConfigsHub
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.230.128.10:993?security=reality&encryption=none&pbk=uiNUZVDwZTHc3jYpobpZgTzN_2V8Vt8zSVXqANXKUUE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇸🇪]t.me/ConfigsHub
 vless://TELEGRAM-CONFiGLiNE-14@test.fast.hosting-ip.com:80?security=none&encryption=none&headerType=none&type=tcp#[🇨🇦]t.me/ConfigsHub
@@ -246,5 +248,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.237.60:443?security=tls&sni
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@160.79.105.4:443?security=tls&sni=ag.ylks.xyz&type=ws&path=%2Fbluehttps%3A%2F%2Fvless.fxxk.dedyn.io%2Fsub%3Fhost#[🇺🇸]t.me/ConfigsHub
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.241:443?security=tls&sni=aj.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@176.34.117.143:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.117.35:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
-trojan://telegram-id-directvpn@3.69.117.35:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
