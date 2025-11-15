@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.69:5500#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@69.50.92.55:8000#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.124.61.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
@@ -86,7 +87,6 @@ trojan://telegram-id-directvpn@63.178.117.249:22223?security=tls&alpn=http/1.1&h
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiJb8J+Hr/Cfh7VddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 trojan://telegram-id-privatevpns@63.178.117.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://b753fa60-9b8e-41b0-bf3d-7d800df4a070@server1.mrlizard.my:443?encryption=none&security=tls&sni=zoom.us&type=raw&headertype=none#[🇸🇬]t.me/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v4.hiddendom.shop#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 trojan://bpb-trojan@172.67.180.238:443?security=tls&sni=403b3611-99BC-43B7-88d7-26eD5D0825A9-3.PAges.DEV&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2Ftrep2km0aVhJcl29WO%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.0:443?security=tls&sni=dc.ylks.xyz&type=ws&path=%2F%3Fproxyip#[🇺🇸]t.me/ConfigsHub
