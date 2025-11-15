@@ -1,5 +1,3 @@
-trojan://auto@162.159.136.232:8443?allowInsecure=0&sni=e9464f45.trauma-2r4.pages.dev#[🇨🇦]t.me/ConfigsHub
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.142.178.38:443#[🇸🇬]t.me/ConfigsHub
 vless://7f5a93c8-29ac-4c74-bf96-ffb26d7687de@180.149.44.235:33727?security=&encryption=none&headerType=http&type=tcp#[🇦🇿]t.me/ConfigsHub
 vless://fdedb768-b4ad-4984-b2a1-3c69c7b9a24a@sub2.dlshop39.shop:4220?path=%2Fadmin%3Fed%3D1024&security=&encryption=none&host=language-plh.dlshop39.shop.&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://7f5a93c8-29ac-4c74-bf96-ffb26d7687de@46.246.96.224:33727?security=&encryption=none&headerType=http&type=tcp#[🇸🇪]t.me/ConfigsHub
@@ -248,3 +246,5 @@ trojan://kxuBkBG8GK@95.216.8.162:110?security=tls&headerType=none&type=tcp&sni=f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3.9.53.76:443#[🇬🇧]t.me/ConfigsHub
 vless://104407b9-90fa-4e50-be75-f34e7dad5c95@its.sportfast0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=its.sportfast0.ir#⚜️Telegram:@IP_CF
 trojan://0044022d-f703-4b2b-aff3-345d6eafd5fa@77.91.74.150:8443?path=/Free-VPN-CF-Geo-Project/77.91.74.150=8443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#⚜️Telegram:@IP_CF
+vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=%2Fharman&security=tls&encryption=none&fp=chrome&type=ws&sni=pqjeb.noah-shabane.com#[🇨🇦]t.me/ConfigsHub
+vless://osVPN_8101895@146.103.111.134:443?security=reality&encryption=none&pbk=q1jLz-_1N8sdWCtAv1ev1Y1jjBM3Psx2KikzPF4XnyU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ffffffffff#[🇳🇱]t.me/ConfigsHub
