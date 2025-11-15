@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.69:5500#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@69.50.92.55:8000#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.124.61.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=Join---i10VPN
 vless://7a5a596b-fc7c-40d6-b8cb-fc6b850ad7ef@194.182.79.236:24558?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#[🇨🇿]t.me/ConfigsHub
 vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.137.244:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@usa.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=c2a0b2d60a7fc300#[🇺🇸]t.me/ConfigsHub
-vless://b6cbb142-54a5-483d-a673-c45030af1075@70.34.207.109:21064?type=tcp&encryption=none&security=none#[🇸🇪]t.me/ConfigsHub
