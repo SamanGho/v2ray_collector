@@ -1,3 +1,4 @@
+vless://49d74535-837e-4132-90c7-4e06de7db303@beast-masters.fonixapp.org:49406?security=reality&encryption=none&pbk=UsAOmf7X1yYkjF73ChFECcZb2PFNuhqqvOUxcybV-20&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=a7#[🇩🇪]t.me/ConfigsHub
 vless://140ae345-e7b8-49f5-8920-85f82085344e@tidehunter.fonixapp.org:40745?security=reality&encryption=none&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=3b#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZkFpeXJkRmJLSnVLSVFrR2p2SnJERmVmbUg4WURTQw%3D%3D@45.83.131.43:443#[🇸🇮]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ%3D%3D@45.144.31.24:443#[🇷🇺]t.me/ConfigsHub
@@ -239,7 +240,6 @@ trojan://kxuBkBG8GK@95.216.8.162:110?security=tls&headerType=none&type=tcp&sni=f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3.9.53.76:443#[🇬🇧]t.me/ConfigsHub
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=%2Fharman&security=tls&encryption=none&fp=chrome&type=ws&sni=pqjeb.noah-shabane.com#[🇨🇦]t.me/ConfigsHub
 vless://osVPN_8101895@146.103.111.134:443?security=reality&encryption=none&pbk=q1jLz-_1N8sdWCtAv1ev1Y1jjBM3Psx2KikzPF4XnyU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ffffffffff#[🇳🇱]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwM3VMdjd2blNhZEkwR004Q0g5T2xo@194.87.216.218:52571#[🇳🇱]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.180.120.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.137.42:8881#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.180.120.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
