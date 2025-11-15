@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@3.124.61.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.124.61.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5SnE3WnlFWktha0k3MUdVODI5TEdk@92.118.112.101:9483?note=--Telegram--@NetifyVPN--#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5SnE3WnlFWktha0k3MUdVODI5TEdk@92.118.112.101:9483?note=--Telegram--NetifyVPN--#[🇺🇸]t.me/ConfigsHub
@@ -214,7 +215,6 @@ vless://0836463b-214f-4af6-aa85-85a56a62388e@104.21.48.1:443?encryption=none&sec
 vless://3d2773b3-171d-47c5-c6fa-96540edfd6ba@deadseectelegram.slimshopboyss.ir:8080?mode=auto&path=%2F%3Fed%3DTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ODQ4ODExNC00NWFlLTQ1NzctODc2NC03ODI2YWI2MjFlZTE=@46.232.123.24:50242#[🇭🇰]t.me/ConfigsHub
 vless://2a2d95c5-56f0-455b-a80a-4b920842d886@51.195.92.49:80?path=%2F%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=lunavow5d444ef.global.ssl.fastly.net&type=ws#[🇩🇪]t.me/ConfigsHub
-vless://93cd7e0f-8a81-4076-be8b-6d3bf3f8f810@152.53.84.101:20579?security=reality&encryption=none&pbk=mT6lh-gtbEuWk3Zk6XGF_hYvpLwxTyvwtH7F-_fRbxI&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=89f1da93#[🇩🇪]t.me/ConfigsHub
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?encryption=none&security=tls&sni=statue.lnmarketplace.net&alpn=h2&type=xhttp&host=statue.lnmarketplace.net&path=%2Fstatue%2F%3F@marambashi_marambashi_marambashi_marambashi%3Fed%3D2048&mode=stream-one#[🇩🇪]t.me/ConfigsHub
 trojan://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&fp=randomized&type=ws&sni=dc1bf227.vf-8co.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.159.190:2052?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
