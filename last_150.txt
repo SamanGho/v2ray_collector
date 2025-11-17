@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@63.178.130.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.178.130.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇬🇧]t.me/ConfigsHub
 vless://5141c571-0bfd-447d-a2e2-0f4aab7e7563@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v28.TzZLiMitT.CoM#[🇨🇦]t.me/ConfigsHub
@@ -247,4 +248,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVdkR6ZzltNjd6Rk1RUm1NU05RcXhC@62.133.63.21:6
 vless://72615705-3061-4f03-9389-01369d9c67a4@154.58.204.51:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#[🇪🇸]t.me/ConfigsHub
 vless://abc36e38-0813-486a-a61f-89d85f8eb3f0@91.107.248.175:8770?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2Fwe&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://9f8e11f5-5866-4f1e-a495-929a9d2b54e1@er2.v-sub.site:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://58ceae57-1ea5-4056-869d-cc10255a5e90@57.129.46.113:2087?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=vvv.floorshoping22.com#[🇩🇪]t.me/ConfigsHub
