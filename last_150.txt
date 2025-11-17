@@ -1,5 +1,3 @@
-vless://26d7f2c4-ba48-11f0-b7eb-23203725ad6a@82.118.18.101:10004?encryption=none&security=none&type=ws&path=%2Fvpnjantit%3Fed%3D2048Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12--Arshiavpn12#[🇺🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptaXhxUjlhWmt0MmVBWmpQa2xnTzVD@78.129.140.11:443#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeFdoZnBkelBwaXVORURaSkZrZ3hN@81.19.141.45:443#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcTU0bzZrWU9nNGg5bFhqZHZkV2Nw@81.19.141.45:443#[🇩🇪]t.me/ConfigsHub
 vless://79fe6a2c-f35a-4788-b25e-295f0df57148@194.182.79.236:24553?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#[🇨🇿]t.me/ConfigsHub
@@ -248,3 +246,5 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:443?encryption=none&s
 vless://ede24d97-5560-4901-8a52-2fb19a64e787@live.wkrq.com:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNjYuMjUzLjcuMTc4IiwicG9ydCI6MjA1MjEsImlkIjoiZDI0YzQ5OWItM2IyNS00NDFlLTljNmUtYjEyNDIxYTkxMDQxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjM1Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwibmFtZSI6Ij4+QHYybm9kZXM6OlhYIn0=
 vless://04db6938-72dc-42b4-a096-cc6a5e8316d2@shadowshaman.fonixapp.org:26861?security=reality&encryption=none&pbk=IIdE2p3vqHDjHfLrvJXkrLoYpYMJH0R1tacCkHiDtAA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=groww.in&sid=ecc1c4#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RXhrU1dlY2lSMmM5cHJGcHdKNGpY@89.185.84.185:443#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKQzFCREVYT2RZbmM3N2NIMGl1UUFP@81.90.31.219:443#[🇷🇺]t.me/ConfigsHub
