@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#[🇲🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#[🇳🇱]t.me/ConfigsHub
 trojan://D3OJA7xY5U@209.200.246.53:10785?security=reality&sni=cloudflare.com&fp=chrome&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&sid=20b09680&type=grpc#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#[🇵🇹]t.me/ConfigsHub
@@ -245,6 +246,5 @@ vless://61545806-60b6-4b38-9d2f-884081a5a913@46.246.96.224:33727?security=none&e
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?encryption=none&security=tls&sni=vl.hongkong6.qzz.io&fp=chrome&type=ws&host=vl.hongkong6.qzz.io&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=holo.mrconfigur.site&type=ws&sni=holo.mrconfigur.site#[🇨🇦]t.me/ConfigsHub
 vless://7efc312b-f476-4d50-9bb5-40e08f68016d@157.230.22.130:49255?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
-vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@198.41.223.140:443?path=%2F%3Fed%3D2048Join&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=chrome&type=ws&sni=snippets.nneko.netlib.re#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxNjYuODguMTk0LjY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY0NGY4NzFmLTRiMzMtNDVjOC1kN2M1LWMyNzhmZmM0Y2E3MSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDg4MzUiLCJwcyI6Ilvwn4ey8J+Hvl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 trojan://b951058a-ff0e-4de2-927e-8282fd24455f@185.195.69.19:443?path=%2FFree-VPN-CF-Geo-Project%2F185.195.69.19%3D443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#[🇨🇭]t.me/ConfigsHub
