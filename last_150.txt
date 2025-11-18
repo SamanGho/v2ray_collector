@@ -1,4 +1,3 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@160.79.105.4:443?security=tls&sni=ag.ylks.xyz&type=ws&path=%2Fbluehttps%3A%2F%2Fvless.fxxk.dedyn.io%2Fsub%3Fhost#[🇺🇸]t.me/ConfigsHub
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.241:443?security=tls&sni=aj.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@176.34.117.143:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
 vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@xhttp-gr.hardwarenew.ir:80?path=%2Fnews&security=&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
@@ -248,3 +247,4 @@ vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality
 vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.169.122:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 vless://63817242-1c6b-4c8a-a9ed-acbc996755d9@141.101.113.76:443?security=tls&sni=MtnIrancellNamavaAparatir.kooH75.Ir&type=ws&host=MtnIrancellNamavaAparatir.kooH75.Ir&path=%2FTelegram%3A%40metavpnn&fp=firefox&alpn=h2,http/1.1#[🇺🇸]t.me/ConfigsHub
 vless://e1ef8cd4-25a7-4d3d-b7b5-7c329b381543@Abmive.abmivenaser-18.ir:1520?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://TELEGRAM-CONFiGLiNE-46@151.101.67.8:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=loaiji.global.ssl.fastly.net&type=xhttp#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE%284%29
