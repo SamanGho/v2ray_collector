@@ -1,3 +1,5 @@
+vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?encryption=none&security=tls&sni=vkvideo.cs7777.vk.ru&fp=chrome&allowInsecure=1&type=ws&path=%2F#[🇷🇺]t.me/ConfigsHub
+vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?encryption=none&security=tls&sni=02.img.avito.st&fp=chrome&allowInsecure=1&type=ws&path=%2F#[🇷🇺]t.me/ConfigsHub
 vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?encryption=none&security=tls&sni=21.img.avito.st&fp=chrome&allowInsecure=1&type=ws&path=%2F#[🇷🇺]t.me/ConfigsHub
 vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?encryption=none&security=tls&sni=api.max.ru&fp=chrome&allowInsecure=1&type=ws&path=%2F#[🇷🇺]t.me/ConfigsHub
 vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?encryption=none&security=tls&sni=tidaltrek.mail.ru&fp=chrome&allowInsecure=1&type=ws&path=%2F#[🇷🇺]t.me/ConfigsHub
@@ -242,8 +244,6 @@ vmess://eyJhZGQiOiI5MS4xMzQuOC45MiIsImFpZCI6IjAiLCJob3N0IjoieWljaHVlbmcub3JnIiwi
 vmess://eyJhZGQiOiI5MS45OS4xNjcuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjExZThmNDg0LThjY2ItNDgxOS04OWU0LTg4ZWMzZDJkNmI5ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODg4MCIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://f361c445-281f-4ffe-e834-a9eb53282ff2@138.68.75.228:443?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.110.117:8880?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.114.162:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-trojan://telegram-id-directvpn@35.181.114.162:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@35.181.114.162:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.156:8880?mode=gun&security=none&encryption=none&type=grpc#[🇪🇸]t.me/ConfigsHub
 vless://6c0732a0-593a-4a84-91cc-439bdc808529@sv2.tsteamu1.top:40002?mode=auto&security=reality&encryption=none&pbk=0pgQetxCBR2ueOXv3LEh25yHGYDda6dBGvShz8JTknk&fp=chrome&spx=/&type=xhttp&sni=cafebazaar.ir&sid=4fe6a82ff811fa13Â¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[🇩🇪]t.me/ConfigsHub
