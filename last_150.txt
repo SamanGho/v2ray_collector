@@ -1,3 +1,4 @@
+vless://c495405a-41d7-429e-b999-94136197b211@104.21.7.162:2053?encryption=none&security=tls&sni=dashboard.app-browser.org&allowInsecure=1&type=ws&host=dashboard.app-browser.org&path=%2FJ5aLQOY1R9ONWYCM#[🇨🇦]t.me/ConfigsHub
 vless://c5fdf480-3942-4fc9-9e73-f6899c24bda6@83.228.210.214:443?security=reality&encryption=none&pbk=NQtYh_DzWbKDGV3sOdYUbYS7OQqAF-lG42J-rOm_OH0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ok.ru&sid=41f38b2355acf7bc#[🇨🇭]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTUzJRdmJDOW5xTHAyc1hYWm8wQlZ5NHNsY0VyUnVDdA%3D%3D@103.35.189.136:443#[🇺🇸]t.me/ConfigsHub
 vless://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ns3.turkeyone.org#[🇫🇷]t.me/ConfigsHub
@@ -167,7 +168,6 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096?note=---Telegr
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=a.azadnet002.ddns-ip.net#[🇨🇦]t.me/ConfigsHub
 trojan://22dcdbbe-db22-4ebb-b2f3-ad6b6a133a99@77.37.96.132:443?path=%2FFree-VPN-CF-Geo-Project%2F77.37.96.132%3D443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#[🇩🇰]t.me/ConfigsHub
 vless://Warpi-Free-Vpn-In-GooglePlay@vp15.myphotomoments.ir:443?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://61545806-60b6-4b38-9d2f-884081a5a913@45.140.169.69:33727?security=none&encryption=none&headerType=http&type=tcp#[🇷🇺]t.me/ConfigsHub
 trojan://6ddec1fd-29c3-4ac0-a242-0a7a9b717cea@147.135.209.2:443?path=%2FFree-VPN-CF-Geo-Project%2F147.135.209.2%3D443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#[🇵🇱]t.me/ConfigsHub
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=%2Fharman&security=tls&encryption=none&host=ifxoy.olivia-moosh.com&type=ws&sni=ifxoy.olivia-moosh.com#[🇨🇦]t.me/ConfigsHub
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?encryption=none&security=tls&sni=vl.hongkong6.qzz.io&fp=chrome&type=ws&host=vl.hongkong6.qzz.io&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
