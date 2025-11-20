@@ -1,3 +1,4 @@
+vless://242b53fe-949a-4525-bde5-a79cfc0671f6@172.66.47.62:443?security=tls&sni=join-daily-configs.blackoutconnection.ir&type=ws&host=join-daily-configs.blackoutconnection.ir&path=%2Fjoin-%40daily_configs%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
 vless://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443?security=reality&encryption=none&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&fp=safari&type=grpc&serviceName=dcfc23920fc8a07991dda30d&sni=www.microsoft.com&sid=91fbf6164cb2bc53#[🇨🇭]t.me/ConfigsHub
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@sws.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&host=---skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn---&headerType=none&fp=chrome&spx=%2F---skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn---&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=c2a0b2d60a7fc300#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.179.16.109:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
@@ -193,7 +194,6 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=Join---PLANB_
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiRVZQaDJ1em90cktmdkthV3dFVlNq@45.95.232.236:4248?note=--Telegram--NetifyVPN--#[🇨🇭]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiRVZQaDJ1em90cktmdkthV3dFVlNq@45.95.232.236:4248?note=--Telegram--@NetifyVPN--#[🇨🇭]t.me/ConfigsHub
 vless://TelegramChannel%3Adaredevill_404@91.107.184.214:20569?mode=auto&path=%2F%40daredevill_404&security=none&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
-vless://25f325bd-3ed0-4eac-bedd-ad43c3a44e0c@blackout.nethcloud.top:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#[🇦🇹]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206MGRlOWZmMjItYmIxZS00NjQxLWI0OTYtOTFhNmM4YjlmM2Q5@192.142.18.127:443?note=--Telegram--NetifyVPN--#[🇳🇱]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.95.165:5499#[🇺🇸]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.31:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
