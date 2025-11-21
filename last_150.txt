@@ -1,3 +1,5 @@
+vless://47281d40-174c-45c3-a1e7-5366e55d1834@mci.itbookshop.dpdns.org:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F&security=none&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.181.231.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@162.159.41.70:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=snippets.mnmnm.netlib.re&fp=random&type=ws&sni=snippets.mnmnm.netlib.re#[🇨🇦]t.me/ConfigsHub
 trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705?security=tls&headerType=none&type=tcp#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZGI3MDRhOC1hODJlLTQ4OTAtODM0MS1hMzg3ZDgzMjk3NTk@107.175.87.208:10011#[🇺🇸]t.me/ConfigsHub
@@ -242,8 +244,6 @@ vless://b3135464-6cf4-4d45-b5a5-743841ade728@134.255.204.120:7033?mode=gun&secur
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@pugna.sligvpn.ru:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#[🇩🇪]t.me/ConfigsHub
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@194.34.236.240:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#[🇫🇮]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.188.237.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.237.245:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-trojan://telegram-id-directvpn@15.188.237.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://8910dcfe-46e2-4608-a4c1-4de74f14a9c2@151.101.3.8:80?mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.211:8080?path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=none&encryption=none&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=Jo--_T&fp=chrome&type=ws#[🇫🇷]t.me/ConfigsHub
