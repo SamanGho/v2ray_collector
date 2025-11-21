@@ -1,3 +1,4 @@
+trojan://f06ac303-e626-451d-bcfc-ee825ee69398@noora.ir:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=azaDNEt-sEMEJ.PageS.Dev&type=ws&sni=AzADnet-semEj.PAGes.dEv#[🇨🇦]t.me/ConfigsHub
 trojan://kxuBkBG8GK@95.216.8.162:110?security=tls&headerType=none&type=tcp&sni=flt2.ftpcomand.com#[🇫🇮]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3.9.53.76:443#[🇬🇧]t.me/ConfigsHub
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=%2Fharman&security=tls&encryption=none&fp=chrome&type=ws&sni=pqjeb.noah-shabane.com#[🇨🇦]t.me/ConfigsHub
@@ -123,7 +124,6 @@ vless://d356bf4c-e18a-43f0-b402-93f99ea6ee0a@speedtestcustom.com:80?mode=auto&pa
 vless://6f0d0074-c227-4370-84aa-4b198955398a@145.249.109.54:10343?security=reality&encryption=none&pbk=0D54zil8NeTzPPOBQgx1nXaITEE14UqeTJ4IUyvLvTk&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=cdbd76ca6912d8c9#[🇪🇸]t.me/ConfigsHub
 vless://64bac080-e220-4ad2-eb97-56d5cf18b8c3@64.226.107.71:443?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 vless://b4f3041b-e939-4c1a-8f1d-70e8369b25eb@142.93.76.209:4655?security=none&encryption=none&headerType=none&type=tcp#[🇺🇸]t.me/ConfigsHub
-vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.211:8080?path=%2F%3Fed&security=none&encryption=none&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://1c9054be-74c1-472e-948a-f915de932c8e@91.99.191.47:80?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://3ed01713-5ad7-46b1-ea4a-7b3fdbf232c7@JOKERRVPN.fast.hosting-ip.com:80?mode=auto&path=%2F%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=none&encryption=none&host=VPNV2RAYXZ.slimyoutaavers.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.5.58:8080?path=%2F%3Fed&security=none&encryption=none&type=ws#[🇺🇸]t.me/ConfigsHub
