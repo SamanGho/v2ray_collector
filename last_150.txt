@@ -1,3 +1,4 @@
+trojan://kxuBkBG8GK@95.216.8.162:110?security=tls&headerType=none&type=tcp&sni=flt2.ftpcomand.com#[🇫🇮]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3.9.53.76:443#[🇬🇧]t.me/ConfigsHub
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=%2Fharman&security=tls&encryption=none&fp=chrome&type=ws&sni=pqjeb.noah-shabane.com#[🇨🇦]t.me/ConfigsHub
 vless://osVPN_8101895@146.103.111.134:443?security=reality&encryption=none&pbk=q1jLz-_1N8sdWCtAv1ev1Y1jjBM3Psx2KikzPF4XnyU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ffffffffff#[🇳🇱]t.me/ConfigsHub
@@ -204,7 +205,6 @@ trojan://telegram-id-directvpn@3.127.33.50:22223?security=tls&alpn=http/1.1&head
 ss://YWVzLTI1Ni1nY206cEJtaG1xU3JkYng4dHdLcHYxM0dFQQ==@147.45.75.246:36619#[🇸🇪]t.me/ConfigsHub
 trojan://0@154.17.225.73:443/?type=ws&host=snippets.sbak.netlib.re&path=%2Fproxyip%3Dd23d61f1.tp81.ip.090227.xyz&security=tls&sni=snippets.sbak.netlib.re#[🇺🇸]t.me/ConfigsHub
 vless://cb11729b-5e0f-4b2f-ab24-c46447d70ffd@65.109.220.108:443?mode=gun&security=reality&encryption=none&pbk=UaozFwutxGNcfJIJMoMDBR7lzxG1wF9V0zTK0kG-vxo&fp=chrome&type=grpc&serviceName=telegram-%40SpringHQ%2Ctelegram-%40SpringHQ%2Ctelegram-%40SpringHQ%2Ctelegram-%40SpringHQ%2Ctelegram-%40SpringHQ%2Ctelegram-%40SpringHQ%2Ctelegram-%40SpringHQ&sni=preview.redd.it&sid=1df5f63bade0#[🇫🇮]t.me/ConfigsHub
-vless://Warpi-Free-Vpn-In-GooglePlay@144.124.238.163:443?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
 vless://23c4fc45-a7c8-4544-b3d9-a4609b8dd38a@alpha-matrix-node-modern-byte.dlcnamatike7.com:19771?path=%2F&security=none&encryption=none&type=ws#[🇲🇰]t.me/ConfigsHub
 vless://910ac729-6221-4f5c-9ce2-9f7f75b4979f@207.154.226.59:26031?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇩🇪]t.me/ConfigsHub
 vless://8cb143d6-ba4e-4217-987f-38abbf2ff4f2@172.67.174.89:443?path=%2Fpkemrhnvwgg62q25%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ppal03.liana-gutkowski.workers.dev&fp=randomized&type=ws&sni=ppal03.liana-gutkowski.workers.dev#[🇺🇸]t.me/ConfigsHub
