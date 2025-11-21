@@ -1,3 +1,6 @@
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.159.190:2052?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.50.229.81:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/ConfigsHub
+trojan://f06ac303-e626-451d-bcfc-ee825ee69398@noora.ir:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=azaDNEt-sEMEJ.PageS.Dev&type=ws&sni=AzADnet-semEj.PAGes.dEv#[🇨🇦]t.me/ConfigsHub
 trojan://kxuBkBG8GK@95.216.8.162:110?security=tls&headerType=none&type=tcp&sni=flt2.ftpcomand.com#[🇫🇮]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3.9.53.76:443#[🇬🇧]t.me/ConfigsHub
 vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=%2Fharman&security=tls&encryption=none&fp=chrome&type=ws&sni=pqjeb.noah-shabane.com#[🇨🇦]t.me/ConfigsHub
@@ -151,7 +154,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.196.23.20:443#[🇩🇪]t.me/ConfigsHub
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&alpn=h3&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiRVZQaDJ1em90cktmdkthV3dFVlNq@45.95.232.236:4248?note=--Telegram--NetifyVPN--#[🇨🇭]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiRVZQaDJ1em90cktmdkthV3dFVlNq@45.95.232.236:4248?note=--Telegram--@NetifyVPN--#[🇨🇭]t.me/ConfigsHub
-vless://TelegramChannel%3Adaredevill_404@91.107.184.214:20569?mode=auto&path=%2F%40daredevill_404&security=none&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206MGRlOWZmMjItYmIxZS00NjQxLWI0OTYtOTFhNmM4YjlmM2Q5@192.142.18.127:443?note=--Telegram--NetifyVPN--#[🇳🇱]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.95.165:5499#[🇺🇸]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.31:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
@@ -242,9 +244,7 @@ trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?path=/Free-VPN-CF-
 vless://6aff899c-a2ca-442f-a173-5a3fce0686b3@104.24.23.180:80?mode=packet-up&path=%2FDaily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs%3Fed%3D2048&security=none&encryption=none&host=joinourchanneldailyconfigs.soft98.ir.nobitex.com.digikala.com.fastly.net.vigilante.ir.&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@83.136.211.252:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%278%27%7D%7D&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#[🇫🇷]t.me/ConfigsHub
 vless://%65f0%61652d-5928-4310-8%6170-%61b9342%61c959%65@www.speedtest.net:2082?mode=auto&path=%2Ft%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY%3Fed%3D2560&security=none&encryption=none&host=%61m290.%61m%69n5646.%69%72&type=xhttp#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@63.180.84.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://D3OJA7xY5U@209.200.246.53:10785?mode=gun&security=reality&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=20b09680#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.84.118:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=d9#[🇫🇷]t.me/ConfigsHub
 vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40ShadowProxy66---&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://60e7e018-ee6a-48b1-9625-c4d4276935b3@178.239.125.31:39735?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.co.jp#[🇯🇵]t.me/ConfigsHub
