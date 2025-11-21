@@ -1,3 +1,4 @@
+vless://5050e255-4919-4d7f-96c8-30b13d06fdf6@188.114.96.7:443?encryption=none&security=tls&sni=1mCijea74uYkCcQ2mZrX-MNGHduCyF0B.DAMav48375.wORKErs.DeV&alpn=http%2F1.1&type=ws&host=1mcijea74uykccq2mzrx-mnghducyf0b.damav48375.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://47281d40-174c-45c3-a1e7-5366e55d1834@mci.itbookshop.dpdns.org:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F&security=none&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.181.231.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@162.159.41.70:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=snippets.mnmnm.netlib.re&fp=random&type=ws&sni=snippets.mnmnm.netlib.re#[🇨🇦]t.me/ConfigsHub
@@ -246,5 +247,4 @@ vless://5713fee0-2f51-4453-9502-b7fd38a657b6@194.34.236.240:443?security=reality
 trojan://telegram-id-privatevpns@15.188.237.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://8910dcfe-46e2-4608-a4c1-4de74f14a9c2@151.101.3.8:80?mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.211:8080?path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=none&encryption=none&type=ws#[🇺🇸]t.me/ConfigsHub
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=Jo--_T&fp=chrome&type=ws#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.188.237.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
