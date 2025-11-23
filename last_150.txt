@@ -1,6 +1,3 @@
-trojan://b951058a-ff0e-4de2-927e-8282fd24455f@185.195.69.19:443?path=%2FFree-VPN-CF-Geo-Project%2F185.195.69.19%3D443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#[🇨🇭]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.35:6679#[🇺🇸]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZ2txcktpUHA1bzFkN2lFQmRLS1Nh@89.185.84.185:12575#[🇬🇧]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.75.137.42:3389#[🇺🇸]t.me/ConfigsHub
 vless://f2fb1eda-5687-4014-83b9-097666716208@ukraine.multiapvps.ir:1506?security=reality&type=tcp&headerType=&path=&host=&sni=docker.com&fp=firefox&pbk=1sDMgyhL5HPRAaRYJcAf21sWbSlq0kgitPVL2HQwB2M&sid=#[🇩🇪]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.69:8880/?type=grpc&encryption=none&flow=#[🇫🇷]t.me/ConfigsHub
@@ -248,3 +245,6 @@ vless://69228a95-e9cb-b1ff-40d2-7315d9d4b9b7@130.33.68.45:443?encryption=none&se
 vless://20eec0fa-d009-4118-9159-077300d75a57@x1.kad520.uk:24411?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=safari&pbk=pPCy4unzpJOytaQBUjutxESysSrjOGgwhnMGU4WuDCw&sid=8405c39083ac&spx=%2F&type=tcp&headerType=none#[🇸🇬]t.me/ConfigsHub
 vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?encryption=none&security=tls&sni=cloudcdn-m9-3.cdn.yandex.net&fp=chrome&allowInsecure=1&type=ws&path=%2F#[🇷🇺]t.me/ConfigsHub
 vless://69228a95-e9cb-b1ff-40d2-7315d9d4b9b7@101.32.168.155:28443?encryption=none&security=tls&sni=s3.sni565.netlib.re&alpn=h3&fp=random&type=ws&host=s3.sni565.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#[🇸🇬]t.me/ConfigsHub
+vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.155.220:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+vmess://eyJhZGQiOiI5MS45OS4xNjcuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMzZDE3NTM4LWNlMTgtNGUxZS04NTcyLTE2ZjU2ZDFhYTI2OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODg4MCIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://46d1223c-97a5-449c-c127-82f8cffbbb8c@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
