@@ -1,3 +1,4 @@
+vless://2bd6f1bd-378e-40ad-8981-229800f1340e@norman.ns.cloudflare.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2Fljrnxaws&security=tls&encryption=none&type=ws&sni=638990351320529492.prius-amshz.info#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA@217.30.10.18:9010#[🇵🇱]t.me/ConfigsHub
 vless://2bd6f1bd-378e-40ad-8981-229800f1340e@norman.ns.cloudflare.com:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&path=%2Fljrnxaws&security=tls&encryption=none&type=ws&sni=638990351320529492.prius-amshz.info#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYdHBjOGJHZEFRRHpFTFBVaTJhY2ZM@147.45.179.63:34379?note=--Telegram--NetifyVPN--#[🇬🇧]t.me/ConfigsHub
@@ -28,7 +29,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.18.62:443?security=tls&sni=
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.84:5001#[🇺🇸]t.me/ConfigsHub
 vless://eba93de2-40d7-4f93-a9a2-9c5bca3f5b47@104.17.147.22:8443?security=tls&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/ConfigsHub
 vless://4e12b9bd-5815-4f0d-aeb5-12a3e24171e1@151.101.130.219:80?security=none&type=ws&host=join-vmessprotocol.ir&path=%2Fvmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
-vless://8cdc6e73-cbc6-4d4c-abe2-d2eb29fce6c2@198.41.208.69:443?security=tls&sni=noodturk.parsianboton.ir&type=grpc&serviceName=BuT9Wfa6u5bLQUgA9#[🇨🇦]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.21:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://8cdc6e73-cbc6-4d4c-abe2-d2eb29fce6c2@104.25.165.81:443?security=tls&sni=noodturk.parsianboton.ir&type=grpc&serviceName=BuT9Wfa6u5bLQUgA9#[🇨🇦]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
