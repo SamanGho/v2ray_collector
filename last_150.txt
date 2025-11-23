@@ -1,3 +1,4 @@
+trojan://b951058a-ff0e-4de2-927e-8282fd24455f@185.195.69.19:443?path=%2FFree-VPN-CF-Geo-Project%2F185.195.69.19%3D443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#[🇨🇭]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.35:6679#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZ2txcktpUHA1bzFkN2lFQmRLS1Nh@89.185.84.185:12575#[🇬🇧]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.75.137.42:3389#[🇺🇸]t.me/ConfigsHub
@@ -229,7 +230,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun
 trojan://telegram-id-privatevpns@51.45.30.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@51.45.30.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#[🇰🇿]t.me/ConfigsHub
-vless://9dc11620-987c-4344-9088-f46fdfae4054@147.135.77.76:8080?path=%2F%3Fed&security=&encryption=none&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://346a072d-36d8-427f-912c-8756c1c53e1b@m86a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?encryption=none&security=tls&sni=09.img.avito.st&fp=chrome&allowInsecure=1&type=ws&path=%2F#[🇷🇺]t.me/ConfigsHub
 vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai85.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=cho.chonon.sbs&alpn=h3&fp=chrome&type=xhttp&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D443&mode=packet-up#[🇨🇦]t.me/ConfigsHub
