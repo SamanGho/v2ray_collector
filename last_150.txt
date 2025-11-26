@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@63.180.215.39:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://7efb24b6-46f7-438b-8f37-a924bcec912c@am288.amin-1.ir:2082?mode=auto&path=%2F%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM&security=none&encryption=none&host=am288.amin-1.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bU1ZVHA5bENwSlZLYW90UFg1SWds@174.138.17.254:52252?note=--Telegram--NetifyVPN--#[🇸🇬]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cW5ZclRIU3hMaXZ6cEFRd1ZwWmg1@194.87.216.218:52571?note=--Telegram--NetifyVPN--#[🇳🇱]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://TELEGRAM-CONFiGLiNE-73@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftel
 vless://ff92925c-f6b7-4b0a-b1dd-30d0df12ef0b@ita01-vlr01.tcp-reset-club.net:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#[🇮🇹]t.me/ConfigsHub
 vless://bee8a299-becf-4c85-a9b9-e0380aee63a2@104.16.1.106:2052?path=%2F%3Fed%3D2052&security=none&encryption=none&host=api-alba.usealva.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://bee8a299-becf-4c85-a9b9-e0380aee63a2@104.16.1.106:2052?path=%2F%3Fed%3D2052&security=none&encryption=none&host=api-netherlands.usealva.com&type=ws#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#[🇬🇧]t.me/ConfigsHub
