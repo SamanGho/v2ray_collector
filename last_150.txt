@@ -1,3 +1,5 @@
+vless://b3135464-6cf4-4d45-b5a5-743841ade728@134.255.204.120:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&type=grpc&serviceName=7034vless&sni=telewebion.com&sid=16b6cda7ab793526#[🇮🇷]t.me/ConfigsHub
+vless://5713fee0-2f51-4453-9502-b7fd38a657b6@pugna.sligvpn.ru:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#[🇩🇪]t.me/ConfigsHub
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@194.34.236.240:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#[🇫🇮]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.188.237.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://8910dcfe-46e2-4608-a4c1-4de74f14a9c2@151.101.3.8:80?mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#[🇨🇦]t.me/ConfigsHub
@@ -199,7 +201,6 @@ vless://ff92925c-f6b7-4b0a-b1dd-30d0df12ef0b@ita01-vlr01.tcp-reset-club.net:443?
 vless://bee8a299-becf-4c85-a9b9-e0380aee63a2@104.16.1.106:2052?path=%2F%3Fed%3D2052&security=none&encryption=none&host=api-alba.usealva.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://bee8a299-becf-4c85-a9b9-e0380aee63a2@104.16.1.106:2052?path=%2F%3Fed%3D2052&security=none&encryption=none&host=api-netherlands.usealva.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://f7ac1d74-19e3-4708-850d-dce1a23b9ab2@test2.amin8263.ir:2095?type=ws&encryption=none&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&host=test3.amin8263.ir&security=none#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ0s5VkRBSFBpbm5wWVJhcExtRjJz@62.133.63.21:65262?note=--Telegram--@NetifyVPN--#[🇹🇷]t.me/ConfigsHub
 vless://8a9f4774-c02e-4d93-90ee-b6c1765cc021@37.27.220.218:42671?type=ws&encryption=none&path=%2FNT_Safe&host=&security=none#[🇫🇮]t.me/ConfigsHub
 trojan://285caaa4-dd31-4825-ab6a-3e4a6808dcc7@eef72d13ad096a6703aabd5bae809848.v1.cac.node-is.green:48385?allowInsecure=1&sni=de1.bilibili.com#[🇯🇵]t.me/ConfigsHub
 ss://7c63f43f-f526-49bb-b5c8-2be26e11ef00@83.136.211.252:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%278%27%7D%7D&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#[🇫🇷]t.me/ConfigsHub
@@ -217,7 +218,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.196.144:80?security=none&sn
 vless://957382ee-5994-4bd5-a66c-9428b5788fc2@172.67.161.104:443?security=tls&sni=hc.siris.eu.org&type=ws&host=hc.siris.eu.org&path=%2Fhcvmess#[🇨🇦]t.me/ConfigsHub
 vless://ea93598b-a8d8-449a-a925-520c6e1626ee@172.66.44.128:443?security=tls&sni=pardazeshvpn-tg105.pages.dev&type=ws&host=pardazeshvpn-tg105.pages.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://852650c3-8ae5-4b75-8613-02a197a89309@172.67.210.40:443/?type=ws&encryption=none&host=us8.candyfans.win&path=%2Fzonnws&security=tls&sni=us8.candyfans.win#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ0s5VkRBSFBpbm5wWVJhcExtRjJz@62.133.63.21:65262?note=--Telegram--NetifyVPN--#[🇹🇷]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&authority=JoJoin---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn-_&type=grpc#[🇫🇷]t.me/ConfigsHub
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=piaz.mrconfigur.site&type=ws&sni=piaz.mrconfigur.site#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.185.69.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
