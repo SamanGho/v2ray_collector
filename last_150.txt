@@ -1,3 +1,5 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.235:8880?encryption=none&type=grpc&mode=gun#[🇫🇷]t.me/ConfigsHub
+vless://5713fee0-2f51-4453-9502-b7fd38a657b6@38.180.105.166:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#[🇹🇷]t.me/ConfigsHub
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@46.21.157.186:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#[🇺🇸]t.me/ConfigsHub
 vless://b3135464-6cf4-4d45-b5a5-743841ade728@134.255.204.120:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&type=grpc&serviceName=7034vless&sni=telewebion.com&sid=16b6cda7ab793526#[🇮🇷]t.me/ConfigsHub
 vless://5713fee0-2f51-4453-9502-b7fd38a657b6@pugna.sligvpn.ru:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#[🇩🇪]t.me/ConfigsHub
@@ -244,7 +246,5 @@ vless://2dfa740c-8069-4993-8b96-c3e5dc540593@de-cdn.ultima.foundation:443/?type=
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&sid=c2fa#[🇫🇮]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.154.120.165:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.95.53:7306#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@15.236.198.253:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://df16cfa5-5558-4610-a591-f23589588922@57.128.183.77:8443?path=%2FFree-VPN-CF-Geo-Project%2F57.128.183.77%3D8443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#[🇬🇧]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.198.253:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e#[🇵🇱]t.me/ConfigsHub
