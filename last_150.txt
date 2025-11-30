@@ -1,6 +1,3 @@
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@143.244.178.14:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.gstatic.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#[🇺🇸]t.me/ConfigsHub
-vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@west.ns.cloudflare.com:443?flow=&type=ws&host=xverb.ice-pierli.info&path=/harman&security=tls&sni=xverb.ice-pierli.info&fp=chrome&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUUZiVWVtWDVnaXNXTTlOclUwZHlY@62.133.63.21:65262?note=--Telegram--NetifyVPN--#[🇹🇷]t.me/ConfigsHub
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@64.227.107.83:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.gstatic.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#[🇺🇸]t.me/ConfigsHub
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.93.149.194:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.gstatic.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#[🇺🇸]t.me/ConfigsHub
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@138.197.198.79:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.gstatic.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#[🇺🇸]t.me/ConfigsHub
@@ -248,3 +245,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.11
 vless://bd80ec19-d764-4826-a607-d42bb1b3bc48@185.36.145.127:6060?note=@freeOnlineVPN&security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=pmo.smnsoft.com#[🇸🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080?note=@freeOnlineVPN#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080?note=@freeOnlineVPN#[🇺🇸]t.me/ConfigsHub
+vless://53b9fd0c-f577-4b22-81f0-9999dafea0e1@www.visaeurope.at:2082?path=%2F%3Fed%3D2560&security=none&encryption=none&host=assistantdonkeyryfn-5zfnjz.assistant-donkey-ryfn.workers.dev&fp=randomized&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@cosmin.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&insecure=1&host=639000411272217052.swift-amsin.info&type=ws&allowInsecure=1&sni=639000411272217052.swift-amsin.info#[🇨🇦]t.me/ConfigsHub
+vless://2d535288-d08e-4de4-b674-fd8cb3c6e4d3@141.227.172.96:56089?mode=gun&encryption=none&type=grpc&serviceName=%F0%9F%8D%ABTelegram%3Av2ray_configs_v2c%F0%9F%8D%AB#[🇩🇰]t.me/ConfigsHub
