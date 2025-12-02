@@ -1,3 +1,4 @@
+vless://dd050eb9-bcf8-4e8e-b30e-3bb94e0c46cb@81.19.141.190:55885?security=reality&encryption=none&pbk=Y-XS7D8QuxFKaaOmJHjAmMEhSTSDbKeZxbJBXU0MqUQ&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=3fac56aa61181168#[🇩🇪]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.196.144:80?security=none&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir#[🇨🇦]t.me/ConfigsHub
 vless://957382ee-5994-4bd5-a66c-9428b5788fc2@172.67.161.104:443?security=tls&sni=hc.siris.eu.org&type=ws&host=hc.siris.eu.org&path=%2Fhcvmess#[🇨🇦]t.me/ConfigsHub
 vless://ea93598b-a8d8-449a-a925-520c6e1626ee@172.66.44.128:443?security=tls&sni=pardazeshvpn-tg105.pages.dev&type=ws&host=pardazeshvpn-tg105.pages.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
@@ -210,7 +211,6 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@175.206.233.78:10065/?type=ws&encry
 vless://bf82af3a-ad3f-4df8-8b94-afd738a08fb2@45.156.27.239:443?security=reality&sni=soft98.ir&type=grpc&serviceName=surfboardc&fp=chrome&pbk=Bg1A5Q2yCiHJC4mg_PPBjoGkvflx6YxIYX8XOLvYPWM&sid=81c1148bd739f328#[🇫🇷]t.me/ConfigsHub
 vless://5f9840b3-dfe8-4b40-8bb0-6f9b30f7a53c@172.64.154.211:80?security=none&type=ws&host=www.speedtest.net.zula.ir.soft98.ir.nobitex.com.vigilantecollection.com.&path=Daily_Configs%3Fed%3D1024#[🇨🇦]t.me/ConfigsHub
 vless://9c9a0de0-79ed-4cd5-a403-e538349b505d@eng24.netliberated.org:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eng24.netliberated.org#[🇳🇱]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTWFJhYzVYTTVDdFhDZElKcmx6ZGRT@fox-usa.outlinekeys.net:34868#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.227:8080#[🇳🇱]t.me/ConfigsHub
