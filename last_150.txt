@@ -1,3 +1,6 @@
+vless://2dfa740c-8069-4993-8b96-c3e5dc540593@de-cdn.ultima.foundation:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&fp=chrome&security=reality&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.154.120.165:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.95.53:7306#[🇺🇸]t.me/ConfigsHub
 trojan://df16cfa5-5558-4610-a591-f23589588922@57.128.183.77:8443?path=%2FFree-VPN-CF-Geo-Project%2F57.128.183.77%3D8443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#[🇬🇧]t.me/ConfigsHub
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&sid=6d638e#[🇵🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfRjM4ODZfUVhpa203MHI3RTZzTnpB@178.72.151.124:555#[🇦🇲]t.me/ConfigsHub
@@ -190,10 +193,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTWFJhYzVYTTVDdFhDZElKcmx6ZGRT@fox-usa.outlinekeys.net:34868#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.227:8080#[🇳🇱]t.me/ConfigsHub
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=%2F#[🇬🇧]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZTBTMGs5VVFadUpTNE41cEVIODBF@145.249.109.148:16548#[🇪🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQnROeFhxN0ZNNWtTdVA4VDdmcXFl@62.210.88.22:443#[🇫🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiU2xnQ29HaEFwT2I1NXRJTUQwenhZ@185.39.204.161:33563#[🇹🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZVVKajZIV0N5RFplU2FxcG1mOEFN@162.19.175.40:7425#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVTh3cmZHTDJ1Y0JIS1N1cDlOQUZR@87.120.84.173:777#[🇩🇪]t.me/ConfigsHub
 vless://801595a2-0179-43c6-9c88-b70035c96611@159.69.220.135:24199?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.41.190:2095?encryption=none&security=none&type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
