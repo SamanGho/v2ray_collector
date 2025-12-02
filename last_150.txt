@@ -1,3 +1,4 @@
+vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@183.98.120.11:12266?security=tls&sni=am-tunnel-6fs.pages.dev&type=ws&path=%2F#[🇰🇷]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.91:443?security=tls&sni=hs.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
 vless://b966967d-115d-4b76-a04a-df27c0145f4b@104.24.20.71:2052?security=none&type=httpupgrade&host=7.V.V2.www.speedtest.net.fh.cloudflare.com.VArZesH360.DE.&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://04a563be-5147-4840-a28b-10ab5da75678@104.19.255.51:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
@@ -246,5 +247,4 @@ vless://TELEGRAM-CONFiGLiNE-78@151.101.0.0:80?mode=auto&path=%2Ftelegram-CONFiGL
 vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.207.207:443?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc&serviceName=#[🇸🇪]t.me/ConfigsHub
 vless://b5802512-e06d-4784-bdf2-8c9a411dee74@m23a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://a4192042-8787-44a2-a43f-a133e71bc1d3@zowe.ir:10100?security=none&encryption=none&host=zowe.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-vless://e570b673-4abd-4606-cd35-e639383f4c8c@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.162.231.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&type=ws&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2+%2F%3Fed%3D2560#[🇬🇧]t.me/ConfigsHub
