@@ -1,3 +1,4 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.196.144:80?security=none&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir#[🇨🇦]t.me/ConfigsHub
 vless://957382ee-5994-4bd5-a66c-9428b5788fc2@172.67.161.104:443?security=tls&sni=hc.siris.eu.org&type=ws&host=hc.siris.eu.org&path=%2Fhcvmess#[🇨🇦]t.me/ConfigsHub
 vless://ea93598b-a8d8-449a-a925-520c6e1626ee@172.66.44.128:443?security=tls&sni=pardazeshvpn-tg105.pages.dev&type=ws&host=pardazeshvpn-tg105.pages.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://852650c3-8ae5-4b75-8613-02a197a89309@172.67.210.40:443/?type=ws&encryption=none&host=us8.candyfans.win&path=%2Fzonnws&security=tls&sni=us8.candyfans.win#[🇨🇦]t.me/ConfigsHub
@@ -243,7 +244,6 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?encryption=none&
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=kuame.missionsec.us#[🇯🇵]t.me/ConfigsHub
 vless://ac1edaf9-37c2-4d92-9d29-9ad759127206@64.226.66.66:443?security=&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.213.53.99:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#[🇺🇸]t.me/ConfigsHub
-vless://0abae059-b759-4040-a928-f84a57b8fbd4@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&host=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=ws#[🇬🇧]t.me/ConfigsHub
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.219.225.20:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#[🇺🇸]t.me/ConfigsHub
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.129.208.238:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#[🇺🇸]t.me/ConfigsHub
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.191.59.185:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#[🇺🇸]t.me/ConfigsHub
