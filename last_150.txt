@@ -1,3 +1,4 @@
+vless://2c5228c3-b989-4e3f-9b0c-7621a54059f4@164.92.202.2:443?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTmg1YVBUWU5OcHptNHRQTjhQc3ZG@194.87.45.189:443#[🇪🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=&encryption=none&type=grpc#[🇱🇹]t.me/ConfigsHub
 vless://3d42bd31-5640-4e5e-a7e5-59e59a040341@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F%3Fed%3D2048telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----&security=&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
@@ -246,5 +247,4 @@ vless://893ecf3b-fa08-4d09-b1f7-20d08d78ea8d@188.245.51.64:52186?mode=gun&securi
 vless://ad9ceecb-f275-4de3-90b0-bd0acdb10cdd@188.245.51.64:16553?type=grpc&encryption=none&serviceName=&authority=@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&security=reality&pbk=kb8yYc6hEyJ5KLho4ol_Fzmh48wUFYxl9FuWegdEvBk&fp=chrome&sni=google.com&sid=38cc&spx=%2F#[🇩🇪]t.me/ConfigsHub
 vless://38021ff2-6778-4363-92b1-d70ac11acf51@25.25.25.253:2096?path=%2F&security=tls&encryption=none&insecure=0&host=alanconf.info&type=ws&allowInsecure=0&sni=alanconf.info#[🇬🇧]t.me/ConfigsHub
 vless://6e7c9cf0-0ca7-405a-e031-d03128c5900e@213.21.254.20:1404?mode=gun&security=none&encryption=none&type=grpc&serviceName=@NT_Safe,@NT_Safe,@NT_Safe,@NT_Safe#[🇱🇻]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@176.126.83.158:990#[🇩🇪]t.me/ConfigsHub
 vless://2a27156d-f499-4608-a1f1-852bd2a09f27@103.61.139.122:2096?encryption=none&security=reality&sni=downloads.dc.siemens.com&fp=random&pbk=fiDmBkIxNgF-EzisgcmnacIyMkKtCIVs2kjdvmvhoFQ&sid=1e1febe100&type=raw&headertype=none#[🇹🇼]t.me/ConfigsHub
