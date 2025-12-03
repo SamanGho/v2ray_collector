@@ -1,3 +1,4 @@
+trojan://NISHIKUITAN111@104.20.8.252:443?#[🇨🇦]t.me/ConfigsHub
 trojan://e3fee3b6-fca1-3985-99dc-da7ca03260ea@54.244.5.189:443?security=tls&sni=steampipe.akamaized.net&type=tcp#[🇺🇸]t.me/ConfigsHub
 vless://1eb58333-3051-47c2-a2eb-44e5b64233c8@192.238.204.48:55558?security=reality&encryption=none&pbk=LPatmFrK3hRMrtAybjzB7DBfqCaKnKQ6s95kmXrrFxg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=b2defcc6#[🇭🇰]t.me/ConfigsHub
 vless://3940e9ba-d0f6-4052-bd8e-f3c2a2a76599@155.254.35.78:33811?mode=gun&security=reality&encryption=none&pbk=fa3n6JDInXvPSrde2HYqogCf2YheiIgxhhO3N3gO1Qs&fp=chrome&spx=%2F&type=grpc&serviceName=t.me/entryNET&sni=t.me/entryNET&sid=63f811342e9c75#[🇩🇪]t.me/ConfigsHub
@@ -181,7 +182,6 @@ vless://349ece52-713d-4955-b8c7-5874b4906235@151.101.66.219:80?security=none&typ
 vless://2dfa740c-8069-4993-8b96-c3e5dc540593@188.124.36.247:8443?security=reality&encryption=none&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=a9725715bf4c62ff#[🇷🇺]t.me/ConfigsHub
 vless://2dfa740c-8069-4993-8b96-c3e5dc540593@ru4.ultima.foundation:8443?security=reality&encryption=none&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com#[🇷🇺]t.me/ConfigsHub
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.53.72:80?type=ws&host=us3.rtacg.com&path=%2F#[🇨🇦]t.me/ConfigsHub
-vless://2dfa740c-8069-4993-8b96-c3e5dc540593@87.228.74.168:8443?security=reality&encryption=none&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=a9725715bf4c62ff#[🇷🇺]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.79.140.183:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇨🇦]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@209.94.90.39:2096?security=tls&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&host=sni.001316.xyz&sni=sni.001316.xyz&fp=chrome&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.7.240.39:2096?security=tls&type=ws&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2%20%2F%3Fed%3D2560&host=sni.001316.xyz&sni=sni.001316.xyz&fp=chrome&encryption=none#[🇳🇱]t.me/ConfigsHub
