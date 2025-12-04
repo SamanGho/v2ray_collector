@@ -1,8 +1,3 @@
-vless://3940e9ba-d0f6-4052-bd8e-f3c2a2a76599@155.254.35.78:33811?mode=gun&security=reality&encryption=none&pbk=fa3n6JDInXvPSrde2HYqogCf2YheiIgxhhO3N3gO1Qs&fp=chrome&spx=%2F&type=grpc&serviceName=t.me/entryNET&sni=t.me/entryNET&sid=63f811342e9c75#[🇩🇪]t.me/ConfigsHub
-vless://feecf9a6-7a5e-4ea4-9a77-7511705526c6@104.18.121.170:8080?encryption=none&security=none&sni=104.18.121.170&alpn=http%2F1.1&fp=chrome&type=ws&host=anothermenight.electrocellco-cf-002.workers.dev&path=%2FeyJqdW5rIjoiZnVsYk9kSEFDQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
-vless://bc6ceed8-3483-4b44-b015-e3bf901e9541@de.kostyataksist.xyz:443?mode=gun&security=reality&encryption=none&pbk=moH1dalsCJr0KYCFqG82bVX1sc_xuos-33b-GR0SBVo&fp=chrome&type=grpc&sni=cdnjs.com&sid=e2ce3e6e06d6452e#[🇩🇪]t.me/ConfigsHub
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.176:443?security=tls&sni=jr.ylks01.eu.org&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
-vless://3f9d3b52-1bcc-499f-aad0-ba71d6123f8b@104.21.228.181:8080?type=ws&host=shuige3.cbj2bxt6.workers.dev&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://ca252049-54b6-456d-878f-2e835300ec9f@162.159.133.206:2095?security=none&type=ws&host=185.232.70.52.www.speedtest.net.www.debian.org.www.speedtest.net%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E6%B2%A1%E5%95%A5%E4%BA%8B%E4%BA%8B%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E6%B2%A1%E5%95%A5%E4%BA%8B%E4%BA%8B.PeaceBOok.shOp.&path=%40jet_config-%40jet_config-%40jet_config#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.181.39.189:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.181.39.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
@@ -248,3 +243,8 @@ vless://ed419045-6333-4f6a-93ba-9d87d4e5759b@usaa.fastlynew.hosting-ip.com:80?pa
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.89.221:443#[🇦🇪]t.me/ConfigsHub
 trojan://tg-dns68@162.159.153.105:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
 vless://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:443?security=tls&sni=Us.xiaoER.us.Kg&type=ws&path=%2FSbXQWVTIbuXWclzj%3Fed&fp=randomized#[🇺🇸]t.me/ConfigsHub
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvME5UTTNNREF5T1MwNVpUbGlMVFEwWmpBdFlUVTVZeTA0TW1NeFlUTTBNVEEwTkdJ@free.2apzhfa.xyz:31611#[🇨🇳]t.me/ConfigsHub
+vless://c5f67ba2-f20d-4d61-acb9-d107894a08db@104.17.147.22:8443?security=tls&sni=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=/www.speedtest.net/VPNCSTOMIZE%3Fed%3D8443&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:3306#[🇺🇸]t.me/ConfigsHub
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@172.67.193.88:443?path=%2Fvless.hubp.de&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hemmat.iranmap.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hemmat.iranmap.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://eb11f083-a3f7-477a-bec4-12b441ceb501@www.speedtest.net:8880?path=%2Fmelo%2F&security=none&encryption=none&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&type=ws#[🇨🇦]t.me/ConfigsHub
