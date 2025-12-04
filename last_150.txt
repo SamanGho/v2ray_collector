@@ -1,3 +1,4 @@
+vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.176.105:8080?security=none&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://8260ade3-6046-4d95-8078-cd11730aecc5@78.157.63.22:2082?security=none&type=tcp&host=Zulla.ir&headerType=http#[🇮🇷]t.me/ConfigsHub
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.98.207:2083?security=tls&sni=vfarid.xcdi.woRkErs.dEv&type=ws&host=vfarid.xcdi.woRkErs.dEv&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@104.18.163.116:8080?security=none&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
@@ -234,7 +235,6 @@ vless://bf2ef07d-f680-4c0c-a729-0808d23efeec@norman.ns.cloudflare.com:443?path=%
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@clyde.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639002928836289223.supra-amsis.info&type=ws&sni=639002928836289223.supra-amsis.info#[🇨🇦]t.me/ConfigsHub
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639002928820274210.camry-amsis.info&type=ws&sni=639002928820274210.camry-amsis.info#[🇨🇦]t.me/ConfigsHub
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@clyde.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639002928836291768.supra-amsis.info&type=ws&sni=639002928836291768.supra-amsis.info#[🇨🇦]t.me/ConfigsHub
-vless://ed419045-6333-4f6a-93ba-9d87d4e5759b@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.89.221:443#[🇦🇪]t.me/ConfigsHub
 trojan://tg-dns68@162.159.153.105:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
 vless://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:443?security=tls&sni=Us.xiaoER.us.Kg&type=ws&path=%2FSbXQWVTIbuXWclzj%3Fed&fp=randomized#[🇺🇸]t.me/ConfigsHub
