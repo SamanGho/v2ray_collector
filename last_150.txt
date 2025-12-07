@@ -1,7 +1,3 @@
-trojan://telegram-id-privatevpns@18.203.17.187:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
-vless://21dcbc8a-3632-403c-bfe4-2eadd101dbee@185.158.175.158:11237?security=tls&sni=ahmadi.gambron.info&type=tcp&host=bwm.com&headerType=http&alpn=h3,h2,http/1.1#[🇮🇷]t.me/ConfigsHub
-vless://f88fcb67-0e6c-43d0-ae07-3d2d775b1487@151.101.130.219:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.backup.com#[🇨🇦]t.me/ConfigsHub
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?security=tls&sni=Pages.dev&type=ws&host=telegram3-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray.pages.dev&path=%2FTelegram-XV2ry2%3Fed%3D512#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.51.17.223:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/ConfigsHub
 trojan://ea635091-5d17-42b9-ad81-d26572a9eea8@cc.755657.xyz:443?allowInsecure=1&sni=cc.755657.xyz#[🇺🇸]t.me/ConfigsHub
 vless://349ece52-713d-4955-b8c7-5874b4906235@151.101.2.219:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v20.com&path=%2F#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +244,7 @@ trojan://telegram-id-privatevpns@51.44.190.237:22222?security=tls&alpn=http/1.1&
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443?path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&encryption=none&host=ak.suoni.nyc.mn&fp=chrome&type=ws&sni=ak.suoni.nyc.mn#[🇸🇬]t.me/ConfigsHub
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.66.168.221:443?path=%2Ftelegram_%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=azaDNET-1Cm.Pages.DeV&fp=chrome&type=ws&sni=azaDNET-1Cm.Pages.DeV#[🇨🇦]t.me/ConfigsHub
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@195.211.124.230:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#[🇳🇱]t.me/ConfigsHub
+vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.214.30:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+trojan://tg-dns68@162.159.152.145:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
+vless://ce7881ab-add1-48cd-8a5c-dccd340b9f46@151.101.3.8:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=fotofactory.pk&type=xhttp#[🇨🇦]t.me/ConfigsHub
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.66:2083?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#[🇨🇦]t.me/ConfigsHub
