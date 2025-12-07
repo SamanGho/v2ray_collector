@@ -1,3 +1,6 @@
+trojan://telegram-id-privatevpns@18.203.17.187:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
+vless://21dcbc8a-3632-403c-bfe4-2eadd101dbee@185.158.175.158:11237?security=tls&sni=ahmadi.gambron.info&type=tcp&host=bwm.com&headerType=http&alpn=h3,h2,http/1.1#[🇮🇷]t.me/ConfigsHub
+vless://f88fcb67-0e6c-43d0-ae07-3d2d775b1487@151.101.130.219:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.backup.com#[🇨🇦]t.me/ConfigsHub
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?security=tls&sni=Pages.dev&type=ws&host=telegram3-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray.pages.dev&path=%2FTelegram-XV2ry2%3Fed%3D512#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.51.17.223:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/ConfigsHub
 trojan://ea635091-5d17-42b9-ad81-d26572a9eea8@cc.755657.xyz:443?allowInsecure=1&sni=cc.755657.xyz#[🇺🇸]t.me/ConfigsHub
@@ -244,7 +247,4 @@ vless://852650c3-8ae5-4b75-8613-02a197a89309@104.21.23.95:443?path=%2Fzonnws&sec
 vless://f028a8c0-6763-4558-aee3-2563db9d7825@172.64.32.220:443?path=%2Fxxvclws&security=tls&encryption=none&host=freudd.info&type=ws&sni=freudd.info#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.44.190.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://62b0e46b-d2a5-423d-8457-95bde707fc19@88.218.94.97:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com#[🇳🇱]t.me/ConfigsHub
-trojan://telegram-id-directvpn@51.44.190.237:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
-trojan://telegram-id-directvpn@51.44.190.237:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443?path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&encryption=none&host=ak.suoni.nyc.mn&fp=chrome&type=ws&sni=ak.suoni.nyc.mn#[🇸🇬]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.190.237:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
