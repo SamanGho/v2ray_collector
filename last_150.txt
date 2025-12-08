@@ -1,3 +1,5 @@
+vless://2c4dced6-af33-489e-9457-5731d5a3d142@151.101.2.219:443?security=tls&sni=speedtest.net&type=ws&host=joinshhproxybede.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://4eba9406-7654-43c4-a808-09fa3b40b137@http.hexo-music.ir:2095?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.157.40.95:8008#[🇺🇸]t.me/ConfigsHub
 vless://4eba9406-7654-43c4-a808-09fa3b40b137@de.gpairnetwork369.de:3020?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=NVjEaDFrdzaFQHvMt8BPORsLFR3iD8NA31Dpn-1HRFk&sid=ecd8d10c1518fb7b#[🇩🇪]t.me/ConfigsHub
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveE56SmxNV0l4TXkweE9UWmxMVFF3WWpFdE9EQTFOQzAyTm1WaU5XRXlOelJtTURB@free.2weradf.xyz:36111#[🇨🇳]t.me/ConfigsHub
@@ -240,11 +242,9 @@ vless://ee9b2135-b149-437e-995a-bfadfad342f5@gbr-0001-xr.packet-drop-society.net
 trojan://telegram-id-directvpn@63.180.105.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://9dd69de8-02be-8489-e8d4-6b1709c77aeb@Us.sefrtasad.com:3194?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=b.tile.openstreetmap.org&fp=firefox&pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&sid=21432a79954b#[🇺🇸]t.me/ConfigsHub
 vless://ee9b2135-b149-437e-995a-bfadfad342f5@pol-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#[🇵🇱]t.me/ConfigsHub
-trojan://telegram-id-directvpn@63.180.105.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-privatevpns@63.180.105.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://a6fd4548-23da-4bb8-a91f-6013c5cd8e2f@par1.vpntype.dev:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=ExvhqXfyAWkqInK6hAY_ePlR-WggXgpSy0phURcuwU8&sid=#[🇫🇷]t.me/ConfigsHub
 vless://Chanel---V2RAYNGCLOUD---@legendary.zooboming.com:443/?type=grpc&encryption=none&flow=&serviceName=-%40v2rayNGcloud--%40v2rayNGcloud--%40v2rayNGcloud--%40v2rayNGcloud--%40v2rayNGcloud--&sni=docker.com&fp=chrome&security=reality&pbk=vo3IPWJCrDQ3fnrQ8zzh40xRM2vy-9w30UuiHLjZbn4&sid=#[🇸🇪]t.me/ConfigsHub
 vless://Chanel---V2RAYNGCLOUD---@legendary.zooboming.com:443/?type=grpc&encryption=none&flow=&serviceName=t.me/entryNET&sni=docker.com&fp=chrome&security=reality&pbk=vo3IPWJCrDQ3fnrQ8zzh40xRM2vy-9w30UuiHLjZbn4&sid=#[🇸🇪]t.me/ConfigsHub
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@fr-raiv2mmr-join.koyeb.app:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&serviceName=Join-bede-Raiv2mmr#[🇨🇦]t.me/ConfigsHub
 vless://f81d5b9b-c5b7-46cb-8710-0cf41ab33570@antimage.fonixapp.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ajax.cloudflare.com&fp=chrome&security=reality&pbk=WeNlf_hPscBLSwtg1PgOmurK1f7VyQSNPmOYeG0wIQw&sid=6590cb#[🇩🇪]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.105.141:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
