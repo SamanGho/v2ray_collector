@@ -1,3 +1,7 @@
+vless://90c9c25c-df6c-4438-83d3-ef97166a9184@noda5.topconnected.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-22.userapi.com&fp=chrome&pbk=yP1V_oAX1Sehc_102nMHuQgTOYk7T9KbJQmTlK4maVE&sid=67b44a5918dcd53a&type=tcp&headerType=none#[🇳🇱]t.me/ConfigsHub
+vless://267e5284-8c31-42ed-9807-2182a88ca78b@pl.dznn.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.mindbox.ru&fp=firefox&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#[🇵🇱]t.me/ConfigsHub
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.155.240:443?encryption=none&security=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.21.224.5:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080?#[🇳🇱]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?encryption=none&security=tls&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&insecure=0&allowInsecure=0&type=ws&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇳🇱]t.me/ConfigsHub
@@ -177,7 +181,6 @@ vless://f09a77f1-6883-4e8c-a6d7-81cdfd2b67be@91.99.230.6:2056?security=reality&e
 trojan://telegram-id-privatevpns@63.176.229.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://SERVERNETT-SERVERNETT1@mnk.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://852650c3-8ae5-4b75-8613-02a197a89309@104.21.23.95:443?path=%2Fzonnws&security=tls&encryption=none&host=us8.candyfans.win&type=ws&sni=us8.candyfans.win#[🇨🇦]t.me/ConfigsHub
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@172.64.32.220:443?path=%2Fxxvclws&security=tls&encryption=none&host=freudd.info&type=ws&sni=freudd.info#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.44.190.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443?path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&encryption=none&host=ak.suoni.nyc.mn&fp=chrome&type=ws&sni=ak.suoni.nyc.mn#[🇸🇬]t.me/ConfigsHub
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.66.168.221:443?path=%2Ftelegram_%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2.%40vpnAndroid2%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=azaDNET-1Cm.Pages.DeV&fp=chrome&type=ws&sni=azaDNET-1Cm.Pages.DeV#[🇨🇦]t.me/ConfigsHub
@@ -213,7 +216,6 @@ vless://b675d1f0-2968-4f3d-fd14-7d466841b0d1@DEADSEECtelegram.slimshopboyss.ir:8
 trojan://telegram-id-privatevpns@63.180.131.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206djMyYzFmYjV5MGY1OXByYncydDU=@185.212.171.204:18672#[🇳🇱]t.me/ConfigsHub
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=RR-FF.pages.DEV#[🇺🇸]t.me/ConfigsHub
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=picassoo.info#[🇨🇦]t.me/ConfigsHub
 vless://47c08e3c-1178-4b8b-b7cb-1d8c5c991477@5.75.231.32:8443?security=none&encryption=none&host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://47c08e3c-1178-4b8b-b7cb-1d8c5c991477@5.75.231.32:8443?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://2ca07504-c06a-41a4-b26b-99807a7d24cf@185.234.59.74:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=e499f276e7bd6420#[🇷🇺]t.me/ConfigsHub
@@ -245,6 +247,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdHp5R1p1N0dxb2cwWURxYllMTUF1@62.133.63.21:6
 trojan://telegram-id-directvpn@35.157.53.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.157.53.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://417a3a22-8019-4991-82e1-8e4e27e95022@paris.fonixapp.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ajax.cloudflare.com&fp=chrome&security=reality&pbk=9Bx-1do5J20bTshcos2BDFpgRfRHIig3MyRAJET11AY&sid=07e75c2cb26c35#[🇫🇷]t.me/ConfigsHub
-trojan://telegram-id-directvpn@35.157.53.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.53.107:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjI0MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4es8J+Hp110Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
