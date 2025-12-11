@@ -1,3 +1,4 @@
+vless://704560e1-c1b3-42c2-aa23-6bf36d67cb55@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://704560e1-c1b3-42c2-aa23-6bf36d67cb55@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://e570b673-4abd-4606-cd35-e639383f4c8c@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://0f3c5d1e-21e7-4f5d-b57e-a308686e22f3@inst.faceppm.ru:1888?security=reality&encryption=none&pbk=GaVpyGU5Xqyd5SYmchrCIajjTiXF69bmCnUdftmrwTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.kernel.org&sid=16b7f8a207cda6e3#[🇫🇮]t.me/ConfigsHub
@@ -247,4 +248,3 @@ vless://0a42b78a-c6d3-4cc1-a047-fff084f9f7fa@64.188.115.181:26968/?type=tcp&encr
 vless://f3be6c78-46cd-4409-8ed3-8d36bef0f86c@88.198.160.200:24199?security=&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://4d54f7bc-64c0-4547-989b-96f2f1aa4d09@172.66.40.99:8080?encryption=none&security=none&type=xhttp&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=%2F%3FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN%3Fed%3D2048&mode=auto#[🇨🇦]t.me/ConfigsHub
 vless://6600580d-4b54-45f0-8f86-493ee791d7f7@65.21.2.203:46963?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#[🇫🇮]t.me/ConfigsHub
-vless://d3b71935-8c7d-400b-91de-6202840c0ea2@GERMANY.TORPROSPEED.IR:250?security=reality&type=tcp&headerType=&path=&host=&sni=zhaket.com&fp=firefox&pbk=ZOyMDA__RlDV75g7zASfK4YqrFQsqPz7SAw6QuE-gAM&sid=11e272502d739a32&spx=%2F#[🇩🇪]t.me/ConfigsHub
