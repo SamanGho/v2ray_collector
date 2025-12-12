@@ -1,3 +1,4 @@
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@clyde.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639002928836289223.supra-amsis.info&type=ws&sni=639002928836289223.supra-amsis.info#[🇨🇦]t.me/ConfigsHub
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639002928820274210.camry-amsis.info&type=ws&sni=639002928820274210.camry-amsis.info#[🇨🇦]t.me/ConfigsHub
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@clyde.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639002928836291768.supra-amsis.info&type=ws&sni=639002928836291768.supra-amsis.info#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.89.221:443#[🇦🇪]t.me/ConfigsHub
@@ -240,7 +241,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.146.66:2095?security=none&ty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDVkYmY4NDJiY2U0YjY2@desrv.vmagnum.win:57456#[🇩🇪]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?security=none&type=ws&path=%2F%3Fed%3D2048&host=hello.96xckkzx.workers.dev&encryption=none#[🇳🇱]t.me/ConfigsHub
 trojan://BxceQaOe@219.78.209.224:443?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&allowInsecure=1&fp=chrome#[🇭🇰]t.me/ConfigsHub
-vless://47e9a0db-50c6-4522-8819-502c55b06dde@159.112.235.174:2082?security=none&type=ws&path=%2F%3Fed%3D2048&host=workerr.schodog1.workers.dev&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://23b3cbba-e6ac-485a-9481-342a0415eab9@104.21.81.174:80?security=none&type=ws&path=%2F&host=DaWn-lAKE-d5E3.WocoYA4320.wOrkERs.DeV&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@104.21.15.212:8080?security=none&type=ws&path=%2F&host=201.58vtg99l.workers.dev&encryption=none#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#[🇳🇱]t.me/ConfigsHub
