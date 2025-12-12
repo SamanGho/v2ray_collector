@@ -1,3 +1,4 @@
+trojan://tg-dns68@162.159.153.105:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
 vless://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:443?security=tls&sni=Us.xiaoER.us.Kg&type=ws&path=%2FSbXQWVTIbuXWclzj%3Fed&fp=randomized#[🇺🇸]t.me/ConfigsHub
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvME5UTTNNREF5T1MwNVpUbGlMVFEwWmpBdFlUVTVZeTA0TW1NeFlUTTBNVEEwTkdJ@free.2apzhfa.xyz:31611#[🇨🇳]t.me/ConfigsHub
 vless://c5f67ba2-f20d-4d61-acb9-d107894a08db@104.17.147.22:8443?security=tls&sni=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=tel.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=/www.speedtest.net/VPNCSTOMIZE%3Fed%3D8443&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/ConfigsHub
@@ -168,7 +169,6 @@ vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.106.64:4248/?type=tcp&encryp
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c#[🇷🇺]t.me/ConfigsHub
 vless://20cf5921-f7fa-47c5-81ae-947fbef83a4d@51.250.20.121:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo&sid=a20d3ed244c76426#[🇷🇺]t.me/ConfigsHub
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:4248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#[🇷🇺]t.me/ConfigsHub
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.25.11:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#[🇷🇺]t.me/ConfigsHub
 vless://3121850a-24aa-41f9-936d-dbdf10a3b31f@45.82.246.114:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#[🇰🇷]t.me/ConfigsHub
 trojan://BxceQaOe@58.152.25.20:443/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#[🇭🇰]t.me/ConfigsHub
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=ios&security=reality&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c#[🇷🇺]t.me/ConfigsHub
