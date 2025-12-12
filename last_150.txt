@@ -1,5 +1,3 @@
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@cosmin.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639002928820284435.camry-amsis.info&type=ws&sni=639002928820284435.camry-amsis.info#[🇨🇦]t.me/ConfigsHub
-vless://bf2ef07d-f680-4c0c-a729-0808d23efeec@norman.ns.cloudflare.com:443?path=%2Fiypdukws&security=tls&encryption=none&host=639003338959744562.wrangler-amsis.info&type=ws&sni=639003338959744562.wrangler-amsis.info#[🇨🇦]t.me/ConfigsHub
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@clyde.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639002928836289223.supra-amsis.info&type=ws&sni=639002928836289223.supra-amsis.info#[🇨🇦]t.me/ConfigsHub
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639002928820274210.camry-amsis.info&type=ws&sni=639002928820274210.camry-amsis.info#[🇨🇦]t.me/ConfigsHub
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@clyde.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639002928836291768.supra-amsis.info&type=ws&sni=639002928836291768.supra-amsis.info#[🇨🇦]t.me/ConfigsHub
@@ -248,3 +246,5 @@ vless://23b3cbba-e6ac-485a-9481-342a0415eab9@104.21.81.174:80?security=none&type
 vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@104.21.15.212:8080?security=none&type=ws&path=%2F&host=201.58vtg99l.workers.dev&encryption=none#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#[🇳🇱]t.me/ConfigsHub
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#[🇦🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.200.67:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@52.57.200.67:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
