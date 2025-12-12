@@ -1,3 +1,4 @@
+vless://2b434c56-8390-4f84-add3-eebd18743f8d@www.rexo.online:8880?type=grpc&encryption=none&serviceName=t.me/entryNET&authority=t.me/entryNET&security=none#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiI0Ni4yMjQuOTIuMjI5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXN0LmNvbSIsImlkIjoiODY3M2Q5ZGMtOTNkMy00MTUyLWJlMWItM2NjODkxZTI3YjczIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzk2MTciLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://cd0c470a-d10a-4d3c-a901-425936312c1e@axe.soyet2j.ir:2053?encryption=none&security=tls&sni=mojito.soyet2j.ir&type=ws&host=mojito.soyet2j.ir&path=%2Fhomepage%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://26d7e2c6-a688-4bb9-b8bd-849cb06b7e3a@104.21.69.44:8880?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.mobilewersach.ir&path=%2FVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%2CVMESSKHODAM%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
@@ -194,7 +195,6 @@ vless://ff17a225-f0c0-4e34-91e3-990f0eff40b7@RealitGrtyqwersami.wordperessweb.ir
 vless://47ab07bb-442b-453d-a418-759516aecb23@usaa.fastlynew.hosting-ip.com:80?security=none&type=ws&path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&host=mojhsjd.global.ssl.fastly.net&encryption=none#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@217.30.10.70:9020#[🇵🇱]t.me/ConfigsHub
 vless://62b0e46b-d2a5-423d-8457-95bde707fc19@64.188.91.189:7443?security=reality&type=tcp&sni=swcdn.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=c84a28bb05989ff4&pbk=IgaNLuUg1JOIoUdX4CegMU_XBU35B5RAYRL_-KZfpSY&encryption=none#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@62.100.205.100:990#[🇬🇧]t.me/ConfigsHub
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:443?security=reality&type=tcp&sni=api-maps.yandex.ru&fp=ios&flow=xtls-rprx-vision&sid=5540e44a53c3d01c&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&encryption=none#[🇷🇺]t.me/ConfigsHub
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@172.64.33.217:443?security=tls&type=ws&path=%2Fyhowcws&host=azizoarjmand.info&sni=azizoarjmand.info&fp=chrome&encryption=none#[🇨🇦]t.me/ConfigsHub
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20%5BBy%20EbraSha%5D&allowInsecure=1&fp=chrome%20#[🇨🇦]t.me/ConfigsHub
